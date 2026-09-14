@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1127-c158",
-  "sha256": "4f6f7a812bd101a600edd66e45fe1afe688793c43c2d424162ecd1e13e6dd60e",
-  "nota": "cotizador: desarrollo completo de las formulas (9 bloques con la cuenta) + aditivos de la mezcla",
-  "fecha": "2026-09-14T17:27:09.254Z",
+  "paquete": "p-260914-1224-8f8c",
+  "sha256": "4bfbbafd1eda6fb83708b775c1d9fec536994924364dd01db352568f84b82b7b",
+  "nota": "cotizador: dibujos de verdad (bolsa con medidas, maquina por tecnica, marcos, caja, tarima, camion), fletes a un clic, desarrollo abajo con cronografia y tablas, que-afecta-a-que medido, y CATALOGO DE FORMULAS editable",
+  "fecha": "2026-09-14T18:24:35.899Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
