@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260914-1059-f153",
-  "sha256": "d9c6f31f43a9de000c41257cd909959ea0a6eae22d135464d8e18a63f8aedd34",
-  "nota": "canario: prueba del canal remoto",
-  "fecha": "2026-09-14T16:59:31.571Z",
+  "paquete": "p-260914-1108-abe3",
+  "sha256": "b761fea835418cc8a89f3a0d2fc1031ac72f1e3b4861f40bb1bf217afc09f983",
+  "nota": "PRUEBA DE REVERSA: este debe fallar su prueba y deshacerse solo",
+  "fecha": "2026-09-14T17:08:27.009Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
