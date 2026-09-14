@@ -1,9 +1,10 @@
 {
-  "paquete": "p-260914-1059-f153",
-  "sha256": "d9c6f31f43a9de000c41257cd909959ea0a6eae22d135464d8e18a63f8aedd34",
-  "nota": "regreso a p-260914-1059-f153 (venía de p-260914-1108-abe3)",
-  "fecha": "2026-09-14T17:10:49.095Z",
+  "paquete": "p-260914-1127-c158",
+  "sha256": "4f6f7a812bd101a600edd66e45fe1afe688793c43c2d424162ecd1e13e6dd60e",
+  "nota": "cotizador: desarrollo completo de las formulas (9 bloques con la cuenta) + aditivos de la mezcla",
+  "fecha": "2026-09-14T17:27:09.254Z",
   "autor": "alex_",
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
