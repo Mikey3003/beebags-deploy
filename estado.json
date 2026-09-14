@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1631-f80e",
-  "sha256": "efe16b7d8643a679a2ef811d8e063afed596b292a2bada5dd8d4038b30317195",
-  "nota": "cotizador: EL CAMINO DEL PRECIO rehecho — 58 cajas en vez de 33 (cada una una cuenta de verdad de la cadena), 6 columnas con grupos, rutas ortogonales con un tronco por nodo en vez de curvas encimadas, y las fuentes que alimentan a todos (parametros, datos del ejercicio) van como rotulo dentro de la caja que las usa en vez de 45 lineas cruzando la pantalla. Ademas: el camion rehecho y los iconos que no se entendian",
-  "fecha": "2026-09-14T22:31:46.441Z",
+  "paquete": "p-260914-1703-dcf7",
+  "sha256": "88f14cf486fb2024af304f70a79371597b69fc5b6a65d5ae8396a630af54480b",
+  "nota": "Impresion: el dibujo de la maquina a ANCHO COMPLETO y con detalle por tecnica (rollo/pulpo/flexo). Antes el svg topaba en 210px y dejaba media pantalla vacia.",
+  "fecha": "2026-09-14T23:03:24.930Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
