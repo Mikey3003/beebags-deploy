@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260914-1511-00ad",
-  "sha256": "9714980411df1d3404a908c981a21104473c15c2a60a8ae969562753ca4a4447",
-  "nota": "cotizador: ya no se traba por un accesorio sin cantidad (se pone 1 sola y si queda en 0 se ignora); el aviso dice QUE falta con el nombre del campo, no solo datos incompletos; y el motor ya sabe de empaque en DOS niveles (pieza-bolsa-caja) con la bolsa de plastico cobrada por PAQUETE, que se cobraba por caja",
-  "fecha": "2026-09-14T21:11:17.451Z",
+  "paquete": "p-260914-1520-8d3d",
+  "sha256": "5bb16c58414ad16d79c9c88f80ce78cfa1be52445efbe4b30b820f4a67038d22",
+  "nota": "cotizador: el cliente ya no es texto libre. Se escoge de los 706 de Airtable (busca por nombre, RFC, municipio, sin acentos), boton de Cliente nuevo arriba que usa el alta que ya existia, y al escogerlo se abre su ficha con RFC, telefono, agente, dias de credito, uso de CFDI y a donde se le entrega. El SALDO y el nivel de riesgo solo los ve Direccion, antes de cotizarle",
+  "fecha": "2026-09-14T21:20:32.925Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
