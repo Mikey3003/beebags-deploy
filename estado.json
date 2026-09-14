@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260914-1400-b9ae",
-  "sha256": "1390d86deb4c0ac66a782500b0ff7bd71166f1bfbd7ca5ffe134250780fe856b",
-  "nota": "salidas: el respaldo del itinerario NO toma el texto del hueco como nombre de cliente (las 15 salidas viejas de tipo Otro lo tienen guardado); nombre y direccion se buscan por separado",
-  "fecha": "2026-09-14T20:00:58.130Z",
+  "paquete": "p-260914-1447-db6d",
+  "sha256": "e8e80a53689b725f511033a21764695a2bc07dea6e17301a48bf02b2acefde27",
+  "nota": "salidas: el SKU del pedido de tela ya no arrastra el numero de pedido (por eso NADA casaba y el carrito ofrecia TODO el almacen: el pedido 539 pedia VEOB y salio VEBA). Ahora ofrece primero el color que se pide, marca en rojo cuando no cuadra, exige motivo escrito, lo graba en las notas, y la previa obliga a palomear que eso es lo que sale",
+  "fecha": "2026-09-14T20:47:31.352Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
