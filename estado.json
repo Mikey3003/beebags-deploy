@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1358-e29a",
-  "sha256": "113193aa9bfd52b9f316ca94e2e91116f7128d65c82eecf1b703efd264d0cbc7",
-  "nota": "salidas: el DESTINATARIO se puede escribir y sin el no deja crear la salida (las de tipo Otro nunca traen cliente: asi salio la 1182/1183 con SIN CLIENTE impreso y firmado); el documento tambien lo toma del itinerario cuando Airtable no lo tiene",
-  "fecha": "2026-09-14T19:58:29.821Z",
+  "paquete": "p-260914-1400-b9ae",
+  "sha256": "1390d86deb4c0ac66a782500b0ff7bd71166f1bfbd7ca5ffe134250780fe856b",
+  "nota": "salidas: el respaldo del itinerario NO toma el texto del hueco como nombre de cliente (las 15 salidas viejas de tipo Otro lo tienen guardado); nombre y direccion se buscan por separado",
+  "fecha": "2026-09-14T20:00:58.130Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
