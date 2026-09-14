@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260914-1703-dcf7",
-  "sha256": "88f14cf486fb2024af304f70a79371597b69fc5b6a65d5ae8396a630af54480b",
-  "nota": "Impresion: el dibujo de la maquina a ANCHO COMPLETO y con detalle por tecnica (rollo/pulpo/flexo). Antes el svg topaba en 210px y dejaba media pantalla vacia.",
-  "fecha": "2026-09-14T23:03:24.930Z",
+  "paquete": "p-260914-1719-d318",
+  "sha256": "031827cb5ac78580b91e3b99fe3c482cf8fd831ac7ff1b96533b1242366828f8",
+  "nota": "Foto de perfil del cliente: dos iniciales y color estable por nombre, para los 706. El campo Logo del Cliente sigue VACIO: cuando se cargue un logo, gana el logo.",
+  "fecha": "2026-09-14T23:19:59.166Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
