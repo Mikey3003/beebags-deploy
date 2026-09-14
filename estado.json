@@ -1,7 +1,10 @@
 {
-  "paquete": "",
-  "sha256": "",
-  "nota": "canal recien creado, todavia sin agente en el server",
-  "fecha": "2026-09-14",
-  "pausado": true
+  "paquete": "p-260914-1059-f153",
+  "sha256": "d9c6f31f43a9de000c41257cd909959ea0a6eae22d135464d8e18a63f8aedd34",
+  "nota": "canario: prueba del canal remoto",
+  "fecha": "2026-09-14T16:59:31.571Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
+  "pausado": false
 }
