@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1259-3fcf",
-  "sha256": "030c656b0a79fe4ebbff03caccae5cbbb4e02e04d218e74f53138562b47ac2c8",
-  "nota": "salidas: el documento sale en 4 hojas (ORIGINAL contabilidad + copias cliente/almacen/vigilancia), se arreglo la hoja en blanco de mas, la vista previa ensena las hojas y el boton se bloquea una vez creada la salida",
-  "fecha": "2026-09-14T18:59:32.535Z",
+  "paquete": "p-260914-1301-5b10",
+  "sha256": "0c96ba601878fb14f9b5322f7320b869185e032c30afbcc5cdc68adab140a1bf",
+  "nota": "salidas: 4 hojas (ORIGINAL contabilidad + copias cliente/almacen/vigilancia), se quita la hoja en blanco de mas, la vista previa ensena las hojas, el boton se bloquea al crear, y ?juegos= reimprime una hoja suelta",
+  "fecha": "2026-09-14T19:01:20.719Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
