@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1447-db6d",
-  "sha256": "e8e80a53689b725f511033a21764695a2bc07dea6e17301a48bf02b2acefde27",
-  "nota": "salidas: el SKU del pedido de tela ya no arrastra el numero de pedido (por eso NADA casaba y el carrito ofrecia TODO el almacen: el pedido 539 pedia VEOB y salio VEBA). Ahora ofrece primero el color que se pide, marca en rojo cuando no cuadra, exige motivo escrito, lo graba en las notas, y la previa obliga a palomear que eso es lo que sale",
-  "fecha": "2026-09-14T20:47:31.352Z",
+  "paquete": "p-260914-1511-00ad",
+  "sha256": "9714980411df1d3404a908c981a21104473c15c2a60a8ae969562753ca4a4447",
+  "nota": "cotizador: ya no se traba por un accesorio sin cantidad (se pone 1 sola y si queda en 0 se ignora); el aviso dice QUE falta con el nombre del campo, no solo datos incompletos; y el motor ya sabe de empaque en DOS niveles (pieza-bolsa-caja) con la bolsa de plastico cobrada por PAQUETE, que se cobraba por caja",
+  "fecha": "2026-09-14T21:11:17.451Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
