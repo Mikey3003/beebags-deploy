@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1528-b778",
-  "sha256": "70aa535047c47963b6cdcf1b6f4b547a119859f6b44f5667a190bfdbf43b7419",
-  "nota": "cotizador: MAPA de Mexico con los 28 destinos (el tamano del punto es la tarifa, la planta marcada, y lo que no es un lugar va aparte explicado), ICONOS de los 23 accesorios, GRAFICA DE PASTEL de en que se va cada peso y el bloque de cuantos bultos salen (bolsas, cajas, tarimas) en la columna derecha que estaba vacia",
-  "fecha": "2026-09-14T21:28:31.199Z",
+  "paquete": "p-260914-1601-9e09",
+  "sha256": "b64ef208b7dc6b58927188d7d752efe544615824244ce320bbd315ce916e06a1",
+  "nota": "cotizador: LOGO DEL CLIENTE (campo nuevo en Airtable, se ve en el buscador y en la ficha) y COBERTURA POR TINTA — que tanto cubre cada color, con los 4 presets de SeriOS. Aplica en flexografia y pulpo; en serigrafia de rollo NO (la malla consume igual) y la pantalla lo explica. Sin capturar coberturas todo cobra como siempre: las 585 del Excel y las 16,843 del catalogo siguen pasando",
+  "fecha": "2026-09-14T22:01:59.206Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
