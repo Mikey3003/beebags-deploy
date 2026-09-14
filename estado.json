@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1224-8f8c",
-  "sha256": "4bfbbafd1eda6fb83708b775c1d9fec536994924364dd01db352568f84b82b7b",
-  "nota": "cotizador: dibujos de verdad (bolsa con medidas, maquina por tecnica, marcos, caja, tarima, camion), fletes a un clic, desarrollo abajo con cronografia y tablas, que-afecta-a-que medido, y CATALOGO DE FORMULAS editable",
-  "fecha": "2026-09-14T18:24:35.899Z",
+  "paquete": "p-260914-1229-8287",
+  "sha256": "67a8251b9020203f146857f227a58b2ab33655f7c4b814784170a744ba9e14c7",
+  "nota": "cotizador: en que-afecta-a-que el grupo va como etiqueta en el renglon (iba ordenado por impacto y el encabezado se repetia)",
+  "fecha": "2026-09-14T18:29:59.828Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
