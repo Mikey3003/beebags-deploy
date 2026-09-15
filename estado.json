@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1529-9c2c",
-  "sha256": "f7164886d328b21718393da80231171b6e26eb6c0e6d38153bdbf07231b23b9b",
-  "nota": "SALIDAS: 5 hojas (+ copia LOGISTICA, banda grande de color y 'n de 5'); CARTA PORTE UNICA que se imprime UNA vez (confirmar 5 hojas firmadas, registro data/cartas-porte-impresas.json, reimpresion solo Direccion) con recuadro del cliente, firmas Contabilidad-Almacen-Logistica-Operador-Vigilancia con hora de salida y terminos; vales con ENTRADA/SALIDA en grande; boton GUIA DE OMAR en su cabina",
-  "fecha": "2026-09-15T21:29:09.169Z",
+  "paquete": "p-260915-1549-c86f",
+  "sha256": "4ea60789112dae9b0822934fd1882d7b30a48cb4b99c60af11e40c5743c6bbfa",
+  "nota": "almacen2d: la VISTA PREVIA de la salida (z 95) y la ventana de carta porte quedaban ESCONDIDAS detras del formulario de salida (z 9999) -> ahora 10000/10001 (verificado con elementFromPoint)",
+  "fecha": "2026-09-15T21:49:32.957Z",
   "autor": "alex_",
-  "archivos": 6,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
