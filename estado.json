@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1346-3c6f",
-  "sha256": "6d28fc46ad4f679e437b782a3cb712ec2feac505f7fa0fff838aee9305e34575",
-  "nota": "spunbond consultas: se respeta el rango de fechas que pides (ya no se recorta a 92 dias en silencio), rangos largos salen del historial completo, tope 4,000 -> 20,000 rollos, y el CSV trae renglon de TOTAL",
-  "fecha": "2026-09-15T19:46:15.791Z",
+  "paquete": "p-260915-1446-c5ea",
+  "sha256": "8e74ce4664e07379ef3b6f2ace1ff691af70b474869cddfdd38b5054a1a18429",
+  "nota": "cotizador: MAPA DEL PRECIO (la cadena completa navegable a clics, de donde sale cada numero con hoja y celda, y ensayo que recalcula sin guardar) + tipo de cambio automatico de Banxico + aviso de division entre cero",
+  "fecha": "2026-09-15T20:46:26.059Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 5,
   "reinicio": true,
   "pausado": false
 }
