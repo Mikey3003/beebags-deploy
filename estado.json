@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1549-c86f",
-  "sha256": "4ea60789112dae9b0822934fd1882d7b30a48cb4b99c60af11e40c5743c6bbfa",
-  "nota": "almacen2d: la VISTA PREVIA de la salida (z 95) y la ventana de carta porte quedaban ESCONDIDAS detras del formulario de salida (z 9999) -> ahora 10000/10001 (verificado con elementFromPoint)",
-  "fecha": "2026-09-15T21:49:32.957Z",
+  "paquete": "p-260915-1603-29d7",
+  "sha256": "3515a0be5cbae8ec626650a82df556e179955144359e082560a458dd5fe5ee1c",
+  "nota": "mapa: se puede EDITAR la utilidad y los margenes ahi mismo (+ llegar a un precio y que te saque la utilidad exacta), los precios de compra del film / accesorio / Bynel tambien; el catalogo ya NO acepta cambios que no hacian nada (el precio por kilo del film era inerte); celdas del Bynel corregidas (estaban corridas un renglon) y 10 notas viejas que se contradecian con su formula ahora se marcan",
+  "fecha": "2026-09-15T22:03:41.638Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
