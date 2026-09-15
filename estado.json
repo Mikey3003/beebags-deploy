@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1814-edf8",
-  "sha256": "4150e7e778cf15befd0b8e87900df148413c8f859fb6b088b229e8c1d452503d",
-  "nota": "Logistica: los 5 chips de entrega vuelven a funcionar. El estado se CALCULA aqui (fecha programada + transporte) cuando Airtable no lo manda, marcado con punto y avisando que es estimado. Si la Automation revive, gana Airtable.",
-  "fecha": "2026-09-15T00:14:49.225Z",
+  "paquete": "p-260914-2352-dc15",
+  "sha256": "daf7f7f2ac99df20283cdc9d1cef69aecfeb70f9186122c2d49ef4cf68040450",
+  "nota": "Reportes: el boton pasa a ser grande y dice 'Descargar reporte', con aviso de que se pueden pedir pendientes, entregados o todos (Nedhop no lo veia). REINICIO pedido por Mikey como prueba: el agente debe mandarle liga nueva por WhatsApp.",
+  "fecha": "2026-09-15T05:52:21.665Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
