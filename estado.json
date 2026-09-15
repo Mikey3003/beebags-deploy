@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260914-1719-d318",
-  "sha256": "031827cb5ac78580b91e3b99fe3c482cf8fd831ac7ff1b96533b1242366828f8",
-  "nota": "Foto de perfil del cliente: dos iniciales y color estable por nombre, para los 706. El campo Logo del Cliente sigue VACIO: cuando se cargue un logo, gana el logo.",
-  "fecha": "2026-09-14T23:19:59.166Z",
+  "paquete": "p-260914-1812-68c5",
+  "sha256": "611dd7df8886f57e78f90f7f1479402a58cc96c088d84b8a304b6a92276afbd5",
+  "nota": "Almacen: un pedido con el numero mal calculado ya NO desaparece. catalogoPedidos devuelve bolsaCerrados/telaCerrados con motivo; en ENTRADA se pueden usar (una entrada no descuenta), en salida se explica el motivo con numeros. 5o parche del mismo candado, este ataca la causa.",
+  "fecha": "2026-09-15T00:12:33.948Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
