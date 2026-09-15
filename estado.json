@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1505-0142",
-  "sha256": "152d6a10c4c2f1389e2d89104bd27fe309794699c7782bbc9e0288b27be94a17",
-  "nota": "mapa del precio: LAMINADO completo (la cadena del film renglon por renglon con su celda de Calculos Impresion, y el Bynel/Tymax con su cuenta y su celda), cada bloque ya lista TODOS sus renglones y no solo las formulas, y el mapa ya usa TU cotizacion y no la de ejemplo",
-  "fecha": "2026-09-15T21:05:45.879Z",
+  "paquete": "p-260915-1529-9c2c",
+  "sha256": "f7164886d328b21718393da80231171b6e26eb6c0e6d38153bdbf07231b23b9b",
+  "nota": "SALIDAS: 5 hojas (+ copia LOGISTICA, banda grande de color y 'n de 5'); CARTA PORTE UNICA que se imprime UNA vez (confirmar 5 hojas firmadas, registro data/cartas-porte-impresas.json, reimpresion solo Direccion) con recuadro del cliente, firmas Contabilidad-Almacen-Logistica-Operador-Vigilancia con hora de salida y terminos; vales con ENTRADA/SALIDA en grande; boton GUIA DE OMAR en su cabina",
+  "fecha": "2026-09-15T21:29:09.169Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
