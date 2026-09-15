@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260915-1111-bc75",
-  "sha256": "a48a458cf6e19b2f2d1c7b5d85dcf31b47c05a93139027986d7b1f2b86f8fd86",
-  "nota": "Reportes (tela y bolsa): rango por defecto util en vez de 'Hoy' (por eso salia casi vacio y parecia que solo dejaba bajar pendientes), ESTADO en tres botones visibles (Todos / Solo pendientes / Solo entregados), vista previa con filas de verdad y el total que va a bajar, y selector de columnas. BACKEND: se agrego estado=entregados, que NO existia — el boton habria devuelto TODO en silencio. Arreglado ademas un choque de CSS que cazo el revisor: los botones de formato apagaban los de estado.",
-  "fecha": "2026-09-15T17:11:02.654Z",
+  "paquete": "p-260915-1346-3c6f",
+  "sha256": "6d28fc46ad4f679e437b782a3cb712ec2feac505f7fa0fff838aee9305e34575",
+  "nota": "spunbond consultas: se respeta el rango de fechas que pides (ya no se recorta a 92 dias en silencio), rangos largos salen del historial completo, tope 4,000 -> 20,000 rollos, y el CSV trae renglon de TOTAL",
+  "fecha": "2026-09-15T19:46:15.791Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
