@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-0121-012e",
-  "sha256": "f1448be31273013fb770425aa0b208bd24ca1f4bee71f3528cf4eb44542dd5e1",
-  "nota": "Bugs cazados por los agentes: (1) CRITICO la tabla Precio por volumen del PDF del CLIENTE ignoraba las formulas editadas; (2) CRITICO al pasar de Entrada a Salida se quedaba puesto un pedido CERRADO (bug mio de hoy); (3) el boton Nueva no limpiaba medidas ni impresion; (4) _pedFolio no hallaba folios de TELA; (5) czSetTxt no existia (boton de destino muerto); (6) la deteccion de formula sin numero ahora vive en evaluar, antes nunca disparaba. 585+16843+18+9+28+23 pruebas y 161 de navegador en verde.",
-  "fecha": "2026-09-15T07:21:21.389Z",
+  "paquete": "p-260915-1047-3b18",
+  "sha256": "d870e12674046edbff8c5cd201ad63d8b1a17b4d1810813d562518e2f521d949",
+  "nota": "Agente WhatsApp: comando *LINK*. Cualquiera de la casa (jefe/vendedor/equipo) le escribe LINK y contesta con la liga de acceso remoto del momento. La liga cambia en cada reinicio y antes solo se conocia por el aviso automatico: si se borraba, la persona se quedaba sin sistema. A un CLIENTE no le contesta. 30 pruebas del disparador y el candado.",
+  "fecha": "2026-09-15T16:47:09.542Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
