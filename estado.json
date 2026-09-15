@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1446-c5ea",
-  "sha256": "8e74ce4664e07379ef3b6f2ace1ff691af70b474869cddfdd38b5054a1a18429",
-  "nota": "cotizador: MAPA DEL PRECIO (la cadena completa navegable a clics, de donde sale cada numero con hoja y celda, y ensayo que recalcula sin guardar) + tipo de cambio automatico de Banxico + aviso de division entre cero",
-  "fecha": "2026-09-15T20:46:26.059Z",
+  "paquete": "p-260915-1505-0142",
+  "sha256": "152d6a10c4c2f1389e2d89104bd27fe309794699c7782bbc9e0288b27be94a17",
+  "nota": "mapa del precio: LAMINADO completo (la cadena del film renglon por renglon con su celda de Calculos Impresion, y el Bynel/Tymax con su cuenta y su celda), cada bloque ya lista TODOS sus renglones y no solo las formulas, y el mapa ya usa TU cotizacion y no la de ejemplo",
+  "fecha": "2026-09-15T21:05:45.879Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
