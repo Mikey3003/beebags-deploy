@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1603-29d7",
-  "sha256": "3515a0be5cbae8ec626650a82df556e179955144359e082560a458dd5fe5ee1c",
-  "nota": "mapa: se puede EDITAR la utilidad y los margenes ahi mismo (+ llegar a un precio y que te saque la utilidad exacta), los precios de compra del film / accesorio / Bynel tambien; el catalogo ya NO acepta cambios que no hacian nada (el precio por kilo del film era inerte); celdas del Bynel corregidas (estaban corridas un renglon) y 10 notas viejas que se contradecian con su formula ahora se marcan",
-  "fecha": "2026-09-15T22:03:41.638Z",
+  "paquete": "p-260915-1638-98b3",
+  "sha256": "0dabcdc4a92f1f5063d277825ae06cfa456a3743307797b83b6a129fd5c874c4",
+  "nota": "GUIA DE OMAR: web/guia-omar.html (10 capitulos, cronologia de OC 24 y pedidos 584/521, tablero de avance) + 10 videos grabados en el sistema real + 24 fotos marcadas",
+  "fecha": "2026-09-15T22:38:56.276Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 35,
+  "reinicio": false,
   "pausado": false
 }
