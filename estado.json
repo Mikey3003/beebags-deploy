@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1638-98b3",
-  "sha256": "0dabcdc4a92f1f5063d277825ae06cfa456a3743307797b83b6a129fd5c874c4",
-  "nota": "GUIA DE OMAR: web/guia-omar.html (10 capitulos, cronologia de OC 24 y pedidos 584/521, tablero de avance) + 10 videos grabados en el sistema real + 24 fotos marcadas",
-  "fecha": "2026-09-15T22:38:56.276Z",
+  "paquete": "p-260915-1645-1cad",
+  "sha256": "f66276c776c2dce4807aa73a1e8de6b6342add4db639359bb92f9085ac726bbb",
+  "nota": "ALMACEN URGENTE: destraba las salidas. (1) el modal de carta porte no tenia scroll: en la pantalla del almacen el boton de cerrar quedaba fuera del borde = pantalla gris y nada que picar; (2) ESC cierra cualquier capa gris; (3) calcular ruta se salia sin avisarle al candado, asi que el aviso decia 'pica calcular ruta' y calcular ruta se negaba = vuelta infinita; (4) al escribir la direccion ya se refresca el candado; (5) si la salida anterior ya se creo, lo dice en vez de enseñar 'todo listo' con el boton muerto",
+  "fecha": "2026-09-15T22:45:33.110Z",
   "autor": "alex_",
-  "archivos": 35,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
