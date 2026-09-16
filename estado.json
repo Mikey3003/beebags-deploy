@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-1834-eb7e",
-  "sha256": "bd22aff0c181e68900791e2ffce07d8bddd8033f53a52ac296842877ed1254b3",
-  "nota": "ALMACEN URGENTE 2: LA VISTA PREVIA SE ABRIA DETRAS DEL FORMULARIO. #salModal tiene z-index 9999 y #prevModal tenia 95: al picar Guardar salida la vista previa si abria pero INVISIBLE, atras del formulario, asi que parecia que el boton no hacia nada y le picaban dos veces. prevModal->10000, faltModal->10001, y ESC tambien cierra el formulario",
-  "fecha": "2026-09-16T00:34:25.502Z",
+  "paquete": "p-260915-1943-744a",
+  "sha256": "08668820549015f0d0cdf431e96000f2b178585acad1471cbb9a97f0a21dfcc2",
+  "nota": "CRM: modulo crm3 (nuevo) para las 3 rutas que le faltan al CRM v3. Esta primera version solo MIRA el esquema, para no escribir SQL adivinando nombres de tablas contra produccion. Se cuelga del cotizador porque index.js no se puede leer desde fuera; va envuelto en try/catch, si truena el cotizador ni se entera",
+  "fecha": "2026-09-16T01:43:45.472Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
