@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-2022-e47a",
-  "sha256": "099241af6d3c3ac70e48312bff1ab09b230f33a992d007f217844bfba0cf0aab",
-  "nota": "CRM v3 EN VIVO: el tablero Kanban con la ficha del cliente y su WhatsApp adentro reemplaza al crm.html viejo (asi entra por los botones que ya existen; las pestanas Tablero/Bandeja/Numeros conservan los tableros de antes). Backend: las 3 rutas que faltaban, probadas contra la base real. Ademas la gente del equipo ya no sale como lead de venta",
-  "fecha": "2026-09-16T02:22:18.841Z",
+  "paquete": "p-260915-2035-720c",
+  "sha256": "2bb282a7c52cbb3cb0a5a42797baeaeb2e20d45c1251c90f8200638e64c2cf3c",
+  "nota": "CRM v3: la ficha ya no dice 'sin pedidos encontrados' cuando lo que pasa es que no se pudo buscar (eso hace que un vendedor crea que el cliente nunca le ha comprado). Enseña la razon real. Sin reinicio: es archivo web",
+  "fecha": "2026-09-16T02:35:32.152Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
