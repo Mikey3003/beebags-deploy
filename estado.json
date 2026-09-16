@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260915-1645-1cad",
-  "sha256": "f66276c776c2dce4807aa73a1e8de6b6342add4db639359bb92f9085ac726bbb",
-  "nota": "ALMACEN URGENTE: destraba las salidas. (1) el modal de carta porte no tenia scroll: en la pantalla del almacen el boton de cerrar quedaba fuera del borde = pantalla gris y nada que picar; (2) ESC cierra cualquier capa gris; (3) calcular ruta se salia sin avisarle al candado, asi que el aviso decia 'pica calcular ruta' y calcular ruta se negaba = vuelta infinita; (4) al escribir la direccion ya se refresca el candado; (5) si la salida anterior ya se creo, lo dice en vez de enseñar 'todo listo' con el boton muerto",
-  "fecha": "2026-09-15T22:45:33.110Z",
+  "paquete": "p-260915-1834-eb7e",
+  "sha256": "bd22aff0c181e68900791e2ffce07d8bddd8033f53a52ac296842877ed1254b3",
+  "nota": "ALMACEN URGENTE 2: LA VISTA PREVIA SE ABRIA DETRAS DEL FORMULARIO. #salModal tiene z-index 9999 y #prevModal tenia 95: al picar Guardar salida la vista previa si abria pero INVISIBLE, atras del formulario, asi que parecia que el boton no hacia nada y le picaban dos veces. prevModal->10000, faltModal->10001, y ESC tambien cierra el formulario",
+  "fecha": "2026-09-16T00:34:25.502Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
