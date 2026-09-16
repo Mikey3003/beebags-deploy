@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-2008-7c6d",
-  "sha256": "40c281d68784ddd0a72b885706b6aeb96ea7d783ea0ab282ad562e0c365191a3",
-  "nota": "CRM: las 3 rutas que faltaban (tablero, ficha, pedidos) escritas contra el esquema REAL leido del server. Reusa el pool de src/crm.js, no lo toca. Puerta por sesion del portal. Trae una ruta de prueba temporal cerrada con llave para verificarla desde fuera",
-  "fecha": "2026-09-16T02:08:59.249Z",
+  "paquete": "p-260915-2022-e47a",
+  "sha256": "099241af6d3c3ac70e48312bff1ab09b230f33a992d007f217844bfba0cf0aab",
+  "nota": "CRM v3 EN VIVO: el tablero Kanban con la ficha del cliente y su WhatsApp adentro reemplaza al crm.html viejo (asi entra por los botones que ya existen; las pestanas Tablero/Bandeja/Numeros conservan los tableros de antes). Backend: las 3 rutas que faltaban, probadas contra la base real. Ademas la gente del equipo ya no sale como lead de venta",
+  "fecha": "2026-09-16T02:22:18.841Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
