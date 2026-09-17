@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-0959-3a53",
-  "sha256": "02c9040f4ac355a57057f0c6afd37e5b2e4162934f6585e7a4852328f7cdcf75",
-  "nota": "CRM: sello de version visible en el encabezado (v3 · 17 sep). Sin esto no habia forma de saber, mirando la pantalla, si estas viendo la version de hoy o una que el navegador guardo hace dias. Sin reinicio: es archivo web",
-  "fecha": "2026-09-17T15:59:55.842Z",
+  "paquete": "p-260917-1021-eb27",
+  "sha256": "75ae1a67b55c0af38a3baaa567a761c53976adf72d900c7bd64df791d59bd2f9",
+  "nota": "COTIZADOR: fuera el diagrama de scroll horizontal. Abajo de Cotizar bolsa vivia czCrono: SEIS columnas una al lado de otra que no caben en ninguna pantalla, habia que arrastrar de lado, y al picar una caja no te llevaba a ningun lado (queja de Mikey: 'no es un modulo, es de scroll'). Ahora en ese mismo lugar salen las 8 puertas de los bloques con su monto y su peso: picas una y te METE al Mapa del precio EN ESE BLOQUE, con miga de pan para regresar. Mas un boton para abrir el mapa completo. Verificado: cero scroll horizontal, cero errores de navegador. Sin reinicio: es archivo web",
+  "fecha": "2026-09-17T16:21:08.981Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
