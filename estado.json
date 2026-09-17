@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260917-1324-d15d",
-  "sha256": "ca3213b095bc30fdd0bf27022c6d26ac1aa9ee21883edbcc7688b45e382a4828",
-  "nota": "almacen2d: lote v2. C4 ahora es por LINEA de pedido (el mismo rack si surte a dos pedidos del mismo SKU), C2 descuenta lo que otros renglones del carrito ya sacan del rack (panel y salCandados), y sin 'resta' conocido NO se propone cantidad (bolsa se escribe a mano). 39 pruebas de navegador verdes con datos reales.",
-  "fecha": "2026-09-17T19:24:30.944Z",
+  "paquete": "p-260917-1358-2fe4",
+  "sha256": "80a13ac3c9174278dd6322cb0fb8be627c72ea1c68d2d10231d40ba7f6276354",
+  "nota": "almacen2d lote v3 (revision adversarial: el lote ya no borra los botones de carta porte; el panel se cierra con Nueva/otra salida; candados de existencia/resta/enteros tambien al editar el carrito; pedido completo en el carrito se puede reabrir; pie pegajoso; pedidos se pide una vez; reintento seguro). cotizador: clic FIJA lo que le entra y lo que mueve (rotulo con nombres, Abrir en el mapa, Soltar; Esc/fondo suelta; sobrevive zoom/resize/recotizar; el diagrama se ajusta al pintar). 45 + 42 + 28 + 10 pruebas de navegador verdes.",
+  "fecha": "2026-09-17T19:58:46.286Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
