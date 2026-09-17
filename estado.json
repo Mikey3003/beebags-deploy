@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1552-77f2",
-  "sha256": "244e1402bd1bf49850ab787a0c696814db628ec0a150b74deff0832e76a99b65",
-  "nota": "almacen2d: el aviso de la carta porte enumera las areas en el orden real de impresion (contabilidad, almacen, logistica, vigilancia, cliente).",
-  "fecha": "2026-09-17T21:52:53.616Z",
+  "paquete": "p-260917-1720-a337",
+  "sha256": "52e7ace0e3e690b4e7fec8231e186303307c7724474e361cefe1d10314e5d40a",
+  "nota": "almacen2d lote v6 (caso Omar, pedidos 316/317 Palacio de Hierro): el pedido dice 56X37X17-NEGR-PH y el almacen tiene 37X56X17-NEGR-PH (medidas al reves). Ahora: la busqueda de productos y de stock de Registrar casa con las medidas al reves; el carrito separa exacto / ≈ mismo modelo al reves / otra cosa; 'Todo el pedido' ofrece los racks ≈ cuando no hay exacto; el renglon ≈ entra con motivo automatico (queda como cambio de producto para Direccion) y NO traba. 58 pruebas verdes.",
+  "fecha": "2026-09-17T23:20:58.671Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
