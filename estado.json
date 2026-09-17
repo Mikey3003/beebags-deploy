@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260917-1117-87bb",
-  "sha256": "6c069112daef3b46f7a5254f316c06a7b4b1425e9d53600f0893962a22e3efc3",
-  "nota": "COTIZADOR: vuelve el mapa grande (Mikey: 'me quitaste el mapa ese, me gustaba') pero AJUSTADO — se escala solo al ancho que haya (58 cajas, 58 cables, escala 0.84 en pantalla de 1340) asi que NO hay que arrastrar nada, con botones de acercar/alejar/ajustar. Y ahora SI es modulo: picar cualquier caja te mete al Mapa del precio EN SU BLOQUE (antes abria un acordeon abajo, por eso 'no es un modulo'). Los cables se miden dividiendo entre la escala, si no quedan lejisimos de sus cajas. Sin reinicio: es archivo web",
-  "fecha": "2026-09-17T17:17:16.287Z",
+  "paquete": "p-260917-1122-0bec",
+  "sha256": "f4ff24fddf26e0f6797aea50906bb285d0b450435d0fd3ada24fe22fc3b7cad1",
+  "nota": "LA PORTADA SE QUEDA CON LA RAIZ. Hasta hoy / mandaba al cerebro (tablero de Direccion) y desde ahi NO hay puerta al CRM — por eso Mikey decia 'no hay otra forma de entrar'. Express atiende por orden de registro y este modulo se monta tarde, asi que su ruta quedaba tapada; ahora se mueve al frente de la pila del router. GOTCHA de Express 5: la marca del handler NO vive en capa.handle (ese es el despachador de la ruta) sino en capa.route.stack — por eso la primera version fallaba en silencio. Envuelto: si la pila no esta donde se espera, no pasa nada y todo sigue igual. El cerebro sigue en /cerebro.html y la portada lo enlaza",
+  "fecha": "2026-09-17T17:22:34.552Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
