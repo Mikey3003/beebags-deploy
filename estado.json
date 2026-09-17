@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260915-2035-720c",
-  "sha256": "2bb282a7c52cbb3cb0a5a42797baeaeb2e20d45c1251c90f8200638e64c2cf3c",
-  "nota": "CRM v3: la ficha ya no dice 'sin pedidos encontrados' cuando lo que pasa es que no se pudo buscar (eso hace que un vendedor crea que el cliente nunca le ha comprado). Enseña la razon real. Sin reinicio: es archivo web",
-  "fecha": "2026-09-16T02:35:32.152Z",
+  "paquete": "p-260917-0857-15e7",
+  "sha256": "abc150a64d3ef4572da888f07982ee24cf32f2d4c9ecc80c78214beaf0421e43",
+  "nota": "PORTADA NUEVA + candado de seguridad. (1) Al abrir la liga ya no se cae en el cerebro de Direccion: sale una portada que pregunta que vienes a hacer y te manda a TU modulo (se comprueba sola: la puerta que no contesta se apaga en vez de mandarte a un 404). (2) /enlace publica la liga remota de hoy, para que no sea un secreto que solo tiene Mikey. (3) Las 5 rutas del CRM que contestaban SIN CONTRASENA desde internet ya piden sesion",
+  "fecha": "2026-09-17T14:57:34.634Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
