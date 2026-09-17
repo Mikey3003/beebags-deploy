@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260917-1522-db60",
-  "sha256": "25f8b1cba8c5ae82e508f5f9c5e6b27f99b427cf299d6398899d9de7e504c243",
-  "nota": "FINAL 17 sep (sin el video, que el paquete rechaza por tamano): (1) src: ruta POST /api/whatsapp/enviar-archivo (x-hub-pass; manda un archivo de web/ a un numero como video/imagen/documento; si viene b64 lo guarda en web/<ruta> primero) + wa.enviarArchivo; index.js trae ademas el candado enCurso del lote. (2) almacen2d v5: orden de las 5 hojas igual al PDF. (3) guia-omar: capitulo 11 con el video (el mp4 se sube por la ruta nueva). Reinicio: generar() copia numero y titulo de Omar al usuario omar.",
-  "fecha": "2026-09-17T21:22:14.012Z",
+  "paquete": "p-260917-1528-3d49",
+  "sha256": "13149301ea8964b444260f6bacda4f6eb3f81c2778398f2d353f8d95dbfe8ef2",
+  "nota": "almacen2d: texto de la vista previa ('las cuatro copias' con banda 'hoja n de 5'; decia tres).",
+  "fecha": "2026-09-17T21:28:52.736Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
