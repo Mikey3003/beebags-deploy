@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-0910-b792",
-  "sha256": "963411d06d241d11c784191eda40e230e2de64d03eff363c569c76f14214fec1",
-  "nota": "ALMACEN: dos letreros que mandaban a la gente a la pared. (1) El mensaje verde decia 'pica Revisar y crear salida' pero ese boton NUNCA se llama asi: salModo() le reescribe el texto a 'Guardar salida' (o 'Registrar salidas y guardar viaje' en carrito) antes de que se vea la ventana. Ahora el mensaje dice el nombre REAL del boton. (2) El campo de login decia 'Correo (ej. miguel@beebags.mx)' pero lo que valida el servidor es el USUARIO, no el correo (omar ni correo tiene dado de alta). Ahora dice 'Tu usuario' y el error lo aclara. Sin reinicio: es archivo web",
-  "fecha": "2026-09-17T15:10:16.315Z",
+  "paquete": "p-260917-0959-3a53",
+  "sha256": "02c9040f4ac355a57057f0c6afd37e5b2e4162934f6585e7a4852328f7cdcf75",
+  "nota": "CRM: sello de version visible en el encabezado (v3 · 17 sep). Sin esto no habia forma de saber, mirando la pantalla, si estas viendo la version de hoy o una que el navegador guardo hace dias. Sin reinicio: es archivo web",
+  "fecha": "2026-09-17T15:59:55.842Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
