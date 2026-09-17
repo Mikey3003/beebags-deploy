@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1528-3d49",
-  "sha256": "13149301ea8964b444260f6bacda4f6eb3f81c2778398f2d353f8d95dbfe8ef2",
-  "nota": "almacen2d: texto de la vista previa ('las cuatro copias' con banda 'hoja n de 5'; decia tres).",
-  "fecha": "2026-09-17T21:28:52.736Z",
+  "paquete": "p-260917-1552-77f2",
+  "sha256": "244e1402bd1bf49850ab787a0c696814db628ec0a150b74deff0832e76a99b65",
+  "nota": "almacen2d: el aviso de la carta porte enumera las areas en el orden real de impresion (contabilidad, almacen, logistica, vigilancia, cliente).",
+  "fecha": "2026-09-17T21:52:53.616Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
