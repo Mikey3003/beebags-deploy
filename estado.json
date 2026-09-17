@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260917-1358-2fe4",
-  "sha256": "80a13ac3c9174278dd6322cb0fb8be627c72ea1c68d2d10231d40ba7f6276354",
-  "nota": "almacen2d lote v3 (revision adversarial: el lote ya no borra los botones de carta porte; el panel se cierra con Nueva/otra salida; candados de existencia/resta/enteros tambien al editar el carrito; pedido completo en el carrito se puede reabrir; pie pegajoso; pedidos se pide una vez; reintento seguro). cotizador: clic FIJA lo que le entra y lo que mueve (rotulo con nombres, Abrir en el mapa, Soltar; Esc/fondo suelta; sobrevive zoom/resize/recotizar; el diagrama se ajusta al pintar). 45 + 42 + 28 + 10 pruebas de navegador verdes.",
-  "fecha": "2026-09-17T19:58:46.286Z",
+  "paquete": "p-260917-1402-8c16",
+  "sha256": "d466bedbd7d237841d409e9d6ba7d199ea190911bb42fd6407d7932b7a2a6689",
+  "nota": "servidor (lote 17 sep): salida-carrito marca el idemKey EN CURSO y contesta 409 a un reintento (antes un reintento a media registrada duplicaba salidas); TTL de idempotencia 90 s -> 15 min (index y almacen-cerebro); catalogoPedidos anexa 'faltan N pz' al label de BOLSA siempre que Piezas faltantes > 0 (el candado de no sobre-entregar quedaba ciego en 300 de 311). Solo 25+2+7 lineas cambiadas, finales de linea respetados.",
+  "fecha": "2026-09-17T20:02:46.131Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
