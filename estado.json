@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1026-1ccd",
-  "sha256": "0740dc2398c47a5df14a7c103a7f63c2f3c9b416328ba5ab8ee61688af154556",
-  "nota": "MAPA DEL PRECIO: la ficha ya es un DIAGRAMA, no una lista de pastillas. Modelo tomado de Archify (foco + un salto, computeReachability): un nodo al centro, lo que le entra a la izquierda y lo que mueve a la derecha, unidos por cables SVG; picar cualquier caja la vuelve el centro y la miga de pan crece. Nunca se dibuja el grafo entero, por eso SIEMPRE cabe y nunca hay que arrastrar de lado. Mas dos botones de alcance: todo lo que le entra / todo lo que mueve, por niveles (BFS con profundidad). Verificado: cero scroll lateral, cero errores. Sin reinicio: es archivo web",
-  "fecha": "2026-09-17T16:26:25.055Z",
+  "paquete": "p-260917-1117-87bb",
+  "sha256": "6c069112daef3b46f7a5254f316c06a7b4b1425e9d53600f0893962a22e3efc3",
+  "nota": "COTIZADOR: vuelve el mapa grande (Mikey: 'me quitaste el mapa ese, me gustaba') pero AJUSTADO — se escala solo al ancho que haya (58 cajas, 58 cables, escala 0.84 en pantalla de 1340) asi que NO hay que arrastrar nada, con botones de acercar/alejar/ajustar. Y ahora SI es modulo: picar cualquier caja te mete al Mapa del precio EN SU BLOQUE (antes abria un acordeon abajo, por eso 'no es un modulo'). Los cables se miden dividiendo entre la escala, si no quedan lejisimos de sus cajas. Sin reinicio: es archivo web",
+  "fecha": "2026-09-17T17:17:16.287Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
