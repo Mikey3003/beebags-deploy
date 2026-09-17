@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1122-0bec",
-  "sha256": "f4ff24fddf26e0f6797aea50906bb285d0b450435d0fd3ada24fe22fc3b7cad1",
-  "nota": "LA PORTADA SE QUEDA CON LA RAIZ. Hasta hoy / mandaba al cerebro (tablero de Direccion) y desde ahi NO hay puerta al CRM — por eso Mikey decia 'no hay otra forma de entrar'. Express atiende por orden de registro y este modulo se monta tarde, asi que su ruta quedaba tapada; ahora se mueve al frente de la pila del router. GOTCHA de Express 5: la marca del handler NO vive en capa.handle (ese es el despachador de la ruta) sino en capa.route.stack — por eso la primera version fallaba en silencio. Envuelto: si la pila no esta donde se espera, no pasa nada y todo sigue igual. El cerebro sigue en /cerebro.html y la portada lo enlaza",
-  "fecha": "2026-09-17T17:22:34.552Z",
+  "paquete": "p-260917-1135-d98e",
+  "sha256": "78d442b98f98fd08b5caa31a3356dadec57508c10e1f3ffb3e39ad9890c6aeaf",
+  "nota": "Lector de archivos del servidor (cerrado con secreto, solo lectura, solo src/ e inteligencia/, sin traversal). Van tres veces hoy que para arreglar algo bien hace falta leer un archivo del servidor y cada vez hay que desplegar un modulo nuevo y reiniciar. Hace falta ahora para arreglar la lentitud del cerebro: medido, /api/facturas/lista tarda 3-5 s y manda 1.36 MB en CADA carga sin cache, y /api/pedidos2d/analitica tarda 11.4 s en frio",
+  "fecha": "2026-09-17T17:35:03.100Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
