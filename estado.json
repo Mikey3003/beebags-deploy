@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260917-1402-8c16",
-  "sha256": "d466bedbd7d237841d409e9d6ba7d199ea190911bb42fd6407d7932b7a2a6689",
-  "nota": "servidor (lote 17 sep): salida-carrito marca el idemKey EN CURSO y contesta 409 a un reintento (antes un reintento a media registrada duplicaba salidas); TTL de idempotencia 90 s -> 15 min (index y almacen-cerebro); catalogoPedidos anexa 'faltan N pz' al label de BOLSA siempre que Piezas faltantes > 0 (el candado de no sobre-entregar quedaba ciego en 300 de 311). Solo 25+2+7 lineas cambiadas, finales de linea respetados.",
-  "fecha": "2026-09-17T20:02:46.131Z",
+  "paquete": "p-260917-1444-af72",
+  "sha256": "ba9d6aaf37568998c0aa81eda20f7798b09830a017b1e2e3d65d1555bcfbbdb9",
+  "nota": "almacen2d lote v4: LA CARTA PORTE NO SE PODIA IMPRIMIR desde este panel desde el 15 sep (el server exige confirmo=1 y el panel mandaba el 428 al modal de 'falta informacion' con solo 'Entendido'; el boton del aviso verde abria JSON crudo). Ahora verSalidaPdf abre #cpModal: imprimir las 5 hojas, casilla 'ya estan firmadas', Imprimir la carta porte (confirmo=1); 409 ya impresa muestra quien/cuando y Reimprimir para Direccion. + tarRegistrar llamaba cargarTodo() (no existe): ahora cargar(true). + textos 5 hojas con LOGISTICA. 53 pruebas verdes.",
+  "fecha": "2026-09-17T20:44:41.455Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
