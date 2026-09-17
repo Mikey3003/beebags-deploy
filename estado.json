@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1257-ffd7",
-  "sha256": "063ef960d389909713a3ebd6660016f1a9ca5b1888f375ccb4abf18816b31ebd",
-  "nota": "almacen2d: SALIDA POR LOTE. En el carrito, boton 'Todo el pedido': todas las lineas del pedido x todos sus racks de un jalon, pre-llenado con lo que resta. 8 candados en carLoteCandados + salCandados: un tipo por viaje, existencia, peso, sin duplicados, solo el SKU del pedido, con pedido, no sobre-entregar, tope 25 (el server recorta en 25 sin avisar). 32 pruebas de navegador verdes con datos reales.",
-  "fecha": "2026-09-17T18:57:44.728Z",
+  "paquete": "p-260917-1324-d15d",
+  "sha256": "ca3213b095bc30fdd0bf27022c6d26ac1aa9ee21883edbcc7688b45e382a4828",
+  "nota": "almacen2d: lote v2. C4 ahora es por LINEA de pedido (el mismo rack si surte a dos pedidos del mismo SKU), C2 descuenta lo que otros renglones del carrito ya sacan del rack (panel y salCandados), y sin 'resta' conocido NO se propone cantidad (bolsa se escribe a mano). 39 pruebas de navegador verdes con datos reales.",
+  "fecha": "2026-09-17T19:24:30.944Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
