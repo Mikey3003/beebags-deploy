@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1021-eb27",
-  "sha256": "75ae1a67b55c0af38a3baaa567a761c53976adf72d900c7bd64df791d59bd2f9",
-  "nota": "COTIZADOR: fuera el diagrama de scroll horizontal. Abajo de Cotizar bolsa vivia czCrono: SEIS columnas una al lado de otra que no caben en ninguna pantalla, habia que arrastrar de lado, y al picar una caja no te llevaba a ningun lado (queja de Mikey: 'no es un modulo, es de scroll'). Ahora en ese mismo lugar salen las 8 puertas de los bloques con su monto y su peso: picas una y te METE al Mapa del precio EN ESE BLOQUE, con miga de pan para regresar. Mas un boton para abrir el mapa completo. Verificado: cero scroll horizontal, cero errores de navegador. Sin reinicio: es archivo web",
-  "fecha": "2026-09-17T16:21:08.981Z",
+  "paquete": "p-260917-1026-1ccd",
+  "sha256": "0740dc2398c47a5df14a7c103a7f63c2f3c9b416328ba5ab8ee61688af154556",
+  "nota": "MAPA DEL PRECIO: la ficha ya es un DIAGRAMA, no una lista de pastillas. Modelo tomado de Archify (foco + un salto, computeReachability): un nodo al centro, lo que le entra a la izquierda y lo que mueve a la derecha, unidos por cables SVG; picar cualquier caja la vuelve el centro y la miga de pan crece. Nunca se dibuja el grafo entero, por eso SIEMPRE cabe y nunca hay que arrastrar de lado. Mas dos botones de alcance: todo lo que le entra / todo lo que mueve, por niveles (BFS con profundidad). Verificado: cero scroll lateral, cero errores. Sin reinicio: es archivo web",
+  "fecha": "2026-09-17T16:26:25.055Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
