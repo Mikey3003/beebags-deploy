@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1805-4eae",
-  "sha256": "0026e6cf10a80c4b396436bdb3dd294ddd87e9db2651bfbccb268e7e77117203",
-  "nota": "almacen2d lote v7: mientras carga el catalogo de productos, el selector de Registrar dice 'cargando el catalogo... espera unos segundos' en vez de 'sin coincidencias' (Omar creyo que el producto no existia).",
-  "fecha": "2026-09-18T00:05:47.406Z",
+  "paquete": "p-260917-1821-1a39",
+  "sha256": "9b2116f03e901ed84bb94e7e934d041ba3cab96436b2369e186db8c3ff0b5a58",
+  "nota": "almacen2d lote v7 (reintento; el anterior se revirtio porque la prueba llevaba acento): mientras carga el catalogo de productos, el selector de Registrar dice 'cargando el catalogo... espera unos segundos' en vez de 'sin coincidencias'.",
+  "fecha": "2026-09-18T00:21:57.698Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
