@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-0929-f690",
-  "sha256": "8edb75336e8fa0266fc2b7cde9438c275f53eca1e5522af4192bc8aff835620a",
-  "nota": "bot de WhatsApp r4: el dictado suelto de un jefe en el grupo (70 g, 1.6 m, 250 m, cliente) ya registra el pedido de tela; CONFIRMAR PEDIDO n con prefijo; guardia contra confirmado falso; todos los marcadores se registran; ilegible no dice Listo; aviso a Direccion por suplantacion",
-  "fecha": "2026-09-18T15:29:41.837Z",
+  "paquete": "p-260918-0957-c314",
+  "sha256": "d754f34f10e9d44b0d7b1c2a44116bf12c8e46d3a9fe1f01ca82e1f38f2c68cc",
+  "nota": "almacen r4 (auditoria con video): el catalogo tardio ya no borra el producto tecleado ni deja el primero elegido (elige el producto/rack obligatorio); coma decimal en peso/cantidad; candado de peso raro (>60 kg por rollo o 3x el promedio); teclear en el carrito ya no pierde el foco; Todo el pedido descuenta lo que ya va en el carrito; candados ordenados por gravedad y pesos faltantes agrupados; entrada duplicada se detecta sin recargar; salida creada sin aviso desfasado; Ventas no abre Nueva salida; previa con flete externo sin rojo; aviso si el servidor registro menos renglones",
+  "fecha": "2026-09-18T15:57:53.694Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
