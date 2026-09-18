@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-0825-af33",
-  "sha256": "189c93de9d62ea0864c029b6f77b6ae28f9be74151fce0570fcd4818915c47b9",
-  "nota": "servidor 18 sep: bot de WhatsApp registra pedidos de TELA dictados por Alex/Mikey (chat o grupo) como POR CONFIRMAR, avisa a Direccion y cierra con CONFIRMAR PEDIDO n (solo jefes por jid, cola serial, Airtable antes de decir Listo, timeout 30 s); ruta GET /api/almacen2d/salida-detalle para Logistica; correcciones de vale: 409 por pendiente duplicado, cantidad/peso validados, resolver con en curso; registrar-jid",
-  "fecha": "2026-09-18T14:25:36.198Z",
+  "paquete": "p-260918-0929-f690",
+  "sha256": "8edb75336e8fa0266fc2b7cde9438c275f53eca1e5522af4192bc8aff835620a",
+  "nota": "bot de WhatsApp r4: el dictado suelto de un jefe en el grupo (70 g, 1.6 m, 250 m, cliente) ya registra el pedido de tela; CONFIRMAR PEDIDO n con prefijo; guardia contra confirmado falso; todos los marcadores se registran; ilegible no dice Listo; aviso a Direccion por suplantacion",
+  "fecha": "2026-09-18T15:29:41.837Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
