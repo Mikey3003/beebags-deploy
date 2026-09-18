@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-0759-7fd7",
-  "sha256": "f9458e9a588f9943fad08b8bbd2ba7bb11dd0279cdb03f6399280065af00df11",
-  "nota": "almacen: Logistica ve la salida a detalle AHI MISMO (sdModal) y pide correccion con ANTES/DESPUES + motivo a autorizacion; seccion Aprobaciones con contador; r2+r3 de los revisores (409 en pantalla, Esc, foco, folio manual, esc() con comilla, salida cancelada solo consulta)",
-  "fecha": "2026-09-18T13:59:56.918Z",
+  "paquete": "p-260918-0825-af33",
+  "sha256": "189c93de9d62ea0864c029b6f77b6ae28f9be74151fce0570fcd4818915c47b9",
+  "nota": "servidor 18 sep: bot de WhatsApp registra pedidos de TELA dictados por Alex/Mikey (chat o grupo) como POR CONFIRMAR, avisa a Direccion y cierra con CONFIRMAR PEDIDO n (solo jefes por jid, cola serial, Airtable antes de decir Listo, timeout 30 s); ruta GET /api/almacen2d/salida-detalle para Logistica; correcciones de vale: 409 por pendiente duplicado, cantidad/peso validados, resolver con en curso; registrar-jid",
+  "fecha": "2026-09-18T14:25:36.198Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
