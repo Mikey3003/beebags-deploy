@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260918-1141-7d44",
-  "sha256": "7be147a5f2f688c34d632bda466fa4ff70700f4349e8a0149cef395bcfa88181",
-  "nota": "CONTENCION del incidente de hoy: el bot ya NO crea el pedido de tela si el cliente se dijo y NO existe en Airtable (asi nacio el 562 con 'La Nueva Galatea'): guarda el borrador, le pide el nombre bueno a quien dicto y avisa a Direccion; a quien dicto nunca le queda un 'lo registre'. Ademas: guardia determinista de CONFIRMAR, marcadores del mismo cliente fusionados, CONFIRMAR n ya no casa con COT-0123; servidor: mas de 25 renglones da error claro y la carta porte contesta 'ya se imprimio' antes de pedir la casilla",
-  "fecha": "2026-09-18T17:41:53.638Z",
+  "paquete": "p-260918-1215-c617",
+  "sha256": "ef580fb48d43bda72dbad9af85b7308d4f3f21853e738d6e5fa0b55a103a1b48",
+  "nota": "cotizador (auditoria con video): la pantalla ya no dice 'cobertura 30%' mientras se cobra al 100% (sin captura dice 'Cobertura completa (100%) captura el % de cada tinta para cotizar menos' y los campos salen vacios; al capturar una viajan las cuatro); las medidas aceptan coma decimal ('35,5' ya no cotiza una bolsa de 355 cm); borrar un parametro ya NO lo fija en 0 (el servidor rechaza vacio, booleano, arreglo y negativos); bultos y dona se vacian al faltar un dato; la tabla de volumen incluye la cantidad cotizada; laminado solo con flexo BOPP; colores 1-6 solo si hay impresion",
+  "fecha": "2026-09-18T18:15:54.591Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
