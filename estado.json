@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-0447-597f",
-  "sha256": "a99ec500825043d40521600cabb15c36b6c25365cc4ddf6a78b55ee1349c9304",
-  "nota": "cotizador motor+servidor (noche 18 sep): el parametro FIJADO manda sobre Datos 2026 (p_mo_pza=1 ya aplica: todos los precios de bolsa bajan 0.07-0.13%); catalogo de formulas y mapa con cobertura por tinta y empaque de dos niveles (calcular = mapa = formulas); chip 'difiere' arreglado; regla de oro cerrada (entradas por lista blanca, /tela sin %, sin fleteCaja, estado/duplicar solo propias, /cotizador y /cotizador.html sin sesion -> /inicio); hoja6 de seguridad; migracion de p_gastos_pza fijado-rastro; p_cob_flexo sin referencia; PDF imprimible (viewport, Imprimir, Laminado solo si aplica, 'Otros volumenes'); paramsVersion solo tc en uso; USADOS +21. Suites: motor 606/606, formulas 16854, test-http 96/96, regla 150/150.",
-  "fecha": "2026-09-18T10:47:30.220Z",
+  "paquete": "p-260918-0759-7fd7",
+  "sha256": "f9458e9a588f9943fad08b8bbd2ba7bb11dd0279cdb03f6399280065af00df11",
+  "nota": "almacen: Logistica ve la salida a detalle AHI MISMO (sdModal) y pide correccion con ANTES/DESPUES + motivo a autorizacion; seccion Aprobaciones con contador; r2+r3 de los revisores (409 en pantalla, Esc, foco, folio manual, esc() con comilla, salida cancelada solo consulta)",
+  "fecha": "2026-09-18T13:59:56.918Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
