@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-1100-ad15",
-  "sha256": "c84b0c100954bbe230121fca932e496b51dbe75cb8f6027c7ad6bcf26e4f08eb",
-  "nota": "almacen r5 (auditoria, ultima ronda): candado de doble envio (SAL_ENVIANDO: la previa y Esc no cierran mientras se registra); catalogo caido ya no dice 'sin existencia' sino 'el catalogo no cargo' con Reintentar; el buscador del carrito espera la carga y se refresca solo; flete externo limpia campos al cambiar; '1,000' avisa 'escribe 1000 sin coma'; la previa vuelve a correr candados; Carta porte apagada para Ventas y 403 como toast",
-  "fecha": "2026-09-18T17:00:12.835Z",
+  "paquete": "p-260918-1141-7d44",
+  "sha256": "7be147a5f2f688c34d632bda466fa4ff70700f4349e8a0149cef395bcfa88181",
+  "nota": "CONTENCION del incidente de hoy: el bot ya NO crea el pedido de tela si el cliente se dijo y NO existe en Airtable (asi nacio el 562 con 'La Nueva Galatea'): guarda el borrador, le pide el nombre bueno a quien dicto y avisa a Direccion; a quien dicto nunca le queda un 'lo registre'. Ademas: guardia determinista de CONFIRMAR, marcadores del mismo cliente fusionados, CONFIRMAR n ya no casa con COT-0123; servidor: mas de 25 renglones da error claro y la carta porte contesta 'ya se imprimio' antes de pedir la casilla",
+  "fecha": "2026-09-18T17:41:53.638Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
