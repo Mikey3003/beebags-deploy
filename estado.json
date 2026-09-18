@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260918-0059-4249",
-  "sha256": "4746e5649e6e34ce6468efaf7e18d36674103d32e8c25683da3437d4a91f6049",
-  "nota": "almacen2d lote v8 (que no vuelva a pasar): casado de SKU de bolsa por niveles (exacto / medidas al reves / misma medida+color con otra marca si hay UN candidato; color distinto nunca) en Registrar, carrito y Todo el pedido; boton 'Crear el producto desde el pedido' con candado antiduplicado y cerrojo de doble clic; aviso con casilla obligatoria de ENTRADA DUPLICADA (cantidad igual o suma de las ultimas entradas igual, o entradas del mismo pedido); barra 'hay version nueva del panel' (HEAD cada 3 min, no tapa, boton Despues). 112 pruebas verdes + 2 revisiones adversariales.",
-  "fecha": "2026-09-18T06:59:57.475Z",
+  "paquete": "p-260918-0432-fbbd",
+  "sha256": "838863666c87f08ce7eba82641a8b0869699e6300b9fbf0f255e68c4788724e3",
+  "nota": "cotizador panel (noche 18 sep): CSS del cliente cerrado, iconos de accesorios 34 px, acordeones que no se cierran al repintar (bolsa y parametros), bultos para Ventas, base.defaults en el formulario, laminado se limpia al cambiar de tecnica, tscroll en Datos/Catalogo, pestanas del catalogo, miga del mapa, tabla de volumen con el escalon cotizado, boton Imprimir/PDF, acordeon Ultimos cambios; celular: precio pegajoso arriba, nav en una fila, inputs 44px/16px + inputmode, cotizaciones en tarjetas, desglose apilado, diagrama solo puertas, mapa compacto, letra minima; pulido: lista de clientes visible, tarjeta abierta, botones 44. Rigs f2 75/75, f3 51/51.",
+  "fecha": "2026-09-18T10:32:37.706Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
