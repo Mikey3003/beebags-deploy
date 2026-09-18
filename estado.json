@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260917-1821-1a39",
-  "sha256": "9b2116f03e901ed84bb94e7e934d041ba3cab96436b2369e186db8c3ff0b5a58",
-  "nota": "almacen2d lote v7 (reintento; el anterior se revirtio porque la prueba llevaba acento): mientras carga el catalogo de productos, el selector de Registrar dice 'cargando el catalogo... espera unos segundos' en vez de 'sin coincidencias'.",
-  "fecha": "2026-09-18T00:21:57.698Z",
+  "paquete": "p-260918-0059-4249",
+  "sha256": "4746e5649e6e34ce6468efaf7e18d36674103d32e8c25683da3437d4a91f6049",
+  "nota": "almacen2d lote v8 (que no vuelva a pasar): casado de SKU de bolsa por niveles (exacto / medidas al reves / misma medida+color con otra marca si hay UN candidato; color distinto nunca) en Registrar, carrito y Todo el pedido; boton 'Crear el producto desde el pedido' con candado antiduplicado y cerrojo de doble clic; aviso con casilla obligatoria de ENTRADA DUPLICADA (cantidad igual o suma de las ultimas entradas igual, o entradas del mismo pedido); barra 'hay version nueva del panel' (HEAD cada 3 min, no tapa, boton Despues). 112 pruebas verdes + 2 revisiones adversariales.",
+  "fecha": "2026-09-18T06:59:57.475Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
