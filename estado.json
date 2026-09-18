@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260918-0432-fbbd",
-  "sha256": "838863666c87f08ce7eba82641a8b0869699e6300b9fbf0f255e68c4788724e3",
-  "nota": "cotizador panel (noche 18 sep): CSS del cliente cerrado, iconos de accesorios 34 px, acordeones que no se cierran al repintar (bolsa y parametros), bultos para Ventas, base.defaults en el formulario, laminado se limpia al cambiar de tecnica, tscroll en Datos/Catalogo, pestanas del catalogo, miga del mapa, tabla de volumen con el escalon cotizado, boton Imprimir/PDF, acordeon Ultimos cambios; celular: precio pegajoso arriba, nav en una fila, inputs 44px/16px + inputmode, cotizaciones en tarjetas, desglose apilado, diagrama solo puertas, mapa compacto, letra minima; pulido: lista de clientes visible, tarjeta abierta, botones 44. Rigs f2 75/75, f3 51/51.",
-  "fecha": "2026-09-18T10:32:37.706Z",
+  "paquete": "p-260918-0447-597f",
+  "sha256": "a99ec500825043d40521600cabb15c36b6c25365cc4ddf6a78b55ee1349c9304",
+  "nota": "cotizador motor+servidor (noche 18 sep): el parametro FIJADO manda sobre Datos 2026 (p_mo_pza=1 ya aplica: todos los precios de bolsa bajan 0.07-0.13%); catalogo de formulas y mapa con cobertura por tinta y empaque de dos niveles (calcular = mapa = formulas); chip 'difiere' arreglado; regla de oro cerrada (entradas por lista blanca, /tela sin %, sin fleteCaja, estado/duplicar solo propias, /cotizador y /cotizador.html sin sesion -> /inicio); hoja6 de seguridad; migracion de p_gastos_pza fijado-rastro; p_cob_flexo sin referencia; PDF imprimible (viewport, Imprimir, Laminado solo si aplica, 'Otros volumenes'); paramsVersion solo tc en uso; USADOS +21. Suites: motor 606/606, formulas 16854, test-http 96/96, regla 150/150.",
+  "fecha": "2026-09-18T10:47:30.220Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
