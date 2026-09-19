@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260918-1215-c617",
-  "sha256": "ef580fb48d43bda72dbad9af85b7308d4f3f21853e738d6e5fa0b55a103a1b48",
-  "nota": "cotizador (auditoria con video): la pantalla ya no dice 'cobertura 30%' mientras se cobra al 100% (sin captura dice 'Cobertura completa (100%) captura el % de cada tinta para cotizar menos' y los campos salen vacios; al capturar una viajan las cuatro); las medidas aceptan coma decimal ('35,5' ya no cotiza una bolsa de 355 cm); borrar un parametro ya NO lo fija en 0 (el servidor rechaza vacio, booleano, arreglo y negativos); bultos y dona se vacian al faltar un dato; la tabla de volumen incluye la cantidad cotizada; laminado solo con flexo BOPP; colores 1-6 solo si hay impresion",
-  "fecha": "2026-09-18T18:15:54.591Z",
+  "paquete": "p-260919-1243-14b9",
+  "sha256": "feb10c7200796804494dd78eed0f6c5b3afe099f727d6aa338b763aa50176fbe",
+  "nota": "catalogo automatico: cada modelo de bolsa o de tela que Ventas levante se da de alta SOLO como producto del almacen (a los 2 min del arranque y luego cada 30 min, y al vuelo al crear el modelo). Asi Miguel ya no se topa con 'este pedido no tiene producto en el almacen': solo hace su entrada. Candados: nunca inventa (codigo sin color, medidas en 0 o gramaje fuera de kg se reportan a Direccion), tope de 40 por corrida, un cerrojo, pausa entre altas, aborta si el catalogo viene parcial, y no reintenta 12 h lo que ya creo (el nombre del producto cambia solo minutos despues por el loop de COD_MARCA). Ruta a mano: POST /api/almacen2d/sincronizar-catalogo (mirar=1 para solo ver)",
+  "fecha": "2026-09-19T18:43:42.480Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
