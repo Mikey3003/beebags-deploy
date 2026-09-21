@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1455-5dc7",
-  "sha256": "07045e9a2a42f5d80c05aaffb2c10247e8a908ad63f9518e57ebf50ccfdbe5a9",
-  "nota": "ajuste de inventario con aprobacion de Direccion + panel de aprobaciones general en /auditoria + Direccion de 4 (Antonio y Jose reciben y aprueban)",
-  "fecha": "2026-09-21T20:55:51.549Z",
+  "paquete": "p-260921-1515-3a96",
+  "sha256": "491f27e7ed91025624236b210df76f3e97b0c2371a42e1f4275fc5646f014b85",
+  "nota": "entrada: sin portada (/ al login), login para todos (Direccion al cerebro, los demas a su panel), cabina con apps en grande y correos abajo, Aprobaciones de Jose al panel general",
+  "fecha": "2026-09-21T21:15:05.906Z",
   "autor": "alex_",
-  "archivos": 10,
-  "reinicio": true,
+  "archivos": 5,
+  "reinicio": false,
   "pausado": false
 }
