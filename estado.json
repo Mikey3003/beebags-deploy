@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1627-6517",
-  "sha256": "0e5cf0572b2275054d70d0608384f39bc4eaa505a542a41649849468ca52dda4",
-  "nota": "Venta de mostrador: se captura con el pago y sale solo cuando Direccion la autoriza (panel de aprobaciones + WhatsApp)",
-  "fecha": "2026-09-21T22:27:44.258Z",
+  "paquete": "p-260921-1644-3fb2",
+  "sha256": "a3262a7e1abaa163f90fc309e4b0ca4636f282469d021b2662ecb1075f23376f",
+  "nota": "Entradas y salidas eligiendo el pedido (chips Pedidos de bolsa/tela + numero debajo del escaner), registro con pedido y fecha de entrega; carta porte ya no deja la pestaña en negro",
+  "fecha": "2026-09-21T22:44:47.703Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
