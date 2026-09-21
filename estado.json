@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1719-d842",
-  "sha256": "3641478023d7dda9e323dd2610d5c74ad2c66554e7913eeab396436ee98734b9",
-  "nota": "Tienda web: catalogo revisado, solicitudes y atribucion Instagram; sin cobros ni movimientos WMS",
-  "fecha": "2026-09-21T23:19:29.714Z",
+  "paquete": "p-260921-1722-e968",
+  "sha256": "ef7be47180f6054a9ab572c088484bab7b42fb36d8039531f3dd802e61043b94",
+  "nota": "Barra de arriba encuentra pedidos (tronaba), entrada a pedido ENTREGADO pide confirmar, pedidos de tela con varios renglones, Logistica: al crear sigue la carta porte (no otra vez 5 hojas)",
+  "fecha": "2026-09-21T23:22:32.330Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
