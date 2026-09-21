@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260919-1243-14b9",
-  "sha256": "feb10c7200796804494dd78eed0f6c5b3afe099f727d6aa338b763aa50176fbe",
-  "nota": "catalogo automatico: cada modelo de bolsa o de tela que Ventas levante se da de alta SOLO como producto del almacen (a los 2 min del arranque y luego cada 30 min, y al vuelo al crear el modelo). Asi Miguel ya no se topa con 'este pedido no tiene producto en el almacen': solo hace su entrada. Candados: nunca inventa (codigo sin color, medidas en 0 o gramaje fuera de kg se reportan a Direccion), tope de 40 por corrida, un cerrojo, pausa entre altas, aborta si el catalogo viene parcial, y no reintenta 12 h lo que ya creo (el nombre del producto cambia solo minutos despues por el loop de COD_MARCA). Ruta a mano: POST /api/almacen2d/sincronizar-catalogo (mirar=1 para solo ver)",
-  "fecha": "2026-09-19T18:43:42.480Z",
+  "paquete": "p-260921-1232-8d66",
+  "sha256": "fac76573ff021bddddc3187b613e1ee01baa627223652ea5d7ca8e952a2215fa",
+  "nota": "candados de medidas (Mikey 21 sep): GRAMOS en kilos de 0.011 a 2 y ANCHO DE ROLLO en metros de 0.06 a 3.6; fuera de rango se RECHAZA y ya no se convierte en silencio (antes 80 se volvia 0.08 y 160 se volvia 0.16). Aplica en Pedidos 2D (nuevo modelo de bolsa, nuevo modelo de tela, solicitud de cambio de gramos) y en el alta de Rollos de Stock / Rollos Estampados del almacen, en pantalla y en el servidor; el catalogo automatico usa el mismo rango. Los colores del modelo de bolsa y de tela se eligen VIENDO la foto de la muestra (tabla Colores del almacen). La coma decimal se vuelve punto al teclear. El bot de WhatsApp sigue igual.",
+  "fecha": "2026-09-21T18:32:58.411Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
