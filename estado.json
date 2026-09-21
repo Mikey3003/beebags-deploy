@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1613-cf72",
-  "sha256": "ced922eb5acb312de75834d3543f1ccfc35bd3e6eeb90ee2cf2ee1eb687dc207",
-  "nota": "Vale de salida con pedido (o de rollos, bolsas, hieleras) = 5 hojas para firmar, directo desde Ver vale; carta porte aparte con el viaje",
-  "fecha": "2026-09-21T22:13:46.107Z",
+  "paquete": "p-260921-1627-6517",
+  "sha256": "0e5cf0572b2275054d70d0608384f39bc4eaa505a542a41649849468ca52dda4",
+  "nota": "Venta de mostrador: se captura con el pago y sale solo cuando Direccion la autoriza (panel de aprobaciones + WhatsApp)",
+  "fecha": "2026-09-21T22:27:44.258Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 5,
   "reinicio": true,
   "pausado": false
 }
