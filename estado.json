@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260921-1232-8d66",
-  "sha256": "fac76573ff021bddddc3187b613e1ee01baa627223652ea5d7ca8e952a2215fa",
-  "nota": "candados de medidas (Mikey 21 sep): GRAMOS en kilos de 0.011 a 2 y ANCHO DE ROLLO en metros de 0.06 a 3.6; fuera de rango se RECHAZA y ya no se convierte en silencio (antes 80 se volvia 0.08 y 160 se volvia 0.16). Aplica en Pedidos 2D (nuevo modelo de bolsa, nuevo modelo de tela, solicitud de cambio de gramos) y en el alta de Rollos de Stock / Rollos Estampados del almacen, en pantalla y en el servidor; el catalogo automatico usa el mismo rango. Los colores del modelo de bolsa y de tela se eligen VIENDO la foto de la muestra (tabla Colores del almacen). La coma decimal se vuelve punto al teclear. El bot de WhatsApp sigue igual.",
-  "fecha": "2026-09-21T18:32:58.411Z",
+  "paquete": "p-260921-1311-3511",
+  "sha256": "d75592aed2279aec00cfdd176014f508b17dd63c40294f5d351b11fc263e7d1b",
+  "nota": "salidas a EMPRESA HERMANA (Mikey 21 sep): en Almacen > Registrar movimiento > Salida, junto al modo prueba, boton 'Empresa hermana' con SOM 360 y SEKA (con sus logos). Solo salen materia prima, tinta, asa, PP virgen y material de reciclado (bolsas, hieleras y rollos NO, candado tambien en el servidor contra el catalogo). El vale sale como SALIDA A EMPRESA HERMANA con el logo de quien recibe. La salida se avisa sola al sistema de SOM 360 (SeriOS) y de SEKA, donde queda POR RECIBIR hasta que alguien de alla confirme cuanto llego; boton Cuadre con lo que salio vs lo que recibieron (reintenta y pregunta cada 5 min). Nunca junto con modo prueba.",
+  "fecha": "2026-09-21T19:11:47.855Z",
   "autor": "alex_",
   "archivos": 6,
   "reinicio": true,
