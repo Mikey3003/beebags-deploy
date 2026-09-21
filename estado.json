@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1539-31d1",
-  "sha256": "6c8412c497150aeaae8a420600afd73d473f46ead5004bbbc8e9d28baee5f4ea",
-  "nota": "vales: Ver vale de salida = 5 hojas del viaje; carta porte (titulo, sin firma cliente ni contabilidad, 3 horas abajo, fecha de creacion); candado de parcialidades (no se surte de mas); saldo del pedido, fotos reales y racks por seccion en el registro",
-  "fecha": "2026-09-21T21:39:10.682Z",
+  "paquete": "p-260921-1605-26e4",
+  "sha256": "44eb71f6780682528b3801c0eb2f40bba1740ff78d2f4778fe5adfbda2483b6e",
+  "nota": "Solicitudes de material de SOM 360 y SEKA: catalogo, aprobacion de Direccion en el panel general, salida ligada con candado",
+  "fecha": "2026-09-21T22:05:56.342Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
