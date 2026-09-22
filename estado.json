@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260922-1415-0e46",
-  "sha256": "2992cdcad39d1caeda60027cac0dd508ee21887818350fb3c51240880923f644",
-  "nota": "Almacen 22 sep (3): ARREGLO del Estado Entrega -el reloj no escribia nada porque llamaba a una funcion interna de salida-transporte que NO esta exportada y el error se comia en silencio; ahora el modulo hace su propia llamada a Airtable con la llave del sistema- y CORRECCIONES DE MODELOS DE TELA: desde la ficha del catalogo ya se puede pedir la correccion de gramos, ancho, metros, color, unidad y tipo de producto (antes solo existia para bolsa), con los mismos candados de gramos (0.011 a 2 kg) y ancho (0.06 a 3.6 m).",
-  "fecha": "2026-09-22T20:15:30.757Z",
+  "paquete": "p-260922-1422-6b06",
+  "sha256": "a88c727271da5932ec5905346ccffe31aab2a01426dffa008b02f5f2c38f0beb",
+  "nota": "Almacen 22 sep (4): ARREGLO del Estado Entrega -Airtable rechazaba TODA la lectura porque se le pedia la columna 'Fecha de La Cita', que no existe en Salidas General; ahora las fechas de cita son opcionales y si falta cualquier columna se suelta y se sigue en vez de quedarse sin escribir nada- y ARREGLO de las solicitudes de correccion (Sara: 'estoy mandando correccion, la marca esta mal, pero no me deja mandarte la solicitud'): varias opciones de Airtable traen espacios de sobra ('Pulpos ', 'CHICA  ', 'ROLLOS ') y el valor que YA tenia el modelo llegaba sin ellos, asi que se rechazaba un campo que la persona ni siquiera estaba cambiando; ahora se compara sin espacios ni mayusculas y se guarda la opcion tal cual esta en Airtable.",
+  "fecha": "2026-09-22T20:22:33.015Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
