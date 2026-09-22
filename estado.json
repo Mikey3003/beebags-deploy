@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1427-ed98",
-  "sha256": "14750ad8884e83a8d39286b628260d7a2a4140d14371a1e1523fbb3759e1d747",
-  "nota": "Logistica: FUERA el recuadro del trazo (Mikey: 'las rutas salen vacias, en blanco y una linea recta, mejor que no se vea nada'). Con ese espacio la cadena de paradas va a todo lo ancho y ya no se corta: Planta sale 09:50 -> cliente llega 10:50 con sus km -> regreso a planta. Se queda la unidad con foto y placas, el chofer, la hora de la carta porte, el pedido con rollos y kilos, el renglon de km/horas/gasolina y el aviso de la direccion que no ubica.",
-  "fecha": "2026-09-22T20:27:47.584Z",
+  "paquete": "p-260922-1447-376f",
+  "sha256": "b4ff501451c5802a5d2f71558e265b0669a6e89e06b97780e1805dea472f86a3",
+  "nota": "Catalogo de SKUs VISIBLE (Mikey: 'que onda con el catalogo de skus, nunca lo subiste' - si estaba, pero escondido tras una pestaña que dice Producto, que el lee como dar de alta). Ahora la pestaña del almacen se llama 'Catalogo' y abre directo en el catalogo (el alta sigue adentro, en el interruptor de al lado), y en Pedidos 2D el boton 'Modelos' pasa a decir 'Catalogo de SKUs'. Lleva sello de version visible para distinguir 'no lo veo' de 'tengo la copia vieja'.",
+  "fecha": "2026-09-22T20:47:17.771Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
