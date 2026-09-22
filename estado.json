@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1550-ac8c",
-  "sha256": "24d7bc4d18e0ea7e7398cce95983a247013bb2255baff68dc4ba6d1ae268c195",
-  "nota": "Aprobaciones/Auditoria: AHORA SI SE PUEDEN CORREGIR. Las 18 solicitudes de Spunbond (de 15 a 49 dias) solo tenian el boton 'ya se hizo', que no corrige nada: no existia forma de aplicarlas. Ademas ancho, gramos, color y meta son FORMULA en la OP y tampoco se escriben en el pedido (ahi son lookup): el dueño del dato es el MODELO. Ahora cada solicitud trae 'Corregir el dato', que crea la correccion sobre el modelo (bolsa o tela) por el camino que ya existia en solicitudes.js, con sus candados de rango, y queda ligada para no pedirla dos veces. Se agrego 'Ancho de Rollo' de BOLSA (fldFzoNyfZbnLgZek), que no estaba en ninguna lista y es lo que mas piden. El panel separa 'por decidir' de 'aprobadas que esperan que alguien las haga a mano', ordena por antiguedad y marca en rojo las de mas de 7 dias. Y el boton ya manda al primer toque (antes el primero solo abria una caja y el de adentro se llamaba igual). RH: no tiene cola de aprobacion y nunca la tuvo -su formulario escribe directo-, ahora el panel lo DICE en vez de no aparecer.",
-  "fecha": "2026-09-22T21:50:44.360Z",
+  "paquete": "p-260922-1615-93dc",
+  "sha256": "c91d91c70dbcebd311f5ec3cd8bcc89e14f20f804a8ca639decf23b54d903079",
+  "nota": "Logistica: la liga a Google Maps ahora va por VIAJE y por PARADA (no necesita llave), y el panel DICE LA VERDAD de por que las rutas salen estimadas: si Google esta rechazando por falta de facturacion lo dice con letras y aclara si es medido o deducido, sin culpar a la direccion del cliente; una direccion de verdad mala ('cdmx') sigue diciendo que le falta calle y numero. Renglon de salud de Google solo para Direccion.",
+  "fecha": "2026-09-22T22:15:24.032Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
