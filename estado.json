@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1628-ecfc",
-  "sha256": "0c1561f0861e12c5aa72064fd5f4cfa01a42730d5e5b7d38c525833b99c918c8",
-  "nota": "Cerebro: deja de trabarse. Antes tardaba entre 2.4 y 7.8 segundos en servir (31 llamadas y 2,215 KB de golpe al entrar) y se rebajaba ENTERO cada 60 segundos: con el panel abierto una jornada eran cerca de 1 GB, y eso es lo que lo iba poniendo mas lento mientras mas rato llevaba. Ahora entra en 1.5 s parejo, con 18 llamadas y 496 KB, y con la pantalla abierta 3 minutos baja 977 KB en vez de 6,576. Facturas y Logistica se piden cuando llegas a ellas, no al entrar; los 13 accesos de areas se piden en UNA llamada en vez de 13. Las cifras y las secciones son las mismas (17/17 comparando pantalla contra pantalla). Esta es solo la pagina: los tres archivos del servidor (camiones ligero, cache de facturas y la ruta de accesos) van en el proximo reinicio.",
-  "fecha": "2026-09-22T22:28:46.774Z",
+  "paquete": "p-260922-1639-fd96",
+  "sha256": "25158c29f7a2589dd5c401a717e041b393d550b809a8772a19e745767521d5da",
+  "nota": "Carta porte: DIRECCION YA NO SE QUEDA ENCERRADA. Si falta la direccion del cliente, Direccion puede AUTORIZAR la excepcion con un motivo y la carta porte sale en el acto (el papel lo dice en rojo debajo del destinatario y en el pie de todas las hojas: 'DIRECCION SIN CONFIRMAR · autorizo <quien> · <motivo>'). Si falta otra cosa (chofer, camioneta, mercancia) sigue sin salir y la autorizacion NO se gasta. Ademas: candado duro de direcciones -sin calle y numero no sale la carta porte, y se cerro el hueco del FLETE EXTERNO por donde se colaban 'neza' y 'CDMX' desde julio-, y la pantalla para capturar las direcciones de los clientes que no tienen, ordenados por lo que mas se les entrego este ano, desde la misma ventana donde aparece el problema.",
+  "fecha": "2026-09-22T22:39:55.221Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
