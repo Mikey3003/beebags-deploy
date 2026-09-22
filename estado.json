@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1408-02aa",
-  "sha256": "3b5605713b8f39df69942378fde8f51780c303816c37da20b20a672fa192760a",
-  "nota": "Almacen 22 sep (2): SE ACABA EL ALTA LIBRE DE PRODUCTOS. El alta del almacen ahora exige ORIGEN: se copia de Modelos de Bolsa, Modelos de Tela o del catalogo de Compras, con su liga; si no esta en ninguna fuente dice a donde ir a darlo de alta. Direccion todavia puede dar de alta a mano pero con MOTIVO y queda en bitacora (data/altas-a-mano.json). Un modelo con el codigo roto (-N/A) no se copia: primero se pide la correccion de la Marca. Ademas: Estado Entrega de las salidas lo llena el servidor cada 2 min con hechos reales (nace Pendiente, Programada con cita o transporte, En Ruta con la carta porte impresa) y lo cierra una persona con Confirmar entrega o Reportar incidencia; nunca pisa Entregada, Incidencia ni canceladas, ni toca nada de mas de 14 dias.",
-  "fecha": "2026-09-22T20:08:50.043Z",
+  "paquete": "p-260922-1415-0e46",
+  "sha256": "2992cdcad39d1caeda60027cac0dd508ee21887818350fb3c51240880923f644",
+  "nota": "Almacen 22 sep (3): ARREGLO del Estado Entrega -el reloj no escribia nada porque llamaba a una funcion interna de salida-transporte que NO esta exportada y el error se comia en silencio; ahora el modulo hace su propia llamada a Airtable con la llave del sistema- y CORRECCIONES DE MODELOS DE TELA: desde la ficha del catalogo ya se puede pedir la correccion de gramos, ancho, metros, color, unidad y tipo de producto (antes solo existia para bolsa), con los mismos candados de gramos (0.011 a 2 kg) y ancho (0.06 a 3.6 m).",
+  "fecha": "2026-09-22T20:15:30.757Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
