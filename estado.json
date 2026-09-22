@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-0626-3f7a",
-  "sha256": "bfaf083454e1e05c240358e90839057ea723f94abf30fa8a804aee3f32e37eb1",
-  "nota": "Historico: foto real del producto en cada movimiento, sello de las observaciones en hora de Mexico (antes salia en UTC) y refresco cada 30 s; el cerebro sella en hora de Mexico; reloj del servidor: se mide contra la hora de internet y se sincroniza solo (GET /api/almacen/reloj)",
-  "fecha": "2026-09-22T12:26:03.992Z",
+  "paquete": "p-260922-0700-6835",
+  "sha256": "2a7cff9de4dd7890deb158810c822baa0b8f721f77b0f77dfd180d392f934b09",
+  "nota": "Spunbond: CADUCIDAD en la etiqueta de los rollos de DEGASA (fecha de produccion + 10 anos); carta porte usa las direcciones escritas a mano (tambien con 'Seguir sin ruta'); reloj del servidor: si Windows no tiene fuente de hora se la configura, y como ultimo recurso se ajusta con la hora de internet",
+  "fecha": "2026-09-22T13:00:48.559Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
