@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-0047-20a8",
-  "sha256": "8b4ca9d3737cff683947532ac2cee7e2f8ecccd76e8ed460da3b74995b170b17",
-  "nota": "Almacen: Mapa con vistas (secciones/lista/tarjetas/tabla) y movimientos desde el rack; 'Movimientos hoy' ahora es HISTORICO (consulta tipo Spunbond: linea del tiempo, iconos por categoria con color del producto, KPIs, CSV y PDF de lo consultado); descarga del INVENTARIO (CSV y PDF); avisos del sistema en la campanita",
-  "fecha": "2026-09-22T06:47:17.398Z",
+  "paquete": "p-260922-0626-3f7a",
+  "sha256": "bfaf083454e1e05c240358e90839057ea723f94abf30fa8a804aee3f32e37eb1",
+  "nota": "Historico: foto real del producto en cada movimiento, sello de las observaciones en hora de Mexico (antes salia en UTC) y refresco cada 30 s; el cerebro sella en hora de Mexico; reloj del servidor: se mide contra la hora de internet y se sincroniza solo (GET /api/almacen/reloj)",
+  "fecha": "2026-09-22T12:26:03.992Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
