@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1655-eebd",
-  "sha256": "7b9d0159e94931fb573f397307279f6b4cb5043eb6e804807ce1b8c5a4231785",
-  "nota": "Carta porte: el NUMERO DE SALIDA de la copia de contabilidad YA NO SE CORTA. Salia 'Salida de Rollos de Stoc...' porque el texto se recortaba para caber a 26 puntos, y ese es justo el dato con el que contabilidad relaciona la factura. Ahora la letra se achica sola hasta que el nombre cabe completo (de 26 a 12 puntos) y solo si ni asi cabe se recorta. Probado: web3 43/43 y r3_1222 14/14.",
-  "fecha": "2026-09-22T22:55:27.555Z",
+  "paquete": "p-260922-1700-1be7",
+  "sha256": "e425424d233ff20864041f4940018c748f3234322d477f015758b5b9416f665f",
+  "nota": "Carta porte y vales (lo que reclamo Mikey hoy): 1) SE ACABA EL CALLEJON: en la ventana de 'falta informacion' ahora se elige una de las direcciones guardadas del cliente con un clic o se escribe otra, y 'Usar esta direccion y seguir' la guarda en la salida Y en el cliente y vuelve a pedir la carta porte enseguida; a Direccion se le esconde el boton de mandar a gerencia, porque no tiene a quien pedirle permiso. Si lo escrito no sirve, dice QUE falta y no borra lo que ya escribio. 2) Las direcciones adicionales ahora viven en la tabla nueva de Airtable 'Direcciones de Entrega', ligadas al cliente, con su etiqueta y quien la capturo. 3) LOS TITULOS DE LOS VALES LLEVAN EL TIPO DE PRODUCTO: 'VALE DE SALIDA DE ROLLOS DE STOCK', 'DE POLIPROPILENO VIRGEN', y en el agrupado el tipo o '(VARIOS PRODUCTOS)' con su columna por renglon. 4) Los PDFs se guardan con nombre de persona: 'Carta porte 1222 - MIGUEL ESTEBAN - 22-09-2026.pdf'. 5) Se mantiene el arreglo de hoy: el NUMERO DE SALIDA de la copia de contabilidad ya no se corta.",
+  "fecha": "2026-09-22T23:00:26.827Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
