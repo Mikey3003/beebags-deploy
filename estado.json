@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1149-5c75",
-  "sha256": "ad6760a1a8b9071593db7e7108a4c0600e396978b3f3901ba4a07e06a40dcc0f",
-  "nota": "Contabilidad: el vale de salida del almacen queda en 4 hojas (sin contabilidad) y la carta porte trae su COPIA CONTABILIDAD para Miriam con el numero de salida; carta porte ya no duplica destinatarios ni productos (caso 1222: 108 rollos/3,132 kg). CRM: 'sin contestar' sin gente del equipo. Logistica: vales automaticos de cambio de rack marcados en salidas-pendientes; ruta de itinerarios para el panel.",
-  "fecha": "2026-09-22T17:49:50.922Z",
+  "paquete": "p-260922-1406-4f38",
+  "sha256": "d49eae8bf98264fb79e2f586f060d172aa54150d6cf1dc47b2e7e8bbd2d1dcf4",
+  "nota": "Almacen 22 sep: carrito de salidas en Registrar (varios racks y colores, un vale por renglon y UNA salida para el viaje); los vales que ya entraron a un viaje dejan de ofrecerse; vale agrupado de varios productos; carta porte con reimpresion autorizada por Direccion; la hoja del viaje queda en 4 hojas (contabilidad se lleva su copia de la carta porte); panel de Logistica; Stock por producto con KPIs, entradas y linea del tiempo; catalogo de SKUs (modelos de bolsa y tela) en almacen y Pedidos 2D; el almacen ya no entra solo con la sesion de otro y dice con quien estas adentro; baja de acceso de Miguel (sus registros se quedan) y Omar con su clave.",
+  "fecha": "2026-09-22T20:06:39.501Z",
   "autor": "alex_",
-  "archivos": 7,
+  "archivos": 11,
   "reinicio": true,
   "pausado": false
 }
