@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1727-bb17",
-  "sha256": "4a789eedd69491d4e2e753ca45350a77eb7057f6d141407203d9c9bd7903e11c",
-  "nota": "Pedidos 2D: apartado MIGUEL ESTEBAN (lo pidio Mikey: 'un apartado que se llame literalmente MIGUEL ESTEBAN y que filtre todos sus pedidos para marcarlos como pagado o no'). Se entra desde el Inicio y tambien desde Logistica. Arriba, lo unico que decide algo: 3 remisiones POR COBRAR, 155 rollos, la mas vieja de hace 110 dias. Abajo la lista, una por renglon, con su boton de Sin pagar / Pagada -con la ley de siempre: solo Alex y Mikey marcan, a los demas les sale apagado y les dice por que-, cuatro pestañas (Por cobrar, Pagadas, Todas, Canceladas) y sus 95 pedidos con estado y precio. Ver la salida, el vale y la carta porte a un clic. NO hay total en pesos y la pantalla lo DICE en vez de inventarlo: las remisiones no guardan importe y de sus 95 pedidos solo 44 traen precio, de los cuales 37 no cuadran entre precio unitario y total. Probado: 57/57 con datos reales y 12/12 en los casos feos.",
-  "fecha": "2026-09-22T23:27:44.684Z",
+  "paquete": "p-260922-1732-0687",
+  "sha256": "97d3d9e02a34f1f485963874cb5ff0aeab2c7589bdac1e4811bfe95c227f5658",
+  "nota": "Dos cosas de fondo: 1) EL PUENTE DE LA CABINA YA NO INVENTA USUARIOS. Al entrar al almacen desde la cabina se acuñaba 'cabina-mikey' con nombre 'Direccion', un usuario que no existe: por eso todo lo que decide por nombre de usuario (quien aprueba solicitudes, quien es administrador, listas blancas) le decia que NO a Mikey, y su solicitud SC-107 se quedo pendiente en vez de aplicarse sola. Ahora, si el slug de la cabina es un usuario de verdad, se acuña ESE con su nombre, su rol y su area; si no existe, se cae a lo de antes. El camino de los que no son admin no se toca. 2) EL CEREBRO, lado servidor: /api/pedidos2d/camiones acepta ?ligero=1 (585 -> 149 KB) y guarda la respuesta ya serializada; /api/facturas/lista tiene cache de 45 s -que ANTES NO TENIA NINGUNA y se pedia cada 60 s: 1.4 MB por vuelta- y se tira al registrar un pago; y una ruta nueva /api/inteligencia/accesos que junta en UNA llamada lo que se pedia area por area (13 idas y vueltas).",
+  "fecha": "2026-09-22T23:32:40.620Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
