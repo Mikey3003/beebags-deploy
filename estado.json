@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1528-735a",
-  "sha256": "c0d1f7313530066cdd17d985a6754128e5b7df1dedb168b91c53ac2243f584cc",
-  "nota": "Logistica y Por producto (lo que pidio Mikey viendo el panel): 1) boton 'Ver la ruta en Google Maps' en cada viaje y en el detalle, con las paradas reales (no necesita llave; si la direccion esta incompleta lo dice). 2) CONFIRMAR ENTREGA en el renglon del viaje, no solo en el detalle: un toque, la hora, y la tarjeta pasa sola a Entregado. 3) LINEA DEL DIA: un carril por unidad con su chofer, cada viaje como barra de salida a regreso con marca por parada y raya en 'ahora'. 4) 11 KPIs mas (kilos, piezas, rollos, km por viaje, unidad y chofer que mas trabajaron, gasolina estimada, horas por viaje, a tiempo vs tarde, salidas sin carta porte y direcciones que no ubican) y dice con letras lo que NO se puede saber hoy. Por producto: rotacion 90 dias, dias parado, cuanto trae cada entrada, que tan repartido esta, 'para lo que le pidieron: alcanza o no alcanza', y arriba los 53 con pedido que no alcanzan y los 493 parados con existencia.",
-  "fecha": "2026-09-22T21:28:16.722Z",
+  "paquete": "p-260922-1550-ac8c",
+  "sha256": "24d7bc4d18e0ea7e7398cce95983a247013bb2255baff68dc4ba6d1ae268c195",
+  "nota": "Aprobaciones/Auditoria: AHORA SI SE PUEDEN CORREGIR. Las 18 solicitudes de Spunbond (de 15 a 49 dias) solo tenian el boton 'ya se hizo', que no corrige nada: no existia forma de aplicarlas. Ademas ancho, gramos, color y meta son FORMULA en la OP y tampoco se escriben en el pedido (ahi son lookup): el dueño del dato es el MODELO. Ahora cada solicitud trae 'Corregir el dato', que crea la correccion sobre el modelo (bolsa o tela) por el camino que ya existia en solicitudes.js, con sus candados de rango, y queda ligada para no pedirla dos veces. Se agrego 'Ancho de Rollo' de BOLSA (fldFzoNyfZbnLgZek), que no estaba en ninguna lista y es lo que mas piden. El panel separa 'por decidir' de 'aprobadas que esperan que alguien las haga a mano', ordena por antiguedad y marca en rojo las de mas de 7 dias. Y el boton ya manda al primer toque (antes el primero solo abria una caja y el de adentro se llamaba igual). RH: no tiene cola de aprobacion y nunca la tuvo -su formulario escribe directo-, ahora el panel lo DICE en vez de no aparecer.",
+  "fecha": "2026-09-22T21:50:44.360Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
