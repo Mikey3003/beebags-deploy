@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1422-6b06",
-  "sha256": "a88c727271da5932ec5905346ccffe31aab2a01426dffa008b02f5f2c38f0beb",
-  "nota": "Almacen 22 sep (4): ARREGLO del Estado Entrega -Airtable rechazaba TODA la lectura porque se le pedia la columna 'Fecha de La Cita', que no existe en Salidas General; ahora las fechas de cita son opcionales y si falta cualquier columna se suelta y se sigue en vez de quedarse sin escribir nada- y ARREGLO de las solicitudes de correccion (Sara: 'estoy mandando correccion, la marca esta mal, pero no me deja mandarte la solicitud'): varias opciones de Airtable traen espacios de sobra ('Pulpos ', 'CHICA  ', 'ROLLOS ') y el valor que YA tenia el modelo llegaba sin ellos, asi que se rechazaba un campo que la persona ni siquiera estaba cambiando; ahora se compara sin espacios ni mayusculas y se guarda la opcion tal cual esta en Airtable.",
-  "fecha": "2026-09-22T20:22:33.015Z",
+  "paquete": "p-260922-1427-ed98",
+  "sha256": "14750ad8884e83a8d39286b628260d7a2a4140d14371a1e1523fbb3759e1d747",
+  "nota": "Logistica: FUERA el recuadro del trazo (Mikey: 'las rutas salen vacias, en blanco y una linea recta, mejor que no se vea nada'). Con ese espacio la cadena de paradas va a todo lo ancho y ya no se corta: Planta sale 09:50 -> cliente llega 10:50 con sus km -> regreso a planta. Se queda la unidad con foto y placas, el chofer, la hora de la carta porte, el pedido con rollos y kilos, el renglon de km/horas/gasolina y el aviso de la direccion que no ubica.",
+  "fecha": "2026-09-22T20:27:47.584Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
