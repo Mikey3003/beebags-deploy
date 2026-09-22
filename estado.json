@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260922-1724-e3dc",
-  "sha256": "abd85ab2c9622c2bb57b2d8e33f3ce2549017fdaa43eaad75e8de2ea49f82af6",
-  "nota": "Carta porte, lo que Mikey vivio hoy: 1) si falta el numero de la calle lo DICE asi -'Le falta el NUMERO de la calle. Si de verdad no tiene, pica sin numero'- con un boton «sin numero (S/N)» que se lo agrega a lo que ya escribio, sin borrarle nada; y si falta la colonia o el CP tambien lo dice aparte. 2) El aviso que se ve es SIEMPRE el del ultimo intento: al picar 'Usar esta direccion y seguir' se borra el error viejo (el del 'cdmx' de cuando se abrio la ventana) y solo queda lo que contesta el servidor de lo que acaba de escribir. 3) La pestaña YA NO se cierra en blanco: si la carta porte falla, se queda y dice el motivo. 4) 'Usar la del cliente': si el cliente ya tiene direccion buena, un boton la pone y la manda sin teclear nada. Probado: r3_dir_web 26/26 y correcciones 69/69 sobre esta misma pagina.",
-  "fecha": "2026-09-22T23:24:18.256Z",
+  "paquete": "p-260922-1727-bb17",
+  "sha256": "4a789eedd69491d4e2e753ca45350a77eb7057f6d141407203d9c9bd7903e11c",
+  "nota": "Pedidos 2D: apartado MIGUEL ESTEBAN (lo pidio Mikey: 'un apartado que se llame literalmente MIGUEL ESTEBAN y que filtre todos sus pedidos para marcarlos como pagado o no'). Se entra desde el Inicio y tambien desde Logistica. Arriba, lo unico que decide algo: 3 remisiones POR COBRAR, 155 rollos, la mas vieja de hace 110 dias. Abajo la lista, una por renglon, con su boton de Sin pagar / Pagada -con la ley de siempre: solo Alex y Mikey marcan, a los demas les sale apagado y les dice por que-, cuatro pestañas (Por cobrar, Pagadas, Todas, Canceladas) y sus 95 pedidos con estado y precio. Ver la salida, el vale y la carta porte a un clic. NO hay total en pesos y la pantalla lo DICE en vez de inventarlo: las remisiones no guardan importe y de sus 95 pedidos solo 44 traen precio, de los cuales 37 no cuadran entre precio unitario y total. Probado: 57/57 con datos reales y 12/12 en los casos feos.",
+  "fecha": "2026-09-22T23:27:44.684Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
