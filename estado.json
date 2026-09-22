@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1046-cd10",
-  "sha256": "9ff52146a61f45ce1a16983392110d760b3e09d2f91f842ce47e92a9b33850af",
-  "nota": "Inbox WhatsApp del CRM: los mensajes de clientes SE GUARDAN (desde el 20 jun se tiraban) con fotos/PDF/audio, lo contestado desde el telefono tambien; el bot sigue en nivel 1 sin contestar a clientes; inbox muestra fotos, abre abajo en celular y Requisicion ya no tapa Enviar; CRM reconoce al equipo. Direcciones de entrega: se sugieren las de Airtable, no acepta 'cdmx', las nuevas se guardan en Airtable. Reloj del servidor sin doble correccion.",
-  "fecha": "2026-09-22T16:46:39.294Z",
+  "paquete": "p-260922-1117-1db0",
+  "sha256": "5bc59edc90d40a6c7c20507843a0841148f905fb3e81504bc49cf59973a3ac7f",
+  "nota": "Inbox: el reproductor de audio de los clientes ya se ve completo con su boton de play (salia de 47 px)",
+  "fecha": "2026-09-22T17:17:23.705Z",
   "autor": "alex_",
-  "archivos": 10,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
