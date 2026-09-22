@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1734-2d71",
-  "sha256": "503d3cabadc6d776c32d58a40d80befb7f3d77c07b60eba8df0224eca1c70406",
-  "nota": "LAS FOTOS DEJAN DE CADUCAR. Medido: las 2,036 ligas de foto que manda hoy el servidor vencen TODAS en el mismo instante de reloj (no es una ventana que corre contigo), asi que a media tarde todos los paneles se quedan sin imagenes de golpe y quien abre el panel 5 minutos antes las ve 5 minutos. Ademas las de camioneta y chofer se guardan en disco al crear el viaje y se bajan al IMPRIMIR: una carta porte impresa al dia siguiente ya no dibujaba unidad ni operador. Ahora hay src/fotos.js: GET /api/foto?tipo=producto|color|camioneta|chofer|maquina|modelo con copia en disco (data/fotos-cache, tope 300 MB con desalojo), ETag, 304, tope de 8 descargas a la vez, y si Airtable se cae o la liga vencio se sirve la copia vieja. Se monta con dos lineas en index.js, una de ellas para que el portero deje pasar las imagenes (un <img> solo manda la cookie). Los paneles se apuntan a la ruta nueva en la siguiente tanda; mientras, nada cambia para ellos. Pruebas: 32/32 con dobles y 10/10 cargando el modulo como lo carga el servidor.",
-  "fecha": "2026-09-22T23:34:31.844Z",
+  "paquete": "p-260922-1750-d09e",
+  "sha256": "ab0f76992a5d0a317090e1b0dab690902b13584dd62c166bda264f6b0e14a1cf",
+  "nota": "PEDIDO 810: Omar no podia sacar porque el candado decia 'surtido completo' (7,017 de 5,000). Contaba el vale 12215 (19 sep, 5,017 pz de 42X33X18-ROJO-TL, OTRA bolsa) ligado al pedido de 50X42X15-ROJO-LRS. Ahora el saldo solo cuenta los vales del mismo producto (medidas en cualquier orden, fuelle vacio comodin, 375=37.5; color/marca no se comparan porque en la base HUES/BEIG y MY/MR son la misma bolsa). 810 queda en 2,000 de 5,000 (quedan 3,000). La caja del saldo y el mensaje del candado dicen que vales salieron, cuando, quien, que producto, los vales de otro producto que NO cuentan y las facturas del pedido. Verificado contra Airtable real: 907 1500/1500, 845 9600, 865 3037 sin cambio; 231/35 (37.5 vs 375) y 456 (fuelle vacio) no se confunden.",
+  "fecha": "2026-09-22T23:50:02.947Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
