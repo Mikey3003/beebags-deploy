@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1639-fd96",
-  "sha256": "25158c29f7a2589dd5c401a717e041b393d550b809a8772a19e745767521d5da",
-  "nota": "Carta porte: DIRECCION YA NO SE QUEDA ENCERRADA. Si falta la direccion del cliente, Direccion puede AUTORIZAR la excepcion con un motivo y la carta porte sale en el acto (el papel lo dice en rojo debajo del destinatario y en el pie de todas las hojas: 'DIRECCION SIN CONFIRMAR · autorizo <quien> · <motivo>'). Si falta otra cosa (chofer, camioneta, mercancia) sigue sin salir y la autorizacion NO se gasta. Ademas: candado duro de direcciones -sin calle y numero no sale la carta porte, y se cerro el hueco del FLETE EXTERNO por donde se colaban 'neza' y 'CDMX' desde julio-, y la pantalla para capturar las direcciones de los clientes que no tienen, ordenados por lo que mas se les entrego este ano, desde la misma ventana donde aparece el problema.",
-  "fecha": "2026-09-22T22:39:55.221Z",
+  "paquete": "p-260922-1655-eebd",
+  "sha256": "7b9d0159e94931fb573f397307279f6b4cb5043eb6e804807ce1b8c5a4231785",
+  "nota": "Carta porte: el NUMERO DE SALIDA de la copia de contabilidad YA NO SE CORTA. Salia 'Salida de Rollos de Stoc...' porque el texto se recortaba para caber a 26 puntos, y ese es justo el dato con el que contabilidad relaciona la factura. Ahora la letra se achica sola hasta que el nombre cabe completo (de 26 a 12 puntos) y solo si ni asi cabe se recorta. Probado: web3 43/43 y r3_1222 14/14.",
+  "fecha": "2026-09-22T22:55:27.555Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
