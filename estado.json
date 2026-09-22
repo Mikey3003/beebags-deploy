@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260922-1447-376f",
-  "sha256": "b4ff501451c5802a5d2f71558e265b0669a6e89e06b97780e1805dea472f86a3",
-  "nota": "Catalogo de SKUs VISIBLE (Mikey: 'que onda con el catalogo de skus, nunca lo subiste' - si estaba, pero escondido tras una pestaña que dice Producto, que el lee como dar de alta). Ahora la pestaña del almacen se llama 'Catalogo' y abre directo en el catalogo (el alta sigue adentro, en el interruptor de al lado), y en Pedidos 2D el boton 'Modelos' pasa a decir 'Catalogo de SKUs'. Lleva sello de version visible para distinguir 'no lo veo' de 'tengo la copia vieja'.",
-  "fecha": "2026-09-22T20:47:17.771Z",
+  "paquete": "p-260922-1512-ea7d",
+  "sha256": "6c77b92a2facc06d1ba29188ba08c7d54013a2472edf32ef3a35ed6e80ce58f5",
+  "nota": "Catalogo de SKUs (2): los MODELOS DE TELA ya enseñan SU COLOR en vez de 'tela sin foto' (si la muestra del color no esta o su liga de Airtable caduco, se pinta el color con su nombre) y abajo la descripcion de lo que es: gramaje, ancho, metros, unidad y cliente. Y MARCA y CODIGO DE MARCA quedan separados y etiquetados en la tarjeta y en la ficha ('Marca: OPTIMA' + 'cod. OPTM'), igual el color, porque la gente los confundia; en la ficha hay una seccion nueva que explica cada uno. Los modelos con el codigo en N/A lo dicen con letras y ofrecen pedir la correccion de la Marca.",
+  "fecha": "2026-09-22T21:12:23.065Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": false,
