@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260921-1724-654d",
-  "sha256": "02f516b987ad8339e5cc53416f5df9f76e6599aa6111ae728b344f8f673cc55f",
-  "nota": "Tienda: reconexion automatica del tunel y hora verificada para el enlace seguro",
-  "fecha": "2026-09-21T23:24:24.794Z",
+  "paquete": "p-260921-1808-3d22",
+  "sha256": "ba97ee8f2d551c9aa46303a9d13030fc6ba9c9abb018db0016b42ad55d8ba4ed",
+  "nota": "WhatsApp: avisos del agente, reporte diario, OC recibidas y correcciones de vale a TODA Direccion del organigrama (Antonio y Jose incluidos)",
+  "fecha": "2026-09-22T00:08:55.318Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
