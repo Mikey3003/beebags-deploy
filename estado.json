@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1615-93dc",
-  "sha256": "c91d91c70dbcebd311f5ec3cd8bcc89e14f20f804a8ca639decf23b54d903079",
-  "nota": "Logistica: la liga a Google Maps ahora va por VIAJE y por PARADA (no necesita llave), y el panel DICE LA VERDAD de por que las rutas salen estimadas: si Google esta rechazando por falta de facturacion lo dice con letras y aclara si es medido o deducido, sin culpar a la direccion del cliente; una direccion de verdad mala ('cdmx') sigue diciendo que le falta calle y numero. Renglon de salud de Google solo para Direccion.",
-  "fecha": "2026-09-22T22:15:24.032Z",
+  "paquete": "p-260922-1625-237f",
+  "sha256": "6ac978e28fe80e26268b859e3e0feb26c7a81f2ffa23e18ff2242237a5bdbc59",
+  "nota": "Catalogo (3), lo que reclamo Mikey: las telas BLANCAS, CRUDO, BEIGE y CAQUI se veian como un hueco sobre la tarjeta blanca, y como el rojo si saltaba parecia que solo se habia puesto el rojo (175 de 774 telas son blancas). Ahora el color va SIEMPRE de fondo del cuadro -aunque la foto venga en camino o la liga de Airtable haya caducado-, con el nombre encima ('BLANCO · BLAN', 'VINO · VINO') y un marco por dentro para que el blanco no se funda con la tarjeta. Medido con la pagina en vivo y los datos del servidor: de las 60 primeras telas, 60 con su color, 0 vacias, 19 colores distintos. Y el icono de bolsa se rehizo: era un cajon con un arco, ahora es un tote con cuerpo de tela y dos asas.",
+  "fecha": "2026-09-22T22:25:50.120Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
