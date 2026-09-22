@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1512-ea7d",
-  "sha256": "6c77b92a2facc06d1ba29188ba08c7d54013a2472edf32ef3a35ed6e80ce58f5",
-  "nota": "Catalogo de SKUs (2): los MODELOS DE TELA ya enseñan SU COLOR en vez de 'tela sin foto' (si la muestra del color no esta o su liga de Airtable caduco, se pinta el color con su nombre) y abajo la descripcion de lo que es: gramaje, ancho, metros, unidad y cliente. Y MARCA y CODIGO DE MARCA quedan separados y etiquetados en la tarjeta y en la ficha ('Marca: OPTIMA' + 'cod. OPTM'), igual el color, porque la gente los confundia; en la ficha hay una seccion nueva que explica cada uno. Los modelos con el codigo en N/A lo dicen con letras y ofrecen pedir la correccion de la Marca.",
-  "fecha": "2026-09-22T21:12:23.065Z",
+  "paquete": "p-260922-1528-735a",
+  "sha256": "c0d1f7313530066cdd17d985a6754128e5b7df1dedb168b91c53ac2243f584cc",
+  "nota": "Logistica y Por producto (lo que pidio Mikey viendo el panel): 1) boton 'Ver la ruta en Google Maps' en cada viaje y en el detalle, con las paradas reales (no necesita llave; si la direccion esta incompleta lo dice). 2) CONFIRMAR ENTREGA en el renglon del viaje, no solo en el detalle: un toque, la hora, y la tarjeta pasa sola a Entregado. 3) LINEA DEL DIA: un carril por unidad con su chofer, cada viaje como barra de salida a regreso con marca por parada y raya en 'ahora'. 4) 11 KPIs mas (kilos, piezas, rollos, km por viaje, unidad y chofer que mas trabajaron, gasolina estimada, horas por viaje, a tiempo vs tarde, salidas sin carta porte y direcciones que no ubican) y dice con letras lo que NO se puede saber hoy. Por producto: rotacion 90 dias, dias parado, cuanto trae cada entrada, que tan repartido esta, 'para lo que le pidieron: alcanza o no alcanza', y arriba los 53 con pedido que no alcanzan y los 493 parados con existencia.",
+  "fecha": "2026-09-22T21:28:16.722Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
