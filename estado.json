@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1341-e9cf",
-  "sha256": "99c8a6c45aff03f565e73e175d75bc983db159e49bd0982e6df1c5d115312520",
-  "nota": "23 SEP ~13:30 - ALMACEN Logistica: un viaje de varios pedidos (ej. 1226 = 574+554+575) muestra todos sus pedidos y de que pedido es cada renglon; buscar cualquiera encuentra el viaje; despues de crear un viaje relee Logistica/pedidos/vales hasta verlo (ya no se esconde por cache). Sin el servidor nuevo funciona igual que hoy. ver_sl 54/54, ver_av 34/34. Solo pagina.",
-  "fecha": "2026-09-23T19:41:08.664Z",
+  "paquete": "p-260923-1357-d15f",
+  "sha256": "5a7ef42c72f8d2f1508f4aaa28f99e44c7e005a4ed483a59a24d947a9dbbe43b",
+  "nota": "23 SEP ~14:10 - URGENTE ALMACEN: (1) ROLLOS ESTAMPADOS pueden salir como CONSUMO INTERNO a produccion (Mikey: 'es una salida interna'); quedan en data/salidas-sin-pedido.jsonl; rollos de stock y bolsas siguen con pedido/mostrador. (2) Viajes de varios pedidos (ej. 1226 = 574+554+575): cada pedido cuenta SOLO su parte por sus vales (554=59, 574=2, 575=1; antes 575=62), sin tocar ligas de Airtable; al crear salida se limpian las caches (pedidos 10 min, vale->viaje 60 s, salidas) y ?fresco=1. Base = servidor vivo (p-1135) para no perder Capturar ni Miguel. ver_sl 54/54, probar_srv 8/8.",
+  "fecha": "2026-09-23T19:57:49.820Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
