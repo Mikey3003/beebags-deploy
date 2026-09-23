@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-2258-2dd8",
-  "sha256": "50755a0fa519ebd9cde35d2ac58106765c76d459c4935ffe55ab48e8a0a86467",
-  "nota": "Incluye lo de p-2257 (Cancelar la reimpresion autorizada, carta-porte-rutas + pagina) por si no se habia aplicado, MAS: GET /api/salud/hardware (solo lectura, detras de la clave del hub): procesador, nucleos, RAM, tarjeta de video y su memoria, discos, sistema operativo y nvidia-smi si existe. Mikey quiere saber si el servidor aguanta una IA local. Probado en local: contesta CPU/GPU/RAM.",
-  "fecha": "2026-09-23T04:58:57.650Z",
+  "paquete": "p-260922-2338-be65",
+  "sha256": "fff43417dd450dfcfb7e05e21b247e1466010d847c8754362710ebdb27710da6",
+  "nota": "(1) ARMAR VIAJE: cada vale sale con su FOTO, muestra de COLOR y ESPECIFICACIONES (70 g · 1.6 m de ancho · 100 m · NEGRO / 48 x 45 cm · fuelle 18 cm), rack, hora en que salio y peso (sin peso en rojo); los vales del mismo pedido siguen agrupados con su total. Mikey: 'no salen ni las imagenes ni las especificaciones de cada producto'. Se quita el 'Aun no agregas ningun pedido al carrito' que salia sin razon. ver_av 36/36. (2) PEDIDOS 2D: el apartado MIGUEL ESTEBAN solo lo ven Mikey y Alex (la misma regla del servidor que decide quien marca pagada una remision: cobranza); a los demas ni se les ve ni se abre por consola. probar 5/5 (con la pagina de antes Sara lo veia y lo abria).",
+  "fecha": "2026-09-23T05:38:23.912Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
