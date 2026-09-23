@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1750-d09e",
-  "sha256": "ab0f76992a5d0a317090e1b0dab690902b13584dd62c166bda264f6b0e14a1cf",
-  "nota": "PEDIDO 810: Omar no podia sacar porque el candado decia 'surtido completo' (7,017 de 5,000). Contaba el vale 12215 (19 sep, 5,017 pz de 42X33X18-ROJO-TL, OTRA bolsa) ligado al pedido de 50X42X15-ROJO-LRS. Ahora el saldo solo cuenta los vales del mismo producto (medidas en cualquier orden, fuelle vacio comodin, 375=37.5; color/marca no se comparan porque en la base HUES/BEIG y MY/MR son la misma bolsa). 810 queda en 2,000 de 5,000 (quedan 3,000). La caja del saldo y el mensaje del candado dicen que vales salieron, cuando, quien, que producto, los vales de otro producto que NO cuentan y las facturas del pedido. Verificado contra Airtable real: 907 1500/1500, 845 9600, 865 3037 sin cambio; 231/35 (37.5 vs 375) y 456 (fuelle vacio) no se confunden.",
-  "fecha": "2026-09-22T23:50:02.947Z",
+  "paquete": "p-260922-1801-9d67",
+  "sha256": "16c9fd8d9ebb4d4d227e6811344253ea522cc2944ce311554faaafbf1ace576e",
+  "nota": "Tanda 2 del 810. (1) CANDADO: ya no deja ligar una salida de OTRA bolsa (otras medidas) a un pedido de bolsa: asi nacio el vale 12215 (19 sep, 5,017 pz de 42X33X18 al pedido 810 de 50X42X15, que NO salio segun Omar). Direccion puede forzar con motivo. Si el catalogo no contesta, no frena. (2) CORRECCIONES: al cancelar/corregir/cambiar de pedido un vale que no contaba para el pedido (otra bolsa), la vista previa ya no le resta al pedido (decia '-3,017 de 5,000'); cambiar un vale a un pedido de otra bolsa se bloquea. Probado contra Airtable real con guarda de escritura: 810 con 42X33X18 -> frena por producto; 810 con la correcta 4,000 -> frena por saldo (quedan 3,000) con el detalle de vales; simulacion de cancelar 12215 -> 5,017 regresan al rack y el 810 sigue en 2,000 de 5,000.",
+  "fecha": "2026-09-23T00:01:24.468Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
