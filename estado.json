@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260923-1037-7ace",
-  "sha256": "521696a211cd38fb07a3e928b59a996e7a107866a85ad570ab1b79423ea8c2ae",
-  "nota": "23 SEP ~10:45 - Pedidos 2D: (1) Miguel Esteban aparece aunque la pagina se haya abierto ANTES de entrar (Mikey no lo veia: la pagina preguntaba al servidor una sola vez al cargar); (2) portada: tarjeta de Inbox limpia, buscar (ej. 810) cuenta en todos los estados y ensena los resultados arriba, 120 px libres para el boton de requisicion. ver_mep 82/82, ver_lnd 126/0, ver_cap 203/203.",
-  "fecha": "2026-09-23T16:37:31.578Z",
+  "paquete": "p-260923-1130-a61c",
+  "sha256": "3352d13aaf3a23580319d17f928d4d506db998f6788b246935d4d1699ae18b4f",
+  "nota": "URGENTE 23 SEP ~11:25 - ARMAR VIAJE: Omar tecleaba el PESO de vales que ya salieron (12335, 12337, 12339) y seguia 'Falta el PESO': la revision previa (viaje/simular) no mandaba los pesos ni se volvia a preguntar al cambiarlos. Ahora manda pesos y la firma los incluye. Solo pagina.",
+  "fecha": "2026-09-23T17:30:48.130Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
