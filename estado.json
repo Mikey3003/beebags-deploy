@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1833-48d2",
-  "sha256": "bc13ce30fd03462ba99e88670695764d3cd9925d8c8ea9269afc7fac8dfc3a91",
-  "nota": "AUDITORIA carta porte 22 sep (hallazgo 1 y 8): la HOJA DEL VIAJE (4 copias, la de vigilancia incluida) salia con CHOFER y CAMIONETA en blanco cuando el flete es externo, porque solo leia las ligas del catalogo en Salidas Bee Bags (synced) y el operador/unidad del transportista viven en texto en Salidas General. Ahora, si vienen vacios, se toman de salida-transporte (la misma fuente que la carta porte), con tope de 4 s. Probado con salidas reales (solo lectura): 1223 antes '—' ahora 'Miguel Angel Olmedo / A-10669F' (igual que su carta porte); 1222 y 1221 sin flete no cambian. La fecha programada ya no sale repetida ('22/09/2026, 22/09/2026, 22/09/2026').",
-  "fecha": "2026-09-23T00:33:56.897Z",
+  "paquete": "p-260922-2233-eeb4",
+  "sha256": "d8776af66eaf424b1677570ebc72c939ae55ad4e62959a9c49323e42c1f90084",
+  "nota": "ARMAR VIAJE, tanda 1 (sin cambio visible para Omar). SERVIDOR: salida-carrito acepta vales YA registrados sin viaje (foliosExistentes) en el mismo viaje y tiene SIMULAR (POST /api/almacen2d/viaje/simular) que corre los mismos candados sin escribir. Antes de registrar nada ahora revisa: peso de los vales existentes (se guarda y se exige como en /salida), chofer y camioneta con unidad propia, cliente propio o faltante, rack compartido entre renglones, mezcla rollos/bolsas, 25 renglones; el simulacro encadena el saldo del pedido y no escribe en disco. Probado contra Airtable real con guarda de escritura 12/12 + revision adversarial. CARTA PORTE: la excepcion de direccion solo se gasta si faltaba la direccion; la reimpresion de Direccion apaga la autorizacion pendiente; se quita la semilla de la 1222 (la autorizacion YA guardada se queda hasta que Mikey decida); POST carta-porte/pedir-excepcion + GET excepciones-pedidas (Almacen le pide a Direccion por WhatsApp); CP2 ya no se reabre si se cierra mientras dice Revisando; la pestana de la carta porte se cierra cuando el motivo ya esta en el almacen; el texto de Enviar a gerencia dice la verdad. probar_cp 41/41, ver_cp2_av 25/25, ver_lg 132/132, bateria cp verde salvo rojos viejos explicados.",
+  "fecha": "2026-09-23T04:33:56.908Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
