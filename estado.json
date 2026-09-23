@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-0922-6751",
-  "sha256": "4e70b46eab018f910b30f6269e2ad3918daf9251b037d4aa9c28a399403bc881",
-  "nota": "23 SEP ~09:45 - (1) PANEL PROPIO DE MIGUEL ESTEBAN: solo mikey, alex y jose.serio (lista aparte de cobranza; Antonio NO) + CONTRASENA verificada en el servidor (hash scrypt con sal en data/miguel-panel.json, timingSafeEqual, 5 fallos = 15 min, token 8 h); rutas me-estado/me-desbloquear/me-cerrar/me-datos/me-pagos/me-rollos (solo lectura); todo en orden, almacen (entradas/salidas), rollos por lote, pagos con fecha real. Marcar pagada sigue solo Mikey y Alex. (2) CARTA PORTE sin hoja medio vacia: firmas tras el resumen, copia de contabilidad en la misma hoja con RECORTAR AQUI si cabe; si no, hoja propia con recuadro para contabilidad (13 casos, ninguna hoja >35% en blanco). (3) listarModelosBolsa manda producto, caja, piezas, tarima e impresion para el selector de Capturar. (4) Pagina pedidos2d con el panel mep. Pruebas: ver_servidor 61/61, ver_mep 82/82, ver_linea 189/0, ver_cap 203/203.",
-  "fecha": "2026-09-23T15:22:31.033Z",
+  "paquete": "p-260923-1037-7ace",
+  "sha256": "521696a211cd38fb07a3e928b59a996e7a107866a85ad570ab1b79423ea8c2ae",
+  "nota": "23 SEP ~10:45 - Pedidos 2D: (1) Miguel Esteban aparece aunque la pagina se haya abierto ANTES de entrar (Mikey no lo veia: la pagina preguntaba al servidor una sola vez al cargar); (2) portada: tarjeta de Inbox limpia, buscar (ej. 810) cuenta en todos los estados y ensena los resultados arriba, 120 px libres para el boton de requisicion. ver_mep 82/82, ver_lnd 126/0, ver_cap 203/203.",
+  "fecha": "2026-09-23T16:37:31.578Z",
   "autor": "alex_",
-  "archivos": 6,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
