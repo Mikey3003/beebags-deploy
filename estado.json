@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-2338-be65",
-  "sha256": "fff43417dd450dfcfb7e05e21b247e1466010d847c8754362710ebdb27710da6",
-  "nota": "(1) ARMAR VIAJE: cada vale sale con su FOTO, muestra de COLOR y ESPECIFICACIONES (70 g · 1.6 m de ancho · 100 m · NEGRO / 48 x 45 cm · fuelle 18 cm), rack, hora en que salio y peso (sin peso en rojo); los vales del mismo pedido siguen agrupados con su total. Mikey: 'no salen ni las imagenes ni las especificaciones de cada producto'. Se quita el 'Aun no agregas ningun pedido al carrito' que salia sin razon. ver_av 36/36. (2) PEDIDOS 2D: el apartado MIGUEL ESTEBAN solo lo ven Mikey y Alex (la misma regla del servidor que decide quien marca pagada una remision: cobranza); a los demas ni se les ve ni se abre por consola. probar 5/5 (con la pagina de antes Sara lo veia y lo abria).",
-  "fecha": "2026-09-23T05:38:23.912Z",
+  "paquete": "p-260923-0241-6ecb",
+  "sha256": "e768fc55350d467ab4b4966851a01c50cf5c09c836734e2bfa50994012f8be85",
+  "nota": "NOCHE 23 SEP (servidor). (1) PEDIDOS QUE SE CERRABAN SOLOS: reconciliarEstados subia a ENTREGADO los parciales 766 771 745 747 580 590 464 665 248 cada 5 min por la formula ESTADO SALIDAS (rollup del viaje completo) y SERVERHP los bajaba: Omar podia o no sacarlos segun el minuto. Ya no sube parciales. (2) candado y selector ya no leen la formula ESTADO; el tope por vales sigue. (3) Pedidos 2D: el servidor exige datos con sentido (cantidades >0, fechas reales, entrega no antes del levantamiento, medidas >0) y un renglon de tela que falla ya no se calla (fallidas). (4) detalle manda la hora real de cada movimiento (creado). (5) auditor: salida en curso no se duplica, catalogo de pedidos no cachea una lectura fallida, grupo de racks cerrado cuenta en dia local, atrasados en dia de Mexico, formato de captura no dice guardado si fallo. (6) ruta de ficha PDF acepta ?precios=1 solo para quien ve precios.",
+  "fecha": "2026-09-23T08:41:18.127Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
