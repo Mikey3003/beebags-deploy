@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1130-a61c",
-  "sha256": "3352d13aaf3a23580319d17f928d4d506db998f6788b246935d4d1699ae18b4f",
-  "nota": "URGENTE 23 SEP ~11:25 - ARMAR VIAJE: Omar tecleaba el PESO de vales que ya salieron (12335, 12337, 12339) y seguia 'Falta el PESO': la revision previa (viaje/simular) no mandaba los pesos ni se volvia a preguntar al cambiarlos. Ahora manda pesos y la firma los incluye. Solo pagina.",
-  "fecha": "2026-09-23T17:30:48.130Z",
+  "paquete": "p-260923-1135-956d",
+  "sha256": "a6207792f7a4af664de291b7636996050a6746465063e40bb671b503aae26f6d",
+  "nota": "23 SEP ~11:40 - TODO LO DE HOY (Mikey: 'deploy de todo'). PAGINA Pedidos 2D: portada con 5 numeros + 4 graficas SVG + Linea del tiempo como vista de entrada + Ordenar por (levantamiento/entrega/numero/cliente, nuevo/viejo) + correcciones y mas numeros plegables; panel bolsa/tela con 6 numeros, 4 graficas, barra nueva sin emojis, linea del tiempo primero en el detalle, rollos con su color/foto; Capturar con precio por pieza en pedido de bolsa (obligatorio para Miguel Esteban) y ultimo precio de venta; Miguel Esteban con 'Falta registrar' (precios, fechas de pago, fechas de entrega) que obliga a registrar. SERVIDOR: me-registrar (solo mikey/alex/jose.serio con clave, escribe via solicitudes.aplicarDirecto + bitacora), candados mep (pedido nuevo de Miguel sin precio 400, remision sin importe no se paga 409), pedido-bolsa acepta precio; PDFs de PEDIDO bolsa y tela redisenados (pedido-pdf-diseno.js nuevo). Pruebas: ver_lnd 155/0, ver_linea 223/0, ver_cap 225/225, ver_mep 108/108, ver_registrar 54/54, ver_servidor 61/61, PDFs 14/14.",
+  "fecha": "2026-09-23T17:35:03.471Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 7,
+  "reinicio": true,
   "pausado": false
 }
