@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-2233-eeb4",
-  "sha256": "d8776af66eaf424b1677570ebc72c939ae55ad4e62959a9c49323e42c1f90084",
-  "nota": "ARMAR VIAJE, tanda 1 (sin cambio visible para Omar). SERVIDOR: salida-carrito acepta vales YA registrados sin viaje (foliosExistentes) en el mismo viaje y tiene SIMULAR (POST /api/almacen2d/viaje/simular) que corre los mismos candados sin escribir. Antes de registrar nada ahora revisa: peso de los vales existentes (se guarda y se exige como en /salida), chofer y camioneta con unidad propia, cliente propio o faltante, rack compartido entre renglones, mezcla rollos/bolsas, 25 renglones; el simulacro encadena el saldo del pedido y no escribe en disco. Probado contra Airtable real con guarda de escritura 12/12 + revision adversarial. CARTA PORTE: la excepcion de direccion solo se gasta si faltaba la direccion; la reimpresion de Direccion apaga la autorizacion pendiente; se quita la semilla de la 1222 (la autorizacion YA guardada se queda hasta que Mikey decida); POST carta-porte/pedir-excepcion + GET excepciones-pedidas (Almacen le pide a Direccion por WhatsApp); CP2 ya no se reabre si se cierra mientras dice Revisando; la pestana de la carta porte se cierra cuando el motivo ya esta en el almacen; el texto de Enviar a gerencia dice la verdad. probar_cp 41/41, ver_cp2_av 25/25, ver_lg 132/132, bateria cp verde salvo rojos viejos explicados.",
-  "fecha": "2026-09-23T04:33:56.908Z",
+  "paquete": "p-260922-2242-2dbd",
+  "sha256": "5669ed73b54f719492a0ec988c8f57054bab3c092fcba61d5bfbdf50158f1d50",
+  "nota": "ARMAR VIAJE, tanda 2: panel 'Armar viaje' DENTRO de Logistica (pestanas Tablero de viajes / Armar viaje), SOLO para Direccion y quien lo prenda en su equipo (localStorage av_on=1). Omar sigue con el modal de siempre (probado). Un solo camino por pedido: vales que ya salieron + salidas nuevas del rack en el mismo viaje; Asi queda con los candados de siempre + el simulacro del servidor; despues de crear, hoja del viaje y carta porte en el mismo panel; 'Usar el formulario de antes' regresa todo. ver_av 36/36, revision adversarial 10/10, ver_cp2_av 25/25, ver_lg 132/132, bateria de la pagina verde.",
+  "fecha": "2026-09-23T04:42:47.162Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
