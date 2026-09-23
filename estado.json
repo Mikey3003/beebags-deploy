@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-2257-a8f2",
-  "sha256": "f436ca06074ab0626b9943b7800a4b294ea0b756b9d5dcc64008e5e5603b0da4",
-  "nota": "CARTA PORTE: Direccion puede CANCELAR desde la ventana de la carta porte una reimpresion que dejo autorizada para Almacen y ya no hace falta (antes solo se podia autorizar). Pide motivo de 5 letras, queda escrito quien/cuando/por que y en el registro de actividad; Almacen no puede cancelarla; se puede volver a autorizar despues. Mikey pidio anular la de la 1222. probar_cancelar 11/11 (rojo sin el arreglo), probar_cp 41/41, ver_cp2_av 25/25, ver_av 36/36.",
-  "fecha": "2026-09-23T04:57:08.915Z",
+  "paquete": "p-260922-2258-2dd8",
+  "sha256": "50755a0fa519ebd9cde35d2ac58106765c76d459c4935ffe55ab48e8a0a86467",
+  "nota": "Incluye lo de p-2257 (Cancelar la reimpresion autorizada, carta-porte-rutas + pagina) por si no se habia aplicado, MAS: GET /api/salud/hardware (solo lectura, detras de la clave del hub): procesador, nucleos, RAM, tarjeta de video y su memoria, discos, sistema operativo y nvidia-smi si existe. Mikey quiere saber si el servidor aguanta una IA local. Probado en local: contesta CPU/GPU/RAM.",
+  "fecha": "2026-09-23T04:58:57.650Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
