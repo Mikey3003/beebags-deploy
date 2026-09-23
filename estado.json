@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-0759-8f6e",
-  "sha256": "8bad78f1981c985b6fb7da82830dff7a63ece8c888c71eb62a4d3f0fe4011fa1",
-  "nota": "23 SEP - SERVIDOR: alta de modelo de bolsa acepta el VASO THERMO STAR (Productos recJmSlN7e4RWqD2G) sin alto, ancho ni gramos de tela; para cualquier otro producto todo igual (alto/ancho >0 y gramos 0.011-2 kg). Va con el campo Producto nuevo de Pedidos 2D (p-260923-0758-051f). index.js = el de p-260923-0241-6ecb + este cambio (2 bloques).",
-  "fecha": "2026-09-23T13:59:21.314Z",
+  "paquete": "p-260923-0901-3e01",
+  "sha256": "d4cce4449eb292a2e35b7856841738a04b94756f5638bf0235a5f0a11674ad23",
+  "nota": "23 SEP 09:00 - REDISENO PEDIDOS 2D (Mikey): PORTADA nueva (lnd: 12 KPIs que filtran, panel de Correcciones en 7 pestanas, ranking de clientes/agentes, 5 vistas: tarjetas/tabla/por estado/por cliente/semana); PANEL bolsa/tela con 11 KPIs + 3 graficas + LINEA DEL TIEMPO completa (entradas, vales, viajes, carta porte, facturas, solicitudes, prometida vs real); CAPTURAR con selector de SKU que ensena cliente/foto/medidas/color/gramos/marca/impresion/veces pedido/ultimo precio (bolsa y rollo), iconos y dibujos de caja/tarima/impresion/rollo; SIN boton 'formulario de antes' en ningun lado (cap, pdx, Armar viaje). Pruebas sobre la pagina junta: ver_lnd 107/0, ver_linea 189/0, ver_cap 203/203. Miguel Esteban queda como hoy (megJs) hasta su panel.",
+  "fecha": "2026-09-23T15:01:15.004Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
