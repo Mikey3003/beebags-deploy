@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-0901-3e01",
-  "sha256": "d4cce4449eb292a2e35b7856841738a04b94756f5638bf0235a5f0a11674ad23",
-  "nota": "23 SEP 09:00 - REDISENO PEDIDOS 2D (Mikey): PORTADA nueva (lnd: 12 KPIs que filtran, panel de Correcciones en 7 pestanas, ranking de clientes/agentes, 5 vistas: tarjetas/tabla/por estado/por cliente/semana); PANEL bolsa/tela con 11 KPIs + 3 graficas + LINEA DEL TIEMPO completa (entradas, vales, viajes, carta porte, facturas, solicitudes, prometida vs real); CAPTURAR con selector de SKU que ensena cliente/foto/medidas/color/gramos/marca/impresion/veces pedido/ultimo precio (bolsa y rollo), iconos y dibujos de caja/tarima/impresion/rollo; SIN boton 'formulario de antes' en ningun lado (cap, pdx, Armar viaje). Pruebas sobre la pagina junta: ver_lnd 107/0, ver_linea 189/0, ver_cap 203/203. Miguel Esteban queda como hoy (megJs) hasta su panel.",
-  "fecha": "2026-09-23T15:01:15.004Z",
+  "paquete": "p-260923-0922-6751",
+  "sha256": "4e70b46eab018f910b30f6269e2ad3918daf9251b037d4aa9c28a399403bc881",
+  "nota": "23 SEP ~09:45 - (1) PANEL PROPIO DE MIGUEL ESTEBAN: solo mikey, alex y jose.serio (lista aparte de cobranza; Antonio NO) + CONTRASENA verificada en el servidor (hash scrypt con sal en data/miguel-panel.json, timingSafeEqual, 5 fallos = 15 min, token 8 h); rutas me-estado/me-desbloquear/me-cerrar/me-datos/me-pagos/me-rollos (solo lectura); todo en orden, almacen (entradas/salidas), rollos por lote, pagos con fecha real. Marcar pagada sigue solo Mikey y Alex. (2) CARTA PORTE sin hoja medio vacia: firmas tras el resumen, copia de contabilidad en la misma hoja con RECORTAR AQUI si cabe; si no, hoja propia con recuadro para contabilidad (13 casos, ninguna hoja >35% en blanco). (3) listarModelosBolsa manda producto, caja, piezas, tarima e impresion para el selector de Capturar. (4) Pagina pedidos2d con el panel mep. Pruebas: ver_servidor 61/61, ver_mep 82/82, ver_linea 189/0, ver_cap 203/203.",
+  "fecha": "2026-09-23T15:22:31.033Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 6,
+  "reinicio": true,
   "pausado": false
 }
