@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1711-8e29",
-  "sha256": "b6a7f87b6716c19528e7586085cf0b77c36a8b3fbcae3ad60ac0a9b66a3b93cf",
-  "nota": "23 SEP ~16:45 - ENTRADA con pedido (caso 931 Tiendas Tony): si el almacen ya tiene el mismo modelo con otra marca/escritura (40X40X12-NEGR-N/A vs -SO) ya no dice 'no esta dado de alta': ofrece 'Usar <ese> para este pedido' y deja producto, pedido y cantidad puestos. ver_931 5/5, ver_sl 54/54, ver_av 34/34, ver_peso 16/16. Solo pagina.",
-  "fecha": "2026-09-23T23:11:54.147Z",
+  "paquete": "p-260923-1725-0e8b",
+  "sha256": "cb03f67fb286187ab7ad1d61cd69cbaf47b7ba35a799f0dc547ff293e46bc330",
+  "nota": "23 SEP ~17:30 - CATALOGO: ya no nacen productos duplicados cada 12 h (sincronizar-catalogo no crea si el pedido ya tiene producto creado desde el, aunque se llame -N/A; crearProducto re-escribe COD_MARCA fldQ5oHHr5SAW920r a los 45 s y 8 min si amanecio N/A). probar_cat 11/11 (la vieja creaba 23 duplicados hoy; la nueva 0). Despues se corre la limpieza (25 marcas, 52 duplicados con 0 movimientos) por Mikey.",
+  "fecha": "2026-09-23T23:25:37.116Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
