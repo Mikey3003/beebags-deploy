@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1357-d15f",
-  "sha256": "5a7ef42c72f8d2f1508f4aaa28f99e44c7e005a4ed483a59a24d947a9dbbe43b",
-  "nota": "23 SEP ~14:10 - URGENTE ALMACEN: (1) ROLLOS ESTAMPADOS pueden salir como CONSUMO INTERNO a produccion (Mikey: 'es una salida interna'); quedan en data/salidas-sin-pedido.jsonl; rollos de stock y bolsas siguen con pedido/mostrador. (2) Viajes de varios pedidos (ej. 1226 = 574+554+575): cada pedido cuenta SOLO su parte por sus vales (554=59, 574=2, 575=1; antes 575=62), sin tocar ligas de Airtable; al crear salida se limpian las caches (pedidos 10 min, vale->viaje 60 s, salidas) y ?fresco=1. Base = servidor vivo (p-1135) para no perder Capturar ni Miguel. ver_sl 54/54, probar_srv 8/8.",
-  "fecha": "2026-09-23T19:57:49.820Z",
+  "paquete": "p-260923-1440-e1ab",
+  "sha256": "3622c556db68661507010b761a3bfb053a8239007cb54d859858ed849d5a3c5f",
+  "nota": "23 SEP ~14:45 - (1) PESOS: 'Los pesos estan mal' desde el VIAJE (un peso por vale; al aprobar se aplica directo en el vale con sello antes/despues; Direccion aplica al momento; resuelve la CS abierta del viaje, ej. CS-1 de la 1226); la carta porte reimpresa toma el peso de CADA VALE (antes salia con el peso viejo del itinerario); Armar viaje ya no reescribe el peso del vale en silencio (sale como dato con 'Esta mal?'); estimado solo como referencia gris. (2) MIGUEL ESTEBAN v4: el bot deja PROPUESTA (MEP-n) que se confirma en su panel, aviso solo a Mikey y Alex; folio ME en pantalla y fuera de Pedidos 2D (almacen/logistica/Spunbond igual); Spunbond en su linea del tiempo; pestana Numeros. (3) Pedidos 2D: tarjetas cuentan solo su parte de viajes de varios pedidos. Pruebas: peso srv 19/19 nav 16/16, ver_sl 54/54, ver_av 34/34, mep 142/142, bot 23/23, propuestas 32/32, cap 225/225, lnd y linea verdes sin mep.",
+  "fecha": "2026-09-23T20:40:33.626Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 8,
   "reinicio": true,
   "pausado": false
 }
