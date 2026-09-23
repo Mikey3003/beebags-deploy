@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1135-956d",
-  "sha256": "a6207792f7a4af664de291b7636996050a6746465063e40bb671b503aae26f6d",
-  "nota": "23 SEP ~11:40 - TODO LO DE HOY (Mikey: 'deploy de todo'). PAGINA Pedidos 2D: portada con 5 numeros + 4 graficas SVG + Linea del tiempo como vista de entrada + Ordenar por (levantamiento/entrega/numero/cliente, nuevo/viejo) + correcciones y mas numeros plegables; panel bolsa/tela con 6 numeros, 4 graficas, barra nueva sin emojis, linea del tiempo primero en el detalle, rollos con su color/foto; Capturar con precio por pieza en pedido de bolsa (obligatorio para Miguel Esteban) y ultimo precio de venta; Miguel Esteban con 'Falta registrar' (precios, fechas de pago, fechas de entrega) que obliga a registrar. SERVIDOR: me-registrar (solo mikey/alex/jose.serio con clave, escribe via solicitudes.aplicarDirecto + bitacora), candados mep (pedido nuevo de Miguel sin precio 400, remision sin importe no se paga 409), pedido-bolsa acepta precio; PDFs de PEDIDO bolsa y tela redisenados (pedido-pdf-diseno.js nuevo). Pruebas: ver_lnd 155/0, ver_linea 223/0, ver_cap 225/225, ver_mep 108/108, ver_registrar 54/54, ver_servidor 61/61, PDFs 14/14.",
-  "fecha": "2026-09-23T17:35:03.471Z",
+  "paquete": "p-260923-1139-bead",
+  "sha256": "4f966408876aef000b618679dc9163e81864aec36b4b63d9a684fdf9677034fe",
+  "nota": "23 SEP ~11:50 - ALMACEN salidas (Mikey: 'no deja hacer cartas porte, no aparece el pedido en el producto, agrupar por pedido y cliente, no salen las imagenes'): 'de que rack sale' solo ofrece la MISMA bolsa/rollo del pedido; sin existencia dice 'Este pedido no tiene entrada al almacen' con boton a Registrar > Entrada; Armar viaje agrupa por CLIENTE y PEDIDO con foto y estado (hay/sin entrada); Registrar muestra pedidos del mismo modelo aunque el SKU este escrito distinto (75 -> 152); fotos por /api/almacen2d/foto. Incluye el arreglo del peso (avPesosSim). ver_sl 37/37, ver_av 34/34. Solo pagina.",
+  "fecha": "2026-09-23T17:39:49.402Z",
   "autor": "alex_",
-  "archivos": 7,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
