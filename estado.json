@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-2244-7d76",
-  "sha256": "ff0b2d65b0e97b6d50f386eb0dedcfbc9627de6d2f1f94a1fd4af98ee18358c6",
-  "nota": "ARMAR VIAJE (hallazgo 2 de la auditoria de carta porte): lo que Almacen le pide a Direccion con 'Pedir a Direccion' (carta porte sin calle y numero) sale en el panel de Aprobaciones (/auditoria) con quien lo pidio, por que y si le llego el WhatsApp, y se autoriza AHI con la misma ruta de la ventana de la carta porte (autorizar-direccion), que cierra la solicitud. Probado cargando el modulo como el servidor: solo salen las pendientes; la fuente no falla.",
-  "fecha": "2026-09-23T04:44:46.595Z",
+  "paquete": "p-260922-2257-a8f2",
+  "sha256": "f436ca06074ab0626b9943b7800a4b294ea0b756b9d5dcc64008e5e5603b0da4",
+  "nota": "CARTA PORTE: Direccion puede CANCELAR desde la ventana de la carta porte una reimpresion que dejo autorizada para Almacen y ya no hace falta (antes solo se podia autorizar). Pide motivo de 5 letras, queda escrito quien/cuando/por que y en el registro de actividad; Almacen no puede cancelarla; se puede volver a autorizar despues. Mikey pidio anular la de la 1222. probar_cancelar 11/11 (rojo sin el arreglo), probar_cp 41/41, ver_cp2_av 25/25, ver_av 36/36.",
+  "fecha": "2026-09-23T04:57:08.915Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
