@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-0758-051f",
-  "sha256": "5e36b460b8b2ad54597e3e2ea0a5c3bf7da223f0faa12df14e561d6787cfa45b",
-  "nota": "23 SEP - REDISENO A LA VISTA DE TODOS (Mikey: 'subelo todo, que nada quede escondido'). PEDIDOS 2D: panel de pedidos con linea del tiempo (pdx) y formularios como paneles 'Capturar' (cap), ahora PARA TODOS (antes solo Direccion y ni se habian subido). Modelo de bolsa: campo PRODUCTO obligatorio (liga a la tabla Productos) y topes de medidas por producto: bolsa alto/ancho hasta 120 y fuelle hasta 60, portatraje/porta vestido alto hasta 200, sabana hasta 250, vaso Thermo Star sin medidas ni gramos; fuelle mas grande que el ancho pide confirmar. Tambien lleva parche_base (topes de 900/600 modelos a 3000, fecha de Mexico, renglon de tela a medias). LOGISTICA: Armar viaje para todos (AV_PARA_TODOS). ver_cap 170/172 (las 2 eran la prueba), ver_pdx 97 (seccion 7 'sin prender' ya no aplica), ver_av 34/36 (las 2 esperaban que Omar no lo viera).",
-  "fecha": "2026-09-23T13:58:44.516Z",
+  "paquete": "p-260923-0759-8f6e",
+  "sha256": "8bad78f1981c985b6fb7da82830dff7a63ece8c888c71eb62a4d3f0fe4011fa1",
+  "nota": "23 SEP - SERVIDOR: alta de modelo de bolsa acepta el VASO THERMO STAR (Productos recJmSlN7e4RWqD2G) sin alto, ancho ni gramos de tela; para cualquier otro producto todo igual (alto/ancho >0 y gramos 0.011-2 kg). Va con el campo Producto nuevo de Pedidos 2D (p-260923-0758-051f). index.js = el de p-260923-0241-6ecb + este cambio (2 bloques).",
+  "fecha": "2026-09-23T13:59:21.314Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
