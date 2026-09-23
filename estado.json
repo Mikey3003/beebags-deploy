@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260922-1827-79dc",
-  "sha256": "a33880d4f71718055382c988d8d13d663dcad675352ed33b529796dabef2f8ce",
-  "nota": "AUDITORIA 22 sep (M3): producto-origen abrio a CUALQUIER sesion (Ventas, RH...) el traer/ligar productos al almacen y el alta con origen, que son escrituras en la tabla Productos del almacen; antes del modulo el alta pedia area almacen. Ahora /origen/traer y el POST /api/almacen2d/producto usan portalArea('almacen') (Direccion pasa); buscar y altas-a-mano siguen de lectura para cualquiera. Solo la pagina del almacen usa esas rutas. Probado montando el modulo: con lo vivo Ventas pasaba la puerta; con el arreglo Ventas 403, Almacen igual que antes, sin origen sigue el 400 con el camino.",
-  "fecha": "2026-09-23T00:27:16.656Z",
+  "paquete": "p-260922-1833-48d2",
+  "sha256": "bc13ce30fd03462ba99e88670695764d3cd9925d8c8ea9269afc7fac8dfc3a91",
+  "nota": "AUDITORIA carta porte 22 sep (hallazgo 1 y 8): la HOJA DEL VIAJE (4 copias, la de vigilancia incluida) salia con CHOFER y CAMIONETA en blanco cuando el flete es externo, porque solo leia las ligas del catalogo en Salidas Bee Bags (synced) y el operador/unidad del transportista viven en texto en Salidas General. Ahora, si vienen vacios, se toman de salida-transporte (la misma fuente que la carta porte), con tope de 4 s. Probado con salidas reales (solo lectura): 1223 antes '—' ahora 'Miguel Angel Olmedo / A-10669F' (igual que su carta porte); 1222 y 1221 sin flete no cambian. La fecha programada ya no sale repetida ('22/09/2026, 22/09/2026, 22/09/2026').",
+  "fecha": "2026-09-23T00:33:56.897Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
