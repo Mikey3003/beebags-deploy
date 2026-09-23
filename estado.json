@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260922-1817-e73d",
-  "sha256": "02fd79fe43ddde854c9db56c0401559b746149541cf4f458e69ddddbde2daab8",
-  "nota": "AUDITORIA 22 sep, dos hallazgos confirmados y probados. (A2, seguridad) El puente de la cabina (inteligencia/api.js, portal-bridge) acuñaba al DUEÑO del panel, no a quien entro: si Mikey abria la cabina de Omar con sus claves, todo lo que hacia en almacen quedaba a nombre de Omar y con sus permisos (lo trajo el paquete 1732). Ahora la sesion de la cabina guarda el usuario que entro y el puente acuña a ESE; sesiones viejas sin ese dato vuelven al 'cabina-<slug>' de antes. Probado montando el modulo como el servidor: con el codigo vivo Mikey en la cabina de Omar salia como Omar; con el arreglo sale como Mikey, Omar en su cabina sigue como Omar y Mikey por el cerebro sigue como Mikey. (A3) El Catalogo de SKUs nunca cargaba con sesion normal: el portero global de /api le pedia la clave del hub (401) y la pagina caia al 'modo basico' diciendo que el servidor no tenia el catalogo. Se exenta /catalogo-skus en el portero; sus 3 rutas de datos ya piden sesion del portal y /salud solo da contadores.",
-  "fecha": "2026-09-23T00:17:13.545Z",
+  "paquete": "p-260922-1825-e1e1",
+  "sha256": "98ca32e77ed807fac46366640b97977d6d88a43ae45b2e3aac2224749ad054ca",
+  "nota": "AUDITORIA 22 sep, tanda 3. (A1) Vuelve el boton 'Asignar chofer y camioneta' en el panel de Logistica (tarjeta, Lista, Rutas y detalle) con el enganche a CP2.guardar que refresca la tarjeta al guardar: el agente de logistica lo dejo listo a las 16:40 en paq_p18 y nunca se subio; desde que la lista vieja se escondio solo se podia asignar desde detalle > Vales y correcciones. Reinyectado con lg/inyectar.cjs sobre la pagina VIVA (conserva cp8/cp9, saldo 810). ver_lg: 132/132 (la unica falla de la primera corrida era la prueba cerrando CP2 mientras decia 'Revisando'). (CP-4) airtable.js exporta prodMeta: carta-porte-pdf la llamaba para la foto del producto en las cartas porte armadas al vuelo y el catch se comia el 'no es funcion' (salia el cuadro de color). La foto baja con tope de tiempo y si falla vuelve al color.",
+  "fecha": "2026-09-23T00:25:34.362Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
