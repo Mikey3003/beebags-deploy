@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260922-1825-e1e1",
-  "sha256": "98ca32e77ed807fac46366640b97977d6d88a43ae45b2e3aac2224749ad054ca",
-  "nota": "AUDITORIA 22 sep, tanda 3. (A1) Vuelve el boton 'Asignar chofer y camioneta' en el panel de Logistica (tarjeta, Lista, Rutas y detalle) con el enganche a CP2.guardar que refresca la tarjeta al guardar: el agente de logistica lo dejo listo a las 16:40 en paq_p18 y nunca se subio; desde que la lista vieja se escondio solo se podia asignar desde detalle > Vales y correcciones. Reinyectado con lg/inyectar.cjs sobre la pagina VIVA (conserva cp8/cp9, saldo 810). ver_lg: 132/132 (la unica falla de la primera corrida era la prueba cerrando CP2 mientras decia 'Revisando'). (CP-4) airtable.js exporta prodMeta: carta-porte-pdf la llamaba para la foto del producto en las cartas porte armadas al vuelo y el catch se comia el 'no es funcion' (salia el cuadro de color). La foto baja con tope de tiempo y si falla vuelve al color.",
-  "fecha": "2026-09-23T00:25:34.362Z",
+  "paquete": "p-260922-1827-79dc",
+  "sha256": "a33880d4f71718055382c988d8d13d663dcad675352ed33b529796dabef2f8ce",
+  "nota": "AUDITORIA 22 sep (M3): producto-origen abrio a CUALQUIER sesion (Ventas, RH...) el traer/ligar productos al almacen y el alta con origen, que son escrituras en la tabla Productos del almacen; antes del modulo el alta pedia area almacen. Ahora /origen/traer y el POST /api/almacen2d/producto usan portalArea('almacen') (Direccion pasa); buscar y altas-a-mano siguen de lectura para cualquiera. Solo la pagina del almacen usa esas rutas. Probado montando el modulo: con lo vivo Ventas pasaba la puerta; con el arreglo Ventas 403, Almacen igual que antes, sin origen sigue el 400 con el camino.",
+  "fecha": "2026-09-23T00:27:16.656Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
