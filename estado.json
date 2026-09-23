@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260923-1248-7c6f",
-  "sha256": "5e74942ba66f8478f27784f22bac377daff4f0132bc2ab03b22b09a73fa54a41",
-  "nota": "23 SEP ~12:50 - REGISTRAR > SALIDA: el aviso 'primero va su ENTRADA' trae boton 'Registrar la entrada de este pedido' por renglon sin material (tela elige color; deja la entrada con renglon, producto y cantidad puestos). Y un pedido con un renglon con material y otro sin ya no esconde el que falta (caso 554 rojo/azul marino). ver_sl 50/50, ver_av 34/34. Solo pagina.",
-  "fecha": "2026-09-23T18:48:21.837Z",
+  "paquete": "p-260923-1341-e9cf",
+  "sha256": "99c8a6c45aff03f565e73e175d75bc983db159e49bd0982e6df1c5d115312520",
+  "nota": "23 SEP ~13:30 - ALMACEN Logistica: un viaje de varios pedidos (ej. 1226 = 574+554+575) muestra todos sus pedidos y de que pedido es cada renglon; buscar cualquiera encuentra el viaje; despues de crear un viaje relee Logistica/pedidos/vales hasta verlo (ya no se esconde por cache). Sin el servidor nuevo funciona igual que hoy. ver_sl 54/54, ver_av 34/34. Solo pagina.",
+  "fecha": "2026-09-23T19:41:08.664Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
