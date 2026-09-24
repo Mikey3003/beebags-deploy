@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-0019-631e",
-  "sha256": "8e987d8321ba2d662b299f9366b038499634fd15b3b220b3f1091ef706c94ee9",
-  "nota": "24 SEP ~00:25 - JAZMIN v2 (la v1 salio a medias): 'Dar seguimiento' en cada tarjeta (Revisada / Falta un dato -> WhatsApp a Direccion / En seguimiento, con nota que todos ven, data/auditoria-seguimiento.json); con aprueba=[] Jazmin NO ve botones de aprobar/rechazar/ya se hizo/corregir/ocultar y el servidor le da 403 en esas rutas. ver_jazmin 88/88.",
-  "fecha": "2026-09-24T06:19:41.754Z",
+  "paquete": "p-260924-0025-8496",
+  "sha256": "ca20948f3ba895cec0c1f381316f6746859ddab3affefc0b930a00a567495bf0",
+  "nota": "24 SEP ~00:45 - PORTADAS DE CADA AREA (Mikey: 'que la landing de cada area tenga su panel de requisiciones y sus botones de accesos rapidos'): web/persona.html con apps en tarjetas grandes arriba (1 clic, directo a la pantalla), requisiciones del area (Pendientes/Aprobadas/Recibidas, 'Solo las que pedi yo', Hacer requisicion integrado), correos/asistente/resumen plegados abajo y cargados solo al abrir (Omar 10 -> 4 llamadas). almacen2d con ligas directas (#salida, #entrada...). ver_cab 239/0, ver_dlk 34/0, ver_sl 54/54. Solo paginas.",
+  "fecha": "2026-09-24T06:25:56.802Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
