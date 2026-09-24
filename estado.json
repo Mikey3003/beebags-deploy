@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-1557-ec85",
-  "sha256": "eb1dfcda392b0eb179ef51af795218ca4afd6f689c2d69f17ec3d0730ac7c8df",
-  "nota": "24 SEP ~14:00 - POKA-YOKE (Mikey: 'sube absolutamente todo'): (1) PESO ABSURDO: esperado = peso real por rollo de Spunbond (mediana de rollos iguales; respaldo gramaje x ancho x metros) o PESO POR BOLSA GRAMOS del modelo x piezas; fuera de +-35% (bolsas -35/+50) pide 'Corregir' o 'Si, asi peso' (pantalla y servidor; ruta /api/almacen2d/peso-esperado). (2) PEDIDO SUGERIDO en Registrar entrada/salida ('Este producto va para #N ... Usar este pedido'), nunca otro color/medida. (3) BOLSAS: solo las de PULPOS salen/entran como consumo interno (Pulpos en observaciones). (4) PRECIO OBLIGATORIO en pedidos de bolsa y tela (Capturar + servidor), 'Usar ', 'Pedidos sin precio' en la portada con captura ahi mismo (POST /api/pedidos2d/precio-faltante). (5) MIGUEL ESTEBAN ya no aparece en Pedidos 2D (filtro antes del primer script). Pruebas: ver_srv 37, ver_pk 58, ver_prc 80, ver_mep 142, ver_cap 227, ver_lnd 155, ver_linea 223, ver_sl 54, ver_av 34, ver_rl 108.",
-  "fecha": "2026-09-24T21:57:48.233Z",
+  "paquete": "p-260924-1650-92a6",
+  "sha256": "ada1dac17ad95632deeb48db91fa6c639a6b8818c545d0de44b84bca56fa21e4",
+  "nota": "Copia de carta porte PARA FACTURAR: Miriam la saca sola en la Mesa de Facturas (marca de agua, no gasta la impresion unica)",
+  "fecha": "2026-09-24T22:50:50.160Z",
   "autor": "alex_",
-  "archivos": 8,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
