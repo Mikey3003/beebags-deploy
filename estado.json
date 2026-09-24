@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260924-1737-85f6",
-  "sha256": "1d9a492b209d52b346e18d37bd1e087d48a44aae5dd8874bd15f241ddcb96281",
-  "nota": "Auditoria desglosada: linea del tiempo arriba, entradas/salidas por producto, RH y bitacora del servidor, lista con desglose por tipo",
-  "fecha": "2026-09-24T23:37:07.431Z",
+  "paquete": "p-260924-1748-4aaa",
+  "sha256": "04b2554b091e39bef91d482a25ff4e16b2dbab77f1ce140c614414cb076ea322",
+  "nota": "Auditoria MAS VISUAL: iconos por producto con flecha de entrada/salida, carriles agrupados y de color, tarjetas con cantidad y quien, unidad por vale",
+  "fecha": "2026-09-24T23:48:48.491Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
