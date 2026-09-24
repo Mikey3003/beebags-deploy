@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-2022-cc27",
-  "sha256": "e06b5d1d24782eb70eae62f425ee1dcc05f7454ffd2ccf80bb7e13a22b35c14e",
-  "nota": "23 SEP ~20:30 - TELA DE RAIZ (auditoria): (1) candado de COLOR en la salida de tela (renglon del pedido debe ser el mismo rollo: gramos-ancho-metros-color normalizados; Direccion fuerza con motivo); (2) el buscador de pedido en Registrar solo ofrece renglones de tela del mismo rollo; (3) ligarEstadosPedidos ya no siembra la etiqueta de BOLSA en tela. Datos ya corregidos en Airtable: 16 vales movidos a su color, 18 lineas, 29 etiquetas, 4 generales (67 escrituras con bitacora, 0 revertidas). ver_sl 54/54, ver_av 34/34, candado 10/10.",
-  "fecha": "2026-09-24T02:22:29.102Z",
+  "paquete": "p-260924-0015-2ec2",
+  "sha256": "354fc552a102b67d8b415a2eddf8272e107ba93cb8b27f6199efb5600c7f37c1",
+  "nota": "24 SEP ~00:30 - JAZMIN (Auditoria, pedido de Consuelo/Mikey): usuario jazmin (rol auditoria, ya en el organigrama) SOLO entra a /auditoria (src/solo-auditoria.js: cualquier otra pagina la regresa, cualquier otra API 403); pestana 'Pedidos y almacen' solo lectura sin precios; Salir cierra sesion; primera entrada pide clave propia. Correcciones: CS-1 del 1226 con 'Corregir los pesos del viaje'; margen de error ya no cuenta doble Spunbond; CS-n entran al margen del almacen; sin 'Rack: ?'. Videos/Capacitacion quitados del panel. Aprobar por Auditoria APAGADO (data/auditoria-permisos.json aprueba=[]) por decision de Mikey. ver_jazmin 71/71.",
+  "fecha": "2026-09-24T06:15:02.079Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 9,
   "reinicio": true,
   "pausado": false
 }
