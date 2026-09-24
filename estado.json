@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-0015-2ec2",
-  "sha256": "354fc552a102b67d8b415a2eddf8272e107ba93cb8b27f6199efb5600c7f37c1",
-  "nota": "24 SEP ~00:30 - JAZMIN (Auditoria, pedido de Consuelo/Mikey): usuario jazmin (rol auditoria, ya en el organigrama) SOLO entra a /auditoria (src/solo-auditoria.js: cualquier otra pagina la regresa, cualquier otra API 403); pestana 'Pedidos y almacen' solo lectura sin precios; Salir cierra sesion; primera entrada pide clave propia. Correcciones: CS-1 del 1226 con 'Corregir los pesos del viaje'; margen de error ya no cuenta doble Spunbond; CS-n entran al margen del almacen; sin 'Rack: ?'. Videos/Capacitacion quitados del panel. Aprobar por Auditoria APAGADO (data/auditoria-permisos.json aprueba=[]) por decision de Mikey. ver_jazmin 71/71.",
-  "fecha": "2026-09-24T06:15:02.079Z",
+  "paquete": "p-260924-0019-631e",
+  "sha256": "8e987d8321ba2d662b299f9366b038499634fd15b3b220b3f1091ef706c94ee9",
+  "nota": "24 SEP ~00:25 - JAZMIN v2 (la v1 salio a medias): 'Dar seguimiento' en cada tarjeta (Revisada / Falta un dato -> WhatsApp a Direccion / En seguimiento, con nota que todos ven, data/auditoria-seguimiento.json); con aprueba=[] Jazmin NO ve botones de aprobar/rechazar/ya se hizo/corregir/ocultar y el servidor le da 403 en esas rutas. ver_jazmin 88/88.",
+  "fecha": "2026-09-24T06:19:41.754Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
