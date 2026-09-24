@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-1659-2dfb",
-  "sha256": "ab86fcbe6fe1ff37c11c0c53dab0b3929468c62653c766efc1ee701b43f38396",
-  "nota": "Reimpresion: el clic de Almacen avisa a Direccion por WhatsApp + copia para facturar no se detiene por direccion vieja (1221)",
-  "fecha": "2026-09-24T22:59:17.342Z",
+  "paquete": "p-260924-1737-85f6",
+  "sha256": "1d9a492b209d52b346e18d37bd1e087d48a44aae5dd8874bd15f241ddcb96281",
+  "nota": "Auditoria desglosada: linea del tiempo arriba, entradas/salidas por producto, RH y bitacora del servidor, lista con desglose por tipo",
+  "fecha": "2026-09-24T23:37:07.431Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
