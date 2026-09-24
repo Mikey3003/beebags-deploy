@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260923-1823-b879",
-  "sha256": "8dffc4a077a56fe2a76c40022a9a3ed7b49988fb9a9647ba9f526f38e2fbdc20",
-  "nota": "23 SEP ~18:30 - REGISTRAR (caso 577): (1) si escribes un numero de pedido con Bolsa/Tela equivocado y solo existe del otro tipo, cambia solo al tipo correcto; (2) ya no dice 'Todo listo' cuando el modo elegido no sirve para el producto (rollo de stock como consumo interno): dice que elija Pedido de cliente y su numero (antes lo rechazaba el servidor al registrar). ver_sl 54/54. Solo pagina.",
-  "fecha": "2026-09-24T00:23:21.070Z",
+  "paquete": "p-260923-1839-b874",
+  "sha256": "2b7b52a73c0afacc9edced1dde1ccf20f8adb66b0c3d9c8d8982ffb0fdf15950",
+  "nota": "23 SEP ~19:00 - CATALOGO (Mikey: 'se tiene que copiar exactamente, no puede volver a pasar'): la copia automatica del modelo al almacen ya escribe la MARCA igual que el codigo del pedido (antes iba vacia y la automatizacion MARCA de Airtable pisaba COD_MARCA con N/A -> duplicados del 931). Ademas la automatizacion MARCA (wflOTX2VU0oENiSt1) quedo corregida en borrador para RESPETAR el COD_MARCA que ya trae el producto; la publica Mikey en Airtable.",
+  "fecha": "2026-09-24T00:39:14.826Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
