@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-1157-a3a2",
-  "sha256": "aa278ba70f64b8f822ae71575a56370911d7b0e745e31e62c2958cf5e461bd02",
-  "nota": "24 SEP ~12:15 - RH (Mikey): en el expediente, 'Contrato laboral auditoria' ya no existe (estan determinado e indeterminado) -> 'Evaluacion de desempeno'. La columna de auditoria del checklist de Excel ya no se cruza; lo ya subido con el nombre viejo no se borra. Solo src/rh/importar.js.",
-  "fecha": "2026-09-24T17:57:16.807Z",
+  "paquete": "p-260924-1221-61c7",
+  "sha256": "32088598d29c3b97f1610d4c72923112169d07e67aec06bcca3a578108ffab48",
+  "nota": "24 SEP ~12:30 - ALMACEN 'RELLENAR AQUI' (Mikey: 'que todos los avisos te lleven al lugar exacto'): cada aviso que frena (Armar viaje, Registrar entrada/salida/cambio de rack, formulario viejo, mini-formulario del mapa, mensajes del servidor, chofer/camioneta de la carta porte) dice que falta y por que, con boton 'Rellenar aqui' (o el verbo concreto) que lleva al campo exacto con el cursor y lo resalta; al rellenar se repinta la vista previa y el aviso se va. 'Surtido completo' ensena los vales que lo surtieron. Bolsas a pulpos: 'Para que va la bolsa' lleva a Observaciones. Bug arreglado: en el mini-formulario del mapa escribir la nota no refrescaba. Sin cambios de reglas del servidor. ver_rl 108/108, ver_sl 54/54, ver_av 34/34. Solo pagina.",
+  "fecha": "2026-09-24T18:21:28.752Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
