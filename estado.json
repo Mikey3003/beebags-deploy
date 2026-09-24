@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-1650-92a6",
-  "sha256": "ada1dac17ad95632deeb48db91fa6c639a6b8818c545d0de44b84bca56fa21e4",
-  "nota": "Copia de carta porte PARA FACTURAR: Miriam la saca sola en la Mesa de Facturas (marca de agua, no gasta la impresion unica)",
-  "fecha": "2026-09-24T22:50:50.160Z",
+  "paquete": "p-260924-1659-2dfb",
+  "sha256": "ab86fcbe6fe1ff37c11c0c53dab0b3929468c62653c766efc1ee701b43f38396",
+  "nota": "Reimpresion: el clic de Almacen avisa a Direccion por WhatsApp + copia para facturar no se detiene por direccion vieja (1221)",
+  "fecha": "2026-09-24T22:59:17.342Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
