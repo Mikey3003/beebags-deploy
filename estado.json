@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-2310-fa6c",
-  "sha256": "7fc931fd5259984e6a6b45a539d2f7630c7d92e32f8c9b38e756adf7dc1db69e",
-  "nota": "Pedidos 2D: el reporte ya no manda avisos a la campanita",
-  "fecha": "2026-09-25T05:10:16.545Z",
+  "paquete": "p-260925-0016-38b6",
+  "sha256": "43bb0d9be580efb0e4d54bcae343dd9882a41b01bbb6bda33cc7bae6dd4d3479",
+  "nota": "Rellenar aqui en TODAS las areas + campanita 'Se relleno' (segundo intento: el primero lo tapo el paquete de Pedidos 2D)",
+  "fecha": "2026-09-25T06:16:28.856Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 15,
+  "reinicio": true,
   "pausado": false
 }
