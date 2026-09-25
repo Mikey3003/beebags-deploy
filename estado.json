@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260924-2309-c27b",
-  "sha256": "fbac5913118444b1a37cba0f89c9854e59a17f70fdd718e6d1b327f39dc692ca",
-  "nota": "Rellenar aqui en TODAS las areas + campanita de notificaciones del sistema con 'Se relleno' (pedidos, spunbond, cotizador, cabinas, cerebro, facturas, crm, inbox, senior, almacen, auditoria)",
-  "fecha": "2026-09-25T05:09:09.767Z",
+  "paquete": "p-260924-2310-fa6c",
+  "sha256": "7fc931fd5259984e6a6b45a539d2f7630c7d92e32f8c9b38e756adf7dc1db69e",
+  "nota": "Pedidos 2D: el reporte ya no manda avisos a la campanita",
+  "fecha": "2026-09-25T05:10:16.545Z",
   "autor": "alex_",
-  "archivos": 16,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
