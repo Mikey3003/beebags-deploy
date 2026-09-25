@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1305-32c8",
-  "sha256": "b9b7e1b731e49094b7abbfda5ed5bb24db7d858da81981acd4c72b675066960f",
-  "nota": "Un camion: una salida por cliente + carta porte unica con destinatarios + copia de contabilidad por cliente/pedido; sin otra vuelta; camioneta obligatoria; flete externo completo; peso de Omar",
-  "fecha": "2026-09-25T19:05:03.933Z",
+  "paquete": "p-260925-1308-8d0b",
+  "sha256": "8df8e18ff92d9cbd6d4b8cb2533142ea702278abc2e6a0ad2dc1402eeb074006",
+  "nota": "Facturacion de Miriam: pestana Hoy (que falta cuadrar), Correcciones (cliente por confirmar), Consultas, Remisiones, Facturar, Comisiones; SAE solo lectura, puente APAGADO, Finkok solo demo",
+  "fecha": "2026-09-25T19:08:09.731Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 11,
   "reinicio": true,
   "pausado": false
 }
