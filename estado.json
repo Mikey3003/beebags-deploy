@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1517-b472",
-  "sha256": "4816cec2540dd0622a2b723a8ccd4d44d157e8ac9668259d9b007d33c5f3a1df",
-  "nota": "Cerebro: abrir una app a pantalla completa como iOS; Mapa del precio directo",
-  "fecha": "2026-09-25T21:17:53.360Z",
+  "paquete": "p-260925-1539-efdf",
+  "sha256": "24d02acf8bba80cd7362076ec851628dd3650a5a636502c3afcc98c40c031150",
+  "nota": "Flete del cliente: el cliente recoge, telefono de la empresa (no del chofer), prellenado de su ficha",
+  "fecha": "2026-09-25T21:39:37.281Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
