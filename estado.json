@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260924-1802-a9ab",
-  "sha256": "6f80bbaa7865581916c0ac7686194b2df81e02ad76dd86714d5bd87f805229bb",
-  "nota": "Auditoria: animaciones suaves + detalle desglosado por secciones (registros, solicitudes, bitacora con la solicitud/correccion/carta porte detras)",
-  "fecha": "2026-09-25T00:02:02.815Z",
+  "paquete": "p-260924-1816-53c8",
+  "sha256": "d1cbfa56ec30b41e92ddc9a1d9956ee03ce808c87d17f8517fdbf21688b80028",
+  "nota": "Auditoria: la leyenda ya no pierde los tipos escondidos (Ver todo otra vez) + consultar Ayer / 7 / 15 dias / Este mes / Del al",
+  "fecha": "2026-09-25T00:16:46.824Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
