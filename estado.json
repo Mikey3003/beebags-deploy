@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260925-1247-7d7c",
-  "sha256": "36ea851214e944f22326028be8b8ed8cf4186c012c2c359689adeb452564d250",
-  "nota": "Panel de Calidad (hojas de Ruby, hallazgos con su camino de correccion) + correcciones out2 + buscador por producto + panel de Miguel Esteban (historia) + campanita de Jazmin",
-  "fecha": "2026-09-25T18:47:27.280Z",
+  "paquete": "p-260925-1247-1ab6",
+  "sha256": "cd4e7d5e1df2c8040063d8db932c6ef92efdaf5276ce94539d5ce2c94ed146a6",
+  "nota": "Panel de Calidad + correcciones out2 + buscador por producto + panel de Miguel Esteban + campanita de Jazmin (re-empuje con prueba corregida)",
+  "fecha": "2026-09-25T18:47:45.017Z",
   "autor": "alex_",
   "archivos": 71,
   "reinicio": true,
