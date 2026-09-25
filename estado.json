@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1254-495b",
-  "sha256": "ab95d66fa38091261f7c9b141f22b8ee1b49a8c174eef49d55f596eae55e794c",
-  "nota": "Campanita de Jazmin: solo sus avisos de Calidad, sin rellenos de otras areas ni valores",
-  "fecha": "2026-09-25T18:54:55.310Z",
+  "paquete": "p-260925-1305-32c8",
+  "sha256": "b9b7e1b731e49094b7abbfda5ed5bb24db7d858da81981acd4c72b675066960f",
+  "nota": "Un camion: una salida por cliente + carta porte unica con destinatarios + copia de contabilidad por cliente/pedido; sin otra vuelta; camioneta obligatoria; flete externo completo; peso de Omar",
+  "fecha": "2026-09-25T19:05:03.933Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 9,
   "reinicio": true,
   "pausado": false
 }
