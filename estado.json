@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260925-1507-5199",
-  "sha256": "694335a0b1aeb5bf56cb846082088a433d57b4762cb54a714c374c39d2ec28ac",
+  "paquete": "p-260925-1515-fee7",
+  "sha256": "2eb24789a2e42d8fce05109a9ff5a034900b6c6e1cb59773113c8673fe962594",
   "nota": "Mesa de Facturas: tela con Precio por (kilo/metro/rollo) en Mesa, remisiones, factura armada y prefactura",
-  "fecha": "2026-09-25T21:07:30.780Z",
+  "fecha": "2026-09-25T21:15:07.861Z",
   "autor": "alex_",
   "archivos": 5,
   "reinicio": true,
