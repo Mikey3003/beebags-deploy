@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260924-1748-4aaa",
-  "sha256": "04b2554b091e39bef91d482a25ff4e16b2dbab77f1ce140c614414cb076ea322",
-  "nota": "Auditoria MAS VISUAL: iconos por producto con flecha de entrada/salida, carriles agrupados y de color, tarjetas con cantidad y quien, unidad por vale",
-  "fecha": "2026-09-24T23:48:48.491Z",
+  "paquete": "p-260924-1802-a9ab",
+  "sha256": "6f80bbaa7865581916c0ac7686194b2df81e02ad76dd86714d5bd87f805229bb",
+  "nota": "Auditoria: animaciones suaves + detalle desglosado por secciones (registros, solicitudes, bitacora con la solicitud/correccion/carta porte detras)",
+  "fecha": "2026-09-25T00:02:02.815Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
