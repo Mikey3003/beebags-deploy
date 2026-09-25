@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1446-4d5e",
-  "sha256": "0180f95d3df4a48fe373a2409b81c4fc97b1759a9415c5934b2f2c699da86326",
-  "nota": "Cerebro: linea del tiempo en celular + SAE (solo lectura) en Registros generales + tarimas bien",
-  "fecha": "2026-09-25T20:46:12.763Z",
+  "paquete": "p-260925-1456-beef",
+  "sha256": "55616166cc23de392d133920a15afec028b2da48ea5ebf906f7e709eebdfc03c",
+  "nota": "Salida Todo el pedido: racks con stock se refrescan, no dice completo si el rack no alcanza, boton Repartir en racks con stock",
+  "fecha": "2026-09-25T20:56:49.262Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
