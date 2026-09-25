@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1352-75df",
-  "sha256": "1617ae35538a93507bf6c918be520a7e9e8a2b03fc43bee0699c374b598103a6",
-  "nota": "Registros con numero de pedido y cliente (auditoria.js) + chip de pedido en el Panel de Calidad",
-  "fecha": "2026-09-25T19:52:36.443Z",
+  "paquete": "p-260925-1406-65d1",
+  "sha256": "1322417a2e0795005c795f6492488e3e8993f0f16120dab80179f4bab2ea71b4",
+  "nota": "Cerebro nuevo estilo iOS: barra de estado, Registros generales por area/producto/pedido, widgets por area, apps y carpetas; cache de 5 min en estado-apps",
+  "fecha": "2026-09-25T20:06:29.323Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
