@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1251-718d",
-  "sha256": "e104d00b4443af0476a78220c3860612c2ec8e9ac16f9cad41b0cccd45fd9e5d",
-  "nota": "Calidad 2/2: Panel de Calidad + correcciones out2 + buscador por producto + panel de Miguel Esteban + campanita de Jazmin",
-  "fecha": "2026-09-25T18:51:17.154Z",
+  "paquete": "p-260925-1254-495b",
+  "sha256": "ab95d66fa38091261f7c9b141f22b8ee1b49a8c174eef49d55f596eae55e794c",
+  "nota": "Campanita de Jazmin: solo sus avisos de Calidad, sin rellenos de otras areas ni valores",
+  "fecha": "2026-09-25T18:54:55.310Z",
   "autor": "alex_",
-  "archivos": 27,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
