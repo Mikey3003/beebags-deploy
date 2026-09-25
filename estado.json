@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-0118-e724",
-  "sha256": "d90e1b6c9c9f468ffd43c3f578d8ad114ab8a02b4912b4971ed44cc7fb05d468",
-  "nota": "RH en la Auditoria (panel de RH: incidencias, documentos, expediente, checador, ajustes, nomina, altas/bajas) + Rellenar aqui y campanita en panel de RH, Produccion y Captura de Produccion",
-  "fecha": "2026-09-25T07:18:26.195Z",
+  "paquete": "p-260925-0203-837f",
+  "sha256": "c17a6b52f34b774a4545ad3288836508eb0287fd1d3f69272a756d4a6b4061de",
+  "nota": "Carta porte: Almacen PIDE la reimpresion a Direccion (WhatsApp + panel de Aprobaciones); al autorizar se cierra sola y Almacen reimprime UNA vez",
+  "fecha": "2026-09-25T08:03:49.002Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
