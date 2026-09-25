@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-0016-38b6",
-  "sha256": "43bb0d9be580efb0e4d54bcae343dd9882a41b01bbb6bda33cc7bae6dd4d3479",
-  "nota": "Rellenar aqui en TODAS las areas + campanita 'Se relleno' (segundo intento: el primero lo tapo el paquete de Pedidos 2D)",
-  "fecha": "2026-09-25T06:16:28.856Z",
+  "paquete": "p-260925-0118-e724",
+  "sha256": "d90e1b6c9c9f468ffd43c3f578d8ad114ab8a02b4912b4971ed44cc7fb05d468",
+  "nota": "RH en la Auditoria (panel de RH: incidencias, documentos, expediente, checador, ajustes, nomina, altas/bajas) + Rellenar aqui y campanita en panel de RH, Produccion y Captura de Produccion",
+  "fecha": "2026-09-25T07:18:26.195Z",
   "autor": "alex_",
-  "archivos": 15,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
