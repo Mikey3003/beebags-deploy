@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1009-1b56",
-  "sha256": "b7af2986cad9446e70a24dc5268f1a57f7a9469816e49193299f4758ec61321b",
-  "nota": "Lo entregado segun los vales (escritura APAGADA) + Corregir en todas las areas con tabla de quien aprueba que (Auditoria lista pero apagada)",
-  "fecha": "2026-09-25T16:09:44.186Z",
+  "paquete": "p-260925-1224-3bdc",
+  "sha256": "9490054ffce8d8d4b667324376e2713a25bafe323d095b1b9a116137e9afeea8",
+  "nota": "CONTENCION facturas del SAE: cliente por RFC (no por la clave de Airtable) y conciliacion automatica APAGADA (dejaba de crear pagos SAE-LIQ)",
+  "fecha": "2026-09-25T18:24:51.813Z",
   "autor": "alex_",
-  "archivos": 18,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
