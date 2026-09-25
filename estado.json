@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1247-1ab6",
-  "sha256": "cd4e7d5e1df2c8040063d8db932c6ef92efdaf5276ce94539d5ce2c94ed146a6",
-  "nota": "Panel de Calidad + correcciones out2 + buscador por producto + panel de Miguel Esteban + campanita de Jazmin (re-empuje con prueba corregida)",
-  "fecha": "2026-09-25T18:47:45.017Z",
+  "paquete": "p-260925-1249-1fbb",
+  "sha256": "c499eaf3549228a6e49643a71cd6c13281b8681fcaee4aa7d7a86c5d121dc71a",
+  "nota": "Calidad 1/2: imagenes de las hojas de inspeccion (solo estaticos)",
+  "fecha": "2026-09-25T18:49:50.115Z",
   "autor": "alex_",
-  "archivos": 71,
-  "reinicio": true,
+  "archivos": 44,
+  "reinicio": false,
   "pausado": false
 }
