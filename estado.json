@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1539-efdf",
-  "sha256": "24d02acf8bba80cd7362076ec851628dd3650a5a636502c3afcc98c40c031150",
-  "nota": "Flete del cliente: el cliente recoge, telefono de la empresa (no del chofer), prellenado de su ficha",
-  "fecha": "2026-09-25T21:39:37.281Z",
+  "paquete": "p-260925-1620-0986",
+  "sha256": "da3903f035d83109f9d891c906ad62a73788a3802e7ef761df85674e493f611e",
+  "nota": "Cerebro: pildoras por pedido con color real en todos los registros, Lo que esta pasando hoy, Facturacion en una sola area",
+  "fecha": "2026-09-25T22:20:05.977Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
