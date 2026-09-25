@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-1459-9e38",
-  "sha256": "d9655f4231b7e5e0dfe3f10961dab895c6f829c8f2d9d5531a6ee7a261da1706",
-  "nota": "Precio de tela con unidad (Precio por): captura, Pedidos sin precio, panel de Miguel, PDF; precio de modelo fijo de Direccion con monto",
-  "fecha": "2026-09-25T20:59:46.031Z",
+  "paquete": "p-260925-1507-5199",
+  "sha256": "694335a0b1aeb5bf56cb846082088a433d57b4762cb54a714c374c39d2ec28ac",
+  "nota": "Mesa de Facturas: tela con Precio por (kilo/metro/rollo) en Mesa, remisiones, factura armada y prefactura",
+  "fecha": "2026-09-25T21:07:30.780Z",
   "autor": "alex_",
-  "archivos": 10,
+  "archivos": 5,
   "reinicio": true,
   "pausado": false
 }
