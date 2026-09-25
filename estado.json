@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260925-0203-837f",
-  "sha256": "c17a6b52f34b774a4545ad3288836508eb0287fd1d3f69272a756d4a6b4061de",
-  "nota": "Carta porte: Almacen PIDE la reimpresion a Direccion (WhatsApp + panel de Aprobaciones); al autorizar se cierra sola y Almacen reimprime UNA vez",
-  "fecha": "2026-09-25T08:03:49.002Z",
+  "paquete": "p-260925-1009-4a61",
+  "sha256": "090e7f7af54784b727ef102ddf90a62f9bc53d2868d34aff8b05c4e8c497ecdf",
+  "nota": "Lo entregado segun los vales (escritura APAGADA) + Corregir en todas las areas con tabla de quien aprueba que (Auditoria lista pero apagada)",
+  "fecha": "2026-09-25T16:09:26.232Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 18,
   "reinicio": true,
   "pausado": false
 }
