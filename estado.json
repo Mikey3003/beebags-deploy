@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260926-0844-bc1c",
-  "sha256": "8b5c9abe01972d694ef88371499c2f97e53b2318e4a0c02b4d8c383c80c133a2",
-  "nota": "Almacen visual: super buscador arriba, plano de racks, ficha con iconos y chips, una sola barra",
-  "fecha": "2026-09-26T14:44:07.199Z",
+  "paquete": "p-260926-0933-7c3f",
+  "sha256": "9546b617de2d45012ae82d155c12af926004f7701f61f07ecb493aa6ff96ddd8",
+  "nota": "Pedidos 2D: KPI real de abiertos/atrasados por vales y facturas, Por depurar con solicitudes, casi completos y con piezas en almacen",
+  "fecha": "2026-09-26T15:33:44.409Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
