@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260925-2128-4817",
-  "sha256": "55cec260c316b341bb315a935db523f67c371936ffda8b0ada757ba150ab84de",
-  "nota": "Cotizador: coma decimal, campos editables, formulas con chips, mapa del precio nuevo (mismo precio)",
-  "fecha": "2026-09-26T03:28:15.427Z",
+  "paquete": "p-260926-0844-bc1c",
+  "sha256": "8b5c9abe01972d694ef88371499c2f97e53b2318e4a0c02b4d8c383c80c133a2",
+  "nota": "Almacen visual: super buscador arriba, plano de racks, ficha con iconos y chips, una sola barra",
+  "fecha": "2026-09-26T14:44:07.199Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
