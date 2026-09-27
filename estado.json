@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260926-0952-bd29",
-  "sha256": "2fe10944aa98167c8044d8df3b0c06a5a6f23252e7abbabb7368d810f1412007",
-  "nota": "Facturacion: Mesa rediseñada estilo cerebro, cadena factura-salida-pedido en Registros, busca una salida, rastro de ligas; KPI de atrasados con facturas",
-  "fecha": "2026-09-26T15:52:09.478Z",
+  "paquete": "p-260927-1248-83d7",
+  "sha256": "bf62b59b9125a34d5833b2c2f59710d824bb218a4570e20dcdf750b6d9632d4e",
+  "nota": "Candados: modelos sin SKU roto, color nuevo, lista de modelos rotos, color en candado de bolsa, bolsa sin precio no sale",
+  "fecha": "2026-09-27T18:48:27.621Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 12,
   "reinicio": true,
   "pausado": false
 }
