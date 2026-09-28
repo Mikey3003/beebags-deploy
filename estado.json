@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1553-e6b7",
-  "sha256": "bfc2180af1c7ce8f51054caf9098245d862b9ef737f433ea83a3a9aecd4716fd",
-  "nota": "Bot WhatsApp: lee mensajes temporales/editados, registra todo, no afirma acciones que no hizo, APROBAR/RECHAZAR SC-n solo Mikey/Alex, dictado sin cliente = propuesta, alta de jefes cerrada",
-  "fecha": "2026-09-28T21:53:09.868Z",
+  "paquete": "p-260928-1611-9448",
+  "sha256": "4fb2a205097c9ee4d7f08a026c6406ea4fb6d454ada4a6c39ff55cc928453727",
+  "nota": "Pedidos 2D: reporte Sobreentregados con piezas de mas y causa (real/falso/revisar) + aprobador WA solo 55 8400 4176",
+  "fecha": "2026-09-28T22:11:05.492Z",
   "autor": "alex_",
   "archivos": 4,
   "reinicio": true,
