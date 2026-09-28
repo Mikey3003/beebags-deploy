@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1045-fa7e",
-  "sha256": "97ae9bc7b003cd298730cb17364b62513711a45fa37fdf9d6489a6b85b168119",
-  "nota": "Simulacion: vigilante Entregada sin foto + Todo subio con cuenta + foto de bolsa en otro color + alarma vale suelto 30 dias sin conteo ni pruebas",
-  "fecha": "2026-09-28T16:45:03.059Z",
+  "paquete": "p-260928-1117-c51f",
+  "sha256": "3ec5fb848beddfe171b3f24a0f3312d710db9fde65ace23bee82e7269f3396ee",
+  "nota": "Migracion PG: pg-admin (estado, abrir LAN, instalar pg aparte). Solo LAN + clave",
+  "fecha": "2026-09-28T17:17:42.180Z",
   "autor": "alex_",
-  "archivos": 14,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
