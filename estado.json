@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1028-d6a0",
-  "sha256": "cf173667ad3ecd746ee4bea428cd6b76887e2032331aaf17dc102263e235a3a0",
-  "nota": "Pedidos 2D: los pedidos de BOLSA de Miguel Esteban salen al buscarlos (917); tela sigue oculta",
-  "fecha": "2026-09-28T16:28:14.781Z",
+  "paquete": "p-260928-1038-0f6a",
+  "sha256": "997b003a4049924fd0fc73146dd59375dfc3f6227b3c7c34b0f0f917c499fc94",
+  "nota": "Cerebro: ya no pide dos veces la clave (puente de sesion antes de Auditoria; 401 de sesion vieja no borra la nueva)",
+  "fecha": "2026-09-28T16:38:33.168Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
