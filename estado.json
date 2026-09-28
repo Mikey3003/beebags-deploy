@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1038-0f6a",
-  "sha256": "997b003a4049924fd0fc73146dd59375dfc3f6227b3c7c34b0f0f917c499fc94",
-  "nota": "Cerebro: ya no pide dos veces la clave (puente de sesion antes de Auditoria; 401 de sesion vieja no borra la nueva)",
-  "fecha": "2026-09-28T16:38:33.168Z",
+  "paquete": "p-260928-1040-1de4",
+  "sha256": "3026afd1294352e3a9b948b6b8891d66dffd1e40cb38621c69f477ff7246bb5a",
+  "nota": "Pedidos 2D: aprobar solicitud ya no se queda en Aplicando (cierra la ventana y abre el registro)",
+  "fecha": "2026-09-28T16:40:50.431Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
