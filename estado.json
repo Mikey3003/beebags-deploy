@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1232-55b5",
-  "sha256": "17d3bc482d4c7ccd4a191e0fbc1bc41fc653f7b214c450d02d162ca1f1961842",
-  "nota": "Supabase: revisar VMware (solo lectura) + candado: Hyper-V NO se instala si hay VMware",
-  "fecha": "2026-09-28T18:32:17.916Z",
+  "paquete": "p-260928-1238-f10c",
+  "sha256": "eac2654c021e1ff4dace43629b1c291ba8edfdd9e99d29fe72f61ed6ad02dfc8",
+  "nota": "Supabase: tareas para crear la VM Linux en VMware (Docker + Supabase oficial) y revisar su estado",
+  "fecha": "2026-09-28T18:38:25.865Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": false,
