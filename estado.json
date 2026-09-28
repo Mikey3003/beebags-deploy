@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1133-a7e6",
-  "sha256": "cdd2b96297f2f234b60c80939a6272b8ad26f235bb1b430489e2134abd4a198d",
-  "nota": "pg-admin: corredor de tareas firmado + revisar requisitos e instalar Hyper-V (Supabase)",
-  "fecha": "2026-09-28T17:33:30.630Z",
+  "paquete": "p-260928-1143-8ab3",
+  "sha256": "aae893d511887ef767235d77f2de1b8dc393a7db98554f5be1c082790147b704",
+  "nota": "pg-admin: corredor de tareas firmado (src/jobs) + revisar requisitos e instalar Hyper-V (Supabase)",
+  "fecha": "2026-09-28T17:43:55.526Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
