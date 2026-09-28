@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1238-f10c",
-  "sha256": "eac2654c021e1ff4dace43629b1c291ba8edfdd9e99d29fe72f61ed6ad02dfc8",
-  "nota": "Supabase: tareas para crear la VM Linux en VMware (Docker + Supabase oficial) y revisar su estado",
-  "fecha": "2026-09-28T18:38:25.865Z",
+  "paquete": "p-260928-1241-4ff6",
+  "sha256": "bb3bfa0a1a4af989c58a44b18765a7f754d3b07542b6302a439d188506830e6a",
+  "nota": "Supabase: diagnostico de la VM (solo lectura)",
+  "fecha": "2026-09-28T18:41:39.800Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
