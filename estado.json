@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1143-8ab3",
-  "sha256": "aae893d511887ef767235d77f2de1b8dc393a7db98554f5be1c082790147b704",
-  "nota": "pg-admin: corredor de tareas firmado (src/jobs) + revisar requisitos e instalar Hyper-V (Supabase)",
-  "fecha": "2026-09-28T17:43:55.526Z",
+  "paquete": "p-260928-1224-9869",
+  "sha256": "120a13541139d50dee801e70bbfd0839f447a9d44de09c14ff99cc47596ce3a3",
+  "nota": "pg-admin: tareas con -EncodedCommand (antes no corrian) + llave extra para operar por el tunel",
+  "fecha": "2026-09-28T18:24:19.753Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
