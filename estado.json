@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1241-4ff6",
-  "sha256": "bb3bfa0a1a4af989c58a44b18765a7f754d3b07542b6302a439d188506830e6a",
-  "nota": "Supabase: diagnostico de la VM (solo lectura)",
-  "fecha": "2026-09-28T18:41:39.800Z",
+  "paquete": "p-260928-1243-2ac5",
+  "sha256": "974ec71c58c0eb67215c8d4040cc04a25abf0aff96b9eba97a2f01576786d745",
+  "nota": "Supabase: arreglar vmx (llaves repetidas, hw 19) y prender la VM",
+  "fecha": "2026-09-28T18:43:56.843Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
