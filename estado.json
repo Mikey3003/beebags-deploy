@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1230-0df6",
-  "sha256": "aea80550d045cdec0ba4462a674eabddf0017a79ae52a5089a962abf9749bb82",
-  "nota": "pg-admin: tareas pegadas al conector con salida visible",
-  "fecha": "2026-09-28T18:30:14.153Z",
+  "paquete": "p-260928-1232-55b5",
+  "sha256": "17d3bc482d4c7ccd4a191e0fbc1bc41fc653f7b214c450d02d162ca1f1961842",
+  "nota": "Supabase: revisar VMware (solo lectura) + candado: Hyper-V NO se instala si hay VMware",
+  "fecha": "2026-09-28T18:32:17.916Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
