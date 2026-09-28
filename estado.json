@@ -1,8 +1,8 @@
 {
-  "paquete": "p-260928-1526-fa5a",
-  "sha256": "e7cc2ff90388d2a26f7ead1da0fed74e55526b96dbce9479da658e4d5d95db80",
-  "nota": "RH: machote de contrato en blanco, contratos por lote (todos/departamento/sin contrato) y duracion solo en determinado",
-  "fecha": "2026-09-28T21:26:49.077Z",
+  "paquete": "p-260928-1553-e6b7",
+  "sha256": "bfc2180af1c7ce8f51054caf9098245d862b9ef737f433ea83a3a9aecd4716fd",
+  "nota": "Bot WhatsApp: lee mensajes temporales/editados, registra todo, no afirma acciones que no hizo, APROBAR/RECHAZAR SC-n solo Mikey/Alex, dictado sin cliente = propuesta, alta de jefes cerrada",
+  "fecha": "2026-09-28T21:53:09.868Z",
   "autor": "alex_",
   "archivos": 4,
   "reinicio": true,
