@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1245-f191",
-  "sha256": "aaf2062e5650d2b320176c0152215a40d933bf18d878628c714c20aa1a404445",
-  "nota": "Supabase: arreglar vmx (serial0.present repetido)",
-  "fecha": "2026-09-28T18:45:32.426Z",
+  "paquete": "p-260928-1526-fa5a",
+  "sha256": "e7cc2ff90388d2a26f7ead1da0fed74e55526b96dbce9479da658e4d5d95db80",
+  "nota": "RH: machote de contrato en blanco, contratos por lote (todos/departamento/sin contrato) y duracion solo en determinado",
+  "fecha": "2026-09-28T21:26:49.077Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
