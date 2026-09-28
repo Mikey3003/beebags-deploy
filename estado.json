@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1611-9448",
-  "sha256": "4fb2a205097c9ee4d7f08a026c6406ea4fb6d454ada4a6c39ff55cc928453727",
-  "nota": "Pedidos 2D: reporte Sobreentregados con piezas de mas y causa (real/falso/revisar) + aprobador WA solo 55 8400 4176",
-  "fecha": "2026-09-28T22:11:05.492Z",
+  "paquete": "p-260928-1637-342d",
+  "sha256": "f44ec34623d2b79ca8b999e87acb5559106ce1e3f2fa2f7ac3620f6492a5d658",
+  "nota": "diagnostico de login (solo lectura)",
+  "fecha": "2026-09-28T22:37:14.372Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
