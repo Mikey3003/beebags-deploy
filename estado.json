@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260927-2058-2985",
-  "sha256": "5a3c34fba03bb89eee79952969fe2e61d1c6ed485abf8bd9826fe065f10250e9",
-  "nota": "Front: 15 pantallas con el estilo del cerebro (bloque bbui, solo estilo)",
-  "fecha": "2026-09-28T02:58:05.461Z",
+  "paquete": "p-260928-1028-d6a0",
+  "sha256": "cf173667ad3ecd746ee4bea428cd6b76887e2032331aaf17dc102263e235a3a0",
+  "nota": "Pedidos 2D: los pedidos de BOLSA de Miguel Esteban salen al buscarlos (917); tela sigue oculta",
+  "fecha": "2026-09-28T16:28:14.781Z",
   "autor": "alex_",
-  "archivos": 15,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
