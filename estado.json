@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1637-342d",
-  "sha256": "f44ec34623d2b79ca8b999e87acb5559106ce1e3f2fa2f7ac3620f6492a5d658",
-  "nota": "diagnostico de login (solo lectura)",
-  "fecha": "2026-09-28T22:37:14.372Z",
+  "paquete": "p-260928-1815-a55f",
+  "sha256": "a2b7a00750d30db85af7f6a8755a188cf66e74f7ccca2cd3b6fa8e1a896bdaac",
+  "nota": "Almacen: carrito en entradas, carrito de salida interna arreglado (consumoInterno) y el almacen da de alta insumos (Materia Prima) con motivo",
+  "fecha": "2026-09-29T00:15:29.720Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
