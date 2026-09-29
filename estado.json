@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260928-1815-a55f",
-  "sha256": "a2b7a00750d30db85af7f6a8755a188cf66e74f7ccca2cd3b6fa8e1a896bdaac",
-  "nota": "Almacen: carrito en entradas, carrito de salida interna arreglado (consumoInterno) y el almacen da de alta insumos (Materia Prima) con motivo",
-  "fecha": "2026-09-29T00:15:29.720Z",
+  "paquete": "p-260929-0818-65c3",
+  "sha256": "fd8b13a9e4122374d4e16a6656f9f50522d9917b90bbc11147b2e281c650bc59",
+  "nota": "Spunbond: la OP terminada no desaparece del registro si tuvo rollos en los ultimos 8 dias (OP 432, Olimpia)",
+  "fecha": "2026-09-29T14:18:57.418Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
