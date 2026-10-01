@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261001-1445-0f7f",
-  "sha256": "782bd290c490a5997bce902d7fdffd69454ab2331caee0ccaf45456377b938b4",
-  "nota": "Puerta Facility: avisos en la pantalla, sin alertas",
-  "fecha": "2026-10-01T20:45:08.270Z",
+  "paquete": "p-261001-1450-12e1",
+  "sha256": "87af0938a757458abeb614e1f5b8e2c207db7e1c6e98dd16b3a0fa3e3c067269",
+  "nota": "Puerta Facility: iniciales de una sola palabra",
+  "fecha": "2026-10-01T20:50:00.820Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
