@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261001-1450-12e1",
-  "sha256": "87af0938a757458abeb614e1f5b8e2c207db7e1c6e98dd16b3a0fa3e3c067269",
-  "nota": "Puerta Facility: iniciales de una sola palabra",
-  "fecha": "2026-10-01T20:50:00.820Z",
+  "paquete": "p-261001-1525-2d01",
+  "sha256": "e946f812c4ad9959d3491734a9ad43d157ff4918e232bad1e0e2953729184c00",
+  "nota": "Puerta: QR por colaborador, camara y foto del chofer",
+  "fecha": "2026-10-01T21:25:00.139Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
