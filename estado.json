@@ -1,10 +1,10 @@
 {
-  "paquete": "p-260929-0951-3a09",
-  "sha256": "d6068c7602cc05f46642a18455d2dcf84cf3e7f48c1c55316c82b395be4f0bfc",
-  "nota": "Pedido de tela: Precio por se rellena solo (servidor y pantalla) y el formulario de siempre trae el selector (Sara, 13 renglones)",
-  "fecha": "2026-09-29T15:51:10.862Z",
+  "paquete": "p-261001-1402-63bc",
+  "sha256": "4e7128b35bfc6cd8b2c0047c7876b771fa21ed0157b73e9bb2b6634ca2c24557",
+  "nota": "Puerta Facility: caseta de prueba y documentacion dentro del panel de seguridad",
+  "fecha": "2026-10-01T20:02:06.751Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
