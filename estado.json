@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261001-1611-def7",
-  "sha256": "61cc9987ebcfa87759f156b7c52444ea74c61c8fe401b753b43a3d14d7b5c059",
-  "nota": "Puerta: lenguaje de la casa y flota de Airtable",
-  "fecha": "2026-10-01T22:11:52.786Z",
+  "paquete": "p-261001-1618-d8e6",
+  "sha256": "d926fa5b9467983baed018dc79abbe2e7579c707e5890542ef0c9a4396d8a82c",
+  "nota": "Puerta: el menu en una sola tira",
+  "fecha": "2026-10-01T22:18:48.474Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
