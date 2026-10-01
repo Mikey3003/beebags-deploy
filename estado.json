@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261001-1618-d8e6",
-  "sha256": "d926fa5b9467983baed018dc79abbe2e7579c707e5890542ef0c9a4396d8a82c",
-  "nota": "Puerta: el menu en una sola tira",
-  "fecha": "2026-10-01T22:18:48.474Z",
+  "paquete": "p-261001-1621-1833",
+  "sha256": "0f2e2213c385102bd9d05e28f177902bdfbc33cadc20a60bf5ffe6eef1c354e5",
+  "nota": "Puerta: las secciones del menu dejan de ocupar toda la fila",
+  "fecha": "2026-10-01T22:21:45.901Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
