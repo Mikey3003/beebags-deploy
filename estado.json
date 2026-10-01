@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261001-1441-dff1",
-  "sha256": "ebc7735fad0f17615afb7c52290dcb65e3f917c72039641bb496b89f5cf80aed",
-  "nota": "Puerta Facility: replica iOS con el padron de RH",
-  "fecha": "2026-10-01T20:41:55.838Z",
+  "paquete": "p-261001-1445-0f7f",
+  "sha256": "782bd290c490a5997bce902d7fdffd69454ab2331caee0ccaf45456377b938b4",
+  "nota": "Puerta Facility: avisos en la pantalla, sin alertas",
+  "fecha": "2026-10-01T20:45:08.270Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
