@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-1521-28de",
-  "sha256": "4fc5756605b4d86f706da53786a212db13670977150cc9adb2c8612a634f16a6",
-  "nota": "Menu: Seguridad reemplaza a Camaras en cerebro y cabinas; Carolina en lista del panel",
-  "fecha": "2026-10-02T21:21:19.065Z",
+  "paquete": "p-261002-1523-79c7",
+  "sha256": "8bb61984dabd8ee67fb73eaaa56b6055e66ff53f925b5582997c8771844f4fc1",
+  "nota": "Alta del usuario de Carolina (job de una vez)",
+  "fecha": "2026-10-02T21:23:51.621Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
