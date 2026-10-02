@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1523-79c7",
-  "sha256": "8bb61984dabd8ee67fb73eaaa56b6055e66ff53f925b5582997c8771844f4fc1",
-  "nota": "Alta del usuario de Carolina (job de una vez)",
-  "fecha": "2026-10-02T21:23:51.621Z",
+  "paquete": "p-261002-1535-d18c",
+  "sha256": "94448b745408c95c2f08721d5587326978d6d834da6ea84b089a36f47e10e37d",
+  "nota": "Area Seguridad: accesos al panel nuevo, sin Camaras; Carolina en el area",
+  "fecha": "2026-10-02T21:35:55.710Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
