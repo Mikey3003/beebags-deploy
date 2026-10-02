@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1557-da1a",
-  "sha256": "9e87d8a6b00bc5e65cc1daf41f1dba799c5f4d3806b53b520a451844a77f239e",
-  "nota": "Cotizador: el mapa del precio avisa y deja reintentar si el servidor no contesta (antes se quedaba mudo)",
-  "fecha": "2026-10-02T21:57:43.479Z",
+  "paquete": "p-261002-1609-14fe",
+  "sha256": "b5dfad664eda361d809b438c87d531bc9181517638f59f0e2345a4250c5eb57e",
+  "nota": "Cotizador: el Mapa del precio abre con la ficha de lo que se cotiza (cliente, bolsa, tela, color, asas, impresion, empaque con tarima, flete)",
+  "fecha": "2026-10-02T22:09:01.708Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
