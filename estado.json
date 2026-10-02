@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1535-d18c",
-  "sha256": "94448b745408c95c2f08721d5587326978d6d834da6ea84b089a36f47e10e37d",
-  "nota": "Area Seguridad: accesos al panel nuevo, sin Camaras; Carolina en el area",
-  "fecha": "2026-10-02T21:35:55.710Z",
+  "paquete": "p-261002-1557-da1a",
+  "sha256": "9e87d8a6b00bc5e65cc1daf41f1dba799c5f4d3806b53b520a451844a77f239e",
+  "nota": "Cotizador: el mapa del precio avisa y deja reintentar si el servidor no contesta (antes se quedaba mudo)",
+  "fecha": "2026-10-02T21:57:43.479Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
