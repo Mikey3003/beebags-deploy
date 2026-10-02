@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1129-9f23",
-  "sha256": "34e854848fce88c61ba1d51ed232819bc85cb6faf19667c31c6c9a1ca5aefdbf",
-  "nota": "spunbond: el dia hora por hora se lee en la tarjeta clara",
-  "fecha": "2026-10-02T17:29:17.458Z",
+  "paquete": "p-261002-1212-caa3",
+  "sha256": "faa9858e8bba4f83b02859ca29ab346766985ada241b876d9af62604cf1ebac0",
+  "nota": "Cerebro: aprobaciones de Calidad arriba, antes de los registros",
+  "fecha": "2026-10-02T18:12:36.197Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
