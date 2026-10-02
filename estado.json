@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-0956-16f8",
-  "sha256": "2fb460129a243678b90a88ef3c2a25082237a944900e42b12c13b7bc01872d67",
-  "nota": "Aviso a Miriam y Dulce: pedidos en duda, respuesta por niveles al panel de autorizaciones",
-  "fecha": "2026-10-02T15:56:52.701Z",
+  "paquete": "p-261002-1129-9f23",
+  "sha256": "34e854848fce88c61ba1d51ed232819bc85cb6faf19667c31c6c9a1ca5aefdbf",
+  "nota": "spunbond: el dia hora por hora se lee en la tarjeta clara",
+  "fecha": "2026-10-02T17:29:17.458Z",
   "autor": "alex_",
-  "archivos": 9,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
