@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261001-1621-1833",
-  "sha256": "0f2e2213c385102bd9d05e28f177902bdfbc33cadc20a60bf5ffe6eef1c354e5",
-  "nota": "Puerta: las secciones del menu dejan de ocupar toda la fila",
-  "fecha": "2026-10-01T22:21:45.901Z",
+  "paquete": "p-261002-0029-aa88",
+  "sha256": "6f3d6d69e2d7b45de265acc5eb5f92d5cd21499581ba1dcdf5fc1f30ff62697b",
+  "nota": "Personalizado: jalar rollos por especificacion, estampado por escaner con SKU de marca, etapas; candados APAGADOS",
+  "fecha": "2026-10-02T06:29:43.619Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 6,
+  "reinicio": true,
   "pausado": false
 }
