@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-0925-703f",
-  "sha256": "b129af456f53ffbd1016000b847997145a793fff9ef199804e9f71cfca27ec1f",
-  "nota": "Seguridad: Relacion de vigilancia (reemplaza el Excel), boton Regreso, historico y 2 correcciones; candado APAGADO",
-  "fecha": "2026-10-02T15:25:07.016Z",
+  "paquete": "p-261002-0956-16f8",
+  "sha256": "2fb460129a243678b90a88ef3c2a25082237a944900e42b12c13b7bc01872d67",
+  "nota": "Aviso a Miriam y Dulce: pedidos en duda, respuesta por niveles al panel de autorizaciones",
+  "fecha": "2026-10-02T15:56:52.701Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 9,
   "reinicio": true,
   "pausado": false
 }
