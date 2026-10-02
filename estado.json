@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1212-caa3",
-  "sha256": "faa9858e8bba4f83b02859ca29ab346766985ada241b876d9af62604cf1ebac0",
-  "nota": "Cerebro: aprobaciones de Calidad arriba, antes de los registros",
-  "fecha": "2026-10-02T18:12:36.197Z",
+  "paquete": "p-261002-1213-f126",
+  "sha256": "236d0ab9f5353dd547b07f03cbf3b82cf89b0c28759853a1dd4adf5dc91813f3",
+  "nota": "Cerebro: aprobaciones de Calidad arriba, en cerebro2 que es la entrada",
+  "fecha": "2026-10-02T18:13:35.297Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
