@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-0040-940d",
-  "sha256": "534e08f93956e065669c4850daadb4c4fd4b36dbb72847b386636fa6fa305603",
-  "nota": "Seguridad: visto bueno de salida con candado APAGADO (modo sombra) + Personalizado estampado",
-  "fecha": "2026-10-02T06:40:19.139Z",
+  "paquete": "p-261002-0925-703f",
+  "sha256": "b129af456f53ffbd1016000b847997145a793fff9ef199804e9f71cfca27ec1f",
+  "nota": "Seguridad: Relacion de vigilancia (reemplaza el Excel), boton Regreso, historico y 2 correcciones; candado APAGADO",
+  "fecha": "2026-10-02T15:25:07.016Z",
   "autor": "alex_",
-  "archivos": 12,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
