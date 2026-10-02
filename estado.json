@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-1514-796b",
-  "sha256": "3413a0d43819f8a2d1f567819eb23bb2efa1a9981c43b6369486673312875146",
-  "nota": "Seguridad (2 hojas del Excel), descripciones en salidas, alta de rollos/modelos; candados apagados y escritores automaticos desconectados",
-  "fecha": "2026-10-02T21:14:33.476Z",
+  "paquete": "p-261002-1521-28de",
+  "sha256": "4fc5756605b4d86f706da53786a212db13670977150cc9adb2c8612a634f16a6",
+  "nota": "Menu: Seguridad reemplaza a Camaras en cerebro y cabinas; Carolina en lista del panel",
+  "fecha": "2026-10-02T21:21:19.065Z",
   "autor": "alex_",
-  "archivos": 22,
-  "reinicio": true,
+  "archivos": 4,
+  "reinicio": false,
   "pausado": false
 }
