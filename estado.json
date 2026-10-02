@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261002-0029-aa88",
-  "sha256": "6f3d6d69e2d7b45de265acc5eb5f92d5cd21499581ba1dcdf5fc1f30ff62697b",
-  "nota": "Personalizado: jalar rollos por especificacion, estampado por escaner con SKU de marca, etapas; candados APAGADOS",
-  "fecha": "2026-10-02T06:29:43.619Z",
+  "paquete": "p-261002-0040-940d",
+  "sha256": "534e08f93956e065669c4850daadb4c4fd4b36dbb72847b386636fa6fa305603",
+  "nota": "Seguridad: visto bueno de salida con candado APAGADO (modo sombra) + Personalizado estampado",
+  "fecha": "2026-10-02T06:40:19.139Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 12,
   "reinicio": true,
   "pausado": false
 }
