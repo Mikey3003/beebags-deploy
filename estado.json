@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1616-6275",
-  "sha256": "7633af50095172cbbd739de9f105bf1a32a4ae71575eba654ad18081dfd04ccf",
-  "nota": "Cotizador: empaque en dos niveles (piezas por bolsa, bolsas por caja, modo de empaque) y ficha del mapa lo muestra",
-  "fecha": "2026-10-02T22:16:20.609Z",
+  "paquete": "p-261002-1842-eb0b",
+  "sha256": "c8ec87d9785e8548ea4eb0eb14bbbb001aa05c93122f7ed61988ef6e152d40fc",
+  "nota": "Armar viaje: picar el chofer o la camioneta ya elegidos ya no los desmarca",
+  "fecha": "2026-10-03T00:42:37.085Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
