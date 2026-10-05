@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261005-0900-1e66",
-  "sha256": "b6f82799a8754661e2d0a915c0f07a05c5718e46407ce39494baa22c05603e9c",
-  "nota": "Armar viaje: elegir el chofer ya quita el aviso falta el chofer del servidor (la revision no se repetia al cambiar de chofer)",
-  "fecha": "2026-10-05T15:00:27.941Z",
+  "paquete": "p-261005-1009-c7bc",
+  "sha256": "221dd11f474949fef15d9fc4538591443f1fe9145b39ee239ccbf209e6f3def3",
+  "nota": "Estados de pedido: un solo escritor. Prende lo entregado segun vales (escribir:true) y el reconciliador de SERVERHP deja de pisar el estado de bolsa (caso 730: aprobado y regresado a parcial)",
+  "fecha": "2026-10-05T16:09:49.729Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
