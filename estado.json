@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261005-1009-c7bc",
-  "sha256": "221dd11f474949fef15d9fc4538591443f1fe9145b39ee239ccbf209e6f3def3",
-  "nota": "Estados de pedido: un solo escritor. Prende lo entregado segun vales (escribir:true) y el reconciliador de SERVERHP deja de pisar el estado de bolsa (caso 730: aprobado y regresado a parcial)",
-  "fecha": "2026-10-05T16:09:49.729Z",
+  "paquete": "p-261005-1354-8369",
+  "sha256": "c6c283b24f98b64738e22358807634cc9c046fe00396fdcbff24f48ececc154e",
+  "nota": "Alta de rollo: ya no confunde 0.77 con 0.077 al buscar si el modelo/producto existe (rollo SB260915221185 no se podia dar de alta)",
+  "fecha": "2026-10-05T19:54:54.015Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
