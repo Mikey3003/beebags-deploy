@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261002-1842-eb0b",
-  "sha256": "c8ec87d9785e8548ea4eb0eb14bbbb001aa05c93122f7ed61988ef6e152d40fc",
-  "nota": "Armar viaje: picar el chofer o la camioneta ya elegidos ya no los desmarca",
-  "fecha": "2026-10-03T00:42:37.085Z",
+  "paquete": "p-261005-0900-1e66",
+  "sha256": "b6f82799a8754661e2d0a915c0f07a05c5718e46407ce39494baa22c05603e9c",
+  "nota": "Armar viaje: elegir el chofer ya quita el aviso falta el chofer del servidor (la revision no se repetia al cambiar de chofer)",
+  "fecha": "2026-10-05T15:00:27.941Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
