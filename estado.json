@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261005-1702-6200",
-  "sha256": "9d6dc19f12df9125644221967924ff8e0bee7fdae110f52cfb0b90c77f60c226",
-  "nota": "Almacen: el rollo de stock tambien sale como CONSUMO INTERNO (con nota de para que se usa). Pantalla y servidor.",
-  "fecha": "2026-10-05T23:02:25.782Z",
+  "paquete": "p-261005-1755-924f",
+  "sha256": "4f0c803b3fd510b4911f29e0bc521c8ec4594bd3086bd631cc0a2780793b8585",
+  "nota": "Avisos de vales sin viaje INTERACTIVOS: una tarjeta por cliente con Resolver (meterlo a un viaje / ya salio o no lleva viaje con nota y aprobacion de Direccion VS-n / cancelarlo). 109 avisos -> ~38 tarjetas.",
+  "fecha": "2026-10-05T23:55:33.698Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 5,
   "reinicio": true,
   "pausado": false
 }
