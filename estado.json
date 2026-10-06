@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1525-cf72",
-  "sha256": "b615763181e2e776bef8047b83e37c0a8d8b7f47488e4558bbcf239b52af7150",
-  "nota": "Pedidos: linea del tiempo con quien cargo/autorizo y Falta informacion; carta porte pasa a llamarse salida (paginas)",
-  "fecha": "2026-10-06T21:25:35.968Z",
+  "paquete": "p-261006-1533-e509",
+  "sha256": "f1410cf8d3da4f0dca475719ed8b4db8e587e224b7b36e62e31bfdd070570418",
+  "nota": "Panel principal (cerebro2): carta porte pasa a llamarse salida",
+  "fecha": "2026-10-06T21:33:34.918Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
