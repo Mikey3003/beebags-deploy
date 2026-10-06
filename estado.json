@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1744-28b9",
-  "sha256": "b758d3235ca9a1565e350c67bba1b36351dcbef0fa85befa8b4fbe88af3e3044",
-  "nota": "Almacen: consumo interno con varios productos = UN solo vale/folio en una hoja; pedido sabe si el usuario es Direccion",
-  "fecha": "2026-10-06T23:44:22.626Z",
+  "paquete": "p-261006-1748-ea9f",
+  "sha256": "1d7ce53c53920288708b0039b13867613f80e7cbb2eac4425dd2c8142dc38d67",
+  "nota": "Almacen: confirmar pedido correcto (897/997) y refresco; grabadora silenciosa del grupo Vigilancia; panel Cuadre de salidas (Carolina); correcciones en linea del tiempo",
+  "fecha": "2026-10-06T23:48:34.926Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 23,
   "reinicio": true,
   "pausado": false
 }
