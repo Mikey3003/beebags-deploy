@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1602-fb9c",
-  "sha256": "f1f5c3410e4dd5fb320a01846e8983b40c08384d19a7e462ad6a1736c6e647ef",
-  "nota": "Salida: nombre y firma obligatorios (quien carga, Seguridad autoriza); casos obligatorios Sara/Dulce/Miriam/Omar + aviso a Direccion; linea del tiempo con quien/dia/hora y palomeo; tarjetas por salida",
-  "fecha": "2026-10-06T22:02:38.240Z",
+  "paquete": "p-261006-1604-7dac",
+  "sha256": "f7b1c383a7bed2d0a168f811f3b0033ad99b046ae59e634928fb7ff52c60f8e1",
+  "nota": "Salida: mas aire en firmas; casos: 3 seguidos por sesion; tarjetas sin fondo oscuro",
+  "fecha": "2026-10-06T22:04:42.799Z",
   "autor": "alex_",
-  "archivos": 8,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
