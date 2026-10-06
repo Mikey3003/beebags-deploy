@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1254-81ee",
-  "sha256": "6375ac415cf869a06aa1d2b1c766db68ee3b90d93dd3587abbb88b94082d66e9",
-  "nota": "RH: los detalles de los avisos ya no se cortan con puntos suspensivos",
-  "fecha": "2026-10-06T18:54:22.605Z",
+  "paquete": "p-261006-1319-0f7a",
+  "sha256": "2b922d64a87cf0afc3728d680d5475cb963139df4fd042ca65aba73acc098359",
+  "nota": "RH renovado 2: lenguaje del Almacen (mapa de la planta con fotos, formulario de ficha por pasos con vista previa, linea del tiempo, calendario, KPIs con iconos)",
+  "fecha": "2026-10-06T19:19:38.344Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
