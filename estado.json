@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1251-8891",
-  "sha256": "3f7110a36c975f5902bc829785875ceda8b15ac9489bc837102be193c1ae37c3",
-  "nota": "RH renovado: avisos y candados (completitud de expedientes, reloj al dia, turnos de noche, salud del checador, candado de cierre de nomina), panel con el lenguaje de Pedidos/Almacen. Arregla el mapeo NSS/Alta IMSS del checklist.",
-  "fecha": "2026-10-06T18:51:13.090Z",
+  "paquete": "p-261006-1254-81ee",
+  "sha256": "6375ac415cf869a06aa1d2b1c766db68ee3b90d93dd3587abbb88b94082d66e9",
+  "nota": "RH: los detalles de los avisos ya no se cortan con puntos suspensivos",
+  "fecha": "2026-10-06T18:54:22.605Z",
   "autor": "alex_",
-  "archivos": 6,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
