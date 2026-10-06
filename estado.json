@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261006-1742-1eba",
-  "sha256": "7c624baf3cb80472aa4d246fcf02795e67ea470cc3939ac29867efc93aa25ca4",
-  "nota": "Casos de salida: Direccion puede cerrar con motivo un caso historico (ya entregado) y reabrirlo; se ve quien y por que en el pedido",
-  "fecha": "2026-10-06T23:42:19.033Z",
+  "paquete": "p-261006-1744-28b9",
+  "sha256": "b758d3235ca9a1565e350c67bba1b36351dcbef0fa85befa8b4fbe88af3e3044",
+  "nota": "Almacen: consumo interno con varios productos = UN solo vale/folio en una hoja; pedido sabe si el usuario es Direccion",
+  "fecha": "2026-10-06T23:44:22.626Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
