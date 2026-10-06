@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1533-e509",
-  "sha256": "f1410cf8d3da4f0dca475719ed8b4db8e587e224b7b36e62e31bfdd070570418",
-  "nota": "Panel principal (cerebro2): carta porte pasa a llamarse salida",
-  "fecha": "2026-10-06T21:33:34.918Z",
+  "paquete": "p-261006-1534-20e3",
+  "sha256": "4dfda6d034ed473c2a4b14956dd5890383e49995684d75b094aaf5afd629ac6a",
+  "nota": "Pedidos: numero de folio en las entradas de la linea del tiempo + panel principal (cerebro2) dice salida",
+  "fecha": "2026-10-06T21:34:20.667Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
