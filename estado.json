@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1523-16ba",
-  "sha256": "2d6322b49d69bd4d228364976b1d47bae15ff362cf9120d54bf84b832e035ea6",
-  "nota": "Pedidos: control de salida (quien cargo/autorizo, que falta) + carta porte pasa a llamarse salida (servidor)",
-  "fecha": "2026-10-06T21:23:10.022Z",
+  "paquete": "p-261006-1525-cf72",
+  "sha256": "b615763181e2e776bef8047b83e37c0a8d8b7f47488e4558bbcf239b52af7150",
+  "nota": "Pedidos: linea del tiempo con quien cargo/autorizo y Falta informacion; carta porte pasa a llamarse salida (paginas)",
+  "fecha": "2026-10-06T21:25:35.968Z",
   "autor": "alex_",
-  "archivos": 10,
-  "reinicio": true,
+  "archivos": 4,
+  "reinicio": false,
   "pausado": false
 }
