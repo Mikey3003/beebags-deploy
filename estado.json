@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1349-0658",
-  "sha256": "969b783137074f980d6e3bfb4102b68f856e4f29fb25b81220f7d84efebc169f",
-  "nota": "RH rediseño: linea del tiempo del reloj en Inicio, Asistencia y Nomina (ahi se sube el Excel), pulso por dia, Inicio de 3,500 a 1,500 px, pendientes plegados, listas con buscador",
-  "fecha": "2026-10-06T19:49:14.912Z",
+  "paquete": "p-261006-1406-a3fe",
+  "sha256": "d5ce006593d40ce3031a61d234cbec45f667e44b24441a23505d0cb3c7ebca9d",
+  "nota": "RH: el agente de WhatsApp avisa a Mikey y Alex las incidencias (checador atrasado, bloqueos de nomina, contratos por vencer), un resumen al dia 08:30",
+  "fecha": "2026-10-06T20:06:37.334Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
