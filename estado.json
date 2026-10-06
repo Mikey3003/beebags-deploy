@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1415-01aa",
-  "sha256": "a64580e9a09a184a437fee3be191005e7ee11945255977866e0981f1c5d6b1d3",
-  "nota": "RH estilo iOS/Mac: titulo grande por pestana, Documentos y Ajustes en listas agrupadas, Bancos de 14,464 a 2,196 px, barra de pestanas de vidrio, Ayuda en dos columnas",
-  "fecha": "2026-10-06T20:15:44.487Z",
+  "paquete": "p-261006-1523-16ba",
+  "sha256": "2d6322b49d69bd4d228364976b1d47bae15ff362cf9120d54bf84b832e035ea6",
+  "nota": "Pedidos: control de salida (quien cargo/autorizo, que falta) + carta porte pasa a llamarse salida (servidor)",
+  "fecha": "2026-10-06T21:23:10.022Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 10,
+  "reinicio": true,
   "pausado": false
 }
