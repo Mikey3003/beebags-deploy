@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261006-1604-7dac",
-  "sha256": "f7b1c383a7bed2d0a168f811f3b0033ad99b046ae59e634928fb7ff52c60f8e1",
-  "nota": "Salida: mas aire en firmas; casos: 3 seguidos por sesion; tarjetas sin fondo oscuro",
-  "fecha": "2026-10-06T22:04:42.799Z",
+  "paquete": "p-261006-1742-1eba",
+  "sha256": "7c624baf3cb80472aa4d246fcf02795e67ea470cc3939ac29867efc93aa25ca4",
+  "nota": "Casos de salida: Direccion puede cerrar con motivo un caso historico (ya entregado) y reabrirlo; se ve quien y por que en el pedido",
+  "fecha": "2026-10-06T23:42:19.033Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
