@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261006-1319-0f7a",
-  "sha256": "2b922d64a87cf0afc3728d680d5475cb963139df4fd042ca65aba73acc098359",
-  "nota": "RH renovado 2: lenguaje del Almacen (mapa de la planta con fotos, formulario de ficha por pasos con vista previa, linea del tiempo, calendario, KPIs con iconos)",
-  "fecha": "2026-10-06T19:19:38.344Z",
+  "paquete": "p-261006-1349-0658",
+  "sha256": "969b783137074f980d6e3bfb4102b68f856e4f29fb25b81220f7d84efebc169f",
+  "nota": "RH rediseño: linea del tiempo del reloj en Inicio, Asistencia y Nomina (ahi se sube el Excel), pulso por dia, Inicio de 3,500 a 1,500 px, pendientes plegados, listas con buscador",
+  "fecha": "2026-10-06T19:49:14.912Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
