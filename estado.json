@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261005-1755-924f",
-  "sha256": "4f0c803b3fd510b4911f29e0bc521c8ec4594bd3086bd631cc0a2780793b8585",
-  "nota": "Avisos de vales sin viaje INTERACTIVOS: una tarjeta por cliente con Resolver (meterlo a un viaje / ya salio o no lleva viaje con nota y aprobacion de Direccion VS-n / cancelarlo). 109 avisos -> ~38 tarjetas.",
-  "fecha": "2026-10-05T23:55:33.698Z",
+  "paquete": "p-261005-1802-ad55",
+  "sha256": "dcc9b4238115f148f501b4d143cfc4a9f82db3512d7aa6967d18c75195e6eff8",
+  "nota": "Agente de WhatsApp: FORRO CARTERA = tela 70 g, 1.6 m, rollo de 250 m (llena lo que falte, gramaje siempre 70, metros a rollos: 6000 m = 24 rollos). Modulo forro-cartera + prompt.",
+  "fecha": "2026-10-06T00:02:20.160Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
