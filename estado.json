@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1223-1121",
-  "sha256": "bc58dbe290185c59aedebf415951b27f75a9a4263c17a8637bd9786cce96c859",
-  "nota": "ficha tela: pedido en kilos sin metros por rollo no inventa rollos",
-  "fecha": "2026-10-07T18:23:38.759Z",
+  "paquete": "p-261007-1303-43ba",
+  "sha256": "c5f7f185afd70543f8d4cbdfab05e1560b9234e8ce0009267a77cfbade6c1eaf",
+  "nota": "Novedades: aviso que dice que cambio al entrar/recargar (depuracion de 155 parciales atrasados + unidad de medida); ficha tela sin inventar rollos",
+  "fecha": "2026-10-07T19:03:01.662Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
