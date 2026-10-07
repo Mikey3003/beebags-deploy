@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1220-4e82",
-  "sha256": "e552d0c180826dedd41078c4625dc6a82c3c8751544caa430e6fb22caee334af",
-  "nota": "Unidad de medida del PEDIDO (linea: Piezas/Kilos), no del modelo: ficha PDF y panel en kg/rollos, Correcciones con cantidad y unidad por linea; quita lector temporal",
-  "fecha": "2026-10-07T18:20:31.006Z",
+  "paquete": "p-261007-1223-c6bc",
+  "sha256": "3e0e46960d6e9aeec53fb5a80ac065dda3281bbeaf98fe6c12ed04145cd33852",
+  "nota": "ficha tela: pedido en kilos sin metros por rollo no inventa rollos",
+  "fecha": "2026-10-07T18:23:19.141Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
