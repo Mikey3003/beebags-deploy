@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1012-a8c1",
-  "sha256": "72a551590ff037c875a3b4edd9882b3d21902884ae26867e8fe82b7d35afd10e",
-  "nota": "Grabadora de Vigilancia: reconoce el grupo por NOMBRE (Vigilancia Bee Bags), el jid anterior era otro grupo; solo lectura",
-  "fecha": "2026-10-07T16:12:15.186Z",
+  "paquete": "p-261007-1019-8511",
+  "sha256": "7a1818592d766db5270dd54be62bf9b2b6c879f08444b55dd5293ae835f961fc",
+  "nota": "Casos de salida: un solo WhatsApp resumen por hora a Direccion en vez de uno por salida; No se exige motivo",
+  "fecha": "2026-10-07T16:19:23.265Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
