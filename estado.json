@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1303-43ba",
-  "sha256": "c5f7f185afd70543f8d4cbdfab05e1560b9234e8ce0009267a77cfbade6c1eaf",
-  "nota": "Novedades: aviso que dice que cambio al entrar/recargar (depuracion de 155 parciales atrasados + unidad de medida); ficha tela sin inventar rollos",
-  "fecha": "2026-10-07T19:03:01.662Z",
+  "paquete": "p-261007-1307-af5d",
+  "sha256": "836ee928ef0d4ae4fcfe5263012562856a7dbc6a9523b270ce79779a2e9b31b4",
+  "nota": "Novedades: el boton ya no tapa el boton flotante",
+  "fecha": "2026-10-07T19:07:53.939Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
