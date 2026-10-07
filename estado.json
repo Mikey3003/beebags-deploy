@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261007-1423-fd40",
-  "sha256": "8332337dac9abc5a32896f13e825fa0ca1738735d0125956f763fe0632df73e1",
-  "nota": "Cerebro: al abrir un registro de salida sale el detalle (chofer, placas, vales, quien cargo y autorizo, faltantes)",
-  "fecha": "2026-10-07T20:23:42.486Z",
+  "paquete": "p-261007-1429-799e",
+  "sha256": "d2099ae8f0a6e9a13ef688ba5197b79f53e0a67cf045174a339c1a0a7b72653e",
+  "nota": "Cerebro (cerebro2.html): detalle de la salida al abrir un registro de Logistica",
+  "fecha": "2026-10-07T20:29:43.192Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
