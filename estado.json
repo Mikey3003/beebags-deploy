@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261007-1429-799e",
-  "sha256": "d2099ae8f0a6e9a13ef688ba5197b79f53e0a67cf045174a339c1a0a7b72653e",
-  "nota": "Cerebro (cerebro2.html): detalle de la salida al abrir un registro de Logistica",
-  "fecha": "2026-10-07T20:29:43.192Z",
+  "paquete": "p-261007-1438-dd21",
+  "sha256": "34aa9056c97394c32616d26b12b72b5601b59a479c7c3d4d799551847baa1a42",
+  "nota": "Novedades: aviso de cerebro (detalle de salidas) y arreglo del selector de rollos",
+  "fecha": "2026-10-07T20:38:38.033Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
