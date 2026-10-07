@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261007-1019-8511",
-  "sha256": "7a1818592d766db5270dd54be62bf9b2b6c879f08444b55dd5293ae835f961fc",
-  "nota": "Casos de salida: un solo WhatsApp resumen por hora a Direccion en vez de uno por salida; No se exige motivo",
-  "fecha": "2026-10-07T16:19:23.265Z",
+  "paquete": "p-261007-1044-6d9a",
+  "sha256": "c179416f75d2580bda0c70b38dcbc11a8a27d1a7fb01959cd414608bc48b0410",
+  "nota": "Casos de salida: No se vuelve un clic sin exigir texto, aviso de confirmacion, ventana apta para celular (letra 16px, teclado no tapa)",
+  "fecha": "2026-10-07T16:44:24.870Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
