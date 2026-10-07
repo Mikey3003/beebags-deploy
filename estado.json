@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1044-6d9a",
-  "sha256": "c179416f75d2580bda0c70b38dcbc11a8a27d1a7fb01959cd414608bc48b0410",
-  "nota": "Casos de salida: No se vuelve un clic sin exigir texto, aviso de confirmacion, ventana apta para celular (letra 16px, teclado no tapa)",
-  "fecha": "2026-10-07T16:44:24.870Z",
+  "paquete": "p-261007-1046-c95d",
+  "sha256": "dff6068fdb41fa989d9401c20c3a81270df1ebafa5c5acbff0ec513ab4e9e3d0",
+  "nota": "Ventana de casos: botones fijos abajo (a la vista en celular)",
+  "fecha": "2026-10-07T16:46:44.743Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
