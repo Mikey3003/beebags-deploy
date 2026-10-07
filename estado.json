@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261007-1307-af5d",
-  "sha256": "836ee928ef0d4ae4fcfe5263012562856a7dbc6a9523b270ce79779a2e9b31b4",
-  "nota": "Novedades: el boton ya no tapa el boton flotante",
-  "fecha": "2026-10-07T19:07:53.939Z",
+  "paquete": "p-261007-1414-1c21",
+  "sha256": "3b7494a5e71aa68a1b672e405a683b9a3675c71e10210b8f65cbd03b5d4d6826",
+  "nota": "Cerebro: al abrir un registro de salida sale el detalle (chofer, placas, vales, quien cargo y autorizo, faltantes)",
+  "fecha": "2026-10-07T20:14:51.369Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
