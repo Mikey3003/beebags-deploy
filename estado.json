@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261007-1223-c6bc",
-  "sha256": "3e0e46960d6e9aeec53fb5a80ac065dda3281bbeaf98fe6c12ed04145cd33852",
+  "paquete": "p-261007-1223-1121",
+  "sha256": "bc58dbe290185c59aedebf415951b27f75a9a4263c17a8637bd9786cce96c859",
   "nota": "ficha tela: pedido en kilos sin metros por rollo no inventa rollos",
-  "fecha": "2026-10-07T18:23:19.141Z",
+  "fecha": "2026-10-07T18:23:38.759Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
