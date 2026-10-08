@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261008-1314-07d0",
-  "sha256": "7e6eea6275a33babc2318bd9d4da9b266ce6e13bbcfd72bea02cb965ca217393",
-  "nota": "REVIERTE cambio de estados directo: los estados de Pedidos vuelven a requerir aprobacion de Direccion",
-  "fecha": "2026-10-08T19:14:09.180Z",
+  "paquete": "p-261008-1410-2336",
+  "sha256": "2dcc6a019440314f13d5139ff06d8d12774f9139ffe5d68f39793d1c0a18ad0f",
+  "nota": "Menos spam al agente: UN resumen de solicitudes cada 2 h (8:00-20:00) en vez de un WhatsApp por cosa; sin avisos por evento de precio/avisar a Pedidos; el recuadro de precio ofrece primero el precio que Sara ya pidio",
+  "fecha": "2026-10-08T20:10:14.533Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
