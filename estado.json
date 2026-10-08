@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261007-1731-c89f",
-  "sha256": "81969a8dc29425959ca565b9beac55e6caa304f917c6b8e15f207efcbd4230ad",
-  "nota": "Pedidos: 'el estado no cuadra' ya no marca los 155 parciales vencidos que se pasaron a ENTREGADO a proposito (BB_DEPURADOS)",
-  "fecha": "2026-10-07T23:31:02.044Z",
+  "paquete": "p-261008-1029-dd18",
+  "sha256": "74697c24581f9c385799e90b17a4c3fe90012ac7f06c8889708d00de71b6e411",
+  "nota": "Almacen: pedido sin precio ya NO bloquea; pide el precio (obligatorio), lo guarda en el pedido y avisa a Direccion",
+  "fecha": "2026-10-08T16:29:25.453Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
