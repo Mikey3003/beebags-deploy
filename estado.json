@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261008-1029-dd18",
-  "sha256": "74697c24581f9c385799e90b17a4c3fe90012ac7f06c8889708d00de71b6e411",
-  "nota": "Almacen: pedido sin precio ya NO bloquea; pide el precio (obligatorio), lo guarda en el pedido y avisa a Direccion",
-  "fecha": "2026-10-08T16:29:25.453Z",
+  "paquete": "p-261008-1041-76bc",
+  "sha256": "9d5bd8dc92c34acb425ebdc459e7f8218e45e3a4bdedee695ad404f5fc514504",
+  "nota": "Almacen: boton Avisar a Pedidos cuando el pedido esta surtido/entregado/corto (ya no es callejon sin salida) + ruta avisar-pedidos",
+  "fecha": "2026-10-08T16:41:37.452Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
