@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261008-1309-3217",
-  "sha256": "0218bd9535463c802f2b1fc83253c6e4b6078261a21bf71f48b384884002a854",
-  "nota": "Pedidos (Sara) cambia ESTADOS directo desde solicitudes de correccion: se aplica al momento, queda en bitacora y avisa a Mikey y Alex",
-  "fecha": "2026-10-08T19:09:54.208Z",
+  "paquete": "p-261008-1314-07d0",
+  "sha256": "7e6eea6275a33babc2318bd9d4da9b266ce6e13bbcfd72bea02cb965ca217393",
+  "nota": "REVIERTE cambio de estados directo: los estados de Pedidos vuelven a requerir aprobacion de Direccion",
+  "fecha": "2026-10-08T19:14:09.180Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
