@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261008-1100-59b1",
-  "sha256": "42026f79e7217b04c1044f551719a2ceab725b93406916423e1d07d53a9124f5",
-  "nota": "Almacen resuelve de noche: precio con sugerencias del cliente, excedente y pedido cerrado con motivo, todo marcado para que Direccion revise",
-  "fecha": "2026-10-08T17:00:11.739Z",
+  "paquete": "p-261008-1309-3217",
+  "sha256": "0218bd9535463c802f2b1fc83253c6e4b6078261a21bf71f48b384884002a854",
+  "nota": "Pedidos (Sara) cambia ESTADOS directo desde solicitudes de correccion: se aplica al momento, queda en bitacora y avisa a Mikey y Alex",
+  "fecha": "2026-10-08T19:09:54.208Z",
   "autor": "alex_",
   "archivos": 3,
   "reinicio": true,
