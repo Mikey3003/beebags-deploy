@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261009-1238-3c88",
-  "sha256": "3502e09743bc7f5886fb0e8de6dddd7dc60275d2bd5cc11ef596eaa09af7e5b4",
-  "nota": "Modulo Base de datos: solo Alex y Mikey (candado en las rutas /api/datos/* y en datos.js; antes cualquier sesion con area)",
-  "fecha": "2026-10-09T18:38:04.849Z",
+  "paquete": "p-261009-1253-3d9c",
+  "sha256": "9ed048997e75caa90fd9949438c9124aad526a652e07d2e29a60ccb5230f26fb",
+  "nota": "Espejos: tarea medir-<dominio> y medir-todos (compara por recordId contra Airtable en vivo), medicion automatica tras el espejo nocturno, y job leer-mediciones",
+  "fecha": "2026-10-09T18:53:41.242Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
