@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1412-9d6f",
-  "sha256": "5ce113808f1814f7a383564541b0a6dfb51c6eff9818f650789c8895f4c189f3",
-  "nota": "URGENTE Omar: bolsa plana sin X0 (Airtable cambio la formula Medidas y 131 modelos perdieron el X0): el listado de pedidos del almacen vuelve a escribir ANCHOxALTOx0-COLOR-MARCA (pedidos 1006 y 1032)",
-  "fecha": "2026-10-09T20:12:39.308Z",
+  "paquete": "p-261009-1420-4bb9",
+  "sha256": "0cf9566da6de3d06c9c3ef5794e5814823f3209ddf7efe6eeb95dbf51ea9e415",
+  "nota": "REVIERTE la normalizacion X0 del listado de pedidos: el catalogo del almacen ya no lleva X0 (193 productos planos sin X0) y el pedido 1006 salia Sin producto. El listado vuelve a mostrar el SKU como esta en Airtable",
+  "fecha": "2026-10-09T20:20:01.628Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
