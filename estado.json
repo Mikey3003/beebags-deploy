@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261009-1039-74e5",
-  "sha256": "d0a1f5b89968d1d075b35fac2858e5c9e8b37bd3344a679f7e6d7578807e8952",
+  "paquete": "p-261009-1041-4c39",
+  "sha256": "064c96172ae0e0459943c13e47b76f30bd645d84f0e110b4b23813fe38b4925f",
   "nota": "Los espejos (Airtable->Postgres y Postgres->Supabase) pasan a correr en el servidor, sin ventanas: catalogos c/15 min, Supabase c/5 min, el resto de noche",
-  "fecha": "2026-10-09T16:39:17.036Z",
+  "fecha": "2026-10-09T16:41:22.113Z",
   "autor": "alex_",
   "archivos": 8,
   "reinicio": true,
