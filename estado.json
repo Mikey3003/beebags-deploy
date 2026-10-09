@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1223-3de9",
-  "sha256": "7d9d73e9e7337d212046000ce9462f939d26f0e5b468300c6331d88ccfecffb1",
-  "nota": "Panel de datos: editar y leer en la base correcta de cada registro (12 tablas apuntaban a la legacy) y comparar numeros con tolerancia",
-  "fecha": "2026-10-09T18:23:53.455Z",
+  "paquete": "p-261009-1238-3c88",
+  "sha256": "3502e09743bc7f5886fb0e8de6dddd7dc60275d2bd5cc11ef596eaa09af7e5b4",
+  "nota": "Modulo Base de datos: solo Alex y Mikey (candado en las rutas /api/datos/* y en datos.js; antes cualquier sesion con area)",
+  "fecha": "2026-10-09T18:38:04.849Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
