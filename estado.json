@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1433-9dce",
-  "sha256": "f447df01027965cd7a3346bbb23dfa2649de8c60ec0146df37fd22e146c12863",
-  "nota": "Panel de datos (servidor): filtros por campo (Y/O) y orden por varios campos, lo mas nuevo primero por defecto, pestanas en el orden de Airtable, tablas nuevas (Alertas Sistema, Direcciones de Entrega, Historial Compras, Tarimas, Estampado)",
-  "fecha": "2026-10-09T20:33:58.540Z",
+  "paquete": "p-261009-1444-114a",
+  "sha256": "6e0fe66ac6e93b5b01459da7ced3babe0146fd884a5a723e667246207b718fcd",
+  "nota": "Panel de datos (pantalla): botones Filtrar (Y/O), Ordenar por varios campos, menu de Campos, registros por pagina (50-500), vista recordada por tabla, pestanas archivadas marcadas, total filtrado",
+  "fecha": "2026-10-09T20:44:57.175Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
