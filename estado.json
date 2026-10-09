@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1207-95b4",
-  "sha256": "c0d7656b6d0e5acc253499562fbbeadc20ee7bc551737a85153135311b1eed99",
-  "nota": "Panel Base de datos: formulas con nombres de campo, verificacion contra Airtable en la ficha, seccion Automatizaciones, y las formulas de la fila se refrescan desde Airtable al editar una celda (+ ruta /api/datos/refrescar para verificar una fila)",
-  "fecha": "2026-10-09T18:07:28.072Z",
+  "paquete": "p-261009-1223-3de9",
+  "sha256": "7d9d73e9e7337d212046000ce9462f939d26f0e5b468300c6331d88ccfecffb1",
+  "nota": "Panel de datos: editar y leer en la base correcta de cada registro (12 tablas apuntaban a la legacy) y comparar numeros con tolerancia",
+  "fecha": "2026-10-09T18:23:53.455Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
