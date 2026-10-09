@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1059-4edc",
-  "sha256": "833f4064102636241e6900bf3613a210615accce033c25e1a2ba5344f7f79398",
-  "nota": "WhatsApp: vincular con CODIGO de 8 caracteres (POST /api/whatsapp/codigo) ademas del QR",
-  "fecha": "2026-10-09T16:59:25.164Z",
+  "paquete": "p-261009-1155-8ff6",
+  "sha256": "b9422fc16266fd0a4cfbe12412c0d48a1f228b1053604714a2524f108554d702",
+  "nota": "Jobs de solo lectura: copiar el codigo vivo del panel de datos a web/_copia-panel para leerlo, y borrarlo",
+  "fecha": "2026-10-09T17:55:09.901Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
