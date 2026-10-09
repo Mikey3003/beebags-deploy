@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1336-38da",
-  "sha256": "3a3dc3668fb27b1b7f0d3de0b38ddf9c4be73e66974287e4bd3ee7e7c5ab0ac1",
-  "nota": "Copia al servidor: antes de cada espejo nocturno se ensanchan los CHECK con las opciones nuevas de Airtable (un select nuevo hacia que el espejo rechazara filas en silencio, ej. modelos_de_bolsas tamano_de_caja); tarea selects-todos",
-  "fecha": "2026-10-09T19:36:05.002Z",
+  "paquete": "p-261009-1340-481e",
+  "sha256": "2c524a13a2edc0374dc30abe1a56e2b22a6e29da6e3d7df1ab3bee2f101a6759",
+  "nota": "Landing del cerebro: se quitan los accesos Seguir como (persona) que leian las sesiones guardadas en el navegador y ofrecian entrar al panel de Sara, Antonio, etc.",
+  "fecha": "2026-10-09T19:40:22.275Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
