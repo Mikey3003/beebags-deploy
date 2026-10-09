@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1041-4c39",
-  "sha256": "064c96172ae0e0459943c13e47b76f30bd645d84f0e110b4b23813fe38b4925f",
-  "nota": "Los espejos (Airtable->Postgres y Postgres->Supabase) pasan a correr en el servidor, sin ventanas: catalogos c/15 min, Supabase c/5 min, el resto de noche",
-  "fecha": "2026-10-09T16:41:22.113Z",
+  "paquete": "p-261009-1059-4edc",
+  "sha256": "833f4064102636241e6900bf3613a210615accce033c25e1a2ba5344f7f79398",
+  "nota": "WhatsApp: vincular con CODIGO de 8 caracteres (POST /api/whatsapp/codigo) ademas del QR",
+  "fecha": "2026-10-09T16:59:25.164Z",
   "autor": "alex_",
-  "archivos": 8,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
