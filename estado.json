@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261009-1331-85c5",
-  "sha256": "723cdb58ace0ec3cd2d1ea7490898b227e12189f12edc40c1c161ea2c0ab91c0",
-  "nota": "Job leer-faltantes (solo lectura): ids que faltan en Postgres segun la medicion",
-  "fecha": "2026-10-09T19:31:55.253Z",
+  "paquete": "p-261009-1334-418d",
+  "sha256": "2226f9176b178f61cd4f118bf2be5a2b8af35ebbe582e4d6e952dac45df25755",
+  "nota": "Job leer-informe-catalogos (solo lectura)",
+  "fecha": "2026-10-09T19:34:45.614Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
