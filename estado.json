@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1420-4bb9",
-  "sha256": "0cf9566da6de3d06c9c3ef5794e5814823f3209ddf7efe6eeb95dbf51ea9e415",
-  "nota": "REVIERTE la normalizacion X0 del listado de pedidos: el catalogo del almacen ya no lleva X0 (193 productos planos sin X0) y el pedido 1006 salia Sin producto. El listado vuelve a mostrar el SKU como esta en Airtable",
-  "fecha": "2026-10-09T20:20:01.628Z",
+  "paquete": "p-261009-1425-b705",
+  "sha256": "c4188cbc54cf33457fe9ddbe4493f5312855b795779e022ebc8c686f09cad14b",
+  "nota": "Almacen: la bolsa plana SIN X0 (30X40-VINO-GJ) ya es un SKU valido (fuelle 0), porque Grok cambio la formula Medidas a proposito para que no salga X0; asi el boton Crear el producto desde el pedido ya no marca faltan las medidas",
+  "fecha": "2026-10-09T20:25:06.355Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
