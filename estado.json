@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261008-1410-2336",
-  "sha256": "2dcc6a019440314f13d5139ff06d8d12774f9139ffe5d68f39793d1c0a18ad0f",
-  "nota": "Menos spam al agente: UN resumen de solicitudes cada 2 h (8:00-20:00) en vez de un WhatsApp por cosa; sin avisos por evento de precio/avisar a Pedidos; el recuadro de precio ofrece primero el precio que Sara ya pidio",
-  "fecha": "2026-10-08T20:10:14.533Z",
+  "paquete": "p-261009-1039-74e5",
+  "sha256": "d0a1f5b89968d1d075b35fac2858e5c9e8b37bd3344a679f7e6d7578807e8952",
+  "nota": "Los espejos (Airtable->Postgres y Postgres->Supabase) pasan a correr en el servidor, sin ventanas: catalogos c/15 min, Supabase c/5 min, el resto de noche",
+  "fecha": "2026-10-09T16:39:17.036Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 8,
   "reinicio": true,
   "pausado": false
 }
