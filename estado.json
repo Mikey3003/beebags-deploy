@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261009-1340-481e",
-  "sha256": "2c524a13a2edc0374dc30abe1a56e2b22a6e29da6e3d7df1ab3bee2f101a6759",
-  "nota": "Landing del cerebro: se quitan los accesos Seguir como (persona) que leian las sesiones guardadas en el navegador y ofrecian entrar al panel de Sara, Antonio, etc.",
-  "fecha": "2026-10-09T19:40:22.275Z",
+  "paquete": "p-261009-1412-9d6f",
+  "sha256": "5ce113808f1814f7a383564541b0a6dfb51c6eff9818f650789c8895f4c189f3",
+  "nota": "URGENTE Omar: bolsa plana sin X0 (Airtable cambio la formula Medidas y 131 modelos perdieron el X0): el listado de pedidos del almacen vuelve a escribir ANCHOxALTOx0-COLOR-MARCA (pedidos 1006 y 1032)",
+  "fecha": "2026-10-09T20:12:39.308Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
