@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1751-74b7",
-  "sha256": "e1cd94239317e55a872c5cd2106cec54f0ee5af565b4e25e5fcd8fb6c379e139",
-  "nota": "diagnostico solo lectura: definicion de pt (partes del SKU de bolsa)",
-  "fecha": "2026-10-12T23:51:19.724Z",
+  "paquete": "p-261012-1753-aa5f",
+  "sha256": "56524f11583d0041449b33893bba3343569e76242650f78992fffab35eb079d0",
+  "nota": "diagnostico solo lectura: _skuPartes y alta de bolsa",
+  "fecha": "2026-10-12T23:53:20.503Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
