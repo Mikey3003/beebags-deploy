@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1346-8125",
-  "sha256": "f06fd6761a86e4b6629cb26fdbe5576a2e01b0c07ea30595bd12265ec37ed0d6",
+  "paquete": "p-261012-1347-8ce0",
+  "sha256": "803207e22a3682d638c5051bf2c73ede855a38ddb0e537126666928c876c2dd2",
   "nota": "Cruce de producto (vale contra renglon del pedido): modulo NUEVO y DORMIDO (nadie lo carga todavia) + job de prueba de solo lectura",
-  "fecha": "2026-10-12T19:46:17.250Z",
+  "fecha": "2026-10-12T19:47:25.891Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": false,
