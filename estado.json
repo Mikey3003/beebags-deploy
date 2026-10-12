@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1703-cc35",
-  "sha256": "f2bc934683d4c79434d8d78796ae021caf60c7bc9031a3b0a0594cd6907a8d4a",
-  "nota": "Mesa del agente: rediseno con quien lo mando, de quien es, que falta, cronologia y que sigue",
-  "fecha": "2026-10-12T23:03:43.672Z",
+  "paquete": "p-261012-1711-e3cb",
+  "sha256": "15a5d58e356e67d29f5545f35cab19503717dd62473b61f7733668dc522dd3c9",
+  "nota": "Mesa del agente: editar/completar cualquier dato, bitacora de correcciones, estilo como Almacen y Pedidos",
+  "fecha": "2026-10-12T23:11:55.078Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
