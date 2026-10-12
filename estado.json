@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1546-0282",
-  "sha256": "a76cf79ad8749a0697fbd05bf5ecbca2f45abbc8f939a3b36e4f03d395d7b511",
-  "nota": "Registro de clientes (CORRIGE el portero: el path llega sin /api): pagina publica /registro (formulario) + liga nueva por WhatsApp al vendedor en cada reinicio (apagado por defecto) + el cruce de producto avisa solo a Mikey, Alex y Sara. Una linea en el portero de index.js y una en ajustes.js. Con reinicio.",
-  "fecha": "2026-10-12T21:46:11.543Z",
+  "paquete": "p-261012-1547-73c5",
+  "sha256": "8c6997bf4c11af38d2f985e79a5d9f2944701ae1610a13f85f0aab0b5aca7932",
+  "nota": "Job: borra los registros de PRUEBA del formulario y comprueba el numero de Juan en el organigrama",
+  "fecha": "2026-10-12T21:47:55.116Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
