@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1750-898d",
-  "sha256": "f4da19b13a3b74ca9a1bcf68c1a7aed0c82558fef946b31f2712a5ae3057b2af",
-  "nota": "diagnostico solo lectura: parser de forma de bolsa en sincronizar-catalogo",
-  "fecha": "2026-10-12T23:50:07.168Z",
+  "paquete": "p-261012-1751-74b7",
+  "sha256": "e1cd94239317e55a872c5cd2106cec54f0ee5af565b4e25e5fcd8fb6c379e139",
+  "nota": "diagnostico solo lectura: definicion de pt (partes del SKU de bolsa)",
+  "fecha": "2026-10-12T23:51:19.724Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
