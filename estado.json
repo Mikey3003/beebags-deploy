@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1105-8e6a",
-  "sha256": "dcade5593cbcdc97c407b4fcda5d9c0421fd2b22b340566aed11f60a17e77248",
-  "nota": "Job cancelar-me-viejos (3): busca node en el servidor; rechaza solo MEP-1/2/3",
-  "fecha": "2026-10-12T17:05:34.372Z",
+  "paquete": "p-261012-1305-1fba",
+  "sha256": "1b6725b85d633ed6b62ef4795dc4ee2e00b31a7c4be390e8252edb90c0752d2c",
+  "nota": "Job de SOLO LECTURA: que tiene guardado el servidor de la salida 1340 (itinerario e impresion)",
+  "fecha": "2026-10-12T19:05:46.191Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
