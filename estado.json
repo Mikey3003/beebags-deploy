@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1601-8bf2",
-  "sha256": "dfa97659b1ef9a11c530db2de4769dd11c83f5f6bb05ed56ed0f7343f04a9671",
-  "nota": "Registro de clientes: se agregan campos OPCIONALES (medida, color, cantidad, gramaje, con asa o no, nota). Lo obligatorio sigue siendo nombre, celular y correo; empresa opcional. Con reinicio (la liga nueva le llega sola a Juan).",
-  "fecha": "2026-10-12T22:01:15.753Z",
+  "paquete": "p-261012-1601-4df9",
+  "sha256": "140487b78eb12a0fd75f1e9b6a8d767843f20659f6430935415c6f36c2f0f480",
+  "nota": "Job de SOLO LECTURA: que liga se le mando a Juan en el ultimo reinicio",
+  "fecha": "2026-10-12T22:01:20.693Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
