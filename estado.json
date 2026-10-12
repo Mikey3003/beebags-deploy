@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1347-8ce0",
-  "sha256": "803207e22a3682d638c5051bf2c73ede855a38ddb0e537126666928c876c2dd2",
-  "nota": "Cruce de producto (vale contra renglon del pedido): modulo NUEVO y DORMIDO (nadie lo carga todavia) + job de prueba de solo lectura",
-  "fecha": "2026-10-12T19:47:25.891Z",
+  "paquete": "p-261012-1351-5a7b",
+  "sha256": "a2ea4b8d245638901d716c1998a40b4fb912585cfed8b3e6ff1342e13fb7a36a",
+  "nota": "ACTIVA el cruce de producto: ajustes.js monta cruce-producto.js (una linea). Alerta roja por WhatsApp a Direccion y Sara si un vale lleva producto distinto al del renglon del pedido. Solo lee y avisa. Con reinicio.",
+  "fecha": "2026-10-12T19:51:37.293Z",
   "autor": "alex_",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
