@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1325-e53a",
-  "sha256": "2d82fce8cc6fe33c1617cfcac688f2e480fa228223ce09c9865911bf91b1eae0",
-  "nota": "Job de SOLO LECTURA: arma en memoria la carta porte 1340 con datos de hoy, sin imprimirla",
-  "fecha": "2026-10-12T19:25:37.624Z",
+  "paquete": "p-261012-1346-8125",
+  "sha256": "f06fd6761a86e4b6629cb26fdbe5576a2e01b0c07ea30595bd12265ec37ed0d6",
+  "nota": "Cruce de producto (vale contra renglon del pedido): modulo NUEVO y DORMIDO (nadie lo carga todavia) + job de prueba de solo lectura",
+  "fecha": "2026-10-12T19:46:17.250Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
