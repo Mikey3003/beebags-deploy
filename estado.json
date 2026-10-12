@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1747-ce96",
-  "sha256": "22b4d6732768470f5154b647748fd3cc5ab8506666f30dcb5b260577f05cc8fd",
-  "nota": "producto-origen: bolsa lisa SIN marca (-N/A) con color y medidas ya se puede traer al almacen; N/A es como el almacen escribe las bolsas sin marca",
-  "fecha": "2026-10-12T23:47:35.261Z",
+  "paquete": "p-261012-1750-898d",
+  "sha256": "f4da19b13a3b74ca9a1bcf68c1a7aed0c82558fef946b31f2712a5ae3057b2af",
+  "nota": "diagnostico solo lectura: parser de forma de bolsa en sincronizar-catalogo",
+  "fecha": "2026-10-12T23:50:07.168Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
