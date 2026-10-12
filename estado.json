@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1755-1ba8",
-  "sha256": "8070d7d64981de63ec8f2f4eabc7f2b559dd3e8ee59f1dd34fd5507d28de5b60",
-  "nota": "diagnostico solo lectura: copia viva de sincronizar-catalogo.js en 9 trozos",
-  "fecha": "2026-10-12T23:55:30.119Z",
+  "paquete": "p-261012-1757-aff6",
+  "sha256": "45366179fccadadb1b0de66e10a50e6ef233d7c633f22074176118e55206331d",
+  "nota": "sincronizar-catalogo: _skuPartes acepta bolsa plana sin X0 (ANCHOxALTO-COLOR-MARCA, fuelle 0); antes decia 'no tiene forma de bolsa'",
+  "fecha": "2026-10-12T23:57:57.346Z",
   "autor": "alex_",
-  "archivos": 9,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
