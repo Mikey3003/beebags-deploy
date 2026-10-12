@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1103-c0da",
-  "sha256": "6b39fd2242243b0a166fc8e6edfde6c674ed425ac52a1d5d8f8c1758adb1e873",
-  "nota": "Job cancelar-me-viejos (reintento): rechaza las propuestas viejas MEP-1/2/3 de Miguel Esteban sin tocar pedidos",
-  "fecha": "2026-10-12T17:03:33.226Z",
+  "paquete": "p-261012-1105-8e6a",
+  "sha256": "dcade5593cbcdc97c407b4fcda5d9c0421fd2b22b340566aed11f60a17e77248",
+  "nota": "Job cancelar-me-viejos (3): busca node en el servidor; rechaza solo MEP-1/2/3",
+  "fecha": "2026-10-12T17:05:34.372Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
