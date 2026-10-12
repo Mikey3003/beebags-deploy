@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1725-2bde",
-  "sha256": "c3034b7552830f85759905a4aefa4dd51cd5acaac12e8c6d3f67f1975e576327",
-  "nota": "diagnostico solo lectura: codigo de buscar() de producto-origen",
-  "fecha": "2026-10-12T23:25:11.534Z",
+  "paquete": "p-261012-1727-2d82",
+  "sha256": "9e8d0bb5613295703060d145b9ee01cecb24a679de4047d8b10b8a5ce90fef12",
+  "nota": "diagnostico solo lectura: donde se usa el campo fldKEv349tkl5n9gP",
+  "fecha": "2026-10-12T23:27:33.220Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
