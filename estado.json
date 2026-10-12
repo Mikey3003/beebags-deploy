@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1305-1fba",
-  "sha256": "1b6725b85d633ed6b62ef4795dc4ee2e00b31a7c4be390e8252edb90c0752d2c",
-  "nota": "Job de SOLO LECTURA: que tiene guardado el servidor de la salida 1340 (itinerario e impresion)",
-  "fecha": "2026-10-12T19:05:46.191Z",
+  "paquete": "p-261012-1307-1462",
+  "sha256": "df5a439f29b2b4413183bdc88361c15fbfda962d3f9486d9ca45612a14aedf6d",
+  "nota": "Job de SOLO LECTURA: texto de las dos copias guardadas de la salida 1340",
+  "fecha": "2026-10-12T19:07:37.396Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
