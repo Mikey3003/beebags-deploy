@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1753-aa5f",
-  "sha256": "56524f11583d0041449b33893bba3343569e76242650f78992fffab35eb079d0",
-  "nota": "diagnostico solo lectura: _skuPartes y alta de bolsa",
-  "fecha": "2026-10-12T23:53:20.503Z",
+  "paquete": "p-261012-1755-1ba8",
+  "sha256": "8070d7d64981de63ec8f2f4eabc7f2b559dd3e8ee59f1dd34fd5507d28de5b60",
+  "nota": "diagnostico solo lectura: copia viva de sincronizar-catalogo.js en 9 trozos",
+  "fecha": "2026-10-12T23:55:30.119Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
