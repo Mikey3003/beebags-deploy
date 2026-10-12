@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1653-0da7",
-  "sha256": "98f017bb03ec3f39a7c957ab219e2dc85e1e80bdda4c3b2f0dffa66fdf4cb7e6",
-  "nota": "Mesa del agente (/mesa-agente): pedidos que propone el agente con Confirmar o Rechazar, solo Direccion; propuestas de EJEMPLO por ahora y Confirmar solo registra la decision. Incluye la correccion del envio duplicado de la liga de registro. Con reinicio.",
-  "fecha": "2026-10-12T22:53:32.547Z",
+  "paquete": "p-261012-1703-cc35",
+  "sha256": "f2bc934683d4c79434d8d78796ae021caf60c7bc9031a3b0a0594cd6907a8d4a",
+  "nota": "Mesa del agente: rediseno con quien lo mando, de quien es, que falta, cronologia y que sigue",
+  "fecha": "2026-10-12T23:03:43.672Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
