@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1055-ab01",
-  "sha256": "b69b4db2bff2111d83571ee380be1cb36b6b76576b8953c9529ec8a1e946a4de",
-  "nota": "Job cancelar-me-viejos: rechaza MEP-1/2/3 y cancela el pedido 624 de Miguel Esteban (a peticion de Mikey)",
-  "fecha": "2026-10-12T16:55:51.993Z",
+  "paquete": "p-261012-1056-0172",
+  "sha256": "b3399f1356d8cf3ac8861e9bd1f892d22fe7918a7383515c9da3b8c665af19a9",
+  "nota": "Job cancelar-me-viejos: rechaza las propuestas viejas MEP-1/2/3 de Miguel Esteban sin tocar pedidos (a peticion de Mikey)",
+  "fecha": "2026-10-12T16:56:30.729Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
