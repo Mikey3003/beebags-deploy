@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1727-2d82",
-  "sha256": "9e8d0bb5613295703060d145b9ee01cecb24a679de4047d8b10b8a5ce90fef12",
-  "nota": "diagnostico solo lectura: donde se usa el campo fldKEv349tkl5n9gP",
-  "fecha": "2026-10-12T23:27:33.220Z",
+  "paquete": "p-261012-1729-7c0d",
+  "sha256": "b05cbbc37ab6b573f12e5966911de3e7aa851c05341eb237a34ee46665ff138e",
+  "nota": "diagnostico solo lectura: catalogo-skus.js campos de Modelos de Tela",
+  "fecha": "2026-10-12T23:29:33.937Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
