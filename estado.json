@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1741-d188",
-  "sha256": "37f4b7f6928ef47e26e8f904ebefd6dd9accf2f07bb5854185e156ab18b9dbcb",
-  "nota": "diagnostico solo lectura: candado de marca N/A en producto-origen traer()",
-  "fecha": "2026-10-12T23:41:01.740Z",
+  "paquete": "p-261012-1743-12c4",
+  "sha256": "074bf8a29643af8cb04d8cd38645fc121a83c769b2089e774598ba5ac5f56a47",
+  "nota": "diagnostico solo lectura: copia viva de producto-origen.js en 4 trozos",
+  "fecha": "2026-10-12T23:43:21.886Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 4,
   "reinicio": false,
   "pausado": false
 }
