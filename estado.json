@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1007-512c",
-  "sha256": "18f68a0d82be49675029707198770487da908ec6c6e3c9a670d45826d57e2183",
-  "nota": "Prueba de deploy desde la Mac mini (archivo inofensivo data/mac-mini-ok.txt)",
-  "fecha": "2026-10-12T16:07:32.479Z",
-  "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261012-1043-3535",
+  "sha256": "d0a19889cc24de7d17fdb3ec9f2ec7032b52aa7f28ec9e774ca7066a5df64142",
+  "nota": "Miguel Esteban, pedidos por confirmar: los colores se revisan ANTES de crear el pedido (ya no quedan pedidos cancelados a medias), correccion de errores de dedo y sugerencias, catalogo de colores en la pantalla, 60 g = 4.80 y 70 g = 5.20 por metro, rollos de 1.6 x 250",
+  "fecha": "2026-10-12T16:43:07.179Z",
+  "autor": "alex_",
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
