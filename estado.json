@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1729-7c0d",
-  "sha256": "b05cbbc37ab6b573f12e5966911de3e7aa851c05341eb237a34ee46665ff138e",
-  "nota": "diagnostico solo lectura: catalogo-skus.js campos de Modelos de Tela",
-  "fecha": "2026-10-12T23:29:33.937Z",
+  "paquete": "p-261012-1731-8609",
+  "sha256": "3536530d1d09ed2e6f1887c068e18c65b6d0e2a4c9e7a57ab52d1b2c088c539d",
+  "nota": "diagnostico solo lectura: copia viva de catalogo-skus.js para parchear el campo borrado",
+  "fecha": "2026-10-12T23:31:27.981Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
