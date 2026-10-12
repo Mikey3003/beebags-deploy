@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261012-1547-73c5",
-  "sha256": "8c6997bf4c11af38d2f985e79a5d9f2944701ae1610a13f85f0aab0b5aca7932",
-  "nota": "Job: borra los registros de PRUEBA del formulario y comprueba el numero de Juan en el organigrama",
-  "fecha": "2026-10-12T21:47:55.116Z",
+  "paquete": "p-261012-1549-d7ff",
+  "sha256": "ebc2ee3eb96d4f3442fb61dcaa0afae9f1c618098278fd67aaa7a59ab15d8c53",
+  "nota": "Prende el envio automatico de la liga de registro de clientes a Juan Cardenas en cada reinicio",
+  "fecha": "2026-10-12T21:49:29.819Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
