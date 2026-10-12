@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261009-1444-114a",
-  "sha256": "6e0fe66ac6e93b5b01459da7ced3babe0146fd884a5a723e667246207b718fcd",
-  "nota": "Panel de datos (pantalla): botones Filtrar (Y/O), Ordenar por varios campos, menu de Campos, registros por pagina (50-500), vista recordada por tabla, pestanas archivadas marcadas, total filtrado",
-  "fecha": "2026-10-09T20:44:57.175Z",
-  "autor": "alex_",
+  "paquete": "p-261012-1007-512c",
+  "sha256": "18f68a0d82be49675029707198770487da908ec6c6e3c9a670d45826d57e2183",
+  "nota": "Prueba de deploy desde la Mac mini (archivo inofensivo data/mac-mini-ok.txt)",
+  "fecha": "2026-10-12T16:07:32.479Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
