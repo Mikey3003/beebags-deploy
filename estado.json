@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1753-e3cf",
-  "sha256": "550d6c9692d6f3a3f7587d8300e7e3134ee04c50b041c668a487bd5a8534bf32",
-  "nota": "diagnostico solo lectura: cuantos pedidos de Miguel siguen sin precio y sus remisiones pagadas",
-  "fecha": "2026-10-13T23:53:28.022Z",
+  "paquete": "p-261013-1755-6184",
+  "sha256": "406726bcf52c40d6e3678b1ab0259c4a860299b05791bc5cdcc970154eefc572",
+  "nota": "diagnostico solo lectura: Factura/Remision de las salidas de Miguel Esteban",
+  "fecha": "2026-10-13T23:55:30.532Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
