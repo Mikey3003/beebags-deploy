@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1344-d9ec",
-  "sha256": "e82d4ce2ad481e26158c276a55a4edd8eee7af91c75ae1e8beeb125c52b0348a",
-  "nota": "diagnostico solo lectura: copia viva de salida-pdf.js y carta-porte-pdf.js en trozos",
-  "fecha": "2026-10-13T19:44:42.360Z",
+  "paquete": "p-261013-1411-7b94",
+  "sha256": "c5120ceb9c01d79d5750e7028c0e095a47fe44a55c1d0ab499afc9fc7e83bc56",
+  "nota": "diagnostico solo lectura: por que el server perdio la conexion con Airtable",
+  "fecha": "2026-10-13T20:11:12.904Z",
   "autor": "alex_",
-  "archivos": 26,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
