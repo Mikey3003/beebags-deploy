@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1743-de61",
-  "sha256": "d06e1a7d4232adc4ce2ec86ce1cd479a294fb02a10d553d87d7a41404e0633a5",
-  "nota": "diagnostico solo lectura: cliente de las salidas mezcladas de Miguel Esteban",
-  "fecha": "2026-10-13T23:43:58.078Z",
+  "paquete": "p-261013-1748-5481",
+  "sha256": "86d0251f4a9b9bb1a8a979aabc580395af5f2711e945846594394f8cd4bffcf3",
+  "nota": "Miguel Esteban: salen TODAS sus salidas (tambien las mezcladas como 1345/1243) + precio de tela automatico por metro (70 g 5.20, 60 g 4.80); hojas de salida y carta porte dicen quien firma y donde se queda",
+  "fecha": "2026-10-13T23:48:16.840Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
