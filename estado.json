@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1023-5ee4",
-  "sha256": "8b5e85c1da09f03e32f445764d58263d84cc5eece3398abd9e001080305c8ce5",
-  "nota": "diagnostico solo lectura: tamano de pagina de la etiqueta de rollo",
-  "fecha": "2026-10-13T16:23:20.392Z",
+  "paquete": "p-261013-1027-7dcd",
+  "sha256": "1c0c59cbfc03562946fe61ed75cc5753edb77d55f07c190d431d523bdd28acfc",
+  "nota": "diagnostico solo lectura: como imprime el panel la etiqueta de rollo",
+  "fecha": "2026-10-13T16:27:22.662Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
