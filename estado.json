@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1752-ef0a",
-  "sha256": "8c886fa8e681a2431572473d15578f0b971344346df6f243503c4beae4e17cdd",
-  "nota": "diagnostico solo lectura: por que siguen sin precio los pedidos de Miguel Esteban",
-  "fecha": "2026-10-13T23:52:15.540Z",
+  "paquete": "p-261013-1753-e3cf",
+  "sha256": "550d6c9692d6f3a3f7587d8300e7e3134ee04c50b041c668a487bd5a8534bf32",
+  "nota": "diagnostico solo lectura: cuantos pedidos de Miguel siguen sin precio y sus remisiones pagadas",
+  "fecha": "2026-10-13T23:53:28.022Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
