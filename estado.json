@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1340-5a23",
-  "sha256": "c1fb5191f30447480654a237a584266aaa124639d89c330978487d2fb3048440",
-  "nota": "diagnostico solo lectura: documentos de salida (4 copias vs salida unica)",
-  "fecha": "2026-10-13T19:40:39.570Z",
+  "paquete": "p-261013-1341-4117",
+  "sha256": "9976553546021a7d258b5e0c2440f4a5c4082ab3c26f332caea78a4f991ceaa7",
+  "nota": "diagnostico solo lectura: que lleva cada pagina de la carta porte",
+  "fecha": "2026-10-13T19:41:29.000Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
