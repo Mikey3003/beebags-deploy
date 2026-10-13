@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1742-36e8",
-  "sha256": "ff0fe60ecaff31f8d2c0a88e5605106652ed4aec060b20a557b3b8048dd725e7",
-  "nota": "diagnostico solo lectura: copia viva de miguel-panel.js",
-  "fecha": "2026-10-13T23:42:59.467Z",
+  "paquete": "p-261013-1743-de61",
+  "sha256": "d06e1a7d4232adc4ce2ec86ce1cd479a294fb02a10d553d87d7a41404e0633a5",
+  "nota": "diagnostico solo lectura: cliente de las salidas mezcladas de Miguel Esteban",
+  "fecha": "2026-10-13T23:43:58.078Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
