@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1411-7b94",
-  "sha256": "c5120ceb9c01d79d5750e7028c0e095a47fe44a55c1d0ab499afc9fc7e83bc56",
-  "nota": "diagnostico solo lectura: por que el server perdio la conexion con Airtable",
-  "fecha": "2026-10-13T20:11:12.904Z",
+  "paquete": "p-261013-1740-8d2d",
+  "sha256": "1718c03d6236344eec061737899ee73b8d9861fb35aa85381d48dd0a35291a93",
+  "nota": "diagnostico solo lectura: rutas y filtros del panel de Miguel Esteban",
+  "fecha": "2026-10-13T23:40:26.048Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
