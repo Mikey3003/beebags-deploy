@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1022-2ba6",
-  "sha256": "9a4cb2dfd0d6f8b29f61cec9a5a6495e51eb23c745631f53b484d0a7f53573e6",
-  "nota": "diagnostico solo lectura: donde se arma la etiqueta de rollo de spunbond",
-  "fecha": "2026-10-13T16:22:47.502Z",
+  "paquete": "p-261013-1023-5ee4",
+  "sha256": "8b5e85c1da09f03e32f445764d58263d84cc5eece3398abd9e001080305c8ce5",
+  "nota": "diagnostico solo lectura: tamano de pagina de la etiqueta de rollo",
+  "fecha": "2026-10-13T16:23:20.392Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
