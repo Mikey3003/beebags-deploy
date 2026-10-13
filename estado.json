@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1741-9450",
-  "sha256": "9c93413ade8afbca952fc1e48beaaedeb11eaf2adb65d1dde33fff8720d9815b",
-  "nota": "diagnostico solo lectura: como arma el panel de Miguel sus remisiones",
-  "fecha": "2026-10-13T23:41:37.926Z",
+  "paquete": "p-261013-1742-7b08",
+  "sha256": "8d91e509fd6b65bf7b5cb79441c32f9eca14821521c5bc9930419c4a9a06bf36",
+  "nota": "diagnostico solo lectura: copia viva de miguel-panel.js",
+  "fecha": "2026-10-13T23:42:01.583Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
