@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1220-f887",
-  "sha256": "5fb7c2f91557820bd38aaf613425f08cc8c5192a8d8590e390343608f4cfd48c",
-  "nota": "diagnostico solo lectura: quien puede corregir vales en Logistica",
-  "fecha": "2026-10-13T18:20:19.791Z",
+  "paquete": "p-261013-1340-5a23",
+  "sha256": "c1fb5191f30447480654a237a584266aaa124639d89c330978487d2fb3048440",
+  "nota": "diagnostico solo lectura: documentos de salida (4 copias vs salida unica)",
+  "fecha": "2026-10-13T19:40:39.570Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
