@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1740-8d2d",
-  "sha256": "1718c03d6236344eec061737899ee73b8d9861fb35aa85381d48dd0a35291a93",
-  "nota": "diagnostico solo lectura: rutas y filtros del panel de Miguel Esteban",
-  "fecha": "2026-10-13T23:40:26.048Z",
+  "paquete": "p-261013-1741-9450",
+  "sha256": "9c93413ade8afbca952fc1e48beaaedeb11eaf2adb65d1dde33fff8720d9815b",
+  "nota": "diagnostico solo lectura: como arma el panel de Miguel sus remisiones",
+  "fecha": "2026-10-13T23:41:37.926Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
