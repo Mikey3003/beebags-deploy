@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1341-4117",
-  "sha256": "9976553546021a7d258b5e0c2440f4a5c4082ab3c26f332caea78a4f991ceaa7",
-  "nota": "diagnostico solo lectura: que lleva cada pagina de la carta porte",
-  "fecha": "2026-10-13T19:41:29.000Z",
+  "paquete": "p-261013-1344-d9ec",
+  "sha256": "e82d4ce2ad481e26158c276a55a4edd8eee7af91c75ae1e8beeb125c52b0348a",
+  "nota": "diagnostico solo lectura: copia viva de salida-pdf.js y carta-porte-pdf.js en trozos",
+  "fecha": "2026-10-13T19:44:42.360Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 26,
   "reinicio": false,
   "pausado": false
 }
