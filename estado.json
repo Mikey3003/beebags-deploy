@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261012-1757-aff6",
-  "sha256": "45366179fccadadb1b0de66e10a50e6ef233d7c633f22074176118e55206331d",
-  "nota": "sincronizar-catalogo: _skuPartes acepta bolsa plana sin X0 (ANCHOxALTO-COLOR-MARCA, fuelle 0); antes decia 'no tiene forma de bolsa'",
-  "fecha": "2026-10-12T23:57:57.346Z",
+  "paquete": "p-261013-1022-2ba6",
+  "sha256": "9a4cb2dfd0d6f8b29f61cec9a5a6495e51eb23c745631f53b484d0a7f53573e6",
+  "nota": "diagnostico solo lectura: donde se arma la etiqueta de rollo de spunbond",
+  "fecha": "2026-10-13T16:22:47.502Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
