@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1742-7b08",
-  "sha256": "8d91e509fd6b65bf7b5cb79441c32f9eca14821521c5bc9930419c4a9a06bf36",
+  "paquete": "p-261013-1742-36e8",
+  "sha256": "ff0fe60ecaff31f8d2c0a88e5605106652ed4aec060b20a557b3b8048dd725e7",
   "nota": "diagnostico solo lectura: copia viva de miguel-panel.js",
-  "fecha": "2026-10-13T23:42:01.583Z",
+  "fecha": "2026-10-13T23:42:59.467Z",
   "autor": "alex_",
   "archivos": 9,
   "reinicio": false,
