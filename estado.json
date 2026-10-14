@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1803-b512",
-  "sha256": "29b7c5b99e97ec5f5d9a2b2afb406ee04510f0e78a6153434c314b7872d2b26c",
-  "nota": "solo lectura: liga actual del tunel",
-  "fecha": "2026-10-14T00:03:35.546Z",
+  "paquete": "p-261013-1806-74d2",
+  "sha256": "33b54f2f619a81ab6fa83f6bf95ae15fc6592dd620c3c8f3d5479126ae383b67",
+  "nota": "Miguel Esteban: sin precio YA NO bloquea el pago: se pone el precio en el mismo renglon (tela por metro 70g 5.20 / 60g 4.80, bolsa por pieza) y se marca pagada",
+  "fecha": "2026-10-14T00:06:15.685Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
