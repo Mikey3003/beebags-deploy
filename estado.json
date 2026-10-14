@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1807-a568",
-  "sha256": "ad66947713d0b49dc1d02fcf3b54bd1cf6c4f4ddc376678d031cf998ae217a6c",
-  "nota": "Miguel Esteban: salida de varios pedidos (bolsas y rollos) se ve como LISTA de pedidos, uno por renglon; + precio en el mismo renglon",
-  "fecha": "2026-10-14T00:07:40.515Z",
+  "paquete": "p-261013-1827-a3b4",
+  "sha256": "9a22bea5f7ecd3fd26588b312e243a8f83b8e677a63c2ef8d38a29e42a722810",
+  "nota": "solo lectura: de donde saca el cliente el PDF de pedido de tela",
+  "fecha": "2026-10-14T00:27:22.351Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
