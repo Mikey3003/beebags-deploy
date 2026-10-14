@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1806-74d2",
-  "sha256": "33b54f2f619a81ab6fa83f6bf95ae15fc6592dd620c3c8f3d5479126ae383b67",
-  "nota": "Miguel Esteban: sin precio YA NO bloquea el pago: se pone el precio en el mismo renglon (tela por metro 70g 5.20 / 60g 4.80, bolsa por pieza) y se marca pagada",
-  "fecha": "2026-10-14T00:06:15.685Z",
+  "paquete": "p-261013-1807-a568",
+  "sha256": "ad66947713d0b49dc1d02fcf3b54bd1cf6c4f4ddc376678d031cf998ae217a6c",
+  "nota": "Miguel Esteban: salida de varios pedidos (bolsas y rollos) se ve como LISTA de pedidos, uno por renglon; + precio en el mismo renglon",
+  "fecha": "2026-10-14T00:07:40.515Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
