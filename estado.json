@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261013-1802-b988",
-  "sha256": "83ace3c4385f07499c0f768fb5fb9054ef51d572879190f6d809e580bbdaea5e",
-  "nota": "Miguel Esteban: salidas mezcladas (1345) ya se pueden marcar pagadas (toma un pedido suyo con precio); la 1343 de Palacio de Hierro ya no se mete a su panel",
-  "fecha": "2026-10-14T00:02:00.919Z",
+  "paquete": "p-261013-1803-b512",
+  "sha256": "29b7c5b99e97ec5f5d9a2b2afb406ee04510f0e78a6153434c314b7872d2b26c",
+  "nota": "solo lectura: liga actual del tunel",
+  "fecha": "2026-10-14T00:03:35.546Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
