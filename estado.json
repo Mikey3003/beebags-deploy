@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1432-26c0",
-  "sha256": "5c1ccc851edf6a4d24b4257c19a667da6ad28a507620c7e393475e9889636d06",
-  "nota": "job lectura: como baja el agente los paquetes",
-  "fecha": "2026-10-15T20:32:30.742Z",
+  "paquete": "p-261015-1433-d1a6",
+  "sha256": "eaf8c5378180705db4f58efc4f65c89c16df578a490b3144c7822e11a6b6f757",
+  "nota": "job lectura: agente.js como baja de GitHub",
+  "fecha": "2026-10-15T20:33:17.020Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
