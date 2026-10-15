@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261014-2351-ce50",
-  "sha256": "5edc91813ecf844b6e36fc30ae3c7bdf4f7a8b784e9f9aa0d7d5477bbc625541",
-  "nota": "Miguel Esteban: los rollos ya NO se capturan a mano (Sara duplico 636/640/647); solo entran desde su panel",
-  "fecha": "2026-10-15T05:51:30.948Z",
+  "paquete": "p-261015-1158-ce1a",
+  "sha256": "e19229ee3d9599e6f6cd33a7096b85b21458a4ad393da6bb12bd5f4c042b4d09",
+  "nota": "miguel-panel: aviso por WhatsApp a Omar al confirmar pedido de Miguel Esteban (sin precio)",
+  "fecha": "2026-10-15T17:58:03.293Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
