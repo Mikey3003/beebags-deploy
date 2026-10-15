@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1219-6b12",
-  "sha256": "3dfec4b08d9a2667782c5ac971163b0a7c4cb4d26d6778a14880a3bdaf4a2a06",
-  "nota": "almacen: Por surtir muestra pedidos de Miguel Esteban (colores, falta, racks, Dar salida); boton naranja de Logistica = Pedidos por surtir",
-  "fecha": "2026-10-15T18:19:08.043Z",
+  "paquete": "p-261015-1223-913d",
+  "sha256": "a128fd4893d2e4bdff1ddd012e64191998ce779d76bbe680d0329a0caa4c7090",
+  "nota": "job lectura: tamano de vales-sueltos.js",
+  "fecha": "2026-10-15T18:23:46.081Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
