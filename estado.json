@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1450-e81f",
-  "sha256": "171f6685cc6ce33d2e8489cde8ed7decfe45113ec27c038a2ecbfbd8b05149d8",
-  "nota": "PRUEBA deploy desde Mac de Alex: archivo de texto en web/, sin reinicio",
-  "fecha": "2026-10-15T20:50:03.593Z",
+  "paquete": "p-261015-1453-552c",
+  "sha256": "b888d6c79655eb4b7588526f8af0459d2227e3ce542b740698bde90e23a2c8aa",
+  "nota": "PRUEBA con reinicio desde Mac de Alex (pedida por Mikey): mismo archivo de texto en web/",
+  "fecha": "2026-10-15T20:53:39.237Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
