@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1726-881a",
-  "sha256": "7daa8149db73b4aae2e25a34d04da62c1bf88372449c281b95d9e5c1a4b01187",
-  "nota": "Cotizador/Parametros: valores redondeados a 6 decimales y seccion Impresion abierta (pedido de Alex); con reinicio",
-  "fecha": "2026-10-15T23:26:53.930Z",
+  "paquete": "p-261015-1732-79a4",
+  "sha256": "d8b57d290d683310785449c70f55dd673d2f476cb1a08c78f7a3b42808176b9c",
+  "nota": "Cotizador/Parametros: icono por seccion y por parametro (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-15T23:32:16.196Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
