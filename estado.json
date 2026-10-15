@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1453-552c",
-  "sha256": "b888d6c79655eb4b7588526f8af0459d2227e3ce542b740698bde90e23a2c8aa",
-  "nota": "PRUEBA con reinicio desde Mac de Alex (pedida por Mikey): mismo archivo de texto en web/",
-  "fecha": "2026-10-15T20:53:39.237Z",
+  "paquete": "p-261015-1527-c83b",
+  "sha256": "8c717d06bc2c5a061f85bd49774188a627d033893654ef49c2233916fcec6710",
+  "nota": "Cotizador: Datos del ejercicio con separador de miles y nomina/gastos en pesos (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-15T21:27:36.928Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
