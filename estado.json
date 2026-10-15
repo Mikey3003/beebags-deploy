@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261013-1827-a3b4",
-  "sha256": "9a22bea5f7ecd3fd26588b312e243a8f83b8e677a63c2ef8d38a29e42a722810",
-  "nota": "solo lectura: de donde saca el cliente el PDF de pedido de tela",
-  "fecha": "2026-10-14T00:27:22.351Z",
+  "paquete": "p-261014-2343-2095",
+  "sha256": "90d72be791997f8d5b7de9085f0c9a12a47228635ac2b3d36cb7f8a34a6750ad",
+  "nota": "solo lectura: version viva de miguel-panel y donde se llama el candado",
+  "fecha": "2026-10-15T05:43:20.358Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
