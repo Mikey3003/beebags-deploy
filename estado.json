@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261015-1605-efed",
-  "sha256": "86e88b1d586389b1d05af9be263742a0c04ab73f8dc6addf0caee5f422e8d044",
-  "nota": "Pedidos 2D: al picar Atrasados y las graficas la pantalla baja a la lista",
-  "fecha": "2026-10-15T22:05:38.587Z",
-  "autor": "alex_",
+  "paquete": "p-261015-1607-c378",
+  "sha256": "24703394b63a9e7c77fe666c11d04d31a9dc32ff2b6ff5aafae1b7ce38809d78",
+  "nota": "Cotizador/Datos del ejercicio: totales resaltados en ambar/amarillo Bee Bags (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-15T22:07:49.557Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
