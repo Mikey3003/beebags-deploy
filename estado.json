@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1315-d9ec",
-  "sha256": "ba4bca9a09e7114f45e44a5c2751742233681cbbba887c82814ff9f6ca6bdb16",
-  "nota": "Panel Miguel Esteban: + Agregar rollos (cualquier medida) a un pedido de tela existente; precio por metro y aviso a Omar",
-  "fecha": "2026-10-15T19:15:54.096Z",
+  "paquete": "p-261015-1426-ac2a",
+  "sha256": "6ed13aa3343b6088f272557fe69fe5dc78845885bdcf186ebce2344544f64cb4",
+  "nota": "almacen: programar salidas (fecha, hora, telefono y quien recibe) y confirmar al llegar la hora",
+  "fecha": "2026-10-15T20:26:29.684Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
