@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1158-ce1a",
-  "sha256": "e19229ee3d9599e6f6cd33a7096b85b21458a4ad393da6bb12bd5f4c042b4d09",
-  "nota": "miguel-panel: aviso por WhatsApp a Omar al confirmar pedido de Miguel Esteban (sin precio)",
-  "fecha": "2026-10-15T17:58:03.293Z",
+  "paquete": "p-261015-1159-96e2",
+  "sha256": "3e3639abc0fc10e41a9e6e6ac343fe2926a6d5384670ee5339a0edc9e24e7dbe",
+  "nota": "job lectura: hora de arranque de node",
+  "fecha": "2026-10-15T17:59:33.219Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
