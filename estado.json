@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1233-1257",
-  "sha256": "522cf7c584a722cc39cd94cb6f36083a9fc7d6708beef708139c390b7eccaf99",
-  "nota": "vales-sueltos: un vale que ya va en un viaje nunca suena en la campana; se anota 'corregido por el sistema' (data/vales-sueltos-sistema.jsonl)",
-  "fecha": "2026-10-15T18:33:17.625Z",
+  "paquete": "p-261015-1248-9fe1",
+  "sha256": "dbb508c746874bd5a9fcc03d12480a353ff6f1150989cb2e2deaf18125eec685",
+  "nota": "REINICIO autorizado por Mikey: activa filtro de campana (vales con viaje no suenan) + aviso a Omar de pedidos de Miguel; almacen: botones rojos ya no se enciman",
+  "fecha": "2026-10-15T18:48:11.092Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
