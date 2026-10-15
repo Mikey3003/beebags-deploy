@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1539-c9ed",
-  "sha256": "ac269ad5c7786a102c8dac2a1d227d208c3c85d00aa6a34622f90212784e73ba",
-  "nota": "Cotizador/Datos del ejercicio: detalle semanal (nomina por depto y semana, produccion por maquina y semana, bolsas por vales) y gastos con codigo y todas las columnas; API acepta bloque semanal (pedido de Alex)",
-  "fecha": "2026-10-15T21:39:32.550Z",
-  "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261015-1605-efed",
+  "sha256": "86e88b1d586389b1d05af9be263742a0c04ab73f8dc6addf0caee5f422e8d044",
+  "nota": "Pedidos 2D: al picar Atrasados y las graficas la pantalla baja a la lista",
+  "fecha": "2026-10-15T22:05:38.587Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
