@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1226-05d7",
-  "sha256": "15725acaaa1d3ef155f478d7ad32263d73c7b80595a23711b24592a99b5bca0a",
-  "nota": "almacen Por surtir: franja PEDIDOS DE MIGUEL ESTEBAN arriba y separada de Requisiciones",
-  "fecha": "2026-10-15T18:26:57.140Z",
+  "paquete": "p-261015-1233-1257",
+  "sha256": "522cf7c584a722cc39cd94cb6f36083a9fc7d6708beef708139c390b7eccaf99",
+  "nota": "vales-sueltos: un vale que ya va en un viaje nunca suena en la campana; se anota 'corregido por el sistema' (data/vales-sueltos-sistema.jsonl)",
+  "fecha": "2026-10-15T18:33:17.625Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
