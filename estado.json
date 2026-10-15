@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261015-1433-d1a6",
-  "sha256": "eaf8c5378180705db4f58efc4f65c89c16df578a490b3144c7822e11a6b6f757",
-  "nota": "job lectura: agente.js como baja de GitHub",
-  "fecha": "2026-10-15T20:33:17.020Z",
-  "autor": "alex_",
+  "paquete": "p-261015-1450-e81f",
+  "sha256": "171f6685cc6ce33d2e8489cde8ed7decfe45113ec27c038a2ecbfbd8b05149d8",
+  "nota": "PRUEBA deploy desde Mac de Alex: archivo de texto en web/, sin reinicio",
+  "fecha": "2026-10-15T20:50:03.593Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
