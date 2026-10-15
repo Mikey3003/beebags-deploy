@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1426-ac2a",
-  "sha256": "6ed13aa3343b6088f272557fe69fe5dc78845885bdcf186ebce2344544f64cb4",
-  "nota": "almacen: programar salidas (fecha, hora, telefono y quien recibe) y confirmar al llegar la hora",
-  "fecha": "2026-10-15T20:26:29.684Z",
+  "paquete": "p-261015-1432-26c0",
+  "sha256": "5c1ccc851edf6a4d24b4257c19a667da6ad28a507620c7e393475e9889636d06",
+  "nota": "job lectura: como baja el agente los paquetes",
+  "fecha": "2026-10-15T20:32:30.742Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
