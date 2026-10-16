@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1831-c46f",
-  "sha256": "af85769b25017cfac28af965279ee3be30a58b17ea5cc90041cac04e1925414e",
-  "nota": "Cotizador/Cotizar bolsa: piezas con separador de miles (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T00:31:49.217Z",
+  "paquete": "p-261015-1852-7744",
+  "sha256": "ff2079c1c1fe8935fb8d51661ab26068d8012119da884728ee4e92b46f54c07b",
+  "nota": "Cotizador/Cotizar bolsa: el panel derecho (resumen) queda fijo al hacer scroll; sticky anulado por overflow-x hidden del body (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T00:52:59.404Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
