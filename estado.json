@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261016-1259-bd16",
-  "sha256": "332fde898225b599e2761c2c476042cae4e4fb8460a674bc9540fb6d58754f38",
-  "nota": "Fichas tecnicas 2/3: fotos parte 2 y 3 (sin reinicio)",
-  "fecha": "2026-10-16T18:59:16.451Z",
+  "paquete": "p-261016-1301-0475",
+  "sha256": "bf8cc044c5304528d024afce3f94d7d4f5f46f360efaab33cc31ed4d5a455474",
+  "nota": "Fichas tecnicas 3/3: modulo src/fichas-tecnicas.js montado desde vales-sueltos (+2 lineas), pantalla web/fichas-tecnicas.html, pestana Fichas de produccion en /diseno, boton Ver ficha tecnica en Pedidos 2D; con reinicio",
+  "fecha": "2026-10-16T19:01:47.184Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 6,
+  "reinicio": true,
   "pausado": false
 }
