@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261016-1317-2582",
-  "sha256": "d289872e2fd2b9cc7765b179285e76eaf5e1926240c67c8768d21ff75840874f",
-  "nota": "Fichas tecnicas 3b: pestana Fichas de produccion en la pantalla real de /diseno (diseno/web/diseno-app.html); sin reinicio",
-  "fecha": "2026-10-16T19:17:50.602Z",
-  "autor": "alex_",
+  "paquete": "p-261016-1554-05d4",
+  "sha256": "a3e6c709452870eaaac65db5386a3e52fa65cdfbf8a5dc41982aab6cc3b9deb0",
+  "nota": "Cotizador/Datos: seccion 'Como se integran la mano de obra y los gastos' (nomina por depto y gastos por area a tela/bolsas, con resultado por kg y por bolsa); pedido de Alex; sin reinicio",
+  "fecha": "2026-10-16T21:54:42.186Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
