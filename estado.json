@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261016-1611-9934",
-  "sha256": "7e01d8821eb51c0b10779e7509e0acfe770abffa8a71a56b28afb17fe66bd5d8",
-  "nota": "Cotizador/Datos: se quita el indicador Kilos de tela por bolsa (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T22:11:37.263Z",
+  "paquete": "p-261016-1642-e426",
+  "sha256": "de12a1ccf7b471bae8d633f2d85d87bae97f1392832eb5d4fabde166e22143a5",
+  "nota": "Cotizador: modelo de rollo estilo app Spunbond (empaque, flete, merma, desperdicio, utilidad y mercado por color) + 16 parametros nuevos en TELA; bolsas sin cambio (decision de Alex)",
+  "fecha": "2026-10-16T22:42:35.043Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
