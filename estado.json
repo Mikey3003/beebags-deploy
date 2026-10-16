@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261015-1919-201e",
-  "sha256": "199822e2f5c1e4eb1ba452510428973e17a99d0d40c95d9c942455eea4a7ecdd",
-  "nota": "job solo lectura: clientes CDMX del SAE para reporte Spunbond",
-  "fecha": "2026-10-16T01:19:04.745Z",
+  "paquete": "p-261015-1922-7af3",
+  "sha256": "acbe75d1e1c4f66deef6ca7965711b74d36b9dd4720207d16b2c95c918bd7fc7",
+  "nota": "job solo lectura sae-cdmx: ruta de node",
+  "fecha": "2026-10-16T01:22:01.581Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
