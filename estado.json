@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1655-ee3e",
-  "sha256": "f61f4e51c2616511815c6baa8c626b430fd166487fb769d9a84adba75f19afd8",
-  "nota": "Cotizador/Tela: cantidad en m/kg/t/rollos, tarjetas por color, tabla base+flete=entregado y boton utilidad al mercado (entrega 1, pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T22:55:55.468Z",
+  "paquete": "p-261016-1724-ab77",
+  "sha256": "abcc89000a88896fbe504ceb378d0e01e003d70d27ed9824fc31aaa9c0d03b7e",
+  "nota": "Cotizador/Tela: utilidad por color editable en la tarjeta (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T23:24:42.390Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
