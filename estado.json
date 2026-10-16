@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261016-1642-e426",
-  "sha256": "de12a1ccf7b471bae8d633f2d85d87bae97f1392832eb5d4fabde166e22143a5",
-  "nota": "Cotizador: modelo de rollo estilo app Spunbond (empaque, flete, merma, desperdicio, utilidad y mercado por color) + 16 parametros nuevos en TELA; bolsas sin cambio (decision de Alex)",
-  "fecha": "2026-10-16T22:42:35.043Z",
+  "paquete": "p-261016-1655-ee3e",
+  "sha256": "f61f4e51c2616511815c6baa8c626b430fd166487fb769d9a84adba75f19afd8",
+  "nota": "Cotizador/Tela: cantidad en m/kg/t/rollos, tarjetas por color, tabla base+flete=entregado y boton utilidad al mercado (entrega 1, pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T22:55:55.468Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
