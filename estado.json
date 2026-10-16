@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1724-ab77",
-  "sha256": "abcc89000a88896fbe504ceb378d0e01e003d70d27ed9824fc31aaa9c0d03b7e",
-  "nota": "Cotizador/Tela: utilidad por color editable en la tarjeta (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T23:24:42.390Z",
+  "paquete": "p-261016-1740-d6c8",
+  "sha256": "d8f514968b79552e98d78b76e4a3fcac1820f6e9fd1d69f3655f1b2953d436c8",
+  "nota": "Cotizador #14: pestaña «Costeo tela» (Dirección) con las 3 columnas de la app Spunbond: parámetros/mezcla/empaque, nómina y gastos a tela por mes, costo y precio por color (qué cuesta, a cuánto vendo, cuánto gano, mercado). Solo web/, sin reinicio.",
+  "fecha": "2026-10-16T23:40:24.176Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
