@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1922-7af3",
-  "sha256": "acbe75d1e1c4f66deef6ca7965711b74d36b9dd4720207d16b2c95c918bd7fc7",
-  "nota": "job solo lectura sae-cdmx: ruta de node",
-  "fecha": "2026-10-16T01:22:01.581Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261015-1923-5c62",
+  "sha256": "695ea441fdc4d85226d1e21ac0f6845a533bef9691daa0395595bbbb6b2a264b",
+  "nota": "Cotizador: pestaña Lista de precios por cliente (solo Direccion): precio pactado por sku+cliente, ultimo cotizado, exportar CSV; API /api/cotizador/precios (pedido de Alex); con reinicio",
+  "fecha": "2026-10-16T01:23:25.206Z",
+  "autor": "alex",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
