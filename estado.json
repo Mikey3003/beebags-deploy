@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1604-0a34",
-  "sha256": "1310b28805faaf7a2d73e4e68b02664dd8c0a64e106ccabf3bf6c6f1604f4411",
-  "nota": "Cotizador/Datos: boton Desplegar todo / Esconder todo (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T22:04:48.979Z",
+  "paquete": "p-261016-1611-9934",
+  "sha256": "7e01d8821eb51c0b10779e7509e0acfe770abffa8a71a56b28afb17fe66bd5d8",
+  "nota": "Cotizador/Datos: se quita el indicador Kilos de tela por bolsa (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T22:11:37.263Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
