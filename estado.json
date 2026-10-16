@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1602-9e6d",
-  "sha256": "d6d87af37af0729584758fc3052a2f197da2b7c9e7a760438f93ac73961d4be4",
-  "nota": "Cotizador/Datos: clic en cantidades de 'Como se integran' salta y resalta el renglon de origen (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T22:02:23.524Z",
+  "paquete": "p-261016-1604-0a34",
+  "sha256": "1310b28805faaf7a2d73e4e68b02664dd8c0a64e106ccabf3bf6c6f1604f4411",
+  "nota": "Cotizador/Datos: boton Desplegar todo / Esconder todo (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T22:04:48.979Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
