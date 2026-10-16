@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261016-1257-d4e9",
-  "sha256": "76b8b683e3faa3b62e5fb897e6361207647d652e8067fb24e3908713e2b09017",
-  "nota": "Fichas tecnicas 1/3: datos de 769 fichas, 406 modelos, 152 clientes + miniaturas + fotos parte 1 (sin reinicio; el modulo se monta en el paquete 3)",
-  "fecha": "2026-10-16T18:57:33.904Z",
+  "paquete": "p-261016-1259-bd16",
+  "sha256": "332fde898225b599e2761c2c476042cae4e4fb8460a674bc9540fb6d58754f38",
+  "nota": "Fichas tecnicas 2/3: fotos parte 2 y 3 (sin reinicio)",
+  "fecha": "2026-10-16T18:59:16.451Z",
   "autor": "alex_",
-  "archivos": 6,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
