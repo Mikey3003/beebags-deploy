@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1306-f99f",
-  "sha256": "13f64b9edef48449da7adfc29f5c18b45cc48a19dfebe5f72a65be55ad08ea80",
-  "nota": "Job de solo lectura: ubicar archivo de la pantalla /diseno (fichas tecnicas)",
-  "fecha": "2026-10-16T19:06:45.451Z",
+  "paquete": "p-261016-1317-2582",
+  "sha256": "d289872e2fd2b9cc7765b179285e76eaf5e1926240c67c8768d21ff75840874f",
+  "nota": "Fichas tecnicas 3b: pestana Fichas de produccion en la pantalla real de /diseno (diseno/web/diseno-app.html); sin reinicio",
+  "fecha": "2026-10-16T19:17:50.602Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
