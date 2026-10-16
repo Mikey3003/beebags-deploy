@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1554-05d4",
-  "sha256": "a3e6c709452870eaaac65db5386a3e52fa65cdfbf8a5dc41982aab6cc3b9deb0",
-  "nota": "Cotizador/Datos: seccion 'Como se integran la mano de obra y los gastos' (nomina por depto y gastos por area a tela/bolsas, con resultado por kg y por bolsa); pedido de Alex; sin reinicio",
-  "fecha": "2026-10-16T21:54:42.186Z",
+  "paquete": "p-261016-1602-9e6d",
+  "sha256": "d6d87af37af0729584758fc3052a2f197da2b7c9e7a760438f93ac73961d4be4",
+  "nota": "Cotizador/Datos: clic en cantidades de 'Como se integran' salta y resalta el renglon de origen (pedido de Alex); sin reinicio",
+  "fecha": "2026-10-16T22:02:23.524Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
