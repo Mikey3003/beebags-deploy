@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261015-1852-7744",
-  "sha256": "ff2079c1c1fe8935fb8d51661ab26068d8012119da884728ee4e92b46f54c07b",
-  "nota": "Cotizador/Cotizar bolsa: el panel derecho (resumen) queda fijo al hacer scroll; sticky anulado por overflow-x hidden del body (pedido de Alex); sin reinicio",
-  "fecha": "2026-10-16T00:52:59.404Z",
-  "autor": "alex",
+  "paquete": "p-261015-1919-201e",
+  "sha256": "199822e2f5c1e4eb1ba452510428973e17a99d0d40c95d9c942455eea4a7ecdd",
+  "nota": "job solo lectura: clientes CDMX del SAE para reporte Spunbond",
+  "fecha": "2026-10-16T01:19:04.745Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
