@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261015-1926-af3a",
-  "sha256": "c1a096b5082e061cab211e371c90da84253bfcd538cb72910fb5a7ec90051748",
-  "nota": "Cotizador: pestaña Lista de precios por cliente (solo Direccion): precio pactado por sku+cliente, ultimo cotizado, exportar CSV; API /api/cotizador/precios (pedido de Alex); con reinicio [reenvio del 1923 que se salto]",
-  "fecha": "2026-10-16T01:26:50.890Z",
-  "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261016-1257-d4e9",
+  "sha256": "76b8b683e3faa3b62e5fb897e6361207647d652e8067fb24e3908713e2b09017",
+  "nota": "Fichas tecnicas 1/3: datos de 769 fichas, 406 modelos, 152 clientes + miniaturas + fotos parte 1 (sin reinicio; el modulo se monta en el paquete 3)",
+  "fecha": "2026-10-16T18:57:33.904Z",
+  "autor": "alex_",
+  "archivos": 6,
+  "reinicio": false,
   "pausado": false
 }
