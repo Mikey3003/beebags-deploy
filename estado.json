@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1151-054b",
-  "sha256": "74e4aef3b8bbb531e06e5c3991702cec2565bc219e1be8fa1c9a6d6c3a8058b3",
-  "nota": "facturas: libro del SAE (modulo nuevo, solo lectura) + validacion contra el SAE",
-  "fecha": "2026-10-19T17:51:43.023Z",
+  "paquete": "p-261019-1153-9157",
+  "sha256": "31bd91c63ba55824c040c903777759b14f90a846e23202c1246b8c6fec866a86",
+  "nota": "precios: lectura 7",
+  "fecha": "2026-10-19T17:53:40.398Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
