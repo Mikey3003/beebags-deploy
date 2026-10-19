@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1431-63d2",
-  "sha256": "791abe0db6eae94430cc294c6582d65464c9bcf746cd3488ddaf90877c9f3178",
-  "nota": "compras: fechas legibles en la linea del tiempo y en camino",
-  "fecha": "2026-10-19T20:31:34.352Z",
+  "paquete": "p-261019-1437-8e9a",
+  "sha256": "1aea6ea2973e456c7843ecb543990f7e4042b78ae89cc89e9a636e04916cdb86",
+  "nota": "facturas ronda2: lectura bbf2-copiar4",
+  "fecha": "2026-10-19T20:37:48.888Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
