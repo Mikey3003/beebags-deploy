@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1245-ed78",
-  "sha256": "141d631115d6a1c81aeb3e518e14fe6b305dc95ab3af88566ba0a488b8ae7cf1",
-  "nota": "precios de bolsa 3: aviso del formulario usa el precio recomendado y dice las otras fuentes",
-  "fecha": "2026-10-19T18:45:17.851Z",
+  "paquete": "p-261019-1247-f24e",
+  "sha256": "8c8e28973597cb5882082f906d1ba5c98301a1ee5e91c5af15605d5b36d10b02",
+  "nota": "facturas: libro v1.2 (nombres sin caracteres rotos, colores de tela, botones a prueba de comillas, lecturas mas rapidas)",
+  "fecha": "2026-10-19T18:47:27.595Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
