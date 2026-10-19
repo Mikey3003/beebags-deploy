@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1505-205d",
-  "sha256": "691dbea7413be2f568da0d933ff2987cedf1f87453fad9eacdda019009bbb81c",
-  "nota": "precios: comprobar sha",
-  "fecha": "2026-10-19T21:05:04.384Z",
+  "paquete": "p-261019-1507-ba1e",
+  "sha256": "e942cbdba90cc9477ff12fd562b14422f11e37914a72a365426d0ebf3dc517ca",
+  "nota": "precios ronda2 revision: fecha futura, pactado solo por nombre exacto, precios raros y muestras, celular, coma",
+  "fecha": "2026-10-19T21:07:19.915Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
