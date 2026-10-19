@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1425-e6d8",
-  "sha256": "3cba0493c63a5ff20ec348fdc6c0226206e3c43e3f21f2682d0bfcf796b59451",
-  "nota": "precios ronda2: arreglo del precio al agregar otro cliente (clave de fila estable)",
-  "fecha": "2026-10-19T20:25:27.420Z",
+  "paquete": "p-261019-1427-7671",
+  "sha256": "231c8d6e7f37d71b6311a2593c3e2a57c5a58859aa9e8b306e6f5aaf3d9fd114",
+  "nota": "facturas ronda2: lectura bbf2-g2",
+  "fecha": "2026-10-19T20:27:17.198Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
