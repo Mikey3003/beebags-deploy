@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-0853-2e63",
-  "sha256": "e47bc3c4acc2ddde3700568b37ee4ae791b460a118ea4724d16bcf883423a6c2",
-  "nota": "Cotizador #16: el cuadrito Con asas / Sin asas pasa al renglón del título del grupo Asas, antes del chip (clic no abre/cierra el grupo). Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T14:53:43.383Z",
+  "paquete": "p-261019-0901-9440",
+  "sha256": "6157aa569d48b621bc88a6e9431c9c671d8e71d2795703b1c107cf90f3b3df8b",
+  "nota": "Cotizador #17: tabla «Desarrollos de rodillos (flexografía)» en el grupo Impresión cuando el tipo es flexografía: piezas/diámetro/cliché editables, total, desarrollo (×3.1416) y metros calculados, repeticiones vs el corte de la bolsa, agregar/quitar renglones; se guarda en el navegador. Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T15:01:04.712Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
