@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1411-110b",
-  "sha256": "c8971d94dedc3f5b626284becf6eb038dec9cb5a2946d113db1ec396e91bff3c",
-  "nota": "precios ronda2: versiones de precio, lista con historial y filtros, ficha del modelo",
-  "fecha": "2026-10-19T20:11:19.051Z",
+  "paquete": "p-261019-1413-e64b",
+  "sha256": "c9ff6fcaed90734c75b0e5b08cd90c9378b888f6395e985fb1b16de5c68bc0b1",
+  "nota": "facturas ronda2: precio dudoso, ME fuera, tarjetas con botones",
+  "fecha": "2026-10-19T20:13:40.662Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
