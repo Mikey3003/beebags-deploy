@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1541-b610",
-  "sha256": "cd39bb60e08e67e3a94aecd8ccb88f521ee8f6221c0807e96d9e4f404e8bb627",
-  "nota": "tope-lectura-b (solo lectura)",
-  "fecha": "2026-10-19T21:41:34.089Z",
+  "paquete": "p-261019-1551-8966",
+  "sha256": "0f7a855cf60bac9459d4a62ba133aecd9b0ed7f481b966c1013968087500a28d",
+  "nota": "facturas ronda2: lectura bbf2-copiar5",
+  "fecha": "2026-10-19T21:51:24.785Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
