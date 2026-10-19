@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1604-77ab",
-  "sha256": "a38bb8491c0dc98a1a7ddaae5f35b9803b2abeb5aa53a3e82042beceaef0e4e3",
-  "nota": "ronda2 lectura de peso-esperado y huellas (solo lectura)",
-  "fecha": "2026-10-19T22:04:37.301Z",
+  "paquete": "p-261019-1607-096c",
+  "sha256": "a20eccd575ffd3747d4c0aff48da9fe615bdf8aa209aaf87df28eaaa546a4419",
+  "nota": "tope-lectura-c (solo lectura)",
+  "fecha": "2026-10-19T22:07:41.430Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 37,
   "reinicio": false,
   "pausado": false
 }
