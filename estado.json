@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1322-f8ee",
-  "sha256": "61f115045aa10d8b0e0ca6fdf20059aed29ff7126ffd95f113b7d0a9ce9845d1",
-  "nota": "facturas ronda2: lectura bbf2-g1",
-  "fecha": "2026-10-19T19:22:38.638Z",
+  "paquete": "p-261019-1323-4778",
+  "sha256": "9181b852b437361afb0bd93876e1284b3a28bf2860aa8cd42a75c07aaabcdfc4",
+  "nota": "facturas ronda2: lectura bbf2-dpedidos.js0,bbf2-dpedidos.js1,bbf2-dpedidos.js2,bbf2-dpedidos.js3,bbf2-dpedidos.js4,bbf2-dpedidos.js5,bbf2-dpedidos.js6,bbf2-dcuadre.js0,bbf2-dcuadre.js1,bbf2-dcuadre.js2,bbf2-dcadena.js0,bbf2-dcadena.js1,bbf2-dcadena.js2,bbf2-dmiguel.js0,bbf2-dmiguel.js1,bbf2-dmiguel.js2,bbf2-dmiguel.js3,bbf2-dmiguel.js4,bbf2-dfuente.js0,bbf2-dfuente.js1,bbf2-dfuente.js2,bbf2-dfuente.js3,bbf2-dmesa.js0,bbf2-dmesa.js1,bbf2-dmesa.js2,bbf2-dmesa.js3,bbf2-dmesa.js4,bbf2-dlibro.js0,bbf2-dlibro.js1,bbf2-dlibro.js2,bbf2-dlibro.js3,bbf2-dlibro.js4",
+  "fecha": "2026-10-19T19:23:55.003Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 32,
   "reinicio": false,
   "pausado": false
 }
