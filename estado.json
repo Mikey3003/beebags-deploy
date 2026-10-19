@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1028-b36b",
-  "sha256": "13429a239a192527a198f7d8dd4f4236d451aef106a0c0c4f23341ffb8d7ff7f",
-  "nota": "Job de solo lectura: diagnostico precios, grep de codigo",
-  "fecha": "2026-10-19T16:28:30.080Z",
+  "paquete": "p-261019-1029-09ad",
+  "sha256": "0e4a2d99c62781d613a349ff8cd869b5d7059c8b815cd55d389e2c4370f40a08",
+  "nota": "Job de solo lectura: compras-rutas lista rutas de compras.js",
+  "fecha": "2026-10-19T16:29:44.635Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
