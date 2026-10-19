@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1523-2360",
-  "sha256": "69452aaa8843ad1e5a2bf44584e827becf1a853e386e37fc933278686a63595f",
-  "nota": "precios ronda2: texto de pedidos sin precio en el detalle",
-  "fecha": "2026-10-19T21:23:41.062Z",
+  "paquete": "p-261019-1528-47f1",
+  "sha256": "f346ebf1b3289c05c1c9eb0be70de5ea861741d053ccaee48febe8f2e54afd97",
+  "nota": "ronda2 lectura usuarios, redondeos y peso (solo lectura)",
+  "fecha": "2026-10-19T21:28:48.085Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
