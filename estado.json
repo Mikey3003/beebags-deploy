@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1111-ff47",
-  "sha256": "070857ede6d794780a96a901051f525687d8dde88e62889b27c16ae94f6bc727",
-  "nota": "compras: lectura de codigo vivo solo lectura",
-  "fecha": "2026-10-19T17:11:45.814Z",
+  "paquete": "p-261019-1114-bf52",
+  "sha256": "da27845063af1d461d9bc31dc10d9ef93e82e8ded78b6421d5aa26baf8c73082",
+  "nota": "compras: lectura de codigo vivo v2 solo lectura",
+  "fecha": "2026-10-19T17:14:38.325Z",
   "autor": "alex_",
   "archivos": 25,
   "reinicio": false,
