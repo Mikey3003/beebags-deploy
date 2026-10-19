@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261016-1740-d6c8",
-  "sha256": "d8f514968b79552e98d78b76e4a3fcac1820f6e9fd1d69f3655f1b2953d436c8",
-  "nota": "Cotizador #14: pestaña «Costeo tela» (Dirección) con las 3 columnas de la app Spunbond: parámetros/mezcla/empaque, nómina y gastos a tela por mes, costo y precio por color (qué cuesta, a cuánto vendo, cuánto gano, mercado). Solo web/, sin reinicio.",
-  "fecha": "2026-10-16T23:40:24.176Z",
+  "paquete": "p-261019-0850-73f4",
+  "sha256": "2d2170372c30acab3efc8ade0dbd4c42739ec1c4e6bcdb7f846e4ecb6de03182",
+  "nota": "Cotizador #15: cuadrito «Con asas / Sin asas» en el grupo Asas del formulario de bolsa; apagado = no se calculan (asasNum=0 al motor), campos en gris; prendido = se calculan. Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T14:50:08.528Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
