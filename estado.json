@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1123-0bb1",
-  "sha256": "7133d15bf36e33fd192108018f10b20a42307fd2596369d48bede1469b03a7b9",
-  "nota": "precios: lectura codigo vivo",
-  "fecha": "2026-10-19T17:23:41.119Z",
+  "paquete": "p-261019-1126-acdf",
+  "sha256": "dab2e6184672a44f88cece0f7a401ed1388917a311f2db07d12f17f94bf0dd19",
+  "nota": "facturas: exploracion SAE 4 (solo lectura)",
+  "fecha": "2026-10-19T17:26:53.307Z",
   "autor": "alex_",
-  "archivos": 18,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
