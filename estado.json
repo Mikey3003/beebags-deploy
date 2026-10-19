@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1310-80ef",
-  "sha256": "7ac30ada7a07e1b0413734d2bb11cf1a3abdf059acc4c86afd57adf76654d305",
-  "nota": "facturas: libro v1.3.1 (pedido ignora facturas de otro cliente aunque vengan por la salida)",
-  "fecha": "2026-10-19T19:10:00.429Z",
+  "paquete": "p-261019-1320-9849",
+  "sha256": "d3e0d70b2f73e44ebdf0f1678665e7568f8e11765e9f7c18aa254b6b560e79cd",
+  "nota": "facturas ronda2: lectura bbf2-inv1",
+  "fecha": "2026-10-19T19:20:30.614Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
