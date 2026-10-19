@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1037-b271",
-  "sha256": "43ca5542a893fe35fa81b1fd2e96fbb6864c9616e0193e7fe79baf322b9316e9",
-  "nota": "Job de solo lectura: lineas de precios del cotizador y modelos-bolsa",
-  "fecha": "2026-10-19T16:37:29.492Z",
+  "paquete": "p-261019-1043-9c1f",
+  "sha256": "67fb0e12a7499d5c07006ff276d7e3a279506cbc260b099c0f30b99d687fdd4b",
+  "nota": "Job solo lectura precios: rutas",
+  "fecha": "2026-10-19T16:43:06.157Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
