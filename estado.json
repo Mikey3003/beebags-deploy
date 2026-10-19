@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1528-47f1",
-  "sha256": "f346ebf1b3289c05c1c9eb0be70de5ea861741d053ccaee48febe8f2e54afd97",
-  "nota": "ronda2 lectura usuarios, redondeos y peso (solo lectura)",
-  "fecha": "2026-10-19T21:28:48.085Z",
+  "paquete": "p-261019-1531-bfb2",
+  "sha256": "38077c2606a8dfef3df1e568583fd2eb96fa3caa65907b6e785e6c187b064418",
+  "nota": "tope-lectura-a (solo lectura)",
+  "fecha": "2026-10-19T21:31:45.461Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
