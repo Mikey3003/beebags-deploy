@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1521-624f",
-  "sha256": "14b97f51f9689848e4382ea04e6c5140aa441ab3ff816ec03fdda60eeaaf055b",
-  "nota": "ronda2 panel Compras del almacen: requisiciones, aviso lista para recoger, en camino; almacen solo salidas",
-  "fecha": "2026-10-19T21:21:11.394Z",
+  "paquete": "p-261019-1523-2360",
+  "sha256": "69452aaa8843ad1e5a2bf44584e827becf1a853e386e37fc933278686a63595f",
+  "nota": "precios ronda2: texto de pedidos sin precio en el detalle",
+  "fecha": "2026-10-19T21:23:41.062Z",
   "autor": "alex_",
-  "archivos": 8,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
