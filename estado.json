@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1032-12ee",
-  "sha256": "10c42e42d6b166e3e0b27626afaf5bd248388e40a0bf7098653bdfb32f03c832",
-  "nota": "Job de solo lectura: diagnostico precios, grep de codigo",
-  "fecha": "2026-10-19T16:32:23.326Z",
+  "paquete": "p-261019-1036-47ec",
+  "sha256": "3be34ce7a91bdc449830a8dab7710d26f10797f06dfdfb4bb8a2f3097cb58e8d",
+  "nota": "Job de solo lectura: de donde salen los precios de bolsa (cotizador y pedidos)",
+  "fecha": "2026-10-19T16:36:32.614Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
