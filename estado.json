@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1243-6182",
-  "sha256": "c59e8bf360eced0e739f7ce71755aaefe6f06025ff1f9de5a448e7251454126d",
-  "nota": "precios: comprobar sha",
-  "fecha": "2026-10-19T18:43:38.558Z",
+  "paquete": "p-261019-1245-ed78",
+  "sha256": "141d631115d6a1c81aeb3e518e14fe6b305dc95ab3af88566ba0a488b8ae7cf1",
+  "nota": "precios de bolsa 3: aviso del formulario usa el precio recomendado y dice las otras fuentes",
+  "fecha": "2026-10-19T18:45:17.851Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
