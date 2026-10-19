@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1043-9c1f",
-  "sha256": "67fb0e12a7499d5c07006ff276d7e3a279506cbc260b099c0f30b99d687fdd4b",
-  "nota": "Job solo lectura precios: rutas",
-  "fecha": "2026-10-19T16:43:06.157Z",
+  "paquete": "p-261019-1045-ed81",
+  "sha256": "d3981213378f6e539fdc4613bc128e6e6f783ef818034b3ae7506fdc81c2f249",
+  "nota": "Compras: jobs de solo lectura A (compras.js y grep)",
+  "fecha": "2026-10-19T16:45:21.732Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
