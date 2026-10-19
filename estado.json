@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1255-162d",
-  "sha256": "058f55071f8e7d4c0a5866c312e58b641710fa2866d656e0f1fa2d734d92122e",
-  "nota": "precios: lectura 9",
-  "fecha": "2026-10-19T18:55:50.525Z",
+  "paquete": "p-261019-1308-7ea6",
+  "sha256": "59c15ac950c03f2b15add42615d3df6920e8fee085ad738686d21e8a0f709ce6",
+  "nota": "facturas: libro v1.3 (ligas del SAE solo si cuadran cliente y fecha, pedidos con facturas de otro cliente, reparto por piezas, listas sin falsos positivos)",
+  "fecha": "2026-10-19T19:08:18.756Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
