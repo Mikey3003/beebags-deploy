@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1045-ed81",
-  "sha256": "d3981213378f6e539fdc4613bc128e6e6f783ef818034b3ae7506fdc81c2f249",
-  "nota": "Compras: jobs de solo lectura A (compras.js y grep)",
-  "fecha": "2026-10-19T16:45:21.732Z",
+  "paquete": "p-261019-1049-7137",
+  "sha256": "ed51feed849a94b1076942278755b71ebc6c9efefe44f7e262ac7394e1204d4f",
+  "nota": "precios: lectura de codigo vivo",
+  "fecha": "2026-10-19T16:49:31.194Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 18,
   "reinicio": false,
   "pausado": false
 }
