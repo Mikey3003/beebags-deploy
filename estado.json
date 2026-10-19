@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1609-68f0",
-  "sha256": "8462474be28cbd3dfd88caf7898c7bb91b6e9f1d336d809ce90f2271e20d6389",
-  "nota": "ronda2 baja de migue deshecha en datos y huellas (sin reinicio)",
-  "fecha": "2026-10-19T22:09:53.063Z",
+  "paquete": "p-261019-1611-934d",
+  "sha256": "a24fd1620fcfcb49366ac4fc3fcab2907acbdf14ca1ff58fb28f9c80e82661bb",
+  "nota": "facturas ronda2: cobro-* acepta sesiones de persona del cerebro (sin montos) y exige sesion valida",
+  "fecha": "2026-10-19T22:11:32.919Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
