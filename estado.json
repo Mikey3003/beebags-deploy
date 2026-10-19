@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1540-5cc6",
-  "sha256": "408b221747fb580ff481c5dab48d69f9f27ff82972997f1d098b614c404ea1e3",
-  "nota": "ronda2 lectura formatos de cantidad en PDFs (solo lectura)",
-  "fecha": "2026-10-19T21:40:32.607Z",
+  "paquete": "p-261019-1541-b610",
+  "sha256": "cd39bb60e08e67e3a94aecd8ccb88f521ee8f6221c0807e96d9e4f404e8bb627",
+  "nota": "tope-lectura-b (solo lectura)",
+  "fecha": "2026-10-19T21:41:34.089Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
