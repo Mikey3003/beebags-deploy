@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1247-f24e",
-  "sha256": "8c8e28973597cb5882082f906d1ba5c98301a1ee5e91c5af15605d5b36d10b02",
-  "nota": "facturas: libro v1.2 (nombres sin caracteres rotos, colores de tela, botones a prueba de comillas, lecturas mas rapidas)",
-  "fecha": "2026-10-19T18:47:27.595Z",
+  "paquete": "p-261019-1253-174a",
+  "sha256": "0d52ec17d5bd24b98bc24c2fd8c2dc8fc0714624e0f7b59f7b4aecdc4203895e",
+  "nota": "facturas: ajustes de pantalla (tablas en celular, saldo a favor)",
+  "fecha": "2026-10-19T18:53:47.531Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
