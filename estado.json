@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1020-1355",
-  "sha256": "f67d1109228e67e37ca17dc00fb6c637ca97fd5539c2e78c0a91ca47fcaa2f0c",
-  "nota": "Web #23: botón «Inicio» arriba a la izquierda en todos los módulos (web/inicio-boton.js, lleva a /cerebro.html; no se pinta en el Cerebro, en iframes ni con ?embed=1). 30 páginas incluyen el script antes de </body>. Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T16:20:03.942Z",
-  "autor": "alex",
-  "archivos": 31,
+  "paquete": "p-261019-1028-b36b",
+  "sha256": "13429a239a192527a198f7d8dd4f4236d451aef106a0c0c4f23341ffb8d7ff7f",
+  "nota": "Job de solo lectura: diagnostico precios, grep de codigo",
+  "fecha": "2026-10-19T16:28:30.080Z",
+  "autor": "alex_",
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
