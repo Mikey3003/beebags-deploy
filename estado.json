@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1049-7137",
-  "sha256": "ed51feed849a94b1076942278755b71ebc6c9efefe44f7e262ac7394e1204d4f",
-  "nota": "precios: lectura de codigo vivo",
-  "fecha": "2026-10-19T16:49:31.194Z",
+  "paquete": "p-261019-1109-8106",
+  "sha256": "589c366002572b5eee6cd2c624ee97d3f8471a2bc9f68127eaff6ea5cf702fbd",
+  "nota": "facturas: lectura de codigo vivo del SAE y la mesa",
+  "fecha": "2026-10-19T17:09:53.905Z",
   "autor": "alex_",
-  "archivos": 18,
+  "archivos": 23,
   "reinicio": false,
   "pausado": false
 }
