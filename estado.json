@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1211-e277",
-  "sha256": "c65044256645351cde111628f59a7ccb115cccc5ccda13521de5953dbae994f2",
-  "nota": "facturas: libro del SAE v1.1 (corte visible, partidas con nombre, clientes sin repetir)",
-  "fecha": "2026-10-19T18:11:24.208Z",
+  "paquete": "p-261019-1216-b530",
+  "sha256": "a83c5eda4d0b270800c195fa22da1a5ea519c428686e4b0016cacdc4846dc981",
+  "nota": "facturas: Libro SAE, Pedidos y facturas (cronologia), Lo que no cuadra en la mesa",
+  "fecha": "2026-10-19T18:16:13.673Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
