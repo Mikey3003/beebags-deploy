@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1236-ad26",
-  "sha256": "2ec36fc0f2de9279f6d44b1d1ba79d87680f9fdfe8739bdac849444991af6f3b",
-  "nota": "precios: comprobar sha",
-  "fecha": "2026-10-19T18:36:36.367Z",
+  "paquete": "p-261019-1237-69fb",
+  "sha256": "404e2a249d42780748877861e30d09c262c0f77010f08cc503d277b78818891f",
+  "nota": "precios de bolsa 2: recomendacion en el formulario de pedido, modelo en 0 no se pisa, tabla del cotizador con scroll",
+  "fecha": "2026-10-19T18:37:18.124Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
