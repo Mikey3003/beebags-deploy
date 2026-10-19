@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1341-bfce",
-  "sha256": "762c7ebb9f2860afe8fedb2bdfe4c16ec82fb402ceb3da10a2e1ce6aadb80eaa",
-  "nota": "Aviso de pedidos por aclarar: ya no bloquea la pantalla (Ahora no + globito), pedido de Mikey; solo web, sin reinicio",
-  "fecha": "2026-10-19T19:41:31.692Z",
+  "paquete": "p-261019-1343-6bee",
+  "sha256": "e94b062ef9e10cfc32637bc810fd7b16f88ef644289e057d5e863eca99fc6b9b",
+  "nota": "compras: correcciones de la revision: dinero solo a Compras, pagada sin llegar, en camino igual que Registrar, XSS, foco",
+  "fecha": "2026-10-19T19:43:31.851Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 9,
+  "reinicio": true,
   "pausado": false
 }
