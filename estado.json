@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-0924-a151",
-  "sha256": "3e1da8f184fe169871d2d6cca1cb56d7a4f66cc8c08a307dd8d668de0de76270",
-  "nota": "Cotizador #21: «Voltear bolsa» siempre abre apagado (no se restaura del borrador); solo se prende a mano en la sesión. Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T15:24:49.506Z",
+  "paquete": "p-261019-0936-d774",
+  "sha256": "767da6e0c3c82b99969247797c08f05b4dc39f9baacc89bce733bbc902de3600",
+  "nota": "Cotizador #22 (REINICIO): merma por rechazo de bolsas p_segundas_pct (5 %, solo tela+tinta+laminado+MO+gastos; no accesorios/empaque/flete), parámetro se agrega solo (sección 4), endpoint GET/POST /api/cotizador/rodillos, pantalla con el desglose nuevo y rodillos compartidos.",
+  "fecha": "2026-10-19T15:36:34.872Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
