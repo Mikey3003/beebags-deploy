@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-0936-d774",
-  "sha256": "767da6e0c3c82b99969247797c08f05b4dc39f9baacc89bce733bbc902de3600",
-  "nota": "Cotizador #22 (REINICIO): merma por rechazo de bolsas p_segundas_pct (5 %, solo tela+tinta+laminado+MO+gastos; no accesorios/empaque/flete), parámetro se agrega solo (sección 4), endpoint GET/POST /api/cotizador/rodillos, pantalla con el desglose nuevo y rodillos compartidos.",
-  "fecha": "2026-10-19T15:36:34.872Z",
+  "paquete": "p-261019-1020-1355",
+  "sha256": "f67d1109228e67e37ca17dc00fb6c637ca97fd5539c2e78c0a91ca47fcaa2f0c",
+  "nota": "Web #23: botón «Inicio» arriba a la izquierda en todos los módulos (web/inicio-boton.js, lleva a /cerebro.html; no se pinta en el Cerebro, en iframes ni con ?embed=1). 30 páginas incluyen el script antes de </body>. Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T16:20:03.942Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 31,
+  "reinicio": false,
   "pausado": false
 }
