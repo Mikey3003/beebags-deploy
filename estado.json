@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-0922-ff71",
-  "sha256": "8e97999c0803e6b84988c545abc8f73e65a8c7dc793d7b348c21297d3c9910b8",
-  "nota": "Cotizador #20: el cuadrito «Voltear bolsa» pasa del grupo Empaque al grupo de la bolsa, junto a «Lleva fuelle de fondo» (siempre a la vista, apagado por default). Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T15:22:26.388Z",
+  "paquete": "p-261019-0924-a151",
+  "sha256": "3e1da8f184fe169871d2d6cca1cb56d7a4f66cc8c08a307dd8d668de0de76270",
+  "nota": "Cotizador #21: «Voltear bolsa» siempre abre apagado (no se restaura del borrador); solo se prende a mano en la sesión. Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T15:24:49.506Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
