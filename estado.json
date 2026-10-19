@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1617-7bf4",
-  "sha256": "8237c44f0f5f8696582db10cb0f8a091d75fc2e82629ce8ea4c831f9c7657d73",
-  "nota": "tope-lectura-e (solo lectura)",
-  "fecha": "2026-10-19T22:17:14.662Z",
+  "paquete": "p-261019-1619-7984",
+  "sha256": "fbd94aed013a4cb4e77534eb309221a569ccec8a7b89a11f1a842c5f9a760db1",
+  "nota": "ronda2 b: cantidades exactas, peso real y teorico, pedidos en Logistica, PDFs, sin movimiento, usuario migue",
+  "fecha": "2026-10-19T22:19:32.604Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 11,
+  "reinicio": true,
   "pausado": false
 }
