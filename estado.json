@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-0901-9440",
-  "sha256": "6157aa569d48b621bc88a6e9431c9c671d8e71d2795703b1c107cf90f3b3df8b",
-  "nota": "Cotizador #17: tabla «Desarrollos de rodillos (flexografía)» en el grupo Impresión cuando el tipo es flexografía: piezas/diámetro/cliché editables, total, desarrollo (×3.1416) y metros calculados, repeticiones vs el corte de la bolsa, agregar/quitar renglones; se guarda en el navegador. Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T15:01:04.712Z",
+  "paquete": "p-261019-0905-38c3",
+  "sha256": "46e7aa355bb6feb1e9c04358e47f96a35ba3431416ac227c08f411b48c56f201",
+  "nota": "Cotizador #18: la tabla de desarrollos de rodillos ahora es desplegable (cerrada por default, clic en el título; recuerda si se dejó abierta). Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T15:05:06.063Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
