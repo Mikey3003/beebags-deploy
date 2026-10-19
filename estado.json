@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1139-88d5",
-  "sha256": "1f49f8a191440ef2fbe4ba4167ca2b8e95f8b54113bdd2617cab64f1eaf5b046",
-  "nota": "facturas: lectura de rutas y exploracion SAE 4 (solo lectura)",
-  "fecha": "2026-10-19T17:39:24.778Z",
+  "paquete": "p-261019-1141-ad63",
+  "sha256": "8357ab5566f5cbc076cd3b18c8da79c1db624cbfc0880006f522845e57175d89",
+  "nota": "precios: lectura 5",
+  "fecha": "2026-10-19T17:41:34.846Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
