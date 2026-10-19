@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-0850-73f4",
-  "sha256": "2d2170372c30acab3efc8ade0dbd4c42739ec1c4e6bcdb7f846e4ecb6de03182",
-  "nota": "Cotizador #15: cuadrito «Con asas / Sin asas» en el grupo Asas del formulario de bolsa; apagado = no se calculan (asasNum=0 al motor), campos en gris; prendido = se calculan. Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T14:50:08.528Z",
+  "paquete": "p-261019-0853-2e63",
+  "sha256": "e47bc3c4acc2ddde3700568b37ee4ae791b460a118ea4724d16bcf883423a6c2",
+  "nota": "Cotizador #16: el cuadrito Con asas / Sin asas pasa al renglón del título del grupo Asas, antes del chip (clic no abre/cierra el grupo). Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T14:53:43.383Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
