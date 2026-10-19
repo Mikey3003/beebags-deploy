@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1036-47ec",
-  "sha256": "3be34ce7a91bdc449830a8dab7710d26f10797f06dfdfb4bb8a2f3097cb58e8d",
-  "nota": "Job de solo lectura: de donde salen los precios de bolsa (cotizador y pedidos)",
-  "fecha": "2026-10-19T16:36:32.614Z",
+  "paquete": "p-261019-1037-b271",
+  "sha256": "43ca5542a893fe35fa81b1fd2e96fbb6864c9616e0193e7fe79baf322b9316e9",
+  "nota": "Job de solo lectura: lineas de precios del cotizador y modelos-bolsa",
+  "fecha": "2026-10-19T16:37:29.492Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
