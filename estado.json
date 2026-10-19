@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1556-57f8",
-  "sha256": "0a1f3d1bccc11e20d6a99d6dcd9d770655233244b4f087db0c168fa058c7e458",
-  "nota": "facturas ronda2: cobro real del SAE en pedidos, salidas, almacen, logistica, cerebro y cotizador; remisiones aparte; cuadre; Miguel Esteban fuera (con reinicio)",
-  "fecha": "2026-10-19T21:56:09.824Z",
+  "paquete": "p-261019-1557-c444",
+  "sha256": "13e9c77aada4aa5b822f95be535c7011dad079f04168fce4788ac679eef994bb",
+  "nota": "ronda2 lectura de PDFs de salidas (solo lectura)",
+  "fecha": "2026-10-19T21:57:49.277Z",
   "autor": "alex_",
-  "archivos": 11,
-  "reinicio": true,
+  "archivos": 21,
+  "reinicio": false,
   "pausado": false
 }
