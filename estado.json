@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1743-790e",
-  "sha256": "56890949565535f2b2a49daf851a3efb932db528245b7df2bb10683801435d12",
-  "nota": "facturas ronda2 revision: sin cifras en alertas, saldo sin doble conteo, facturas repetidas, cuadre 1500, vales como salido, KPI por facturar sin Miguel Esteban ni muestras (con reinicio)",
-  "fecha": "2026-10-19T23:43:39.908Z",
+  "paquete": "p-261019-1745-aeb6",
+  "sha256": "0edff67d40f3da2d35285a376103078c4513620ba2a60ebfd8ad44e9a1a95413",
+  "nota": "Job de solo lectura: chk-r2",
+  "fecha": "2026-10-19T23:45:34.240Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
