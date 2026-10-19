@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1219-9a87",
-  "sha256": "8b536ff40223086bb917df776399bf4a378bfd6b2bd139d8958d87648a94504a",
-  "nota": "precios de bolsa: recomendar precio, guardar en modelo, lista del cotizador con modelo/vendido/cotizado",
-  "fecha": "2026-10-19T18:19:22.742Z",
+  "paquete": "p-261019-1222-6281",
+  "sha256": "14c955a42b023976655d3137db908acd91b19feb0faed23bb11bece2a3e2aecf",
+  "nota": "facturas: cobertura de ligas en Lo que no cuadra",
+  "fecha": "2026-10-19T18:22:22.735Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
