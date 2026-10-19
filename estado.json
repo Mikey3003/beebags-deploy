@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1339-7d8a",
-  "sha256": "5fc1c684b98db1d74399d6aa012027eab4e783755bfb7e1d1dc734b36847c00f",
-  "nota": "precios de bolsa 4: el cotizador anota lo cotizado desde pantalla, un pedido a la vez por modelo",
-  "fecha": "2026-10-19T19:39:17.484Z",
+  "paquete": "p-261019-1341-bfce",
+  "sha256": "762c7ebb9f2860afe8fedb2bdfe4c16ec82fb402ceb3da10a2e1ce6aadb80eaa",
+  "nota": "Aviso de pedidos por aclarar: ya no bloquea la pantalla (Ahora no + globito), pedido de Mikey; solo web, sin reinicio",
+  "fecha": "2026-10-19T19:41:31.692Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
