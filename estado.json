@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1253-174a",
-  "sha256": "0d52ec17d5bd24b98bc24c2fd8c2dc8fc0714624e0f7b59f7b4aecdc4203895e",
-  "nota": "facturas: ajustes de pantalla (tablas en celular, saldo a favor)",
-  "fecha": "2026-10-19T18:53:47.531Z",
+  "paquete": "p-261019-1255-162d",
+  "sha256": "058f55071f8e7d4c0a5866c312e58b641710fa2866d656e0f1fa2d734d92122e",
+  "nota": "precios: lectura 9",
+  "fecha": "2026-10-19T18:55:50.525Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
