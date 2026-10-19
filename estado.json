@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-0905-38c3",
-  "sha256": "46e7aa355bb6feb1e9c04358e47f96a35ba3431416ac227c08f411b48c56f201",
-  "nota": "Cotizador #18: la tabla de desarrollos de rodillos ahora es desplegable (cerrada por default, clic en el título; recuerda si se dejó abierta). Solo web/, sin reinicio.",
-  "fecha": "2026-10-19T15:05:06.063Z",
+  "paquete": "p-261019-0911-83f0",
+  "sha256": "4df7b68e57590a6310066224ded03f53b094220098356f27399cfba27ad8037b",
+  "nota": "Cotizador #19: «Voltear bolsa» ya no viene prendido por default en el formulario de bolsa (se prende a mano); el borrador viejo se apaga una sola vez. Solo web/, sin reinicio.",
+  "fecha": "2026-10-19T15:11:57.411Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
