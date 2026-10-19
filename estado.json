@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1143-934b",
-  "sha256": "dce4af7bc735a28079a1fea57eb555cb0234d02425f9b9ab89c2e996822c73c2",
-  "nota": "precios: lectura 5",
-  "fecha": "2026-10-19T17:43:39.642Z",
+  "paquete": "p-261019-1145-6ed7",
+  "sha256": "55d3c8f45f5a855a64b568566d79e6aa00908b2025222f782ada94552273e331",
+  "nota": "compras: cronologia y en-camino (solo lectura) y precio solo a Compras",
+  "fecha": "2026-10-19T17:45:21.643Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
