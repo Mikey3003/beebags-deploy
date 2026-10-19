@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1031-ffbf",
-  "sha256": "23953b23409918ad406208665656609ec2b9fd96c306e6486c0101d67a919dc3",
-  "nota": "Job de solo lectura: compras-rec/lis/etp lectura de compras.js",
-  "fecha": "2026-10-19T16:31:29.885Z",
+  "paquete": "p-261019-1032-12ee",
+  "sha256": "10c42e42d6b166e3e0b27626afaf5bd248388e40a0bf7098653bdfb32f03c832",
+  "nota": "Job de solo lectura: diagnostico precios, grep de codigo",
+  "fecha": "2026-10-19T16:32:23.326Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
