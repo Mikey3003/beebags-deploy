@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1225-c45a",
-  "sha256": "dc622922d90a1f76bc4bcbb84cfd2f61c52ba284de3a7d8d45c9917f3e0ca976",
-  "nota": "facturas: sugerencias de salida para facturas sin liga",
-  "fecha": "2026-10-19T18:25:17.873Z",
+  "paquete": "p-261019-1235-c47c",
+  "sha256": "e9b374a981f572ebdf2dc2665aa2456eebf924d9a899164b03e89f795e18dc46",
+  "nota": "precios: comprobar sha",
+  "fecha": "2026-10-19T18:35:04.347Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
