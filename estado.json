@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1607-096c",
-  "sha256": "a20eccd575ffd3747d4c0aff48da9fe615bdf8aa209aaf87df28eaaa546a4419",
-  "nota": "tope-lectura-c (solo lectura)",
-  "fecha": "2026-10-19T22:07:41.430Z",
+  "paquete": "p-261019-1609-68f0",
+  "sha256": "8462474be28cbd3dfd88caf7898c7bb91b6e9f1d336d809ce90f2271e20d6389",
+  "nota": "ronda2 baja de migue deshecha en datos y huellas (sin reinicio)",
+  "fecha": "2026-10-19T22:09:53.063Z",
   "autor": "alex_",
-  "archivos": 37,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
