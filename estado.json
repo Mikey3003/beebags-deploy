@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1257-754e",
-  "sha256": "290d9c5a671d0cdf03d9ee252a755f5fbace7d321792911d5467d5270e5ec285",
-  "nota": "armado a4: lectura rutas inteligencia",
-  "fecha": "2026-10-20T18:57:50.892Z",
+  "paquete": "p-261020-1259-2cec",
+  "sha256": "3ce3a15a121ac47095d2fc4673d722dc385cc4a5827f300fec6ae4e9080fd861",
+  "nota": "armado a4: lectura donde viven ficha/plano",
+  "fecha": "2026-10-20T18:59:22.139Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
