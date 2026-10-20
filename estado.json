@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1705-9174",
-  "sha256": "460c91d9f351d15043cf9c3b7a890ea14a6977861d5413f387454f69ddf16a6d",
-  "nota": "whatsapp-resumen: lectura bbwr-g,bbwr-g2",
-  "fecha": "2026-10-20T23:05:18.482Z",
+  "paquete": "p-261020-1707-db8f",
+  "sha256": "13dcda20e649f1a7e8334f4e48bffae2767d955098a0976517eac7fcc59132a6",
+  "nota": "logo real: abeja oficial en vez del cuadro B (cerebro y 11 pantallas)",
+  "fecha": "2026-10-20T23:07:25.988Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 13,
   "reinicio": false,
   "pausado": false
 }
