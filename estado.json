@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1645-2eac",
-  "sha256": "089914c2e6a10082cd06f82d03fa3368b76077cdadaa60469518eed56dd5e71a",
-  "nota": "miguelbot: lectura bbmb-scan",
-  "fecha": "2026-10-20T22:45:27.721Z",
+  "paquete": "p-261020-1647-864f",
+  "sha256": "0527ed1396c263bd67fdd92d493828946dc679019d27bdf78ce6e52e52067714",
+  "nota": "portada de entrada, quitar/devolver acceso, clave escrita y candado de lecturas por el tunel",
+  "fecha": "2026-10-20T22:47:37.766Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
