@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1028-99a1",
-  "sha256": "1fdc9df38302d8ab132694326d29b1000a52a627de241735c669a6ba21aa0d5b",
-  "nota": "armado: lectura 2",
-  "fecha": "2026-10-20T16:28:23.876Z",
+  "paquete": "p-261020-1030-f78b",
+  "sha256": "aba896b971ed08cbcfa5e11177b1a17ade7345d9165d4a2792020bc6d9f0ee7d",
+  "nota": "hoja: lectura de index.js y pedidos.js vivos",
+  "fecha": "2026-10-20T16:30:28.229Z",
   "autor": "alex_",
-  "archivos": 18,
+  "archivos": 16,
   "reinicio": false,
   "pausado": false
 }
