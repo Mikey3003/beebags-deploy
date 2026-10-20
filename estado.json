@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1241-62ef",
-  "sha256": "d3444bbe657bc308a662bca32c5c60c2a40e0615a75df4313d9266d7c82bee60",
-  "nota": "personalizado: jobs de lectura api 2",
-  "fecha": "2026-10-20T18:41:35.754Z",
+  "paquete": "p-261020-1243-36eb",
+  "sha256": "3da1abd71f44b5d29a891f665a09ac87ba087f6892e83248f83d7822ed7ec484",
+  "nota": "spunbond almacen v2: lectura (solo job) de crearProducto",
+  "fecha": "2026-10-20T18:43:34.538Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
