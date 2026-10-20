@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1610-f15e",
-  "sha256": "326ba662df130e1a6fb4497070d5a0b306f45ec195906d40a5c19b459bb8a8c4",
-  "nota": "cierre: job mkuser",
-  "fecha": "2026-10-20T22:10:17.155Z",
+  "paquete": "p-261020-1611-7b21",
+  "sha256": "aca06b3e176c5eefb3b17bd4dd377d0d2961e25d8d7d7b8c59d2fa0fb9753f29",
+  "nota": "seguridad: lectura bbseg-abiertas",
+  "fecha": "2026-10-20T22:11:32.611Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
