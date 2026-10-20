@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1823-a8dc",
-  "sha256": "c75d80c0dfb7086c35794033e26b0132b81cc8a9b7331bc58eb167bcf45a4c4b",
-  "nota": "hoja: lectura de codigo vivo (ls)",
-  "fecha": "2026-10-20T00:23:48.667Z",
+  "paquete": "p-261019-1826-f9de",
+  "sha256": "42e0a794faa01b20a18829fe0e0a3769c7518806ada5a49191df0ae2af1f3672",
+  "nota": "hoja: lectura de codigo vivo (grep)",
+  "fecha": "2026-10-20T00:26:25.506Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
