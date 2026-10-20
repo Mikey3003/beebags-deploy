@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-0105-e6ae",
-  "sha256": "ab820328151f6a7ccaaaa80fc8a680b72d009507a328d8abc6ddb38761d07c22",
-  "nota": "reportes paq3: ajustes de formato del PDF SEDEMA e ISO y nota de pedidos por depurar",
-  "fecha": "2026-10-20T07:05:20.678Z",
-  "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261020-0127-acd8",
+  "sha256": "dbff08b97ca786761601ed7e7dfad07e7e32ec0c27302381d772ce5045e23e25",
+  "nota": "flujo: lectura bbfl-dlibro0,bbfl-dlibro1,bbfl-dlibro2...",
+  "fecha": "2026-10-20T07:27:29.770Z",
+  "autor": "alex",
+  "archivos": 7,
+  "reinicio": false,
   "pausado": false
 }
