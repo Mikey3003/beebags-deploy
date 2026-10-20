@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1051-a64e",
-  "sha256": "cbb29ec98272e1379da474a4208c0634e66f9dce6813ae55e5c8b0a60c7f31a6",
-  "nota": "spunbond almacen: lectura de rutas (solo jobs)",
-  "fecha": "2026-10-20T16:51:28.774Z",
+  "paquete": "p-261020-1053-2321",
+  "sha256": "5815b177662b9ed8712c4d09a767b9fe6ba80332adea45c77de702186be6503b",
+  "nota": "armado: panel y modulo (sin reinicio)",
+  "fecha": "2026-10-20T16:53:02.471Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
