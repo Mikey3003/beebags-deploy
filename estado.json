@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1757-f307",
-  "sha256": "a500eefb5402dc7e5b356db32574507b0e96b07ab5ebe70badfa5b1dc6e9fdd2",
-  "nota": "costeo: hoja viajera con costos (solo Direccion), pantalla, PDF y Excel",
-  "fecha": "2026-10-20T23:57:10.602Z",
+  "paquete": "p-261020-1759-7d94",
+  "sha256": "f49584f13b10bddad96530a5d5421034e9eb9f8f5edd360f5760550c1c857b10",
+  "nota": "whatsapp-resumen: lectura bbcw-dtienda0,bbcw-dtienda1,bbcw-dtienda2,bbcw-dtienda3,bbcw-dtienda4,bbcw-dtienda5,bbcw-dcerebro0,bbcw-dcerebro1,bbcw-dcerebro2,bbcw-dcerebro3,bbcw-dcerebro4,bbcw-dcerebro5,bbcw-dcerebro6,bbcw-dcerebro7,bbcw-dcerebro8,bbcw-dcerebro9,bbcw-dcerebro10,bbcw-dcerebro11,bbcw-dcerebro12,bbcw-dcerebro13,bbcw-dcerebro14,bbcw-dcerebro15,bbcw-dcerebro16,bbcw-dportal0,bbcw-dportal1,bbcw-dportal2,bbcw-dportal3,bbcw-dportal4,bbcw-dportal5,bbcw-dportal6,bbcw-dairtable0,bbcw-dairtable1,bbcw-dairtable2,bbcw-dairtable3,bbcw-dairtable4,bbcw-dairtable5,bbcw-dpgadmin0,bbcw-dpgadmin1,bbcw-dpgadmin2,bbcw-dpgadmin3,bbcw-dpgadmin4",
+  "fecha": "2026-10-20T23:59:16.565Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 41,
+  "reinicio": false,
   "pausado": false
 }
