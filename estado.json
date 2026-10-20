@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1621-a44e",
-  "sha256": "0a449a9331bf24d26d85ec7d0cf9e13387953fb6824ca79c9fa33844c1dcbdb7",
-  "nota": "miguelbot: lectura bbmb-ls",
-  "fecha": "2026-10-20T22:21:10.468Z",
+  "paquete": "p-261020-1623-e694",
+  "sha256": "a4f8a36a3ffe3ebe4bae945b204da89234b6ae0a19f6627e915ccd3bbc914097",
+  "nota": "cierre: job lim",
+  "fecha": "2026-10-20T22:23:15.643Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
