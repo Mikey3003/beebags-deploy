@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1753-514b",
-  "sha256": "4ba6ab8fa0da2c957c7e2b8ae331a1a843faa2a0ca59c14721ed334f623e9d86",
-  "nota": "artemia: lectura bbart-shapre",
-  "fecha": "2026-10-20T23:53:16.018Z",
+  "paquete": "p-261020-1755-c5b3",
+  "sha256": "c5cd546141429fc7bab694d6707e7b6b90077adad202ffc37418e8a6dd80201b",
+  "nota": "consulta de almacen solo lectura para Compras (Artemia): pantalla, rutas GET y cierre de todo lo demas en el servidor",
+  "fecha": "2026-10-20T23:55:13.392Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
