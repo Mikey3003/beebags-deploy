@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1117-5307",
-  "sha256": "09a3d249b6ffa65ad78b7614217610d198fd4c206cdcdcb0863596a18542d607",
-  "nota": "armado: lectura sbx2",
-  "fecha": "2026-10-20T17:17:30.951Z",
+  "paquete": "p-261020-1125-f732",
+  "sha256": "753c2aaa819bbb45979f18292a3bae72c31291a03bc64ec6d43fa37fec7b91fa",
+  "nota": "spunbond almacen: sha de archivos vivos (solo jobs)",
+  "fecha": "2026-10-20T17:25:09.018Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
