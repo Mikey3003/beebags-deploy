@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1251-b4f5",
-  "sha256": "cbf6a72c5739f0d295aaf74afcc94b28808398a93d144e5c6f1a7e82f94dd9a6",
-  "nota": "personalizado: ESTAMPAR ROLLOS (una pestana, escanear = estampar, +1 sin etiqueta)",
-  "fecha": "2026-10-20T18:51:26.734Z",
+  "paquete": "p-261020-1253-27e8",
+  "sha256": "2f6163b6a34f0795da0d2ffe7e7b4aae03488dc23c3960bbfd5a10b20fb06433",
+  "nota": "armado a4: lectura de ligas viejas 2",
+  "fecha": "2026-10-20T18:53:19.655Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
