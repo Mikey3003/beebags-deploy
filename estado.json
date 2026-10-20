@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1647-864f",
-  "sha256": "0527ed1396c263bd67fdd92d493828946dc679019d27bdf78ce6e52e52067714",
-  "nota": "portada de entrada, quitar/devolver acceso, clave escrita y candado de lecturas por el tunel",
-  "fecha": "2026-10-20T22:47:37.766Z",
+  "paquete": "p-261020-1649-45c8",
+  "sha256": "b994f6d616396e2f7989e627e6c52c957e1e40b190d4bf0a3a6205a0c8fdc0ee",
+  "nota": "seguridad: lectura bbseg-mkp",
+  "fecha": "2026-10-20T22:49:17.506Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
