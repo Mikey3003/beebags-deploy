@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1321-10ea",
-  "sha256": "1aa2f31a3288c4f1a98f63ef6844623f021813be9f8d9b4bade0eccf2836275d",
-  "nota": "personalizado: ESTAMPAR ROLLOS rev. adversarial (un turno a la vez, avisos, mas viejo)",
-  "fecha": "2026-10-20T19:21:20.769Z",
+  "paquete": "p-261020-1323-5496",
+  "sha256": "cda1d596f3a5e44ad4c0e65286ff76885d6de2c4f80477ba5c7baca82f85c5c0",
+  "nota": "Job de solo lectura: bbcom-vend1",
+  "fecha": "2026-10-20T19:23:15.444Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
