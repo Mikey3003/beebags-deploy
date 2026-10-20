@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1716-d7cc",
-  "sha256": "088b3b429609b83b2a504448a47ba363afa1f0c5544c63dd4be84a8cb84b1712",
-  "nota": "whatsapp-resumen: lectura bbwr-d1,bbwr-d1b",
-  "fecha": "2026-10-20T23:16:54.486Z",
+  "paquete": "p-261020-1717-c19f",
+  "sha256": "2d1c5105158a1056e385ba280dbdd8d8fa4d583766b8bb00f9ec5fddac9bf2f9",
+  "nota": "costeo: job lectura 1",
+  "fecha": "2026-10-20T23:17:23.676Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
