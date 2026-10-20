@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-2320-063d",
-  "sha256": "fe742192dfcb2756c9ab61207bce10d7e67f60ac28f9806e72e24a64823ffb6d",
-  "nota": "hoja viajera paquete 2: PDF vivo en rutas viejas y nombre Hoja viajera",
-  "fecha": "2026-10-20T05:20:43.696Z",
+  "paquete": "p-261019-2326-2d89",
+  "sha256": "2f931c1afcf065c6e2544d3ae042a46f2523e4b1095361110964235722930e73",
+  "nota": "reportes: panel de Reportes v1 (9 reportes, PDF, CSV)",
+  "fecha": "2026-10-20T05:26:37.661Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 11,
   "reinicio": true,
   "pausado": false
 }
