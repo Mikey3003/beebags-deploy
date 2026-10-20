@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1315-a13b",
-  "sha256": "bc252eb36a138b1caf37e38fd638bec4c4ac5f4b3bd043a2072de98642dc3731",
-  "nota": "spunbond almacen agregado 2: pedir al almacen completo, entrada/salida estilo registro v2, categorias con color, polietileno, pellet unico",
-  "fecha": "2026-10-20T19:15:52.318Z",
+  "paquete": "p-261020-1317-32c4",
+  "sha256": "de001d2f25b82b3f2dce8c715344d0fabf0ae91c35cdd7bd73817623d6c56a72",
+  "nota": "armado a4: lectura index y captura",
+  "fecha": "2026-10-20T19:17:12.843Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 24,
+  "reinicio": false,
   "pausado": false
 }
