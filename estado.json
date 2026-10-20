@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1240-85e8",
-  "sha256": "9d5d669667015994261ae0b7c5336b80e584762f01f5de2bfab8666b9fe5d680",
-  "nota": "spunbond almacen v2: lectura (solo job) de airtable.js",
-  "fecha": "2026-10-20T18:40:45.892Z",
+  "paquete": "p-261020-1241-62ef",
+  "sha256": "d3444bbe657bc308a662bca32c5c60c2a40e0615a75df4313d9266d7c82bee60",
+  "nota": "personalizado: jobs de lectura api 2",
+  "fecha": "2026-10-20T18:41:35.754Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
