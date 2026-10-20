@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1331-8c00",
-  "sha256": "cbb0134e397c5f233d2ca5d54f82316ac781f475733812098c2c659b41f65063",
-  "nota": "seguridad: lectura bbseg-dpa0,bbseg-dpa1,bbseg-dus0...",
-  "fecha": "2026-10-20T19:31:26.989Z",
+  "paquete": "p-261020-1334-bc70",
+  "sha256": "dad6997ddcbc2cbf1ddfbbc51bb822abc431b01d5f4f1d37779000800bbf0499",
+  "nota": "armado a4: pantalla unica Registrar caja y captura vieja relinkeada",
+  "fecha": "2026-10-20T19:34:15.723Z",
   "autor": "alex_",
-  "archivos": 17,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
