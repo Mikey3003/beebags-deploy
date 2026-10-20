@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1049-ea3c",
-  "sha256": "9759dc990e22e7c0060e04c269449939728eee8c19c8b56ba1f8388e5f0d45d2",
-  "nota": "hoja paquete 8: parche del servidor (sin fecha y candado) en trabajo de lectura",
-  "fecha": "2026-10-20T16:49:18.923Z",
+  "paquete": "p-261020-1051-a64e",
+  "sha256": "cbb29ec98272e1379da474a4208c0634e66f9dce6813ae55e5c8b0a60c7f31a6",
+  "nota": "spunbond almacen: lectura de rutas (solo jobs)",
+  "fecha": "2026-10-20T16:51:28.774Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": false,
