@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1146-46a6",
-  "sha256": "3d7870dcca7eb6b1b51d1a41e3dda356f489485d8791eb4fca933e2b9cc90661",
-  "nota": "spunbond almacen paquete 2: cuadre desde 21 oct, PDF prueba+anulado, lista de vales, ajustes menores",
-  "fecha": "2026-10-20T17:46:44.613Z",
+  "paquete": "p-261020-1147-0748",
+  "sha256": "aaa2ed5081e7b6d65a3fd726d3031bf6f98c14b4b00ed675d4abef14d7dba3e5",
+  "nota": "spunbond almacen paquete 3: reporte de consumos sin vales no finge consumo cero",
+  "fecha": "2026-10-20T17:47:51.135Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": true,
   "pausado": false
 }
