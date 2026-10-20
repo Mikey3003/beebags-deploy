@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1047-a090",
-  "sha256": "2c56297f0f6593d560e2716b94d98c5abfdaeff89c03ac9ceb5078b56d562b97",
-  "nota": "personalizado: REVELADO inventario de marcos y cliches (servidor + pestana)",
-  "fecha": "2026-10-20T16:47:11.961Z",
+  "paquete": "p-261020-1049-ea3c",
+  "sha256": "9759dc990e22e7c0060e04c269449939728eee8c19c8b56ba1f8388e5f0d45d2",
+  "nota": "hoja paquete 8: parche del servidor (sin fecha y candado) en trabajo de lectura",
+  "fecha": "2026-10-20T16:49:18.923Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
