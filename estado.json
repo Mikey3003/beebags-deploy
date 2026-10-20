@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1139-20bf",
-  "sha256": "19e900860b37dbdfca02e5bc85669598687ded220d0c16ca2ea9ecafe4bf1179",
-  "nota": "armado: correcciones de revision (numeracion, doble toque, entregas)",
-  "fecha": "2026-10-20T17:39:25.899Z",
+  "paquete": "p-261020-1146-46a6",
+  "sha256": "3d7870dcca7eb6b1b51d1a41e3dda356f489485d8791eb4fca933e2b9cc90661",
+  "nota": "spunbond almacen paquete 2: cuadre desde 21 oct, PDF prueba+anulado, lista de vales, ajustes menores",
+  "fecha": "2026-10-20T17:46:44.613Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
