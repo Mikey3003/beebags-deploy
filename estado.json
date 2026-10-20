@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1755-c5b3",
-  "sha256": "c5cd546141429fc7bab694d6707e7b6b90077adad202ffc37418e8a6dd80201b",
-  "nota": "consulta de almacen solo lectura para Compras (Artemia): pantalla, rutas GET y cierre de todo lo demas en el servidor",
-  "fecha": "2026-10-20T23:55:13.392Z",
+  "paquete": "p-261020-1757-f307",
+  "sha256": "a500eefb5402dc7e5b356db32574507b0e96b07ab5ebe70badfa5b1dc6e9fdd2",
+  "nota": "costeo: hoja viajera con costos (solo Direccion), pantalla, PDF y Excel",
+  "fecha": "2026-10-20T23:57:10.602Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
