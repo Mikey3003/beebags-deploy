@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1320-fe2f",
-  "sha256": "8bfdca32274c3bf1467e324c1bb49f3a02f19cf297a16420e3f870cf3e144a28",
-  "nota": "seguridad: lectura bbseg-rec1",
-  "fecha": "2026-10-20T19:20:48.453Z",
+  "paquete": "p-261020-1321-10ea",
+  "sha256": "1aa2f31a3288c4f1a98f63ef6844623f021813be9f8d9b4bade0eccf2836275d",
+  "nota": "personalizado: ESTAMPAR ROLLOS rev. adversarial (un turno a la vez, avisos, mas viejo)",
+  "fecha": "2026-10-20T19:21:20.769Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
