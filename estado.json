@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1247-ce0c",
-  "sha256": "7f8edb3213f88f8a0fdd224004b7be82ab8fa08eed7a078d94e4f24a887c5d14",
-  "nota": "armado a4: lectura de ligas viejas",
-  "fecha": "2026-10-20T18:47:54.070Z",
+  "paquete": "p-261020-1249-354b",
+  "sha256": "1126b7d2da76ef8972da6f5b40bb96e33437d0cb06366ee54211e48f5fff5af9",
+  "nota": "spunbond almacen v2: lectura (solo job) de catalogoProductos",
+  "fecha": "2026-10-20T18:49:15.198Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
