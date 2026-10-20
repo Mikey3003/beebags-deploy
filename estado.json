@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1852-08e4",
-  "sha256": "08cd7b3cf27c0b8badd87c9a7c9c1d3e205313188dc48acb8f76c54efbbac3f0",
-  "nota": "hoja: lectura de codigo vivo (rutas)",
-  "fecha": "2026-10-20T00:52:47.025Z",
+  "paquete": "p-261019-1855-76ee",
+  "sha256": "c48582d2e72a041a2798dd8e121dc71ed0d0763e01416ddefb443285e50bb1c1",
+  "nota": "reportes: lectura 2 solo lectura",
+  "fecha": "2026-10-20T00:55:38.328Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 7,
   "reinicio": false,
   "pausado": false
 }
