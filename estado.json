@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1103-1417",
-  "sha256": "bc575ae5347b7abac0d9b309350602e5868ec839cb9d31020c82070e63dfe24d",
-  "nota": "spunbond almacen: lectura de rutas (solo jobs)",
-  "fecha": "2026-10-20T17:03:35.074Z",
+  "paquete": "p-261020-1103-44ad",
+  "sha256": "8f551e97ac74120760d1640912fbef1a58bc4349d043426c6e78914fb1ed4077",
+  "nota": "armado: lectura sbx",
+  "fecha": "2026-10-20T17:03:51.147Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
