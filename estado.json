@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1832-c9f8",
-  "sha256": "9dee198f7ba04870ae64ba1e54ad8d757f962075a1c657fa1d20b0271d99c934",
-  "nota": "Job de solo lectura: borrar-r2",
-  "fecha": "2026-10-20T00:32:31.815Z",
+  "paquete": "p-261019-1833-cb59",
+  "sha256": "0436b990f59af90c4e785d7c1c020d96d79f85e7a3eaae5398687e9f9a050ce9",
+  "nota": "Job de solo lectura: chk-r2b",
+  "fecha": "2026-10-20T00:33:21.128Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
