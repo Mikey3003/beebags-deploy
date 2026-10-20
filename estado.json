@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-0149-ed1c",
-  "sha256": "8475795273b3ee33011b48c95bee97a800e52839445ff269d0c8b3eb6aa2904b",
-  "nota": "flujo paquete 2: autorizacion de Miriam con comparacion real, bloqueo, marca roja, campanita, historial con facturas",
-  "fecha": "2026-10-20T07:49:41.195Z",
+  "paquete": "p-261020-0401-6c09",
+  "sha256": "f2f76812bc86abcb299c7f0565344b8c2bf63ebe3b0fdbdf1eb4da94641615e1",
+  "nota": "hoja paquete 5: dibujo con suaje y colores reales (hoja-dibujos.js)",
+  "fecha": "2026-10-20T10:01:43.949Z",
   "autor": "alex",
-  "archivos": 6,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
