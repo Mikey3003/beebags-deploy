@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1025-f2da",
-  "sha256": "e8d86273d20e6c770c3c06083ee3ca5abe6986967d4b080a69debcdfa23fcd84",
-  "nota": "personalizado: jobs de lectura 3",
-  "fecha": "2026-10-20T16:25:20.016Z",
+  "paquete": "p-261020-1028-99a1",
+  "sha256": "1fdc9df38302d8ab132694326d29b1000a52a627de241735c669a6ba21aa0d5b",
+  "nota": "armado: lectura 2",
+  "fecha": "2026-10-20T16:28:23.876Z",
   "autor": "alex_",
-  "archivos": 14,
+  "archivos": 18,
   "reinicio": false,
   "pausado": false
 }
