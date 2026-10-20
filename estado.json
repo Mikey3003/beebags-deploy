@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1758-6e96",
-  "sha256": "53fbf8d13e363f96c6d5a7833b14e3c4b61ccceed4d82605c1771ade985b1ea9",
-  "nota": "facturas ronda2: tarjetas de Hoy abren la lista correcta de Lo que no cuadra",
-  "fecha": "2026-10-19T23:58:46.388Z",
+  "paquete": "p-261019-1803-05b6",
+  "sha256": "a067d976cba1e0f99d3ce927ff2ed332dc446269e3d1197edf42762ba330322f",
+  "nota": "facturas ronda2: recarga del libro con las tarjetas de Hoy que abren su lista",
+  "fecha": "2026-10-20T00:03:11.556Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": false,
