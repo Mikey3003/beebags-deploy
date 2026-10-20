@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1317-32c4",
-  "sha256": "de001d2f25b82b3f2dce8c715344d0fabf0ae91c35cdd7bd73817623d6c56a72",
-  "nota": "armado a4: lectura index y captura",
-  "fecha": "2026-10-20T19:17:12.843Z",
+  "paquete": "p-261020-1320-fe2f",
+  "sha256": "8bfdca32274c3bf1467e324c1bb49f3a02f19cf297a16420e3f870cf3e144a28",
+  "nota": "seguridad: lectura bbseg-rec1",
+  "fecha": "2026-10-20T19:20:48.453Z",
   "autor": "alex_",
-  "archivos": 24,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
