@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1619-7d96",
-  "sha256": "d32a8b3d4642f1978f9ea914848d32ad42d8084c23072218f7a5cd6a9ad22353",
-  "nota": "cierre: personalizado-api devuelve campos por ID al crear/editar rollo estampado",
-  "fecha": "2026-10-20T22:19:12.948Z",
+  "paquete": "p-261020-1621-a44e",
+  "sha256": "0a449a9331bf24d26d85ec7d0cf9e13387953fb6824ca79c9fa33844c1dcbdb7",
+  "nota": "miguelbot: lectura bbmb-ls",
+  "fecha": "2026-10-20T22:21:10.468Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
