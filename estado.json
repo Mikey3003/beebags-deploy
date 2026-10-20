@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1623-e694",
-  "sha256": "a4f8a36a3ffe3ebe4bae945b204da89234b6ae0a19f6627e915ccd3bbc914097",
-  "nota": "cierre: job lim",
-  "fecha": "2026-10-20T22:23:15.643Z",
+  "paquete": "p-261020-1625-fed8",
+  "sha256": "e2420363dfa3a3d61a2aa7656159923acfabff929878db6c200e8d2e30fc66de",
+  "nota": "miguelbot: lectura bbmb-dwa0,bbmb-dwa1,bbmb-dwa2,bbmb-dwa3,bbmb-dwa4,bbmb-dwa5,bbmb-dwa6,bbmb-dwa7,bbmb-dwa8,bbmb-dwa9,bbmb-dwa10,bbmb-dwa11,bbmb-dmp0,bbmb-dmp1,bbmb-dmp2,bbmb-dmp3,bbmb-dmp4,bbmb-dpa0,bbmb-dpa1,bbmb-dpa2,bbmb-dconv0,bbmb-dconv1,bbmb-dconv2,bbmb-dconv3,bbmb-dconv4,bbmb-dconv5,bbmb-dconv6,bbmb-dconv7",
+  "fecha": "2026-10-20T22:25:09.603Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 28,
   "reinicio": false,
   "pausado": false
 }
