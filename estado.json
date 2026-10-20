@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1713-3946",
-  "sha256": "f60c66a4a86f83157a46a06473dd0067c2bdebc49ad928d8936d1a1ae1d5934d",
-  "nota": "whatsapp-resumen: lectura bbwr-dwa0,bbwr-dwa1,bbwr-dwa2,bbwr-dwa3,bbwr-dwa4,bbwr-dwa5,bbwr-dwa6,bbwr-dwa7,bbwr-dwa8,bbwr-dwa9,bbwr-dwa10,bbwr-dwa11,bbwr-didx0,bbwr-didx1,bbwr-didx2,bbwr-didx3,bbwr-didx4,bbwr-didx5,bbwr-didx6,bbwr-didx7,bbwr-didx8,bbwr-didx9,bbwr-didx10,bbwr-didx11,bbwr-dapr0,bbwr-dapr1,bbwr-dapr2,bbwr-dapr3,bbwr-dapr4,bbwr-daut0,bbwr-daut1,bbwr-daut2",
-  "fecha": "2026-10-20T23:13:18.394Z",
+  "paquete": "p-261020-1716-d7cc",
+  "sha256": "088b3b429609b83b2a504448a47ba363afa1f0c5544c63dd4be84a8cb84b1712",
+  "nota": "whatsapp-resumen: lectura bbwr-d1,bbwr-d1b",
+  "fecha": "2026-10-20T23:16:54.486Z",
   "autor": "alex_",
-  "archivos": 32,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
