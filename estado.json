@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1803-05b6",
-  "sha256": "a067d976cba1e0f99d3ce927ff2ed332dc446269e3d1197edf42762ba330322f",
-  "nota": "facturas ronda2: recarga del libro con las tarjetas de Hoy que abren su lista",
-  "fecha": "2026-10-20T00:03:11.556Z",
+  "paquete": "p-261019-1816-b708",
+  "sha256": "20c051b68cb192e790a70b6d5bfabce79afbf8bbadccf392c690385466f58886",
+  "nota": "ronda3: areas independientes, surtido parcial, salida de material y recibir orden con archivo",
+  "fecha": "2026-10-20T00:16:38.167Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 8,
+  "reinicio": true,
   "pausado": false
 }
