@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1907-b627",
-  "sha256": "8e77b8811eb85292155cfa532bdf7e51aa87597990d3d2f8cec3c4724ae10c1a",
-  "nota": "Job de solo lectura: pga",
-  "fecha": "2026-10-20T01:07:43.056Z",
+  "paquete": "p-261019-1909-5f9e",
+  "sha256": "28d544422f846d9ae3936f09e6cd21b46cfdb8bd20f52abe0888bb576b03da3a",
+  "nota": "Job de solo lectura: llave-pg",
+  "fecha": "2026-10-20T01:09:31.386Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
