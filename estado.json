@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1836-2c60",
-  "sha256": "39a62f06b096f95f683486f0474c388a1d05ae863af98f4c35997e2ed27fae5b",
-  "nota": "hoja: lectura de codigo vivo (diseno)",
-  "fecha": "2026-10-20T00:36:53.077Z",
+  "paquete": "p-261019-1839-d2d6",
+  "sha256": "792bf63a4f0ad30f9e15e875818968c6e96e0bf23240ba32352c77a6fa655c6c",
+  "nota": "ronda3b: el producto no se elige solo con varias coincidencias y el rack se propone",
+  "fecha": "2026-10-20T00:39:24.777Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
