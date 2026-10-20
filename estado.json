@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261020-0401-6c09",
-  "sha256": "f2f76812bc86abcb299c7f0565344b8c2bf63ebe3b0fdbdf1eb4da94641615e1",
-  "nota": "hoja paquete 5: dibujo con suaje y colores reales (hoja-dibujos.js)",
-  "fecha": "2026-10-20T10:01:43.949Z",
-  "autor": "alex",
+  "paquete": "p-261020-1011-0fdb",
+  "sha256": "fa248d24b0f78a58fa895c17f5117a14e5393b239961378b8e9daeda747634de",
+  "nota": "flujo: lectura bbfl-hash",
+  "fecha": "2026-10-20T16:11:30.079Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
