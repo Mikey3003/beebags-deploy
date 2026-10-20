@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1021-3ff0",
-  "sha256": "ec8033b8bcfa501541ba808aa801e0b6d6e42db5d8d3641912fbd79f279853e0",
-  "nota": "hoja paquete 6: fichas tecnicas heredan la sesion del portal",
-  "fecha": "2026-10-20T16:21:04.034Z",
+  "paquete": "p-261020-1023-6b6a",
+  "sha256": "a575c72ee9c5784b457c55acb941ea7ae468d7bec3b5708a5c5ee34702c4bd54",
+  "nota": "armado: job de lectura g1",
+  "fecha": "2026-10-20T16:23:26.820Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
