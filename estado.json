@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1904-f972",
-  "sha256": "e151c5df8f9757770f5babd6e4f13b2cb3d55f7749762038884c2fb6f0030f97",
-  "nota": "hoja: lectura de codigo vivo (sesion)",
-  "fecha": "2026-10-20T01:04:29.908Z",
+  "paquete": "p-261019-1906-4bc1",
+  "sha256": "e1d12e70a28a311f34564efcb29d7178cd9dc28b016b0a534e52a84970e27b67",
+  "nota": "Job de solo lectura: llave-pg",
+  "fecha": "2026-10-20T01:06:25.028Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
