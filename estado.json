@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1337-f950",
-  "sha256": "24f30c5fb5bd60393aa6c4ead1f01ad5aa5eda959f2f7da1f02ba322b96c02f7",
-  "nota": "seguridad: lectura bbseg-g1,bbseg-g2,bbseg-g3...",
-  "fecha": "2026-10-20T19:37:10.008Z",
+  "paquete": "p-261020-1339-aafc",
+  "sha256": "3efde34eee1938723311f283f21fb8280b713bf5234464a5e60e5f72addf7239",
+  "nota": "spunbond almacen agregado 2 paquete 4: consumos muestra polietileno",
+  "fecha": "2026-10-20T19:39:54.917Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
