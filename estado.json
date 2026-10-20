@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1751-b760",
-  "sha256": "b0be0677a5e03725cf7472f37c0898556a1146d712d3db49b904602dbea3751f",
-  "nota": "costeo: job lectura 5",
-  "fecha": "2026-10-20T23:51:43.989Z",
+  "paquete": "p-261020-1753-514b",
+  "sha256": "4ba6ab8fa0da2c957c7e2b8ae331a1a843faa2a0ca59c14721ed334f623e9d86",
+  "nota": "artemia: lectura bbart-shapre",
+  "fecha": "2026-10-20T23:53:16.018Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
