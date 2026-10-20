@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1409-ce4d",
-  "sha256": "64eacffe7e287ff61d8d714c61fee411673026e21f38894640079094568f0232",
-  "nota": "seguridad: lectura bbseg-respaldo,bbseg-mkusers",
-  "fecha": "2026-10-20T20:09:10.135Z",
+  "paquete": "p-261020-1421-7392",
+  "sha256": "ac9ea4881d6cbc5d703ed23920c65568f68a3d7414031597a12807b666afba39",
+  "nota": "seguridad de acceso: hash scrypt, cambio obligatorio, bloqueo, bitacora, sesiones, 2FA, medicion del hub",
+  "fecha": "2026-10-20T20:21:52.632Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 10,
+  "reinicio": true,
   "pausado": false
 }
