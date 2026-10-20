@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1816-b708",
-  "sha256": "20c051b68cb192e790a70b6d5bfabce79afbf8bbadccf392c690385466f58886",
-  "nota": "ronda3: areas independientes, surtido parcial, salida de material y recibir orden con archivo",
-  "fecha": "2026-10-20T00:16:38.167Z",
+  "paquete": "p-261019-1823-a8dc",
+  "sha256": "c75d80c0dfb7086c35794033e26b0132b81cc8a9b7331bc58eb167bcf45a4c4b",
+  "nota": "hoja: lectura de codigo vivo (ls)",
+  "fecha": "2026-10-20T00:23:48.667Z",
   "autor": "alex_",
-  "archivos": 8,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
