@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-1833-cb59",
-  "sha256": "0436b990f59af90c4e785d7c1c020d96d79f85e7a3eaae5398687e9f9a050ce9",
-  "nota": "Job de solo lectura: chk-r2b",
-  "fecha": "2026-10-20T00:33:21.128Z",
+  "paquete": "p-261019-1836-2c60",
+  "sha256": "39a62f06b096f95f683486f0474c388a1d05ae863af98f4c35997e2ed27fae5b",
+  "nota": "hoja: lectura de codigo vivo (diseno)",
+  "fecha": "2026-10-20T00:36:53.077Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
