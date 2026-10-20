@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1829-45ab",
-  "sha256": "f24bd066ec3784dd96e6efc3f78484ab38e69843a87b9757723e29b969f3c317",
-  "nota": "hoja: lectura de codigo vivo (pdf ficha)",
-  "fecha": "2026-10-20T00:29:25.667Z",
+  "paquete": "p-261019-1832-c9f8",
+  "sha256": "9dee198f7ba04870ae64ba1e54ad8d757f962075a1c657fa1d20b0271d99c934",
+  "nota": "Job de solo lectura: borrar-r2",
+  "fecha": "2026-10-20T00:32:31.815Z",
   "autor": "alex_",
-  "archivos": 13,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
