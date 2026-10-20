@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1137-2ea4",
-  "sha256": "ed83ac6f272ab759c20c4c28b730ad67c130925838162a76a4db40ce3ab92a24",
-  "nota": "spunbond almacen paquete 1: vales internos VSE/VSS, conteo, consumos, reporte de consumos",
-  "fecha": "2026-10-20T17:37:18.216Z",
+  "paquete": "p-261020-1139-20bf",
+  "sha256": "19e900860b37dbdfca02e5bc85669598687ded220d0c16ca2ea9ecafe4bf1179",
+  "nota": "armado: correcciones de revision (numeracion, doble toque, entregas)",
+  "fecha": "2026-10-20T17:39:25.899Z",
   "autor": "alex_",
-  "archivos": 7,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
