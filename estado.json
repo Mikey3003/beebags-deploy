@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-2257-59f7",
-  "sha256": "573f796de4fb1a060ae6b24ab81ff0338591a9fb0a03d48dd2e8edfb34dde409",
-  "nota": "hoja viajera paquete 1: modulo hoja-viajera + montaje",
-  "fecha": "2026-10-20T04:57:59.534Z",
+  "paquete": "p-261019-2259-1219",
+  "sha256": "88853448386ffc9a86a6cd407fcce04e00fc16b9519b95fce62e01058407f75e",
+  "nota": "reportes: lectura de index.js vivo trozo final",
+  "fecha": "2026-10-20T04:59:11.751Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
