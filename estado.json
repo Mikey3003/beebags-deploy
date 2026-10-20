@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1334-bc70",
-  "sha256": "dad6997ddcbc2cbf1ddfbbc51bb822abc431b01d5f4f1d37779000800bbf0499",
-  "nota": "armado a4: pantalla unica Registrar caja y captura vieja relinkeada",
-  "fecha": "2026-10-20T19:34:15.723Z",
+  "paquete": "p-261020-1335-ee17",
+  "sha256": "f51ac0885f35e4fa4d6436e69fee368741ef6e4bb21f1b060b170ca5f24d70e4",
+  "nota": "spunbond almacen agregado 2 paquete 3: el vale de PRUEBA no se queda marcado en el siguiente movimiento",
+  "fecha": "2026-10-20T19:35:25.955Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
