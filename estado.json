@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1043-dc44",
-  "sha256": "9ef21556d87a4bc4646e3d644212095cef04dbc44870b8b95dfc6aa6daaa8d0c",
-  "nota": "hoja paquete 7: dibujos a escala segun ficha, Spunbond y tarima en la ruta, diagramas por area",
-  "fecha": "2026-10-20T16:43:23.232Z",
+  "paquete": "p-261020-1045-c09d",
+  "sha256": "2a09208ee8b928fb938444921dcf913811d862766034f5441f8e75fd85726d1b",
+  "nota": "spunbond: lectura 1 (listar archivos)",
+  "fecha": "2026-10-20T16:45:20.456Z",
   "autor": "alex_",
-  "archivos": 8,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
