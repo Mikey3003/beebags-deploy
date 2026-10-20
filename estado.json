@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1059-88d5",
-  "sha256": "a68a0c7732ae0c920083338099170e7f7344b96201a80c504b80baad96a62b3c",
-  "nota": "spunbond almacen: lectura de rutas (solo jobs)",
-  "fecha": "2026-10-20T16:59:29.475Z",
+  "paquete": "p-261020-1101-3397",
+  "sha256": "b3eca9ac4d25dc4b7344418e89d5e562452a1db6bf07b8894f2ed730190f39ce",
+  "nota": "personalizado: LECTOR UNICO de rollos (estampado, quien, maquina, marco) + corregir estampado",
+  "fecha": "2026-10-20T17:01:22.090Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 6,
+  "reinicio": true,
   "pausado": false
 }
