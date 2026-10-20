@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261019-1855-76ee",
-  "sha256": "c48582d2e72a041a2798dd8e121dc71ed0d0763e01416ddefb443285e50bb1c1",
-  "nota": "reportes: lectura 2 solo lectura",
-  "fecha": "2026-10-20T00:55:38.328Z",
+  "paquete": "p-261019-1858-60fd",
+  "sha256": "9fc98c9dda59782a61e953d05ea2801bf9cfe57778fba1e7adf8ff5869438116",
+  "nota": "hoja: lectura de codigo vivo (exports)",
+  "fecha": "2026-10-20T00:58:59.329Z",
   "autor": "alex_",
-  "archivos": 7,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
