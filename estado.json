@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1628-669b",
-  "sha256": "31cf5ca3075c3797dc158353fe6d0128a5d10aa09f20c646891df3e3a627797b",
-  "nota": "cierre: job v30,v31,v32,hc0,hc1,hc2,hc3,hc4,hc5",
-  "fecha": "2026-10-20T22:28:45.719Z",
+  "paquete": "p-261020-1629-7746",
+  "sha256": "e603b3d2842769b3932a562e07d1dc52ccbc9dc68f6c0676be45884edc84d7b2",
+  "nota": "miguelbot: lectura bbmb-ls",
+  "fecha": "2026-10-20T22:29:48.035Z",
   "autor": "alex_",
-  "archivos": 9,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
