@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1341-a163",
-  "sha256": "458985b88e3359cb2fcae5db38edd6bc27020ff5b2e71bc3713d52184cf3ef17",
-  "nota": "armado a4: lista corta de pedidos en Registrar caja",
-  "fecha": "2026-10-20T19:41:35.463Z",
+  "paquete": "p-261020-1343-6e5c",
+  "sha256": "44188169577b71223fe00bb67fab5d7acee43df090761bf4dcf1dba1fbacc9ea",
+  "nota": "seguridad: lectura bbseg-dapi0,bbseg-dapi1,bbseg-dapi2...",
+  "fecha": "2026-10-20T19:43:28.372Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 19,
   "reinicio": false,
   "pausado": false
 }
