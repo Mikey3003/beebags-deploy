@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1629-7746",
-  "sha256": "e603b3d2842769b3932a562e07d1dc52ccbc9dc68f6c0676be45884edc84d7b2",
-  "nota": "miguelbot: lectura bbmb-ls",
-  "fecha": "2026-10-20T22:29:48.035Z",
+  "paquete": "p-261020-1631-7fce",
+  "sha256": "f91d2e3ef089cb3b3625a8b63c17681f1fa6212512f4cb6fd5d13f629e975d0d",
+  "nota": "cierre: quien estampa = sesion del portal, y marca 0 fuera de la hoja viajera",
+  "fecha": "2026-10-20T22:31:17.858Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
