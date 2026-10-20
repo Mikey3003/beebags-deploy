@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1729-432d",
-  "sha256": "053fcb573c3eefc02c1f696af6e045138ed4a042adb14c940f83f2065bfb41ae",
-  "nota": "whatsapp-resumen: lectura bbwr-d3",
-  "fecha": "2026-10-20T23:29:21.752Z",
+  "paquete": "p-261020-1731-ce5e",
+  "sha256": "99fe37a1cba0486621729de6c52d618a5378077c3c12864e1c22014e1c4f5ab6",
+  "nota": "artemia: lectura bbart-index,bbart-pa1,bbart-pa2...",
+  "fecha": "2026-10-20T23:31:13.405Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
