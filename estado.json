@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1625-fed8",
-  "sha256": "e2420363dfa3a3d61a2aa7656159923acfabff929878db6c200e8d2e30fc66de",
-  "nota": "miguelbot: lectura bbmb-dwa0,bbmb-dwa1,bbmb-dwa2,bbmb-dwa3,bbmb-dwa4,bbmb-dwa5,bbmb-dwa6,bbmb-dwa7,bbmb-dwa8,bbmb-dwa9,bbmb-dwa10,bbmb-dwa11,bbmb-dmp0,bbmb-dmp1,bbmb-dmp2,bbmb-dmp3,bbmb-dmp4,bbmb-dpa0,bbmb-dpa1,bbmb-dpa2,bbmb-dconv0,bbmb-dconv1,bbmb-dconv2,bbmb-dconv3,bbmb-dconv4,bbmb-dconv5,bbmb-dconv6,bbmb-dconv7",
-  "fecha": "2026-10-20T22:25:09.603Z",
+  "paquete": "p-261020-1628-669b",
+  "sha256": "31cf5ca3075c3797dc158353fe6d0128a5d10aa09f20c646891df3e3a627797b",
+  "nota": "cierre: job v30,v31,v32,hc0,hc1,hc2,hc3,hc4,hc5",
+  "fecha": "2026-10-20T22:28:45.719Z",
   "autor": "alex_",
-  "archivos": 28,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
