@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1505-21a6",
-  "sha256": "63b53f0d6e2eff32999e99d01d25b278addcd771cae04bb3fd74e367b7f40c37",
-  "nota": "Job de solo lectura: tunvivo",
-  "fecha": "2026-10-20T21:05:35.517Z",
+  "paquete": "p-261020-1507-40a1",
+  "sha256": "22a19c6333a33d461be6999527aef49bad521d076f196fc74e64e061b5b24ada",
+  "nota": "ERP con direccion fija: tunel con nombre sistema.beebags.com.mx (cae solo al tunel rapido si falla)",
+  "fecha": "2026-10-20T21:07:52.604Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
