@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261019-2134-95c7",
-  "sha256": "5acb2fa47cc72f0d760c48d961377f7ff879578f31582afff8440287cf41f071",
-  "nota": "bbh lectura t1 hoja viajera",
-  "fecha": "2026-10-20T03:34:33.375Z",
+  "paquete": "p-261019-2149-63c0",
+  "sha256": "8ae957d6c046ff21d01bc510052f0d37212972114b5a96b1d25c42b78438c469",
+  "nota": "flujo: lectura bbfl-lista",
+  "fecha": "2026-10-20T03:49:41.885Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
