@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-1155-c262",
-  "sha256": "549dce95d5bb0115c2c4b9ee1e1faafc084fab30d0608e9c7051cac687898f2c",
-  "nota": "reinicio: cargar parche NA vs N/A de la copia de modelos",
-  "fecha": "2026-10-21T17:55:17.503Z",
+  "paquete": "p-261021-1227-6fc5",
+  "sha256": "7bf075d1e35180656254a2f4c98288c31e3c63b0f8c9bd8c2e3441a0fa227e9d",
+  "nota": "seguridad: lectura bbseg-aud21",
+  "fecha": "2026-10-21T18:27:22.302Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
