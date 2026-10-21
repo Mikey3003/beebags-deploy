@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-2010-aae0",
-  "sha256": "1d58ba930c4288b1ed22cd7241349924c742c30aee8d9f44437ca5648615fd23",
-  "nota": "compras-extra: solo resina virgen en la cobertura y sin traspasos/pruebas en entradas sin orden",
-  "fecha": "2026-10-21T02:10:50.374Z",
+  "paquete": "p-261020-2011-9f52",
+  "sha256": "44ea0f9fc4ee57c46ad14f8704a5c89e9cd73f55bc3b73f32693a6d2c8224040",
+  "nota": "artemia: lectura bbart-pbaja",
+  "fecha": "2026-10-21T02:11:47.804Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
