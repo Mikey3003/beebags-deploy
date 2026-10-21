@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261021-0003-d6e8",
-  "sha256": "ff3c19a4c1f50b200a08d48d66f1ed125d55aaf46ace872f91d1383cf59ec8d7",
-  "nota": "Arreglo: lectura con node del conector",
-  "fecha": "2026-10-21T06:03:54.620Z",
+  "paquete": "p-261021-0005-0d55",
+  "sha256": "3c0b46e8795871194e16310472b914d36d16d574dde1291c8add551676de5b8c",
+  "nota": "Arreglo A: lectura de sesion activa sin alterar credenciales",
+  "fecha": "2026-10-21T06:05:33.245Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
