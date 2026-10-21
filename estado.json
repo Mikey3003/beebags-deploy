@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-1323-6ee1",
-  "sha256": "d0b07a0428cd2802f9b4213a5d1cd9110dd5a793b121752cffdd1b4455f1726d",
-  "nota": "celular confirmado por WhatsApp al iniciar sesion; el candado solo deja a celulares confirmados",
-  "fecha": "2026-10-21T19:23:38.648Z",
+  "paquete": "p-261021-1325-acaf",
+  "sha256": "2f74219d5837a561b5c34ff2d967c47e73fa0a74b2bf4beaaf028508389f2fb2",
+  "nota": "seguridad: lectura bbseg-celcrear",
+  "fecha": "2026-10-21T19:25:20.571Z",
   "autor": "alex_",
-  "archivos": 7,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
