@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261020-1831-a7b1",
-  "sha256": "5fa175bcf7198b66ded28eca7e0ec64260163d05e741743354373048a4543c3e",
-  "nota": "costeo: tarjeta de costos visible en el detalle del pedido (solo Direccion)",
-  "fecha": "2026-10-21T00:31:16.499Z",
-  "autor": "alex_",
+  "paquete": "p-261020-1832-0e1b",
+  "sha256": "5239b6d17a0d34bb7a2636920d3297667f9bd188243dee4972903127ee81a558",
+  "nota": "Armado v2: leer fuentes vigentes",
+  "fecha": "2026-10-21T00:32:11.056Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
