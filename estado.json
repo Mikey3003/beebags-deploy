@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1843-f49c",
-  "sha256": "2da43a3f7d842700e7485adf08eeec4285d65a27fbdac837bba434beaf41a9bd",
-  "nota": "Armado v2: flujo (rollo con pedido No.Pedido, cerradas)",
-  "fecha": "2026-10-21T00:43:47.973Z",
+  "paquete": "p-261020-1854-eea5",
+  "sha256": "7b707bc0c4e38e58091501e4139814217311710fd80bafb83b5e3be4b9020832",
+  "nota": "Armado v2: cabina de maquinas con fotos, rollo, cajas y tarimas",
+  "fecha": "2026-10-21T00:54:56.296Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
