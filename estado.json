@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1854-eea5",
-  "sha256": "7b707bc0c4e38e58091501e4139814217311710fd80bafb83b5e3be4b9020832",
-  "nota": "Armado v2: cabina de maquinas con fotos, rollo, cajas y tarimas",
-  "fecha": "2026-10-21T00:54:56.296Z",
+  "paquete": "p-261020-1858-0825",
+  "sha256": "6019a9224478bf9a878c94800968682f597d0ead2662a9c21a34cf4355bb69f0",
+  "nota": "Armado v2: ajustes de tablet y animacion",
+  "fecha": "2026-10-21T00:58:43.375Z",
   "autor": "alex",
   "archivos": 3,
   "reinicio": false,
