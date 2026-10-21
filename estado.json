@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-0100-8f67",
-  "sha256": "732bb8055f473b9722d5ed620fd61e963110585050af2def7eca69fed362cda2",
-  "nota": "Artemia: completar lectura viva",
-  "fecha": "2026-10-21T07:00:12.903Z",
+  "paquete": "p-261021-0102-6fc1",
+  "sha256": "635d2f062134391fd604aae452afd2c8e76048d0c913e23afcc367356ec1a6b2",
+  "nota": "Artemia: comprobar perfiles y destinatarios sin cambiar cuentas",
+  "fecha": "2026-10-21T07:02:01.886Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
