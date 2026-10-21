@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-0057-5ad7",
-  "sha256": "4502d1d2e706cb1c5e686fbcb4a88d31b8b26e8fd913867f1174e59f3a032c21",
-  "nota": "Artemia: lectura de version viva para pruebas Compras y programacion",
-  "fecha": "2026-10-21T06:57:37.545Z",
+  "paquete": "p-261021-0100-8f67",
+  "sha256": "732bb8055f473b9722d5ed620fd61e963110585050af2def7eca69fed362cda2",
+  "nota": "Artemia: completar lectura viva",
+  "fecha": "2026-10-21T07:00:12.903Z",
   "autor": "alex_",
-  "archivos": 40,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
