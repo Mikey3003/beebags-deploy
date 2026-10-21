@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-0047-43b8",
-  "sha256": "12a4b75d5386af56f0e13a79cb02d6b6cdb5d511d44d75b78712429f0663b148",
-  "nota": "Ordenes de Compra: nombre sencillo tambien en Ver/Imprimir, conserva importes y unidades originales",
-  "fecha": "2026-10-21T06:47:28.695Z",
+  "paquete": "p-261021-0049-8270",
+  "sha256": "00d075014d83c4827d93985cf426d4abad094abe20ddfc36d5a268c8eaea446b",
+  "nota": "Cotizaciones: las pendientes siempre primero; historiales descartados reales permanecen visibles",
+  "fecha": "2026-10-21T06:49:32.257Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
