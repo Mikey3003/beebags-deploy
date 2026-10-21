@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261021-1609-a5e8",
-  "sha256": "d0333f35ec3700c8341db77a6896b00bdae7530cb2eb1feedeff0ec46646dc9d",
+  "paquete": "p-261021-1610-0dec",
+  "sha256": "2fade2deaf652193af52c27407dd0b0b1780f53220d131f07a6a81318e27bfc2",
   "nota": "visto bueno: Por salir arranca el 21 oct (corte); reinicio para cargarlo",
-  "fecha": "2026-10-21T22:09:15.830Z",
+  "fecha": "2026-10-21T22:10:33.142Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
