@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-1034-1c75",
-  "sha256": "c16bd312fe11536dd8203562cfa9b5ed0e8c0265dc606ac11d160897ee257159",
-  "nota": "seguridad: lectura bbseg-copiarrd",
-  "fecha": "2026-10-21T16:34:38.792Z",
+  "paquete": "p-261021-1035-f986",
+  "sha256": "2a4858d9e91f4fcdac40145dfbb410418f19e0e8b46b2e5c0d48ae1ccafe375f",
+  "nota": "Candado de WhatsApp: el bot solo inicia mensajes a los 10 numeros de Mikey; a clientes solo responde",
+  "fecha": "2026-10-21T16:35:22.519Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
