@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1821-b10d",
-  "sha256": "f4df86681f656d090d7c84278c13b731947000a868986584bafd150ca421df6a",
-  "nota": "cotizaciones web: Clientes y PDF con prueba ASCII quotation",
-  "fecha": "2026-10-21T00:21:11.315Z",
+  "paquete": "p-261020-1823-7bdd",
+  "sha256": "aee83fa9e4f3f4198eacf5d3b92394dc322c07a22feb61b25eab04d3cfd13a28",
+  "nota": "hoja-tela lectura viva",
+  "fecha": "2026-10-21T00:23:49.394Z",
   "autor": "alex_",
   "archivos": 4,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
