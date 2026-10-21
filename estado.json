@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-2014-b06c",
-  "sha256": "bc05ce73690925ae24d85ba8218ca94945836fa1d488acac1ae37065d4f494ae",
-  "nota": "costeo: tarjeta Costos visible en Pedidos 2D",
-  "fecha": "2026-10-21T02:14:53.501Z",
-  "autor": "alex",
-  "archivos": 1,
+  "paquete": "p-261020-2359-3e52",
+  "sha256": "37f6bfde171c3a82af4a8b4732385f304b058434c6b6b1c58e41188601edd176",
+  "nota": "Cotizaciones web visibles arriba en Cerebro y Aprobaciones: corrige sesion privada",
+  "fecha": "2026-10-21T05:59:07.620Z",
+  "autor": "alex_",
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
