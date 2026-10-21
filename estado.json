@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-1513-4f83",
-  "sha256": "67fe4e4c2900f83321b7ddf06034ad93e723ba9ea3f2579896f1de2df0afeb08",
-  "nota": "hoja viajera: el punto de control de pedido lo captura Sara; Miriam solo revisa crédito",
-  "fecha": "2026-10-21T21:13:08.229Z",
+  "paquete": "p-261021-1513-634c",
+  "sha256": "adaaa596cda0e47161627f65a85f50ab9ab17c9b171c41618dec19a03e43878b",
+  "nota": "seguridad: lectura bbseg-baselog",
+  "fecha": "2026-10-21T21:13:18.991Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
