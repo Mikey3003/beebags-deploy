@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1828-44a1",
-  "sha256": "189006cde9941a3c68791ea61d1e8cca16845388b135772bf1b29a3bf65626c5",
-  "nota": "cotizaciones web: verificacion final de limpieza y resumen (solo lectura)",
-  "fecha": "2026-10-21T00:28:58.968Z",
+  "paquete": "p-261020-1829-1dd2",
+  "sha256": "9369951f53dfedada75759a6fd139548de38eeafa702e811b51344af7370de47",
+  "nota": "artemia: lectura bbart-aa,bbart-lim",
+  "fecha": "2026-10-21T00:29:45.818Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
