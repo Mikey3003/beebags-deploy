@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-1602-a015",
-  "sha256": "148dc13b929b25847109487f7dcccec28e98ca1d0fc5c8ba0b34dceb4f6e4bf2",
-  "nota": "reinicio para montar /api/pedidos2d/solicitud-bolsa-pdf y solicitud-tela-pdf",
-  "fecha": "2026-10-21T22:02:06.327Z",
+  "paquete": "p-261021-1601-342a",
+  "sha256": "664ddd99e6c43094919ef4da5af42cb0cd6520a45b04c286d196a24f8fde2de7",
+  "nota": "seguridad: lectura bbseg-colavb",
+  "fecha": "2026-10-21T22:01:50.960Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
