@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1836-c1e3",
-  "sha256": "d3607d50a9e07ad23de8a102fde9ce198110ba992db5c226413f27aec9c8996b",
-  "nota": "Armado v2: flujo por rollo (backend)",
-  "fecha": "2026-10-21T00:36:38.751Z",
+  "paquete": "p-261020-1843-f49c",
+  "sha256": "2da43a3f7d842700e7485adf08eeec4285d65a27fbdac837bba434beaf41a9bd",
+  "nota": "Armado v2: flujo (rollo con pedido No.Pedido, cerradas)",
+  "fecha": "2026-10-21T00:43:47.973Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
