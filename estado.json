@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1943-0758",
-  "sha256": "64f401758b5ddbd12dff62663c3755ff2595134bb8971c1f1027074a82d21bcc",
-  "nota": "whatsapp-resumen: lectura previa (sha)",
-  "fecha": "2026-10-21T01:43:35.646Z",
+  "paquete": "p-261020-1945-2953",
+  "sha256": "2453c70145bd1cccf2212c476f353ecb0c42d9a9cedef80a0ebccc55985edbec",
+  "nota": "menos WhatsApp: UN resumen diario a Mikey/Alex, avisos a su area, sin aviso de acceso en cada reinicio",
+  "fecha": "2026-10-21T01:45:14.692Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
