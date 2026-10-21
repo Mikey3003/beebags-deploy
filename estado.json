@@ -1,10 +1,9 @@
 {
-  "paquete": "p-261021-1544-a3d2",
-  "sha256": "d6170d9e2e36fc2fecd9065a8e5b4c37489aa426f5a5c37426dc2b7478fcc775",
-  "nota": "hoja viajera: el punto de control de pedido lo captura Sara; Miriam solo revisa crédito (reenvío, el 4f83 se pisó)",
-  "fecha": "2026-10-21T21:44:21.513Z",
+  "paquete": "p-261021-1513-634c",
+  "sha256": "adaaa596cda0e47161627f65a85f50ab9ab17c9b171c41618dec19a03e43878b",
+  "nota": "regreso a p-261021-1513-634c (venía de p-261021-1544-a3d2)",
+  "fecha": "2026-10-21T21:44:48.908Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
