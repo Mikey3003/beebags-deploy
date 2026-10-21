@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-2005-8d6b",
-  "sha256": "7ef2cefe9a0be13a4dea3697cf066ca7e5c1e0ce0bab689abd1da1e93a0093f9",
-  "nota": "Compras para Artemia: claves cortas, OC en USD con facturas y saldo por proveedor, cobertura de resina, entradas sin orden, CxP y pagos para artemia",
-  "fecha": "2026-10-21T02:05:20.234Z",
+  "paquete": "p-261020-2007-c774",
+  "sha256": "191f6b1903b6ec2577c4d28850ce060b8ea70faf4722295f0db5f94a70b7f302",
+  "nota": "artemia: lectura bbart-palta",
+  "fecha": "2026-10-21T02:07:57.932Z",
   "autor": "alex",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
