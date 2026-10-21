@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-0049-8270",
-  "sha256": "00d075014d83c4827d93985cf426d4abad094abe20ddfc36d5a268c8eaea446b",
-  "nota": "Cotizaciones: las pendientes siempre primero; historiales descartados reales permanecen visibles",
-  "fecha": "2026-10-21T06:49:32.257Z",
+  "paquete": "p-261021-0057-5ad7",
+  "sha256": "4502d1d2e706cb1c5e686fbcb4a88d31b8b26e8fd913867f1174e59f3a032c21",
+  "nota": "Artemia: lectura de version viva para pruebas Compras y programacion",
+  "fecha": "2026-10-21T06:57:37.545Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 40,
   "reinicio": false,
   "pausado": false
 }
