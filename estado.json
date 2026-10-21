@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261021-0102-6fc1",
-  "sha256": "635d2f062134391fd604aae452afd2c8e76048d0c913e23afcc367356ec1a6b2",
-  "nota": "Artemia: comprobar perfiles y destinatarios sin cambiar cuentas",
-  "fecha": "2026-10-21T07:02:01.886Z",
+  "paquete": "p-261021-1018-d000",
+  "sha256": "2bfe7d6ae62d4b8f5f820e0e35220d14af97327d0f6d5042c535f9f6a8ddae5f",
+  "nota": "Artemia: usuarios temporales de roles Compras y Direccion y evidencia de flujo",
+  "fecha": "2026-10-21T16:18:02.834Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
