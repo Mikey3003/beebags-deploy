@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1924-5315",
-  "sha256": "4d1afdfac5ad0d4e4c764b3dc0e25f182f7f70ba5964bbbc93bbca9c48a5b1d7",
-  "nota": "whatsapp-resumen: lectura previa (sha)",
-  "fecha": "2026-10-21T01:24:09.711Z",
+  "paquete": "p-261020-1930-271e",
+  "sha256": "838c09d01942af3ec912b0c5d707a616a89dc07e5b422da2b3bc1db9e3d58e62",
+  "nota": "artemia: lectura bbart-campos",
+  "fecha": "2026-10-21T01:30:25.504Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
