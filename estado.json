@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-2011-9f52",
-  "sha256": "44ea0f9fc4ee57c46ad14f8704a5c89e9cd73f55bc3b73f32693a6d2c8224040",
-  "nota": "artemia: lectura bbart-pbaja",
-  "fecha": "2026-10-21T02:11:47.804Z",
+  "paquete": "p-261020-2014-b06c",
+  "sha256": "bc05ce73690925ae24d85ba8218ca94945836fa1d488acac1ae37065d4f494ae",
+  "nota": "costeo: tarjeta Costos visible en Pedidos 2D",
+  "fecha": "2026-10-21T02:14:53.501Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
