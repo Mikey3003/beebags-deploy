@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1818-d8bb",
-  "sha256": "2d869d8ad23e40e883e32a5dacb22463fe15d1726cc126619fd81b8aee768734",
-  "nota": "cotizaciones web: registro automatico Clientes sin duplicar, completar y PDF en bandeja",
-  "fecha": "2026-10-21T00:18:26.541Z",
+  "paquete": "p-261020-1819-d986",
+  "sha256": "1f2e981a7a5bb21d153ae48d2e7f3c715cc34183a15a519f871b19efc7f7453d",
+  "nota": "artemia: lectura bbart-aa,bbart-ap",
+  "fecha": "2026-10-21T00:19:11.331Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
