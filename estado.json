@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261020-1910-7a86",
-  "sha256": "fccb4a2984779ea5372cff1f5bc52230111d86cd70257540aa88e459d32635b6",
-  "nota": "job de limpieza de pruebas de cotizaciones web: no se atora con un cliente no verificable",
-  "fecha": "2026-10-21T01:10:22.902Z",
+  "paquete": "p-261020-1912-0c19",
+  "sha256": "e899537f68845781c5e4d593988c660c97bdf4427fd0b153deed5d52c0a1368c",
+  "nota": "artemia: lectura bbart-estado2",
+  "fecha": "2026-10-21T01:12:01.488Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
