@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261021-0026-348d",
-  "sha256": "368fd7dc2599dc5e961fed651b9304f76627b561bffd602fb3a08874a4664ecb",
-  "nota": "Compras nombres sencillos: 365 genericos, alias SAE/cortos, categorias y 211 proveedores SAE; almacenes conservan movimientos",
-  "fecha": "2026-10-21T06:26:47.770Z",
+  "paquete": "p-261021-0029-4ef7",
+  "sha256": "e299923e37ff391bdf23252b8e503e2235f87e63513ef92db54b50322d644062",
+  "nota": "Compras: nombres completos en Pedir, categorias de color, unidades originales y busqueda de alias en Spunbond",
+  "fecha": "2026-10-21T06:29:37.731Z",
   "autor": "alex_",
-  "archivos": 9,
-  "reinicio": true,
+  "archivos": 5,
+  "reinicio": false,
   "pausado": false
 }
