@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1813-8237",
-  "sha256": "ec4865a8abd601753d9b0ff8d7860f3a609c64957c5bbff39094443b021f58e1",
-  "nota": "Armado cabina: ocultar acceso de cajas en Personalizado",
-  "fecha": "2026-10-21T00:13:39.796Z",
+  "paquete": "p-261020-1815-c67d",
+  "sha256": "cf999667838ec4db14ead5a990cc1d55eb4b781d788bee0fe78a01a0c8011ee5",
+  "nota": "cotizaciones web: prioridad solicitudes reales a la vista y campanita solo mikey",
+  "fecha": "2026-10-21T00:15:35.347Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
