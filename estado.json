@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261021-1018-d000",
-  "sha256": "2bfe7d6ae62d4b8f5f820e0e35220d14af97327d0f6d5042c535f9f6a8ddae5f",
-  "nota": "Artemia: usuarios temporales de roles Compras y Direccion y evidencia de flujo",
-  "fecha": "2026-10-21T16:18:02.834Z",
+  "paquete": "p-261021-1019-f497",
+  "sha256": "1763af7d2f322f5a873da468ae9573f5c4a6f3adb9cb28f084b1cf8e44b25db3",
+  "nota": "seguridad: lectura bbseg-frenarwa",
+  "fecha": "2026-10-21T16:19:52.225Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
