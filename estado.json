@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261021-0007-29bf",
-  "sha256": "b904a0a3ed4d2010ebb7c579389cc40b0290b3b2ab9889c31ea61a2f999e8900",
-  "nota": "Arreglo A: final de lectura diagnostica",
-  "fecha": "2026-10-21T06:07:47.323Z",
+  "paquete": "p-261021-0011-d7c0",
+  "sha256": "19e88385ec71699ec45c45c075c0358cdeca081b592dba7a2141309692d3c54a",
+  "nota": "Arreglo A: sesion temporal auditada para verificar Direccion sin cambiar claves",
+  "fecha": "2026-10-21T06:11:21.445Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
