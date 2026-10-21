@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261020-1906-3c93",
-  "sha256": "a6eb94517f4b9c58719a97061dfdce1c93a59ed3b4c8389d3329fa6e70ab060c",
-  "nota": "cotizaciones web: bandeja con el diseno de Compras, aceptar/factura, pago, pedido, entrega, PDF y datos de pago",
-  "fecha": "2026-10-21T01:06:06.607Z",
+  "paquete": "p-261020-1910-7a86",
+  "sha256": "fccb4a2984779ea5372cff1f5bc52230111d86cd70257540aa88e459d32635b6",
+  "nota": "job de limpieza de pruebas de cotizaciones web: no se atora con un cliente no verificable",
+  "fecha": "2026-10-21T01:10:22.902Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
