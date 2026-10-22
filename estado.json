@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261022-1513-86ce",
-  "sha256": "21ccc01a07a8d9ffb51f6a46161163bc2cd3346767841dc22d9497c5df9f3f46",
-  "nota": "fichas: caja NA / sin caja = va en paquetes; no pide Tipo de caja ni Como va empacado (Mikey 22 oct, modelo de Sara 28X28X18-ROJO-KTCH)",
-  "fecha": "2026-10-22T21:13:45.043Z",
+  "paquete": "p-261022-1634-b51b",
+  "sha256": "21012f343bfbea1fedbe69e456bcc5e2e3ea57cc5e956e205fa726c5c972539e",
+  "nota": "fichas: NA/N/A/SIN/NO LLEVA/0 = no aplica en todo; solo bloquean cliente, ancho, alto y tipo de caja si va en caja; lo demas es aviso (Mikey 22 oct, 37.5X41-BICO-N/A)",
+  "fecha": "2026-10-22T22:34:07.162Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": true,
