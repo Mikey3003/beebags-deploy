@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261022-1038-1f41",
-  "sha256": "4c9524e9e832398ea4e916c2d1439371bbce5ba7ac6be5deb433b0e2d1ca4372",
-  "nota": "seguridad: lectura bbseg-dhf0,bbseg-dhf1,bbseg-dhf2",
-  "fecha": "2026-10-22T16:38:58.577Z",
+  "paquete": "p-261022-1041-c50d",
+  "sha256": "211413c4371fe7424114b60cbfe8a8a811f912ab85bf4e31118a8f33937b894e",
+  "nota": "fichas: tarima y emplayado sin marcar cuentan como NO (Mikey 22 oct)",
+  "fecha": "2026-10-22T16:41:51.773Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
