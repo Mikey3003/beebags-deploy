@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261022-1041-c50d",
-  "sha256": "211413c4371fe7424114b60cbfe8a8a811f912ab85bf4e31118a8f33937b894e",
+  "paquete": "p-261022-1043-02c6",
+  "sha256": "c31e3899e43b11962ae404741d0833c6152521cff7361edb16ad458eb88bffc9",
   "nota": "fichas: tarima y emplayado sin marcar cuentan como NO (Mikey 22 oct)",
-  "fecha": "2026-10-22T16:41:51.773Z",
+  "fecha": "2026-10-22T16:43:32.677Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
