@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261022-1716-9478",
-  "sha256": "89b3d3ec1a4c844cbf404fd52ae7d4358ab1db2d458c248fdfa2e01b52eab68e",
-  "nota": "Cotizador #24 (REINICIO): gramaje 20 g/m2 nuevo en la lista GRAMAJES del motor (desplegable de la bolsa/asas y fila NW-20 en la tabla de precio por gramaje y color). Sin cambios de formulas ni parametros. Alex 22 oct.",
-  "fecha": "2026-10-22T23:16:21.345Z",
-  "autor": "alex",
+  "paquete": "p-261023-0906-311a",
+  "sha256": "f474b01961a35ba31166a1d3fba30da35364402529fdc87104a257aa485a3340",
+  "nota": "seguridad: lectura bbseg-cfich",
+  "fecha": "2026-10-23T15:06:31.138Z",
+  "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
