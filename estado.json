@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1128-2669",
-  "sha256": "1c3dfce7a7f959191999686be06bd25e9924546b97a8e59a04aa26ee07459f6b",
-  "nota": "seguridad: lectura bbseg-usosruta",
-  "fecha": "2026-10-23T17:28:03.673Z",
+  "paquete": "p-261023-1130-a3a8",
+  "sha256": "f8ec114b76249b8e30525e79fd9860d37a0dd26d77969dd29859fefbb3a120e7",
+  "nota": "ruta: Pulpos despues de Armado (estampa la bolsa armada)",
+  "fecha": "2026-10-23T17:30:19.170Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
