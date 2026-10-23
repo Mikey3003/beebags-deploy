@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1144-e075",
-  "sha256": "cb165c7eb9a60c72898810c8a9eb285d5516bd204e685e38d2d8df2ac3fde96a",
-  "nota": "linea de tiempo de Armado y Personalizado (como Spunbond)",
-  "fecha": "2026-10-23T17:44:12.458Z",
+  "paquete": "p-261023-1145-4217",
+  "sha256": "7cd5e323f5206e87df28cecae26b81fddc89e0926b7fce338de947991127d96b",
+  "nota": "seguridad: lectura bbseg-lineahtml",
+  "fecha": "2026-10-23T17:45:15.861Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
