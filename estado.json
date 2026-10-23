@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1059-1cc1",
-  "sha256": "d2cdce82f8f99e01aa59320ea1b3dc080e1c01e948ea708a7764f7b9397003b5",
-  "nota": "checar almacen: tarjeta que tapa + WhatsApp a Mikey",
-  "fecha": "2026-10-23T16:59:13.031Z",
+  "paquete": "p-261023-1104-85a9",
+  "sha256": "204e6017ba0fa696fa105272ea68fa187fb1a7ad8ace5999900ad947fa0eab3a",
+  "nota": "seguridad: lectura bbseg-p429",
+  "fecha": "2026-10-23T17:04:30.575Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
