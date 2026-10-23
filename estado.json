@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261023-1315-d3ca",
-  "sha256": "7c2cd2c1488028c21fd554730d0ece6ad57c67077a0148f636244c206b10a74c",
-  "nota": "cotizaciones web: conteo obligatorio del almacen en discrepancias",
-  "fecha": "2026-10-23T19:15:17.949Z",
+  "paquete": "p-261023-1315-23f3",
+  "sha256": "a20e8b34a0139aa2d8261093bab5b8f5686e28ff6064b832b0fcf52662007af8",
+  "nota": "RH: 11 motivos de ausentismo + detalle por dia en xlsx",
+  "fecha": "2026-10-23T19:15:35.682Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": true,
