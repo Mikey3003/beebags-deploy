@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1208-be9e",
-  "sha256": "f9484ba31b42554800a24f3b96ba6d1931151a552b47e4fbb232f50baabc3afb",
-  "nota": "reinicio: levantar tunel sistema.beebags.com.mx tras corte de internet",
-  "fecha": "2026-10-23T18:08:58.442Z",
+  "paquete": "p-261023-1221-f2ad",
+  "sha256": "d61ccfe0f63abd72ef404dd660c9f7260d9c2535ad264bdeeca0373e9ac3e26f",
+  "nota": "seguridad: lectura bbseg-pcontestar,bbseg-pchecar3",
+  "fecha": "2026-10-23T18:21:19.705Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
