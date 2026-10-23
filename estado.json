@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-0935-30a1",
-  "sha256": "f39d6e9a3f86aeca1bd19ae7f951c648e35d50bf90bbb595e45bbb3a176ae574",
-  "nota": "ficha: No lleva desde el pedido (reinicio)",
-  "fecha": "2026-10-23T15:35:32.888Z",
+  "paquete": "p-261023-0937-6e4d",
+  "sha256": "8cf8a26690f989a8e9fce9a70ce2a3f7f2efb09fa73e2dfcd8ae228d78483fbb",
+  "nota": "seguridad: lectura bbseg-pnolleva",
+  "fecha": "2026-10-23T15:37:34.383Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
