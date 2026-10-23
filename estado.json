@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1347-7ff4",
-  "sha256": "e506dec4d13d1843b63b8d800fe66c6f39f25014e15a59e602198e32242ea3dd",
-  "nota": "seguridad: lectura bbseg-dcz0,bbseg-dcz1,bbseg-dcz2...",
-  "fecha": "2026-10-23T19:47:41.129Z",
+  "paquete": "p-261023-1350-2aa3",
+  "sha256": "ffc523ab788375822bd04c0c34052ebaa4f8da6d45a506ae9d4103b02940fd3f",
+  "nota": "RH: horas editables por dia (rh.horas_dia + bitacora)",
+  "fecha": "2026-10-23T19:50:33.760Z",
   "autor": "alex_",
-  "archivos": 21,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
