@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1701-8389",
-  "sha256": "e0e3ce9dea01d2380270fe1d905c21958c4b249c7a06dbe36efaa6a1ac05c24a",
-  "nota": "seguridad: lectura bbseg-invsku6",
-  "fecha": "2026-10-23T23:01:26.564Z",
+  "paquete": "p-261023-1705-eb4c",
+  "sha256": "0f76dfae36b8bf23f07a50661d2e3e0481fd5c4a86685a4bb37ab9c928cf095e",
+  "nota": "sku-desc 23 oct (2): color en codigo a palabras, coma de millar de Spunbond, inventario lee el producto",
+  "fecha": "2026-10-23T23:05:19.582Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
