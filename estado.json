@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1315-23f3",
-  "sha256": "a20e8b34a0139aa2d8261093bab5b8f5686e28ff6064b832b0fcf52662007af8",
-  "nota": "RH: 11 motivos de ausentismo + detalle por dia en xlsx",
-  "fecha": "2026-10-23T19:15:35.682Z",
+  "paquete": "p-261023-1319-475e",
+  "sha256": "586950a4465bc715c5b5d256d87a8c66209ea220e06c2a7b58149bfad4697df9",
+  "nota": "seguridad: lectura bbseg-rhmot",
+  "fecha": "2026-10-23T19:19:21.119Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
