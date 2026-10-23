@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1559-0dcd",
-  "sha256": "2b6ee07a844c0f9d04218dfb0fdccda5bbf9b68b5e73e9ba0f56ec747d21a1aa",
-  "nota": "seguridad: lectura bbseg-dcw30,bbseg-dcw31,bbseg-dcw32...",
-  "fecha": "2026-10-23T21:59:04.245Z",
+  "paquete": "p-261023-1602-552d",
+  "sha256": "b7b06764ea2549904413cd5f70ed33ae15b2b73c88a3907c6943d99f41c225a2",
+  "nota": "cotizaciones web: aprobar/rechazar (Mikey y Alex) + carrito PRODUCTO n DE m + notes 5000",
+  "fecha": "2026-10-23T22:02:17.573Z",
   "autor": "alex_",
-  "archivos": 17,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
