@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1044-8346",
-  "sha256": "7bea5297689e2e1b9903ebe0839015395132c3cf51304e6d33e8897356f70d4c",
-  "nota": "pdf xml facturas por salida",
-  "fecha": "2026-10-23T16:44:54.600Z",
+  "paquete": "p-261023-1057-cdc0",
+  "sha256": "abb18d0883b126ce2cd22cd625d4af61c44948e9d7c3277ee858116601e4f6c9",
+  "nota": "seguridad: lectura bbseg-pchecar2",
+  "fecha": "2026-10-23T16:57:43.118Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
