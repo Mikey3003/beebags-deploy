@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1411-758d",
-  "sha256": "8bf5113996d09e5c7105c15d8cb386ec93c62d5fb8bdb278c8c94869dc0256c6",
-  "nota": "cotizacion automatica de la web: borrador del cotizador + liga publica PDF",
-  "fecha": "2026-10-23T20:11:24.507Z",
+  "paquete": "p-261023-1413-c517",
+  "sha256": "f63137b2cb07d377bcef84a236fcfafa7b88f6c453ae6625fafc8a5b9fc1aba2",
+  "nota": "seguridad: lectura bbseg-pau",
+  "fecha": "2026-10-23T20:13:41.590Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
