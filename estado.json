@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261023-1344-bd60",
-  "sha256": "b953b71f4328684d82726126155faa345d4a82d0ab1b997314d6c92c14903556",
-  "nota": "seguridad: lectura bbseg-drhjs0,bbseg-drhjs1,bbseg-drhjs2...",
-  "fecha": "2026-10-23T19:44:03.323Z",
+  "paquete": "p-261023-1346-e65e",
+  "sha256": "cc595411ec3c88b6f77961aacc8ef31c99495b48d566435646cb7fd68fb94a02",
+  "nota": "seguridad: lectura bbseg-cot1",
+  "fecha": "2026-10-23T19:46:15.941Z",
   "autor": "alex_",
-  "archivos": 16,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
