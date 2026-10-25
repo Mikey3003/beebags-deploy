@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261025-1120-1057",
-  "sha256": "17e577edd22de6c8c0bddc5e71a0d14fb6c48bc4130de664d42034454b27a271",
-  "nota": "Cotizador #26: tela capitonada (hieleras) como material del cuerpo, junto a polifoam",
-  "fecha": "2026-10-25T17:20:40.324Z",
+  "paquete": "p-261025-1230-8996",
+  "sha256": "08b1590a0dea3c0f663bded5bba3f97728b15cf28c9282e0a7bb5efb471587bb",
+  "nota": "Cotizador #27: medidas en pulgadas (ancho/alto/fuelle) con conversion a cm; solo web",
+  "fecha": "2026-10-25T18:30:25.941Z",
   "autor": "alex",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
