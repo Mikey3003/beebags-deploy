@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261025-1245-ff15",
-  "sha256": "804015b4ba104f013db6c820499862c53ace01e49b2ed2e1e676e0b7b59e3acd",
-  "nota": "Cotizador #28: desglose de costos de impresion por insumo (cirel, arranque, tinta por color); solo web",
-  "fecha": "2026-10-25T18:45:44.558Z",
+  "paquete": "p-261025-1256-a232",
+  "sha256": "f448df6bf760fe72adfef0e56bef2cdc33eb1eb45e47a38f546e9d450542077c",
+  "nota": "Cotizador #29: flechitas para subir/bajar el % de cada tinta; solo web",
+  "fecha": "2026-10-25T18:56:03.935Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
