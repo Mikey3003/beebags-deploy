@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261025-1102-0590",
-  "sha256": "164a441d8d1ac679cf9250f6e1d34fe88bdc0ab8aab349c7f25dd35e3e2acf1a",
-  "nota": "Cotizador #25: polifoam como material del cuerpo (material + p_polifoam_m2)",
-  "fecha": "2026-10-25T17:02:47.373Z",
+  "paquete": "p-261025-1120-1057",
+  "sha256": "17e577edd22de6c8c0bddc5e71a0d14fb6c48bc4130de664d42034454b27a271",
+  "nota": "Cotizador #26: tela capitonada (hieleras) como material del cuerpo, junto a polifoam",
+  "fecha": "2026-10-25T17:20:40.324Z",
   "autor": "alex",
   "archivos": 5,
   "reinicio": true,
