@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261025-1230-8996",
-  "sha256": "08b1590a0dea3c0f663bded5bba3f97728b15cf28c9282e0a7bb5efb471587bb",
-  "nota": "Cotizador #27: medidas en pulgadas (ancho/alto/fuelle) con conversion a cm; solo web",
-  "fecha": "2026-10-25T18:30:25.941Z",
+  "paquete": "p-261025-1245-ff15",
+  "sha256": "804015b4ba104f013db6c820499862c53ace01e49b2ed2e1e676e0b7b59e3acd",
+  "nota": "Cotizador #28: desglose de costos de impresion por insumo (cirel, arranque, tinta por color); solo web",
+  "fecha": "2026-10-25T18:45:44.558Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
