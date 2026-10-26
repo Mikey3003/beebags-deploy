@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-0917-0189",
-  "sha256": "e7decb3a6efc329197a56895b611b8067c4d9541d64e9d74f86081ab44dc4954",
-  "nota": "almacen spunbond: candado OP en salidas, encargado configurable, vales con OP y clave, pantalla con explicaciones",
-  "fecha": "2026-10-26T15:17:41.269Z",
+  "paquete": "p-261026-0938-1da6",
+  "sha256": "43277039a73e701f7cac0f1d28d3230ec70924848fc1b36fa03c5ee43d1530e9",
+  "nota": "seguridad: lectura bbseg-ccv",
+  "fecha": "2026-10-26T15:38:06.790Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
