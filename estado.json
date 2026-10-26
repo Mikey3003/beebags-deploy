@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1105-fe9b",
-  "sha256": "7398510fb1f84ead67d97bd81d2176893adb9b5f562c9da34205776e937a9a7f",
-  "nota": "seguridad: lectura bbseg-dczjs0,bbseg-dczjs1,bbseg-dczjs2...",
-  "fecha": "2026-10-26T17:05:18.089Z",
-  "autor": "alex_",
-  "archivos": 6,
-  "reinicio": false,
+  "paquete": "p-261026-1106-0802",
+  "sha256": "354df259d11c39323d95a9a1b20b6755bba674c2fc84667e0907461fa09584b2",
+  "nota": "Cotizador #31: alta y baja de insumos en el catalogo",
+  "fecha": "2026-10-26T17:06:40.227Z",
+  "autor": "alex",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
