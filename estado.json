@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-0952-5592",
-  "sha256": "d2f719072c651de2b6ab3e7b4b5e4634b8b2aa4cd170ef645619881d2d70a639",
-  "nota": "seguridad: lectura bbseg-sbxmt",
-  "fecha": "2026-10-26T15:52:40.160Z",
+  "paquete": "p-261026-0953-89f0",
+  "sha256": "1a1e1fa8ef7a4befd86c9e24766396ab7df54abfd16912e67ac43540af758b8f",
+  "nota": "almacen spunbond: selector de OP en tarjetas, solo OPs vivas (sin canceladas ni completadas), ruta vales/ops",
+  "fecha": "2026-10-26T15:53:31.105Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
