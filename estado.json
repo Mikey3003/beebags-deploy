@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1649-017b",
-  "sha256": "a79f313eb3f32075cfc4580dc2c4efb331e2cd3cbe3625d2e9ea7549f01c58c2",
-  "nota": "seguridad: lectura bbseg-dmpc20,bbseg-dmpc21,bbseg-dmpc22",
-  "fecha": "2026-10-26T22:49:44.187Z",
+  "paquete": "p-261026-1651-fa27",
+  "sha256": "19fa1fa26a221c5bec0ea21c1370075be6cc0f2ddef8edd63ddd5b7b91e57513",
+  "nota": "Materia prima: la salida pide de que OC salio el material (FIFO, Cambiar) o quien lo pidio y por que; vale/historial/libro lo muestran",
+  "fecha": "2026-10-26T22:51:43.331Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
