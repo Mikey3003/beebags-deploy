@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1411-f6a4",
-  "sha256": "a91ad3bf3850345142232a5e52057e4e72f600777688d7962a4ce6cfca5d5625",
-  "nota": "Compras: OC directa (OC sin requisicion para rol compras) + fix enlace seguimiento sin sesion. Nuevo modulo inteligencia/compras-directa.js, panel+tab en web/compras.html, montaje en inteligencia/compras.js",
-  "fecha": "2026-10-26T20:11:12.593Z",
+  "paquete": "p-261026-1416-f9bf",
+  "sha256": "3500bdcc9cb2b286732e2d1dd51753f60214471656726537ac66c3a92de6c51c",
+  "nota": "logistica: salidas atoradas, el titulo no queda bajo el boton Cerebro",
+  "fecha": "2026-10-26T20:16:24.506Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
