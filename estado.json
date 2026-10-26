@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1429-803f",
-  "sha256": "f8df290a00e047d0fd64ee1b684ac2fe62a657a6d378f7a05c7ea8cce189c980",
-  "nota": "OC directa: selector antipendejos (proveedor/producto buscables en tarjetas, pasos numerados, diagrama de flujo, boton inteligente CREAR OC/FALTAN N DATOS, validacion tambien en servidor, responsive 1366/1024/390)",
-  "fecha": "2026-10-26T20:29:31.088Z",
+  "paquete": "p-261026-1438-f8c9",
+  "sha256": "a78d971f74dbad266063586ce0712b4024ac24a254915edfa0d05fc2ba56de50",
+  "nota": "seguridad: lectura bbseg-dconteo0,bbseg-dconteo1,bbseg-dsbv0...",
+  "fecha": "2026-10-26T20:38:31.048Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 13,
+  "reinicio": false,
   "pausado": false
 }
