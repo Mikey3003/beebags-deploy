@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-1543-e3a1",
-  "sha256": "02c3b7cfd4f43319738eb9bdb2f2227e69b019b67dd51d828bd1507a4e1d06ba",
-  "nota": "Materia prima: el picker de OC muestra el folio que ve Compras (OC1478...) y trae el precio de la OC",
-  "fecha": "2026-10-26T21:43:38.830Z",
+  "paquete": "p-261026-1545-34e6",
+  "sha256": "751448bb2b4dcede46140f3c05e0f6f9c866007d5a341f0fbbe761c800705cc9",
+  "nota": "Compras: OC directa con campo opcional Folio de OC del SAE / externo (escribe FOLIO OC MANUAL en REQUISICIONES GENERAL)",
+  "fecha": "2026-10-26T21:45:35.966Z",
   "autor": "alex_",
   "archivos": 2,
   "reinicio": true,
