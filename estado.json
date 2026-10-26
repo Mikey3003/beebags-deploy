@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1711-a53f",
-  "sha256": "50fb453d9af41a74019337fa44d7ff1996d45ac20e33b1dbbed74a1e29537b52",
-  "nota": "seguridad: lectura bbseg-g2",
-  "fecha": "2026-10-26T23:11:03.183Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261026-1725-2844",
+  "sha256": "fdc6c2549067015d1665fc3c2168ccc2f4aeb9d2d7958377b12e6c74356b907d",
+  "nota": "Cotizador #32: tinta flexo por anilox + color ciego (modelo apagado hasta confirmar precios)",
+  "fecha": "2026-10-26T23:25:42.216Z",
+  "autor": "alex",
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
