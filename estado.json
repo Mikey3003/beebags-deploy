@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1403-6da1",
-  "sha256": "625129cc7e2bb15fd2e5fa90d225963d74cd14c1b0d194d5287ff83659db1ca4",
-  "nota": "seguridad: lectura bbseg-dsest0,bbseg-dsest1,bbseg-dsest2...",
-  "fecha": "2026-10-26T20:03:42.865Z",
+  "paquete": "p-261026-1407-ad7f",
+  "sha256": "8946a1cfcf953585e19fb6b61c660ac34bdaeb47ed5f0d19be45123a9971b807",
+  "nota": "logistica: cierre de salidas en ruta (Se entrego / Regreso / Incidencia, tarjeta 12 h, atoradas Direccion, resumen diario)",
+  "fecha": "2026-10-26T20:07:22.448Z",
   "autor": "alex_",
-  "archivos": 21,
-  "reinicio": false,
+  "archivos": 6,
+  "reinicio": true,
   "pausado": false
 }
