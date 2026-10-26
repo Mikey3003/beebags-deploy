@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1601-d15d",
-  "sha256": "ef6b3a492a46d2e4f8ef04fc2a566f106145a88c37578f3cf3fa94f25b2d882c",
-  "nota": "Compras: PDF de la OC rehecho (margenes carta, moneda USD con monto en letra DOLARES, fecha real de la OC, datos fiscales de Bee Bags, folio SAE, entregas programadas, recibido/pendiente, sin notas internas, firmas con nombre, texto copiable)",
-  "fecha": "2026-10-26T22:01:26.874Z",
+  "paquete": "p-261026-1610-7b77",
+  "sha256": "3d43b42bd60dfc146e64b5680fd45809fa55a965c288a260a44d0ead0791302b",
+  "nota": "seguridad: lectura bbseg-dcjs0,bbseg-dcjs1,bbseg-dcjs2...",
+  "fecha": "2026-10-26T22:10:41.247Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 5,
+  "reinicio": false,
   "pausado": false
 }
