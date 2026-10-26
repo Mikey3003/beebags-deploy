@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-1416-f9bf",
-  "sha256": "3500bdcc9cb2b286732e2d1dd51753f60214471656726537ac66c3a92de6c51c",
-  "nota": "logistica: salidas atoradas, el titulo no queda bajo el boton Cerebro",
-  "fecha": "2026-10-26T20:16:24.506Z",
+  "paquete": "p-261026-1425-1858",
+  "sha256": "15a529ecbc36b4f3af5127b569aa2c38713dbd2114fc8ea855ee613889bfe11a",
+  "nota": "logistica: salidas atoradas con buscador, pasos y botones que dicen lo que hacen",
+  "fecha": "2026-10-26T20:25:45.441Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
