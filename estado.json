@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261025-1256-a232",
-  "sha256": "f448df6bf760fe72adfef0e56bef2cdc33eb1eb45e47a38f546e9d450542077c",
-  "nota": "Cotizador #29: flechitas para subir/bajar el % de cada tinta; solo web",
-  "fecha": "2026-10-25T18:56:03.935Z",
-  "autor": "alex",
+  "paquete": "p-261026-0837-4c5b",
+  "sha256": "60803f0f332242f2e787f7a00be14b79187d069e30f8937bfa5ebf30449fb5b9",
+  "nota": "seguridad: lectura bbseg-mklog",
+  "fecha": "2026-10-26T14:37:32.649Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
