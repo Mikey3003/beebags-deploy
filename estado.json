@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-0958-bca3",
-  "sha256": "dec4ebd4458384372554165769b15c315bfa6e8d0e4efdf517ee7ed4207bea41",
-  "nota": "seguridad: lectura bbseg-sbxmt",
-  "fecha": "2026-10-26T15:58:08.021Z",
+  "paquete": "p-261026-0959-b948",
+  "sha256": "d7c5216f7832bcf4dd5884f1b453103a072f3ff79d3c6ccedd4ffaad3e0613f4",
+  "nota": "almacen spunbond: lista de OPs precalentada (sin espera de 30 s)",
+  "fecha": "2026-10-26T15:59:21.711Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
