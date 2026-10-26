@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-1533-5cbe",
-  "sha256": "5485ee6b8046b69dca33391d76b4b6470281600063e988987ad0097d80170367",
-  "nota": "Materia prima: pagina de control, boton Almacen visible y filtro Tipo ordenado",
-  "fecha": "2026-10-26T21:33:38.225Z",
+  "paquete": "p-261026-1540-8492",
+  "sha256": "2ff5fe46ee1918e02aa81bad232cd97033683cb3867b0769f4913a1c32048e98",
+  "nota": "seguridad: lectura bbseg-ocgrep",
+  "fecha": "2026-10-26T21:40:00.008Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
