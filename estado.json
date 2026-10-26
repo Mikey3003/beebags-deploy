@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-1747-5bc9",
-  "sha256": "69fa44eded47f7accc1c9767572ae02663b461b1afde29ee175af4926f112719",
-  "nota": "historico: auto-Todo al buscar + buscador en Salidas de pedidos",
-  "fecha": "2026-10-26T23:47:45.973Z",
+  "paquete": "p-261026-1749-522e",
+  "sha256": "1d999a27a4d0e9f1d10a20f333df273759feba752a4474bbd99733e3a6a240f5",
+  "nota": "seguridad: lectura bbseg-g6",
+  "fecha": "2026-10-26T23:49:20.826Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
