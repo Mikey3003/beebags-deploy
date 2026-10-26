@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1038-e609",
-  "sha256": "22a894f0616b6596993a374f75f1527aa92823e7ff046d9baeeb88c1dc356b1b",
-  "nota": "Panel cotizaciones web: telefono desde lo que escribio el cliente",
-  "fecha": "2026-10-26T16:38:17.363Z",
+  "paquete": "p-261026-1039-731b",
+  "sha256": "d83b296035e2156751f833743e5ae5e8ded0acb7cda6ea39fbf984f128b21944",
+  "nota": "seguridad: lectura bbseg-dcauto0,bbseg-dcauto1,bbseg-dcauto2...",
+  "fecha": "2026-10-26T16:39:44.804Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 4,
   "reinicio": false,
   "pausado": false
 }
