@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1507-cf68",
-  "sha256": "8461f22c7855a8d0e985a3d69930b9b87fc83afd0c46dc93b395e64d97ceda4d",
-  "nota": "Compras: LINK UNICO para pedir material sin usuario (requisicion.html y pedir.html): nombre + area con tarjetas, boton FALTAN N DATOS, API publica con topes por IP, honeypot y anti-duplicado (compras-publico.js)",
-  "fecha": "2026-10-26T21:07:22.032Z",
+  "paquete": "p-261026-1509-3415",
+  "sha256": "178fb76e73123fc591b9f9d3b1a4e4d71cc183a8dc9b67c1d16ad61d8dd5def0",
+  "nota": "Compras: link publico de pedir material, el envio manda cabecera x-portal-token=publico para pasar el portero de escrituras por tunel (se valida en compras-publico.js)",
+  "fecha": "2026-10-26T21:09:48.748Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
