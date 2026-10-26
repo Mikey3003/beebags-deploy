@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1630-d31f",
-  "sha256": "bde3977c83d578dd223cbf2cc53d0ff9d7f840d019e7200757d3b1e9cc049fd4",
-  "nota": "Crear OC: pagina general /oc.html (login, 4 pasos, proveedor/productos con tarjetas, FALTAN N DATOS)",
-  "fecha": "2026-10-26T22:30:44.300Z",
+  "paquete": "p-261026-1645-0ee6",
+  "sha256": "5fa03bd56f2580a32b1e77ecdad5f1893e39fe7e655d4cde92b99ca395321c38",
+  "nota": "Recepciones: panel por pasos (tarjetas de OC, que llego, quien entrega, papel y valor) en Registrar>Recepcion de compra, /recepciones.html, pestana Recepciones de Compras y de Compras del almacen",
+  "fecha": "2026-10-26T22:45:31.224Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
