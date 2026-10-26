@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1522-ec11",
-  "sha256": "df4c3f2bde42a65510374fb912b7335d641301809d318968cbe37d8dad4b4300",
-  "nota": "seguridad: lectura bbseg-dsbint0,bbseg-dsbint1,bbseg-dsbint2...",
-  "fecha": "2026-10-26T21:22:05.843Z",
+  "paquete": "p-261026-1525-547c",
+  "sha256": "c9f764ded946d0f5fe67452aac20f00c3db2ee4b74d364af32ce8212d26c2b16",
+  "nota": "Materia prima 2a vuelta: traspaso a Spunbond con entrega/recibe/OP/valor, solicitud de material pide OP, conteo sin select, vales con columna Valor, historial con bloque completo, recepcion de OC con costo por linea",
+  "fecha": "2026-10-26T21:25:58.268Z",
   "autor": "alex_",
-  "archivos": 14,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
