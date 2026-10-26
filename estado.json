@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1025-6a7a",
-  "sha256": "acac42d82d07e44c2ea546a222d5d127619c16dbd7ef6801a31795a9fce479f0",
-  "nota": "seguridad: lectura bbseg-sbxmt",
-  "fecha": "2026-10-26T16:25:24.579Z",
+  "paquete": "p-261026-1027-c15b",
+  "sha256": "ede36a868d86fc0ed3031c9411917e96a6b620c7fdc685f0527df4a9d99a0b01",
+  "nota": "almacen spunbond: OPs sin pedidos entregados/cancelados (estado operativo), pestanas Bolsa/Tela con foto, Mi stock tablero",
+  "fecha": "2026-10-26T16:27:25.169Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
