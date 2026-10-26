@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1545-34e6",
-  "sha256": "751448bb2b4dcede46140f3c05e0f6f9c866007d5a341f0fbbe761c800705cc9",
-  "nota": "Compras: OC directa con campo opcional Folio de OC del SAE / externo (escribe FOLIO OC MANUAL en REQUISICIONES GENERAL)",
-  "fecha": "2026-10-26T21:45:35.966Z",
+  "paquete": "p-261026-1549-d56a",
+  "sha256": "d48c44271b0fd0a17937ee29bc0a42100b15a3ef2ed553b22da11632ca67b357",
+  "nota": "seguridad: lectura bbseg-ocd",
+  "fecha": "2026-10-26T21:49:08.390Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
