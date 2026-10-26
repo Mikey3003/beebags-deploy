@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1645-0ee6",
-  "sha256": "5fa03bd56f2580a32b1e77ecdad5f1893e39fe7e655d4cde92b99ca395321c38",
-  "nota": "Recepciones: panel por pasos (tarjetas de OC, que llego, quien entrega, papel y valor) en Registrar>Recepcion de compra, /recepciones.html, pestana Recepciones de Compras y de Compras del almacen",
-  "fecha": "2026-10-26T22:45:31.224Z",
+  "paquete": "p-261026-1648-31fd",
+  "sha256": "bfdd03d5a75838dd34d799304aa099d3fee5b65f2d221d8169562cbf83fc6f61",
+  "nota": "Recepciones: chips y lista de racks a prueba de los estilos de Compras",
+  "fecha": "2026-10-26T22:48:12.234Z",
   "autor": "alex_",
-  "archivos": 5,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
