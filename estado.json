@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1019-0b34",
-  "sha256": "5f957f3c0300799f4eef5dbf1dc90589db72d608c25048a3c201c6e77d6622ef",
-  "nota": "Cotizador #30: corrige doble cobro de tinta (factor colores x cobertura) en H24",
-  "fecha": "2026-10-26T16:19:49.914Z",
-  "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "paquete": "p-261026-1025-6a7a",
+  "sha256": "acac42d82d07e44c2ea546a222d5d127619c16dbd7ef6801a31795a9fce479f0",
+  "nota": "seguridad: lectura bbseg-sbxmt",
+  "fecha": "2026-10-26T16:25:24.579Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
