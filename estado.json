@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1125-1c56",
-  "sha256": "7b728430719af755bf9e88c892bb85535bd141653c9b05a2622f5a8ea65ca994",
-  "nota": "seguridad: lectura bbseg-dczjs0,bbseg-dczjs1,bbseg-dczjs2...",
-  "fecha": "2026-10-26T17:25:17.345Z",
+  "paquete": "p-261026-1127-689f",
+  "sha256": "fe549ea09cd7e4be1c9ca38ea7ff134c2f1331dfbee77004ea2b97fc339dae1e",
+  "nota": "Cotizador: regresa export _calcular (cotizacion automatica web)",
+  "fecha": "2026-10-26T17:27:40.351Z",
   "autor": "alex_",
-  "archivos": 6,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
