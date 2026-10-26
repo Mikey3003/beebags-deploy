@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1542-dc8c",
-  "sha256": "e858b6133a6c9dfa485e2a408cf1cb94f44fdd1e6b2fff3f68105c1ab278a359",
-  "nota": "seguridad: lectura bbseg-ex",
-  "fecha": "2026-10-26T21:42:48.032Z",
+  "paquete": "p-261026-1543-e3a1",
+  "sha256": "02c3b7cfd4f43319738eb9bdb2f2227e69b019b67dd51d828bd1507a4e1d06ba",
+  "nota": "Materia prima: el picker de OC muestra el folio que ve Compras (OC1478...) y trae el precio de la OC",
+  "fecha": "2026-10-26T21:43:38.830Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
