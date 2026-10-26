@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1248-8dd7",
-  "sha256": "b7b37b4d997bcf4ac2060c7d386fbbff10e095909bd7ea8a1208047a5c7c6414",
-  "nota": "seguridad: lectura bbseg-sbxmt",
-  "fecha": "2026-10-26T18:48:00.531Z",
+  "paquete": "p-261026-1249-ba09",
+  "sha256": "6e28312990c37996a69d045e1c609989cb3af0e6e550b589d250bf86e651182a",
+  "nota": "spunbond: conteo tipo inventario inicial",
+  "fecha": "2026-10-26T18:49:16.331Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
