@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-2245-d109",
-  "sha256": "17bf89eddf1df3d63899588c9a57e9c411886dbc9b0bd586eca2b19464d7f607",
-  "nota": "arreglos chicos: folio OC real en Lo que viene + sin nombres PRUEBA en personas",
-  "fecha": "2026-10-27T04:45:34.778Z",
+  "paquete": "p-261026-2303-ac4f",
+  "sha256": "7835f39a38774dc2f0c20c0de8c9025fb4c3b7e5951117d04ef991b820efb45e",
+  "nota": "seguridad: lectura bbseg-dlqv0,bbseg-dlqv1",
+  "fecha": "2026-10-27T05:03:07.342Z",
   "autor": "alex",
   "archivos": 2,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
