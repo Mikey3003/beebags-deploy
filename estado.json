@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1843-a1e6",
-  "sha256": "414689d1a8505b498e3efca6630a55a7086e83b5fce400b1e5b25a3bd2a68b6d",
-  "nota": "seguridad: lectura bbseg-g13",
-  "fecha": "2026-10-27T00:43:26.416Z",
+  "paquete": "p-261026-1845-4c1d",
+  "sha256": "a2a917aa704b7833f9210df4970cdbf4b19c829e4be3c4a2cae408f9a5d4a1bd",
+  "nota": "seguridad: supervisores de produccion para Registrar",
+  "fecha": "2026-10-27T00:45:34.887Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
