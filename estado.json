@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1322-92d5",
-  "sha256": "b992286038ade6a5e6a25d2a5e3c36ae28f72980d534c6adf5d32d6dbdf8b349",
-  "nota": "autorizacion de salidas: rollos se comparan contra el pedido de TELA (no el de bolsa con el mismo numero); pendientes se recalculan",
-  "fecha": "2026-10-27T19:22:51.583Z",
+  "paquete": "p-261027-1324-6a81",
+  "sha256": "547f3d7d73f6f1ad8000b7466cc0bc8c9a234c7035d1722dd7d1d6c558814d32",
+  "nota": "seguridad: lectura bbseg-dconteo0,bbseg-dconteo1,bbseg-dconteo2",
+  "fecha": "2026-10-27T19:24:12.914Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 3,
+  "reinicio": false,
   "pausado": false
 }
