@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1837-b874",
-  "sha256": "74ea381337f96ada81057ec60a8fea03540451c2eea2f5b2a780959e1f9b22bf",
-  "nota": "seguridad: Registrar pide datos de Artemia en todo + Lo que viene + supervisor completa OP",
-  "fecha": "2026-10-27T00:37:19.226Z",
+  "paquete": "p-261026-1839-4168",
+  "sha256": "70f0ef4c96a55eeed71960d288f03294b66d0c4abf471ae408beb3dfbdc25584",
+  "nota": "seguridad: lectura bbseg-dcwa0,bbseg-dcwa1,bbseg-dcasos0...",
+  "fecha": "2026-10-27T00:39:33.092Z",
   "autor": "alex",
-  "archivos": 5,
-  "reinicio": true,
+  "archivos": 12,
+  "reinicio": false,
   "pausado": false
 }
