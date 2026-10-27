@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0037-6fe4",
-  "sha256": "3cf05c7f139c2306783e28f57cefa75201a7f05b908f59e86d13103a1d1789f2",
-  "nota": "salidas2 (src): surtir requisicion y movimientos directos de Spunbond piden los datos de Artemia (validacion en servidor); folio real de la OC (FOLIO OC MANUAL / formula OC) en /mp/folios-oc",
-  "fecha": "2026-10-27T06:37:27.110Z",
+  "paquete": "p-261027-0039-577b",
+  "sha256": "4985b2c519fde8be4f45e4876680f44eaf13fa361e1d3f0838db85b2211155de",
+  "nota": "seguridad: lectura bbseg-dvpdf0,bbseg-dvpdf1,bbseg-dvpdf2...",
+  "fecha": "2026-10-27T06:39:10.376Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 21,
+  "reinicio": false,
   "pausado": false
 }
