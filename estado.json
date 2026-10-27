@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1225-100f",
-  "sha256": "4ed19d5955982b00a146dd3c8ccf7e7067835cbfacf9390883ad0cf0a6a66d9d",
-  "nota": "seguridad: lectura bbseg-dalm49,bbseg-dalm50,bbseg-dalm51...",
-  "fecha": "2026-10-27T18:25:49.842Z",
+  "paquete": "p-261027-1246-a8e0",
+  "sha256": "ccb124b2272ee84a268ac69cd195b5b67669516662402ed0d738297dd984a5a7",
+  "nota": "lectura: por que la cuenta oscar no entra",
+  "fecha": "2026-10-27T18:46:39.079Z",
   "autor": "alex_",
-  "archivos": 49,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
