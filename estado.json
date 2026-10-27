@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261027-1250-32e7",
-  "sha256": "ad855300c5392f5595738edc008eb217adff1c587e3e14297689a2ca4247bbf8",
-  "nota": "lectura: por que oscar sale desactivado",
-  "fecha": "2026-10-27T18:50:08.705Z",
+  "paquete": "p-261027-1252-a59e",
+  "sha256": "219082101976423d84691d006d27c9bc748494f4ec443380bd5032eecdb87858",
+  "nota": "reactiva a oscar para que los operadores entren",
+  "fecha": "2026-10-27T18:52:58.885Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
