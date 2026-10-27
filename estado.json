@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261027-1252-a59e",
-  "sha256": "219082101976423d84691d006d27c9bc748494f4ec443380bd5032eecdb87858",
-  "nota": "reactiva a oscar para que los operadores entren",
-  "fecha": "2026-10-27T18:52:58.885Z",
+  "paquete": "p-261027-1255-269f",
+  "sha256": "89fe5a3a5ae7c5ddfeeb11ac735c025f663ce9ea3f0a5ed16823db858a2577b9",
+  "nota": "seguridad: lectura bbseg-oscar1",
+  "fecha": "2026-10-27T18:55:01.056Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
