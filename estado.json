@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261027-1549-de8a",
-  "sha256": "4766e29bf7211f08efbde1bc1ac0baf8785a932ad45e3364d9afcacfdda76454",
-  "nota": "Cotizador #36: cobertura arranca proporcional, ciego 100% editable; solo web",
-  "fecha": "2026-10-27T21:49:38.505Z",
-  "autor": "alex",
+  "paquete": "p-261027-1612-7dd0",
+  "sha256": "000814768d9e1147cbeed61475151829147b45502023c59cc26f5fc0569fe2d6",
+  "nota": "seguridad: lectura bbseg-sal1",
+  "fecha": "2026-10-27T22:12:09.505Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
