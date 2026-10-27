@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261027-0254-6e80",
-  "sha256": "045a2c870909e203105d630667212b45537cef97f0b69f3110bf5a4595f897b2",
-  "nota": "Compras: tarjeta Resina Spunbond, racks sin repetir",
-  "fecha": "2026-10-27T08:54:56.555Z",
-  "autor": "alex",
+  "paquete": "p-261027-0845-df07",
+  "sha256": "a7b85c56b5060a094619100b3615dda01a615e78a9aadf5c804173ea453be7a5",
+  "nota": "seguridad: lectura bbseg-usr1",
+  "fecha": "2026-10-27T14:45:48.193Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
