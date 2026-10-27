@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261027-1246-a8e0",
-  "sha256": "ccb124b2272ee84a268ac69cd195b5b67669516662402ed0d738297dd984a5a7",
-  "nota": "lectura: por que la cuenta oscar no entra",
-  "fecha": "2026-10-27T18:46:39.079Z",
+  "paquete": "p-261027-1250-32e7",
+  "sha256": "ad855300c5392f5595738edc008eb217adff1c587e3e14297689a2ca4247bbf8",
+  "nota": "lectura: por que oscar sale desactivado",
+  "fecha": "2026-10-27T18:50:08.705Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
