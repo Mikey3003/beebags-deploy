@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0101-51f7",
-  "sha256": "6006dd912da0214893a70544da62a33fe6d67641a5bc9912cd09821681003f09",
-  "nota": "pdf-fc: renglon propio en cotizacion auto (WEB-0421), -FC forro cartera en descripcion de SKU y en la copia de modelos de tela",
-  "fecha": "2026-10-27T07:01:04.568Z",
+  "paquete": "p-261027-0103-5656",
+  "sha256": "de2328d7a99bdd7734939262eba6d29384d1bd94d008c197fa6c99cf3d74ec1e",
+  "nota": "seguridad: lectura bbseg-pdffc6,bbseg-pdffc7",
+  "fecha": "2026-10-27T07:03:31.669Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
