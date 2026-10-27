@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0049-782b",
-  "sha256": "29fd569815e9de507333cdbc52174681ad766021b313951e8ca84c0201fc8a65",
-  "nota": "liberar 27 oct: Direccion cierra sin foto, cerrar libera camioneta, boton Liberar chofer y camioneta, panel de abiertas",
-  "fecha": "2026-10-27T06:49:59.492Z",
+  "paquete": "p-261027-0052-086e",
+  "sha256": "2251d646928ce8f13316a59f7d71358e71b7094cb2a60f9ba706bc251eb876e6",
+  "nota": "seguridad: lectura bbseg-lib3",
+  "fecha": "2026-10-27T06:52:12.711Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
