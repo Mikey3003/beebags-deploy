@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1737-6b3b",
-  "sha256": "690efc8885c8068a9480add7c40d6ec9c882632291bd2b7f3c9953e60bca9d6a",
-  "nota": "seguridad: lectura bbseg-apsha",
-  "fecha": "2026-10-27T23:37:56.189Z",
+  "paquete": "p-261027-1739-4c69",
+  "sha256": "2b91bafb6ee0ebea0a3338bae8f0e9dd40f64af7d6e2b065eb8bfa02ce9ac937",
+  "nota": "compras: aprobar OC sin duplicados (candado + ya estaba aprobada + boton Aprobando)",
+  "fecha": "2026-10-27T23:39:18.948Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
