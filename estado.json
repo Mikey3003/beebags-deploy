@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-1835-0735",
-  "sha256": "472a856cb405e5b652c7637aeea11b1798ac51b7acbfd9b899d1d18f4943fb62",
-  "nota": "avisos apagados (filtro central candado-wa) + fix aprobar atascado entregado + UX rechazar",
-  "fecha": "2026-10-27T00:35:29.073Z",
+  "paquete": "p-261026-1837-b874",
+  "sha256": "74ea381337f96ada81057ec60a8fea03540451c2eea2f5b2a780959e1f9b22bf",
+  "nota": "seguridad: Registrar pide datos de Artemia en todo + Lo que viene + supervisor completa OP",
+  "fecha": "2026-10-27T00:37:19.226Z",
   "autor": "alex",
   "archivos": 5,
   "reinicio": true,
