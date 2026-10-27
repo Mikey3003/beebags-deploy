@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261026-2305-7d75",
-  "sha256": "2e82a7c81828a0e0f64f827077de267f0615a2d7411e11b8a1b4a3bf61685b72",
-  "nota": "buscador: acepta OC1484 completo",
-  "fecha": "2026-10-27T05:05:22.639Z",
+  "paquete": "p-261026-2335-e64a",
+  "sha256": "ba44bcd0c43d835eb532cf74931ddef30a7d752827168a3399e4ca4ac45c9c17",
+  "nota": "seguridad: lectura bbseg-decu",
+  "fecha": "2026-10-27T05:35:47.917Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
