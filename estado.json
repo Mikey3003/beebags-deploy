@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261027-1417-1d35",
-  "sha256": "89a2a3a6463dd35a02ec82e802f4867d22aff1c8f84e27bcd516093e5286c3a8",
-  "nota": "seguridad: lectura bbseg-avt3",
-  "fecha": "2026-10-27T20:17:28.129Z",
-  "autor": "alex_",
+  "paquete": "p-261027-1419-8373",
+  "sha256": "4a6c52b8b46039a33be2c4cf8699732f907c9bbf59df5072940533ae219b2bbb",
+  "nota": "Cotizador #34: formulas escritas bajo los parametros de tinta/anilox; solo web",
+  "fecha": "2026-10-27T20:19:27.650Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
