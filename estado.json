@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0235-ba2b",
-  "sha256": "4dd3378286308a3bea6d3b30de28894e8a85552cacd1be381df59e2b06011f7e",
-  "nota": "verificador 27 oct: devuelve folios-oc/foliosGenerales a src/mp-control.js (se habia perdido en el paquete de auditoria)",
-  "fecha": "2026-10-27T08:35:31.853Z",
+  "paquete": "p-261027-0242-64e7",
+  "sha256": "169e86c62877b48cd663b9ae9dca59e20311de51af04e5cc6fc46afcb566b291",
+  "nota": "seguridad: lectura bbseg-vlee",
+  "fecha": "2026-10-27T08:42:36.741Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
