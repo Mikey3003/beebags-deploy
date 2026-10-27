@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1403-040b",
-  "sha256": "05dac371ad79a4d9062c51f7f807bb718554745cc7fb6b1e7be9a76e460d0f21",
-  "nota": "seguridad: lectura bbseg-avh",
-  "fecha": "2026-10-27T20:03:28.296Z",
+  "paquete": "p-261027-1405-d230",
+  "sha256": "ecfd27f5ff44ab3593e7d5e92c79b6deec5c52ce914c03e206b04a3aaaeb1500",
+  "nota": "aviso unico Olimpia OP593 (spunbond)",
+  "fecha": "2026-10-27T20:05:22.449Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
