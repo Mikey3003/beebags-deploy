@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1125-dc55",
-  "sha256": "a9b7db59194276db84ba89b81df471f4c241b04d3397e9ec6d21d7bdf86f934f",
-  "nota": "seguridad: lectura bbseg-dsprog0,bbseg-dsprog1",
-  "fecha": "2026-10-27T17:25:23.856Z",
+  "paquete": "p-261027-1128-1bdc",
+  "sha256": "60da4c1e9baeaa258e0e6f06d767b3d333600ed8831a7be504e119915c26ef81",
+  "nota": "salida-programa: la ventana obligatoria de salida programada ya no se le pide a Direccion, solo a Almacen/Logistica",
+  "fecha": "2026-10-27T17:28:07.775Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
