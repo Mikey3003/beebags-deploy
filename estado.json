@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0245-91af",
-  "sha256": "09f98a528aa0de594cf91f94b7e17d3e2a3db846717d57939f88034c1950b5bc",
-  "nota": "seguridad: lectura bbseg-mohash",
-  "fecha": "2026-10-27T08:45:48.062Z",
+  "paquete": "p-261027-0248-7dd8",
+  "sha256": "63acc04dbb7f0db56d615a60e4aaee07ce22d2951e2cf16d03f413a1e88f49f9",
+  "nota": "Mostrador: panel nuevo + aviso venta-mostrador; pestana Almacen Spunbond (Omar encargado); tarjeta Resina Spunbond en Compras",
+  "fecha": "2026-10-27T08:48:48.179Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 9,
+  "reinicio": true,
   "pausado": false
 }
