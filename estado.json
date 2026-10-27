@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0159-eced",
-  "sha256": "5b2d24036a93d8841c1afb3d397751571794a48f5591d38c3e90d2fe854cf5ef",
-  "nota": "seguridad: lectura bbseg-damp20,bbseg-damp21,bbseg-damp22...",
-  "fecha": "2026-10-27T07:59:35.217Z",
+  "paquete": "p-261027-0201-c57d",
+  "sha256": "8dfca6465ae6e581ab5b1976059b0e2dc0f414fcb278ca3c22152018372cd6e6",
+  "nota": "auditoria Registrar 27 oct: tarjeta del supervisor grande, texto Consumo interno, servidor rechaza relleno y supervisor fuera de lista, entrega=recibe queda POR REVISAR",
+  "fecha": "2026-10-27T08:01:28.919Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
