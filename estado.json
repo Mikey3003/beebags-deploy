@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1848-03aa",
-  "sha256": "ebf831c1854b4d40cf11af9cc2957220790d6c9adc29006ae11273c8076af423",
-  "nota": "seguridad: lectura bbseg-g14",
-  "fecha": "2026-10-27T00:48:07.718Z",
+  "paquete": "p-261026-1905-3f9f",
+  "sha256": "7d8f95993b43506c45907fb5bf53773557f501a205c3ed509f1d10f73a01aa90",
+  "nota": "Cotizador #33: calibrar transferencia por anilox con tiraje real",
+  "fecha": "2026-10-27T01:05:53.833Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
