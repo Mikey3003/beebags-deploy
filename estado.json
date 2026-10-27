@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261026-1831-9b09",
-  "sha256": "7af8bc8d067f8d125bbb1cb233c197e19107db704de068887c23e41f20e8ff5b",
-  "nota": "seguridad: lectura bbseg-dcwa0,bbseg-dcwa1,bbseg-dcasos0...",
-  "fecha": "2026-10-27T00:31:23.451Z",
+  "paquete": "p-261026-1833-2c9c",
+  "sha256": "923300b3682ff29671cf4d16f254f132a07ae093b4f3486bd87194fcd30a03dc",
+  "nota": "avisos apagados (filtro central candado-wa) + fix aprobar atascado entregado + UX rechazar",
+  "fecha": "2026-10-27T00:33:54.111Z",
   "autor": "alex",
-  "archivos": 12,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
