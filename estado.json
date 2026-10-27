@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-0109-192a",
-  "sha256": "d8818c7414c3156d3b7445de1ce3fea9979a51b126fea60bb25b68e59402890c",
-  "nota": "pdf-fc: restaura export _calcular en cotizador.js (cotizacion automatica web)",
-  "fecha": "2026-10-27T07:09:44.762Z",
+  "paquete": "p-261027-0111-ead1",
+  "sha256": "ecdea37e7107e82545fb627614d20227da81de90ff08bc2895a21e7bdaf11274",
+  "nota": "seguridad: lectura bbseg-pdffc9",
+  "fecha": "2026-10-27T07:11:22.871Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": true,
+  "reinicio": false,
   "pausado": false
 }
