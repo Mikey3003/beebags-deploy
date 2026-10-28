@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261028-0025-afd3",
-  "sha256": "ab52a1b2017e8f163222744015206d87956e6669bfe63c9ef4be4723834701ee",
-  "nota": "seguridad: lectura bbseg-op1sha",
-  "fecha": "2026-10-28T06:25:18.243Z",
+  "paquete": "p-261028-0034-25da",
+  "sha256": "681156cb623a717abaa7ce8531acba04f2401662c698de927c4546dbd878aef8",
+  "nota": "seguridad: lectura bbseg-op2sha",
+  "fecha": "2026-10-28T06:34:02.997Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
