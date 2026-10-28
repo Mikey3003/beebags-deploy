@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-2251-deeb",
-  "sha256": "17dce132ecb858b2b842ac2cf7fd4ed5dfd38272e8e9cb58a86b738056c7e25b",
-  "nota": "seguridad: lectura bbseg-vr",
-  "fecha": "2026-10-28T04:51:34.380Z",
+  "paquete": "p-261027-2307-1212",
+  "sha256": "7fed604e2a075c3b33342b3e204c28943d754c616e4d7ff57614e613c16bebdc",
+  "nota": "seguridad: lectura bbseg-dcarrito-compras.js0,bbseg-dcarrito-compras.js1,bbseg-dcarrito-compras.js2...",
+  "fecha": "2026-10-28T05:07:21.483Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 24,
   "reinicio": false,
   "pausado": false
 }
