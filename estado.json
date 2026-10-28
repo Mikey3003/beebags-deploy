@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1439-be68",
-  "sha256": "308cd79dcff1814c23e44e0aa49167ac6c5bf3bb0a3d852f2e8070298bd2eaae",
-  "nota": "seguridad: lectura bbseg-dvreq14390,bbseg-dvreq14391,bbseg-dvreq14392...",
-  "fecha": "2026-10-28T20:39:21.967Z",
+  "paquete": "p-261028-1442-927f",
+  "sha256": "c1a93b268198e70445e88f7d85735622bc0bf95dd08409fbd5c2206126f12005",
+  "nota": "SERIOS: subproductos/subservicios Compras 28oct",
+  "fecha": "2026-10-28T20:42:16.561Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": false,
+  "archivos": 5,
+  "reinicio": true,
   "pausado": false
 }
