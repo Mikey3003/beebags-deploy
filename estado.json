@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-0034-25da",
-  "sha256": "681156cb623a717abaa7ce8531acba04f2401662c698de927c4546dbd878aef8",
-  "nota": "seguridad: lectura bbseg-op2sha",
-  "fecha": "2026-10-28T06:34:02.997Z",
+  "paquete": "p-261028-0035-6a2e",
+  "sha256": "9688850292fc3b4a08869c11bf8d7a79cb348f870636a2a7694b5eb11444db91",
+  "nota": "salidas de Registrar: la OP se SUGIERE (rollo escaneado/tecleado, en produccion hoy, entro hoy) con dibujo de la etiqueta; ya no es obligatoria (web + servidor)",
+  "fecha": "2026-10-28T06:35:11.821Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
