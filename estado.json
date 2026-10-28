@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1243-71e9",
-  "sha256": "cc6ce1a66d2fc66d4eb78bfbbf502dc16d24d2d38cc09387282af03fd5bf1373",
-  "nota": "seguridad: lectura bbseg-dpf_cer0,bbseg-dpf_cer1,bbseg-dpf_cer2...",
-  "fecha": "2026-10-28T18:43:34.341Z",
+  "paquete": "p-261028-1249-30df",
+  "sha256": "ba55f492f51cd60568aa85f8dbb97c58bc7dc3892e8b77f76591d7c55da0691b",
+  "nota": "almacen: nombre WMS (PLAYO / PLAYO NEGRO) en vez del nombre de Compras; arregla rack 0 en vale de salida",
+  "fecha": "2026-10-28T18:49:07.064Z",
   "autor": "alex_",
-  "archivos": 8,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
