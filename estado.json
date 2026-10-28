@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1307-f8c0",
-  "sha256": "2a17cc73c3e1bc64c33b829685f562271983f09145492e3b800d2f1668c224b1",
-  "nota": "cerebro: botones meta de rollos (corregir cantidad del pedido / dejar sobrante en stock) - reintento en web/cerebro2.html (lo que sirve /cerebro.html)",
-  "fecha": "2026-10-28T19:07:44.771Z",
+  "paquete": "p-261028-1311-c5a2",
+  "sha256": "caee5e3fce5402c5924b629a4bd4f113828bc1c3b668d4cdbcac8a1339e5a095",
+  "nota": "seguridad: lectura bbseg-dcjsvivo20,bbseg-dcjsvivo21,bbseg-dcjsvivo22...",
+  "fecha": "2026-10-28T19:11:27.383Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 6,
+  "reinicio": false,
   "pausado": false
 }
