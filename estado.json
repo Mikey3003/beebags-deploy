@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1307-c284",
-  "sha256": "3167c4132575df1aa271daca0317635b84addb730dbcc015d5d944cb79e57608",
-  "nota": "almacen: fixes acceso, aviso recepcion, racks, error sin OC",
-  "fecha": "2026-10-28T19:07:26.460Z",
+  "paquete": "p-261028-1307-f8c0",
+  "sha256": "2a17cc73c3e1bc64c33b829685f562271983f09145492e3b800d2f1668c224b1",
+  "nota": "cerebro: botones meta de rollos (corregir cantidad del pedido / dejar sobrante en stock) - reintento en web/cerebro2.html (lo que sirve /cerebro.html)",
+  "fecha": "2026-10-28T19:07:44.771Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
