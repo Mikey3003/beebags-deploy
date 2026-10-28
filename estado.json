@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-0020-3db5",
-  "sha256": "129ae2d964285a4e1af10e0ea798f30a01085ecb688600f53071c178c6b6df72",
-  "nota": "seguridad: lectura bbseg-op1sha",
-  "fecha": "2026-10-28T06:20:50.296Z",
+  "paquete": "p-261028-0023-8971",
+  "sha256": "71cec8d8719e2877351b9af3f7827a503e965f1e0dfc32f6bf9cbe0f9d240bf1",
+  "nota": "etiqueta ZPL del rollo Spunbond: la OP va en el renglon del cliente/pedido (y=102), sin mover nada; el PDF ya la traia",
+  "fecha": "2026-10-28T06:23:10.884Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
