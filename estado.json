@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1159-8aa0",
-  "sha256": "35a2264363ed70df457a0491cbbb8eb9c6c463f99040b120cb9dcd8dd2094e9c",
-  "nota": "compras: PRODUCTO vs SERVICIO (Artemia) - tipo obligatorio en alta, catalogo por tipo, OC/PDF separa productos y servicios, servicios los confirma Compras; Recepciones del almacen salta servicios (/ordenes-tipos); liga de seguimiento",
-  "fecha": "2026-10-28T17:59:55.226Z",
+  "paquete": "p-261028-1226-9de6",
+  "sha256": "9b050e687ab36acb637455d39f9086909b86f017d63f02e50f8ee2f4b3e8cdc5",
+  "nota": "seguridad: lectura bbseg-pgrep",
+  "fecha": "2026-10-28T18:26:46.137Z",
   "autor": "alex_",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
