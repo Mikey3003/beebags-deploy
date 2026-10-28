@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-2341-5b58",
-  "sha256": "b02d0cdad274e1e90a068b7d45c78863f9125f4a9cc8859457e12516f02f586a",
-  "nota": "carrito Artemia: requisicion con el mismo producto en varios renglones (cada uno con su especificacion) + salida de materiales en carrito manda los datos de cada renglon (quien se lo lleva, area, OP, OC) con su nonce",
-  "fecha": "2026-10-28T05:41:26.092Z",
+  "paquete": "p-261027-2343-0df8",
+  "sha256": "7c4179e8201a58147377539a419e089638563f89c48663acb2e89f7ed9e73e88",
+  "nota": "seguridad: lectura bbseg-carver",
+  "fecha": "2026-10-28T05:43:17.832Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
