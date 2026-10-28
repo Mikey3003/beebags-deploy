@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1313-b391",
-  "sha256": "affe984b056e06834c3fad411b010260ad711ffda72553dbfe7e3502e59b1885",
-  "nota": "Compras: clasificacion PRODUCTO/SERVICIO de Artemia (412 ids) + requisiciones de SERVICIO van directo a COMPRAS, no pasan por almacen",
-  "fecha": "2026-10-28T19:13:46.256Z",
+  "paquete": "p-261028-1316-e803",
+  "sha256": "db389c126792092793fedf9a12e7f172d989639691ec4d0cdf75c9dbae8bf098",
+  "nota": "seguridad: lectura bbseg-vart",
+  "fecha": "2026-10-28T19:16:37.300Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
