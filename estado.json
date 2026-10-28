@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1849-4b7d",
-  "sha256": "7a30f7e9398efbcd88ff78ce4aa66401e2faf9cf61ebf9dde14035b0ec77abf2",
-  "nota": "vales: materiales e insumos, Entrega/Recibe en entrada, vale unico al recibir una OC con varios productos",
-  "fecha": "2026-10-28T00:49:37.698Z",
-  "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "paquete": "p-261027-2237-b071",
+  "sha256": "ce294e2e7aa7039cb8dad34941507dcb8ce3c375d13b01ed91073b42db6bab91",
+  "nota": "seguridad: lectura bbseg-ver1",
+  "fecha": "2026-10-28T04:37:50.276Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
