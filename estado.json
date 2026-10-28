@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1249-30df",
-  "sha256": "ba55f492f51cd60568aa85f8dbb97c58bc7dc3892e8b77f76591d7c55da0691b",
-  "nota": "almacen: nombre WMS (PLAYO / PLAYO NEGRO) en vez del nombre de Compras; arregla rack 0 en vale de salida",
-  "fecha": "2026-10-28T18:49:07.064Z",
+  "paquete": "p-261028-1254-48d3",
+  "sha256": "20b53ecfb02b0356fbff823663fc557defb19c19bb04e0da044e73308a0d0a0b",
+  "nota": "cerebro: botones meta de rollos (corregir cantidad del pedido / dejar sobrante en stock)",
+  "fecha": "2026-10-28T18:54:51.456Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
