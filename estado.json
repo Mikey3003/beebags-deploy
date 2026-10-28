@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1305-010e",
-  "sha256": "a6fd78febbe3e1d87a903ff92e3592405d7592cf1c3499852c8dc3ee7ec87943",
-  "nota": "seguridad: lectura bbseg-dodpmr0,bbseg-dodpmr1,bbseg-dodpmr2",
-  "fecha": "2026-10-28T19:05:48.296Z",
+  "paquete": "p-261028-1307-c284",
+  "sha256": "3167c4132575df1aa271daca0317635b84addb730dbcc015d5d944cb79e57608",
+  "nota": "almacen: fixes acceso, aviso recepcion, racks, error sin OC",
+  "fecha": "2026-10-28T19:07:26.460Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
