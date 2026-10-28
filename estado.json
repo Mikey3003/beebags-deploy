@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261027-1827-bbab",
-  "sha256": "297e6eee15c581c79e7e132c4de6094d39715a9d679ecb35852cfc5a3d47aa86",
-  "nota": "compras: subproductos por renglon (Artemia) en requisicion, OC directa, PDF y aprobaciones",
-  "fecha": "2026-10-28T00:27:15.309Z",
+  "paquete": "p-261027-1829-6d9b",
+  "sha256": "47b6661385db30b076b2ff3121bd54c9cf4c037ce82b488d53dd321fde98685e",
+  "nota": "seguridad: lectura bbseg-rg4",
+  "fecha": "2026-10-28T00:29:18.912Z",
   "autor": "alex_",
-  "archivos": 6,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
