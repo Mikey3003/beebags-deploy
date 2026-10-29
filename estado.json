@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-0941-0656",
-  "sha256": "8cd40878d62ec722e98a45dc99ffaea31788c21f289577aecbaa5e6127b552bf",
-  "nota": "Almacen: recepcion muestra el subproducto de Compras (SUBPROD-ALM 29oct). Solo estatico, sin reinicio",
-  "fecha": "2026-10-29T15:41:55.539Z",
+  "paquete": "p-261029-0945-a247",
+  "sha256": "fa686a23b317b7d13106c2c98aa0102049f6f4aebfa9d8d1da94b11ecc7d9264",
+  "nota": "seguridad: lectura bbseg-dspix0,bbseg-dspix1,bbseg-dspix2...",
+  "fecha": "2026-10-29T15:45:02.698Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 13,
   "reinicio": false,
   "pausado": false
 }
