@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1246-94f9",
-  "sha256": "5d81ed1aa40962b10293641aa3efeeb3557ebc16b9f05a3acf76105b251f73bd",
-  "nota": "Almacén: «Subproducto» → «Datos adicionales» (sólo etiqueta en recepciones.js, ?v=20261029a; sin reinicio)",
-  "fecha": "2026-10-29T18:46:45.788Z",
+  "paquete": "p-261029-1250-36fb",
+  "sha256": "283546da8f9cdcfce798bcc9993c64ad55bb847323594d33cc336a835044a85d",
+  "nota": "SERIOS: Compras/requisicion «subproductos/subservicios» → «Datos adicionales» (solo texto en pantalla; ids, rutas y datos sin cambio) + job lectura da29-scan (sin reinicio)",
+  "fecha": "2026-10-29T18:50:32.674Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
