@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1251-5e86",
-  "sha256": "ec90a489372a897d03169e7ce6f2adcc122316e297f0dd6b27514a46ca7fa00b",
-  "nota": "SERIOS: limpia job lectura da29-scan (sin reinicio)",
-  "fecha": "2026-10-29T18:51:16.149Z",
+  "paquete": "p-261029-1307-ec30",
+  "sha256": "a311e4ae66e5c9cfee1c2c5ac36093e4197cae32c873d2619be1fe5a61c404c8",
+  "nota": "SERIOS: lectura previa compras-publico/compras-subproductos/compras.js (jobs s3, sin reinicio)",
+  "fecha": "2026-10-29T19:07:50.550Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 15,
   "reinicio": false,
   "pausado": false
 }
