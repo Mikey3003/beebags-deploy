@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1317-8cc1",
-  "sha256": "1e8a8b797673db7837782e19579d75d7a1b4427e794f9d3077b31c5a6b8748db",
-  "nota": "Almacén: dibujos de producto estilo campaña (bolsas lisas en su color), bolsas-icono.js — aprobado por Mikey (sin reinicio)",
-  "fecha": "2026-10-29T19:17:49.360Z",
+  "paquete": "p-261029-1346-da21",
+  "sha256": "5abd89ffb7f59892b066bb5da416847c870b5ac2f3eb7ff29fd5a9cb3e635683",
+  "nota": "Almacén: un solo Registrar movimiento; tipos con código (101-208, 300) integrados en el paso 2 (web, sin reinicio). Autorizo Miguel 29-oct",
+  "fecha": "2026-10-29T19:46:53.418Z",
   "autor": "alex",
   "archivos": 2,
   "reinicio": false,
