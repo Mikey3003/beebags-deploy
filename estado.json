@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1454-5cba",
-  "sha256": "beea8ad5c1e980e996e62ad4d58f814432c0fbe4572bd91add3edd98a43fb984",
-  "nota": "Lectura (solo lee): conteo de solicitudes 30 dias (en trozos)",
-  "fecha": "2026-10-29T20:54:46.937Z",
+  "paquete": "p-261029-1456-3c60",
+  "sha256": "7e17d609c012cea2e30669c99bed79a2b0b6137159a499c0acfb5d8ebaaa4a8c",
+  "nota": "Lectura (solo lee): verifica en Airtable si las solicitudes de cambio aprobadas (30 dias) siguen aplicadas",
+  "fecha": "2026-10-29T20:56:26.028Z",
   "autor": "alex",
-  "archivos": 7,
+  "archivos": 15,
   "reinicio": false,
   "pausado": false
 }
