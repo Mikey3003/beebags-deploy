@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1645-a473",
-  "sha256": "46464b0468174b1b7aefa5b7b863c91e1d63585cbffd777e5797f5383dfabc78",
-  "nota": "Almacén: jobs de lectura ar29-* (permisos Artemia, solo lectura, sin reinicio)",
-  "fecha": "2026-10-29T22:45:35.926Z",
+  "paquete": "p-261029-1647-3b64",
+  "sha256": "0962259817f4c54cdb4c7ff8aec8fcd115030ad5d7902274b56f389709ff6b57",
+  "nota": "Almacén: vaciar jobs de lectura ar29-* (sin reinicio)",
+  "fecha": "2026-10-29T22:47:27.485Z",
   "autor": "alex",
   "archivos": 14,
   "reinicio": false,
