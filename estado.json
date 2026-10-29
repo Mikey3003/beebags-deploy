@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1620-e04e",
-  "sha256": "56d24c7cf74d05b7bca7d666b5d2f774c4f6df71f717a15af749bfc3b5dd4e81",
-  "nota": "REINICIO combinado 29 oct: (a) Almacén: 205 guarda OC/línea OC (campos ocId/ocFolio/ocLinea) para CXP, anula MPV huérfano si el WMS no registra, 206 conserva su pedido, ocs-abiertas sin SERVICIOS (data/compras-tipos.json); (b) Spunbond fase 2: solicitud de insumos por turno (spunbond-turno.js + campanita); (c) Aprobaciones: odp-pendientes/op-meta, aprobaciones, solicitudes, corregir, auditoria.html, spunbond-panel.html; (d) SERIOS: almacen2d programación ?sinServicios=1",
-  "fecha": "2026-10-29T22:20:01.076Z",
+  "paquete": "p-261029-1621-221f",
+  "sha256": "e29c1e915e8ef7e34bfe45b8dc10072350bce4375cc3a67a4424a41adcc9a42a",
+  "nota": "Lectura (jobs) compras-alta/directa + scan para copia Compras→Almacén — sin reinicio",
+  "fecha": "2026-10-29T22:21:49.807Z",
   "autor": "alex",
-  "archivos": 14,
-  "reinicio": true,
+  "archivos": 10,
+  "reinicio": false,
   "pausado": false
 }
