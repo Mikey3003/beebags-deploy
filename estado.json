@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1642-8b69",
-  "sha256": "949e2738dd7858304f07c995e6c6f83c4712fc2bc0ae9c7d1bf7295e10e5e020",
-  "nota": "copia automatica Compras->Almacen (compras-copia-almacen.js) rebaseado sobre catalogo unico SAE; SIN reinicio, pendiente del reinicio de BeeBags",
-  "fecha": "2026-10-29T22:42:04.675Z",
+  "paquete": "p-261029-1645-a473",
+  "sha256": "46464b0468174b1b7aefa5b7b863c91e1d63585cbffd777e5797f5383dfabc78",
+  "nota": "Almacén: jobs de lectura ar29-* (permisos Artemia, solo lectura, sin reinicio)",
+  "fecha": "2026-10-29T22:45:35.926Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 14,
   "reinicio": false,
   "pausado": false
 }
