@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1227-808a",
-  "sha256": "752819ba094b15fc3515e15116b0c2f6bcb721af49952b0eb32a7cbd2f4d50a3",
-  "nota": "limpieza jobs lp29 (stubs vacios, sin reinicio)",
-  "fecha": "2026-10-29T18:27:55.631Z",
+  "paquete": "p-261029-1229-57ef",
+  "sha256": "623367b713c3d349ea6c5a50993092612f07be4b6906aec18b610baa023996cd",
+  "nota": "SERIOS lectura viva compras-publico.js (jobs, sin reinicio)",
+  "fecha": "2026-10-29T18:29:26.957Z",
   "autor": "alex",
-  "archivos": 21,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
