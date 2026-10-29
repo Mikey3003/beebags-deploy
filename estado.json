@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1648-56c0",
-  "sha256": "adcd897e5e9650e2a1dd90241e3d544a47e840d01dc2408e31dfeb8ec8c1c2b8",
-  "nota": "Almacén: Artemia puede registrar movimientos (permisos.json extra almacen + puedeMoverAlmacen honra extra). SIN reinicio: entra con el reinicio pendiente",
-  "fecha": "2026-10-29T22:48:44.718Z",
+  "paquete": "p-261029-1650-5399",
+  "sha256": "8f373c789a34e0a4b824e653886fedf7d1dee6db4b22bd78dfdf1f30ff14f760",
+  "nota": "pedido-me: 'N rollos de COLOR y N rollos de COLOR' en una linea (MEP perdido 29 oct)",
+  "fecha": "2026-10-29T22:50:18.223Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
