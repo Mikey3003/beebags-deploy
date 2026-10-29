@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1241-5b6b",
-  "sha256": "328c1bf6a4941e9b0beb08b8f14301a79913a3b2842160760f4cce0302d35208",
-  "nota": "reporte tela: kilos pendientes (CSV+PDF); limpia jobs kg29 (CON reinicio, anunciado)",
-  "fecha": "2026-10-29T18:41:35.388Z",
+  "paquete": "p-261029-1246-94f9",
+  "sha256": "5d81ed1aa40962b10293641aa3efeeb3557ebc16b9f05a3acf76105b251f73bd",
+  "nota": "Almacén: «Subproducto» → «Datos adicionales» (sólo etiqueta en recepciones.js, ?v=20261029a; sin reinicio)",
+  "fecha": "2026-10-29T18:46:45.788Z",
   "autor": "alex",
-  "archivos": 10,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
