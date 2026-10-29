@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1232-940d",
-  "sha256": "96ee60ebb9958d8f51ac017309dd1f7397c4e4d3db520fb1a9ae009b117bf108",
-  "nota": "SERIOS: areas SEKA y SOM (RECICLADO E INYECCION) en requisicion.html (link publico filtra por lo que acepta el server); limpia jobs ar29 (sin reinicio)",
-  "fecha": "2026-10-29T18:32:17.355Z",
+  "paquete": "p-261029-1236-a0e8",
+  "sha256": "b7c6b7d8d9e12864f0cbed5f746684e769c0756ce639781b466d162643869cb0",
+  "nota": "SERIOS: lectura previa compras-publico.js (jobs ar29, sin reinicio)",
+  "fecha": "2026-10-29T18:36:15.844Z",
   "autor": "alex",
-  "archivos": 3,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
