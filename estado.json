@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1449-6996",
-  "sha256": "8dfff4476f43d79a69a1a030dfd39a817731029e3abeb6e8d63066ad94f4a654",
-  "nota": "Lectura (solo lee): solicitudes.js, correcciones-reglas.js, corregir.js y conteo de solicitudes 30 dias",
-  "fecha": "2026-10-29T20:49:21.998Z",
+  "paquete": "p-261029-1451-a0df",
+  "sha256": "800f24b91aebe2e54e25aecc3fd079d701f30c9021bec89c9ed3ce4f3c29fc86",
+  "nota": "Lectura (solo lee): conteo de solicitudes 30 dias (reintento)",
+  "fecha": "2026-10-29T20:51:41.135Z",
   "autor": "alex",
-  "archivos": 23,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
