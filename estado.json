@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261028-1808-4ce7",
-  "sha256": "9220dee498c9bf77ee3306f25d65967fdd928c45b9dc7997e8ba87cd440abb3d",
-  "nota": "Almacen: tipos de movimiento con codigo 101-208/300 (Registrar), campos nuevos en Formularios de Registro. Autorizo Miguel 28-oct",
-  "fecha": "2026-10-29T00:08:55.463Z",
+  "paquete": "p-261029-0909-cf20",
+  "sha256": "654a0059fa993ef0f923d0d543f461f025b395726d09789aea17fb4af1ad9d85",
+  "nota": "seguridad: lectura bbseg-dspsub0,bbseg-dspsub1",
+  "fecha": "2026-10-29T15:09:44.378Z",
   "autor": "alex_",
-  "archivos": 7,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
