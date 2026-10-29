@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1250-36fb",
-  "sha256": "283546da8f9cdcfce798bcc9993c64ad55bb847323594d33cc336a835044a85d",
-  "nota": "SERIOS: Compras/requisicion «subproductos/subservicios» → «Datos adicionales» (solo texto en pantalla; ids, rutas y datos sin cambio) + job lectura da29-scan (sin reinicio)",
-  "fecha": "2026-10-29T18:50:32.674Z",
+  "paquete": "p-261029-1251-5e86",
+  "sha256": "ec90a489372a897d03169e7ce6f2adcc122316e297f0dd6b27514a46ca7fa00b",
+  "nota": "SERIOS: limpia job lectura da29-scan (sin reinicio)",
+  "fecha": "2026-10-29T18:51:16.149Z",
   "autor": "alex",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
