@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1535-2f20",
-  "sha256": "191ec0ae8c5116a08ac6437767ce536a12157550e8ba5a26a27e83e04cf4cb96",
-  "nota": "Compras: lectura compras-tipos + scan servicios/almacén + sha CxP (solo lectura, sin reinicio)",
-  "fecha": "2026-10-29T21:35:42.510Z",
+  "paquete": "p-261029-1541-1d7b",
+  "sha256": "db426e94e49ac976ac07791d8621db960d8f5b3a4f4aa015786073d040ef5672",
+  "nota": "Compras: vaciar jobs de lectura sv* (sin reinicio)",
+  "fecha": "2026-10-29T21:41:00.789Z",
   "autor": "alex",
   "archivos": 6,
   "reinicio": false,
