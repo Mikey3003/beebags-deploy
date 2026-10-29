@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1219-89c6",
-  "sha256": "80983155698b174ba236dbf7d603ce4eb8c9d4039abbc2fae0d0dcaf36acdd1a",
-  "nota": "lectura viva pedidos.js+index.js (jobs, sin reinicio)",
-  "fecha": "2026-10-29T18:19:36.194Z",
+  "paquete": "p-261029-1223-5a50",
+  "sha256": "d82ed9380c704c07c17ac1da2368d1bbee34e9578088423ef6589508e6985ecd",
+  "nota": "lectura viva tipos-movimiento.js (jobs, sin reinicio)",
+  "fecha": "2026-10-29T18:23:26.015Z",
   "autor": "alex",
-  "archivos": 18,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
