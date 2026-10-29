@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1411-208d",
-  "sha256": "875985e222a2cd4f49d83f259c1074d992d35c98694b27280bbe38b7b7ac92b4",
-  "nota": "Compras: jobs de lectura CxP/devoluciones lote A (solo lectura, sin reinicio)",
-  "fecha": "2026-10-29T20:11:21.612Z",
+  "paquete": "p-261029-1414-03d0",
+  "sha256": "ac7f129c78ab040ce744f03f413d8269561aab3e038b202580b74c63f9fe7f9b",
+  "nota": "Compras: lectura tipos-movimiento (solo lectura) + stubs de jobs lote A, sin reinicio",
+  "fecha": "2026-10-29T20:14:34.001Z",
   "autor": "alex",
   "archivos": 15,
   "reinicio": false,
