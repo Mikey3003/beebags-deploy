@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1606-a03d",
-  "sha256": "b00d1a04536ff1d8151896a26c540f54c3c9b3e7fc111327cc2ad9f513d64c4f",
-  "nota": "Almacén: vaciar jobs de lectura ga29-* grupo 2/2 (sin reinicio)",
-  "fecha": "2026-10-29T22:06:29.376Z",
+  "paquete": "p-261029-1611-501d",
+  "sha256": "cdb22b65ffa3f2d97940d1ee6d708f21428a38268db3ed4b97307ae59ddf86bb",
+  "nota": "Compras: CxP menos devoluciones (205 − 104) + en el almacén sin servicios (en-camino/programacion) — sin reinicio",
+  "fecha": "2026-10-29T22:11:57.988Z",
   "autor": "alex",
-  "archivos": 48,
+  "archivos": 5,
   "reinicio": false,
   "pausado": false
 }
