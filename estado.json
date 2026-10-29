@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1533-69b9",
-  "sha256": "57a2d27d1f58076e110d8c4724fa1ca1ee39fd5e9fd38b46a0bb8cb2491a4191",
-  "nota": "Almacén: campos OC Compras (rec id / folio / línea) para 205 en tipos-movimiento-conf (solo data, sin reinicio; el server los usa tras el reinicio)",
-  "fecha": "2026-10-29T21:33:13.602Z",
+  "paquete": "p-261029-1535-2f20",
+  "sha256": "191ec0ae8c5116a08ac6437767ce536a12157550e8ba5a26a27e83e04cf4cb96",
+  "nota": "Compras: lectura compras-tipos + scan servicios/almacén + sha CxP (solo lectura, sin reinicio)",
+  "fecha": "2026-10-29T21:35:42.510Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 6,
   "reinicio": false,
   "pausado": false
 }
