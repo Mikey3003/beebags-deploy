@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-0948-99fb",
-  "sha256": "70624947435ce7f9b359e8d3067432735ccb98b52929419bc92f1f4a6b90ef48",
-  "nota": "seguridad: lectura bbseg-dspat0,bbseg-dspat1,bbseg-dspat2...",
-  "fecha": "2026-10-29T15:48:09.964Z",
+  "paquete": "p-261029-0950-5f75",
+  "sha256": "27a68975e2fd0dd2d0cd39f2309a77c7f6ba3d48d92328316d07da3a964d87a8",
+  "nota": "Almacen: subproductos de Compras en recepcion/movimientos/vales (SUBPROD-ALM 29oct)",
+  "fecha": "2026-10-29T15:50:39.589Z",
   "autor": "alex_",
-  "archivos": 13,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
