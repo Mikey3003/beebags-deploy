@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1358-0488",
-  "sha256": "3be797fb8f6dec4b564151aa4128aed47587db93a161773de24838d1d573b7f8",
-  "nota": "limpieza jobs au29 (stubs vacios, sin reinicio)",
-  "fecha": "2026-10-29T19:58:31.159Z",
+  "paquete": "p-261029-1402-e9aa",
+  "sha256": "6c27a06d070101bb312991f676eb09d1169310ad44159f36e2e22d1c434edd24",
+  "nota": "Almacén: dibujo nuevo + foto real al lado en todas las listas/selectores, renglón de datos (bolsas-icono v20261029b)",
+  "fecha": "2026-10-29T20:02:29.952Z",
   "autor": "alex",
-  "archivos": 43,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
