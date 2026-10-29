@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1346-da21",
-  "sha256": "5abd89ffb7f59892b066bb5da416847c870b5ac2f3eb7ff29fd5a9cb3e635683",
-  "nota": "Almacén: un solo Registrar movimiento; tipos con código (101-208, 300) integrados en el paso 2 (web, sin reinicio). Autorizo Miguel 29-oct",
-  "fecha": "2026-10-29T19:46:53.418Z",
+  "paquete": "p-261029-1353-ddbc",
+  "sha256": "f196bb9e3c21165625ab82f8eb41d448b36546b24a3c4f6efb1b0041adf042a3",
+  "nota": "Cotizacion especial: Direccion cotiza solo con el nombre",
+  "fecha": "2026-10-29T19:53:17.533Z",
   "autor": "alex",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
