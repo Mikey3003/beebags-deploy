@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1544-2f61",
-  "sha256": "d9eb8f333ac1fdd9fcedad975f39bc06fd99e6c6a02db8adc5c1f6eed4b0696b",
-  "nota": "Compras: lectura compras-cronologia + scan web en-camino/programacion (solo lectura, sin reinicio)",
-  "fecha": "2026-10-29T21:44:55.966Z",
+  "paquete": "p-261029-1549-df1d",
+  "sha256": "1b6f626e020b199abef35770b00b7c5813856c4e07488bc7ace3c78bd3813e4d",
+  "nota": "Compras: vaciar jobs de lectura svcro/svscan (sin reinicio)",
+  "fecha": "2026-10-29T21:49:25.873Z",
   "autor": "alex",
   "archivos": 5,
   "reinicio": false,
