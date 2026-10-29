@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1549-df1d",
-  "sha256": "1b6f626e020b199abef35770b00b7c5813856c4e07488bc7ace3c78bd3813e4d",
-  "nota": "Compras: vaciar jobs de lectura svcro/svscan (sin reinicio)",
-  "fecha": "2026-10-29T21:49:25.873Z",
+  "paquete": "p-261029-1551-dc28",
+  "sha256": "1e877e0e8af1c84d594983a6ca75aab7bf487d43b83c71b420f11008329449f1",
+  "nota": "Almacén: jobs de lectura ga29-* (solo lectura, sin reinicio) para armar el paquete de reinicio",
+  "fecha": "2026-10-29T21:51:54.343Z",
   "autor": "alex",
-  "archivos": 5,
+  "archivos": 86,
   "reinicio": false,
   "pausado": false
 }
