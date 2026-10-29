@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1117-2611",
-  "sha256": "73927b1f867a3c2d68a2f28b1fb9e59c9b0b1cd6d24a5894cd57fc281b7c6251",
-  "nota": "FIX entradas/salidas: movimientos.js ya no esconde la captura de siempre (pedido + codigo de barras); almacen2d.html v=20261029b",
-  "fecha": "2026-10-29T17:17:05.158Z",
+  "paquete": "p-261029-1134-035f",
+  "sha256": "687d7969f2fcf662ced3cdcba3d6c62fdce3334ceeec0a6f5427300ea82c0d58",
+  "nota": "Kg pendientes en reportes de tela (Barrios): kg-tela.js nuevo + pedidos2d (tabla/tarjetas/detalle/cliente) + spunbond-panel (Nueva OP); formula Kilogramos de Airtable; sin reinicio",
+  "fecha": "2026-10-29T17:34:19.482Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
