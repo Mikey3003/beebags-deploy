@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1353-ddbc",
-  "sha256": "f196bb9e3c21165625ab82f8eb41d448b36546b24a3c4f6efb1b0041adf042a3",
-  "nota": "Cotizacion especial: Direccion cotiza solo con el nombre",
-  "fecha": "2026-10-29T19:53:17.533Z",
+  "paquete": "p-261029-1355-6ed2",
+  "sha256": "e2fcf467856898f29834bacf7566b0296763b1683c767851e34b8d365df12c04",
+  "nota": "Almacén: lectura (sin reinicio) almacen-cerebro/ajustes/conteo/airtable/tipos-movimiento-conf para auditoría de Registrar movimiento (jobs au29)",
+  "fecha": "2026-10-29T19:55:18.695Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 43,
+  "reinicio": false,
   "pausado": false
 }
