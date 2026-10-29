@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1451-a0df",
-  "sha256": "800f24b91aebe2e54e25aecc3fd079d701f30c9021bec89c9ed3ce4f3c29fc86",
-  "nota": "Lectura (solo lee): conteo de solicitudes 30 dias (reintento)",
-  "fecha": "2026-10-29T20:51:41.135Z",
+  "paquete": "p-261029-1454-5cba",
+  "sha256": "beea8ad5c1e980e996e62ad4d58f814432c0fbe4572bd91add3edd98a43fb984",
+  "nota": "Lectura (solo lee): conteo de solicitudes 30 dias (en trozos)",
+  "fecha": "2026-10-29T20:54:46.937Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 7,
   "reinicio": false,
   "pausado": false
 }
