@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1654-f54b",
-  "sha256": "f09aadc22498a6f376a2a1daf093c28d8b056a72de6f2c3a32b635ff7fbea752",
-  "nota": "wa-miguel: lectura post-reinicio (sha compras/pedido-me, log WA) sin reinicio",
-  "fecha": "2026-10-29T22:54:09.380Z",
+  "paquete": "p-261029-1656-75ed",
+  "sha256": "e0ea875cecec7bc71b8da997c753204e5cc905b0913405b456d0310b6ab22e69",
+  "nota": "WA-ME: jobs de lectura wm29-* (solo lectura, sin reinicio)",
+  "fecha": "2026-10-29T22:56:39.702Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 38,
   "reinicio": false,
   "pausado": false
 }
