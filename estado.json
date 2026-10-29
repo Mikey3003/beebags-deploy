@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1134-035f",
-  "sha256": "687d7969f2fcf662ced3cdcba3d6c62fdce3334ceeec0a6f5427300ea82c0d58",
-  "nota": "Kg pendientes en reportes de tela (Barrios): kg-tela.js nuevo + pedidos2d (tabla/tarjetas/detalle/cliente) + spunbond-panel (Nueva OP); formula Kilogramos de Airtable; sin reinicio",
-  "fecha": "2026-10-29T17:34:19.482Z",
+  "paquete": "p-261029-1206-e4c2",
+  "sha256": "455fc8d7839ad7994475a5de52d4921e305f6ff2735a59a29cdc9c7d5704fe76",
+  "nota": "Almacen: boton Descargar existencias (Excel) en Por producto (existencias-excel.js + SheetJS vendored xlsx.full.min.js, client-side); almacen2d.html +1 script tag; sin reinicio",
+  "fecha": "2026-10-29T18:06:58.059Z",
   "autor": "alex",
   "archivos": 3,
   "reinicio": false,
