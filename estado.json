@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1309-b0a8",
-  "sha256": "388bbc34c63e6d91e82b0a8ef1a68827bbd9d80c59693aa90c1982a587efb677",
-  "nota": "SERIOS: area SOM 360 (antes SOM (RECICLADO E INYECCION)) en requisicion.html; limpia jobs s3 (sin reinicio)",
-  "fecha": "2026-10-29T19:09:58.571Z",
+  "paquete": "p-261029-1311-c607",
+  "sha256": "fd82447c7f16bee7c951fc159c2cd789f799663426fb043ace05a5cb5ab4cc13",
+  "nota": "SERIOS: SOM 360 en whitelist link publico (compras-publico.js) + textos «dato adicional» en compras-subproductos.js (error) y compras.js (etiqueta OC) (CON reinicio, anunciado)",
+  "fecha": "2026-10-29T19:11:17.994Z",
   "autor": "alex",
-  "archivos": 16,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
