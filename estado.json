@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1551-dc28",
-  "sha256": "1e877e0e8af1c84d594983a6ca75aab7bf487d43b83c71b420f11008329449f1",
-  "nota": "Almacén: jobs de lectura ga29-* (solo lectura, sin reinicio) para armar el paquete de reinicio",
-  "fecha": "2026-10-29T21:51:54.343Z",
+  "paquete": "p-261029-1600-229a",
+  "sha256": "027b6d12b722f74517850f3fb0b93968745e44d509675537fd0e8b979bd44c5c",
+  "nota": "Almacén: jobs de lectura ga29-* grupo 1/2 (solo lectura, sin reinicio)",
+  "fecha": "2026-10-29T22:00:19.258Z",
   "autor": "alex",
-  "archivos": 86,
+  "archivos": 38,
   "reinicio": false,
   "pausado": false
 }
