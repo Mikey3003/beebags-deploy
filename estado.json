@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1307-ec30",
-  "sha256": "a311e4ae66e5c9cfee1c2c5ac36093e4197cae32c873d2619be1fe5a61c404c8",
-  "nota": "SERIOS: lectura previa compras-publico/compras-subproductos/compras.js (jobs s3, sin reinicio)",
-  "fecha": "2026-10-29T19:07:50.550Z",
+  "paquete": "p-261029-1309-b0a8",
+  "sha256": "388bbc34c63e6d91e82b0a8ef1a68827bbd9d80c59693aa90c1982a587efb677",
+  "nota": "SERIOS: area SOM 360 (antes SOM (RECICLADO E INYECCION)) en requisicion.html; limpia jobs s3 (sin reinicio)",
+  "fecha": "2026-10-29T19:09:58.571Z",
   "autor": "alex",
-  "archivos": 15,
+  "archivos": 16,
   "reinicio": false,
   "pausado": false
 }
