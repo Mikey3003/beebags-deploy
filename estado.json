@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1315-9472",
-  "sha256": "aff7e2f20a0187c36138b6ab63225b45902db0dd45d548fad1b34f9df82d0ef8",
-  "nota": "Almacén: áreas internas SIGLO XXI / SEKA / SOM 360 en salidas (mp-control + tipos-movimiento), vista Consumos por área (consumos-area.js), obs recepción «Datos adicionales:»; limpia jobs ar13 (CON reinicio, anunciado)",
-  "fecha": "2026-10-29T19:15:59.634Z",
+  "paquete": "p-261029-1317-8cc1",
+  "sha256": "1e8a8b797673db7837782e19579d75d7a1b4427e794f9d3077b31c5a6b8748db",
+  "nota": "Almacén: dibujos de producto estilo campaña (bolsas lisas en su color), bolsas-icono.js — aprobado por Mikey (sin reinicio)",
+  "fecha": "2026-10-29T19:17:49.360Z",
   "autor": "alex",
-  "archivos": 24,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
