@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1600-229a",
-  "sha256": "027b6d12b722f74517850f3fb0b93968745e44d509675537fd0e8b979bd44c5c",
-  "nota": "Almacén: jobs de lectura ga29-* grupo 1/2 (solo lectura, sin reinicio)",
-  "fecha": "2026-10-29T22:00:19.258Z",
+  "paquete": "p-261029-1601-1e88",
+  "sha256": "2c3f08b17101b36e929c77ef98f65d96cf15a6256c2df5865c1431f5f735fbdf",
+  "nota": "Almacén: vaciar jobs de lectura ga29-* grupo 1/2 (sin reinicio)",
+  "fecha": "2026-10-29T22:01:59.620Z",
   "autor": "alex",
   "archivos": 38,
   "reinicio": false,
