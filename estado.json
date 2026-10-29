@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1419-1c50",
-  "sha256": "01d8759053df49dede2a4d511c8a89436b9faab12697ab2df361437c50a6bc96",
-  "nota": "Compras: stubs de jobs de lectura cxp (sin reinicio)",
-  "fecha": "2026-10-29T20:19:26.268Z",
+  "paquete": "p-261029-1423-3cea",
+  "sha256": "5ba828a7c787e12530b5bd6081f34259124b495b6bee3e772ffd6f97dc6d84f2",
+  "nota": "Spunbond: solicitud de insumos para turno (noche/fin de semana) en Almacen Spunbond, aviso antes del cierre, Sin solicitud y reporte para Artemia",
+  "fecha": "2026-10-29T20:23:25.809Z",
   "autor": "alex",
-  "archivos": 14,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
