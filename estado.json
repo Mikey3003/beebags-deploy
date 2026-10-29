@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1529-a09b",
-  "sha256": "bbe4fa661431653edfbaebb7c3e5f4437970d41ce1f8529330cbf7ce67e8059d",
-  "nota": "Almacén: Registrar movimiento v3 — 205 Regreso a proveedor (OC de Compras, tope recibido, ocId+línea OC), devoluciones en cachos 103/104/205/206 con tope entregado−devuelto, candado bolsas/rollos en 205/206. Solo web+data, sin reinicio",
-  "fecha": "2026-10-29T21:29:33.541Z",
+  "paquete": "p-261029-1533-69b9",
+  "sha256": "57a2d27d1f58076e110d8c4724fa1ca1ee39fd5e9fd38b46a0bb8cb2491a4191",
+  "nota": "Almacén: campos OC Compras (rec id / folio / línea) para 205 en tipos-movimiento-conf (solo data, sin reinicio; el server los usa tras el reinicio)",
+  "fecha": "2026-10-29T21:33:13.602Z",
   "autor": "alex",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
