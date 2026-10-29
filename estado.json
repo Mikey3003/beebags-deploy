@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1311-c607",
-  "sha256": "fd82447c7f16bee7c951fc159c2cd789f799663426fb043ace05a5cb5ab4cc13",
-  "nota": "SERIOS: SOM 360 en whitelist link publico (compras-publico.js) + textos «dato adicional» en compras-subproductos.js (error) y compras.js (etiqueta OC) (CON reinicio, anunciado)",
-  "fecha": "2026-10-29T19:11:17.994Z",
+  "paquete": "p-261029-1313-f145",
+  "sha256": "916f2965b7d42c204caf4b1d77fd673405bfb55292a932f123bedd6f78cf6ddd",
+  "nota": "Almacén: lectura (sin reinicio) de src/index.js, tipos-movimiento.js, mp-control.js para rebase",
+  "fecha": "2026-10-29T19:13:32.732Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 18,
+  "reinicio": false,
   "pausado": false
 }
