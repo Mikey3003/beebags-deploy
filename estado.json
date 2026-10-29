@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1621-221f",
-  "sha256": "e29c1e915e8ef7e34bfe45b8dc10072350bce4375cc3a67a4424a41adcc9a42a",
-  "nota": "Lectura (jobs) compras-alta/directa + scan para copia Compras→Almacén — sin reinicio",
-  "fecha": "2026-10-29T22:21:49.807Z",
+  "paquete": "p-261029-1623-1e31",
+  "sha256": "90c1c5562793bb3f09cf4ee0ec9fc11a909dab48657d6531292d6820d2375026",
+  "nota": "Vaciar jobs de lectura copia-almacen (caalta/cadir/cascan) — sin reinicio",
+  "fecha": "2026-10-29T22:23:21.874Z",
   "autor": "alex",
   "archivos": 10,
   "reinicio": false,
