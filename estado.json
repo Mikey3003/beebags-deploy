@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1239-ea59",
-  "sha256": "8149a789ac432e42d47c2267ee15640110da398163713cd2fb689312212f69cf",
-  "nota": "lectura: sha pedidos.js + src/mp-control.js (jobs kg29, sin reinicio)",
-  "fecha": "2026-10-29T18:39:23.634Z",
+  "paquete": "p-261029-1241-5b6b",
+  "sha256": "328c1bf6a4941e9b0beb08b8f14301a79913a3b2842160760f4cce0302d35208",
+  "nota": "reporte tela: kilos pendientes (CSV+PDF); limpia jobs kg29 (CON reinicio, anunciado)",
+  "fecha": "2026-10-29T18:41:35.388Z",
   "autor": "alex",
-  "archivos": 9,
-  "reinicio": false,
+  "archivos": 10,
+  "reinicio": true,
   "pausado": false
 }
