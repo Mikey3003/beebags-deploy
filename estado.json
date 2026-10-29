@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1355-6ed2",
-  "sha256": "e2fcf467856898f29834bacf7566b0296763b1683c767851e34b8d365df12c04",
-  "nota": "Almacén: lectura (sin reinicio) almacen-cerebro/ajustes/conteo/airtable/tipos-movimiento-conf para auditoría de Registrar movimiento (jobs au29)",
-  "fecha": "2026-10-29T19:55:18.695Z",
+  "paquete": "p-261029-1358-0488",
+  "sha256": "3be797fb8f6dec4b564151aa4128aed47587db93a161773de24838d1d573b7f8",
+  "nota": "limpieza jobs au29 (stubs vacios, sin reinicio)",
+  "fecha": "2026-10-29T19:58:31.159Z",
   "autor": "alex",
   "archivos": 43,
   "reinicio": false,
