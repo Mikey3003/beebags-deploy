@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1236-a0e8",
-  "sha256": "b7c6b7d8d9e12864f0cbed5f746684e769c0756ce639781b466d162643869cb0",
-  "nota": "SERIOS: lectura previa compras-publico.js (jobs ar29, sin reinicio)",
-  "fecha": "2026-10-29T18:36:15.844Z",
+  "paquete": "p-261029-1237-fa26",
+  "sha256": "9e6cba48416a762e590631cdb3de812c14eee56994aa88a31c5260f82b05fab2",
+  "nota": "SERIOS: areas SEKA y SOM (RECICLADO E INYECCION) en whitelist del link publico de requisiciones (compras-publico.js); limpia jobs ar29 (CON reinicio, anunciado 12:34)",
+  "fecha": "2026-10-29T18:37:17.219Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
