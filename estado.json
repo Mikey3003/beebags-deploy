@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1432-446c",
-  "sha256": "5f24d0ffc57821c4fe207946c6476f9792ae5d5e8b7274f29ef405a81e645fd9",
-  "nota": "Lectura (solo lee) de src/odp-pendientes.js para el boton de meta de OP",
-  "fecha": "2026-10-29T20:32:09.829Z",
+  "paquete": "p-261029-1441-1aeb",
+  "sha256": "9a7cfa9e1a535baa9074b027086763e116a88ae549b46d9fa3992813e3b60967",
+  "nota": "Lectura (solo lee) de web/auditoria.html y web/spunbond-panel.html para el boton de meta de OP",
+  "fecha": "2026-10-29T20:41:55.903Z",
   "autor": "alex",
-  "archivos": 6,
+  "archivos": 48,
   "reinicio": false,
   "pausado": false
 }
