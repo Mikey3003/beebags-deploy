@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1859-6027",
-  "sha256": "fc789899ca620891723b1dc5a6e54ad512c14210597da4dbcdef2984916cc141",
-  "nota": "Catalogos: job de verificacion solo lectura bbcat-verif (sin reinicio)",
-  "fecha": "2026-10-30T00:59:16.240Z",
+  "paquete": "p-261029-1901-5379",
+  "sha256": "43258d763c16c69ec8be14050f469d2c1826f4a1754f000bc600b7e4675b31a0",
+  "nota": "Catalogos: vaciar job bbcat-verif (sin reinicio)",
+  "fecha": "2026-10-30T01:01:30.138Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
