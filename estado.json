@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1847-762d",
-  "sha256": "96ac31b29aae44d8008b0a21c575d427e9325eb6347dfb9b46ceeff0e85bc28b",
-  "nota": "Catalogos: vaciar jobs bbcat parte 2 (sin reinicio)",
-  "fecha": "2026-10-30T00:47:11.574Z",
+  "paquete": "p-261029-1848-7a1a",
+  "sha256": "529e56d70df55889763691561523ef3943c143fb521096cc225ab616bd046648",
+  "nota": "WA-ME: job sha wm29-sha (solo lectura, sin reinicio)",
+  "fecha": "2026-10-30T00:48:48.680Z",
   "autor": "alex",
-  "archivos": 7,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
