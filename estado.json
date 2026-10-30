@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1902-f3af",
-  "sha256": "a4600a50649691dcb1e5333b688a2b6b8bbf455a4fc1d767e6d10baa50e4e32d",
-  "nota": "Catalogos 30oct: jobs solo lectura cat30 (leer compras.js y compras-genericos.js vivos, sin reinicio)",
-  "fecha": "2026-10-30T01:02:38.586Z",
+  "paquete": "p-261029-1905-c1de",
+  "sha256": "1976603dc26d6bc4779149271e0af15e54f0b0b63937e08b50fa8967cd9c41a7",
+  "nota": "Catalogos API (compra + proveedores) + proveedores inactivos fuera del selector de Compras + Airtable gana sobre SAE, 30 oct (SIN reinicio: inteligencia/ entra en el proximo reinicio)",
+  "fecha": "2026-10-30T01:05:47.914Z",
   "autor": "alex",
-  "archivos": 10,
+  "archivos": 14,
   "reinicio": false,
   "pausado": false
 }
