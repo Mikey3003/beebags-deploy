@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1923-ac33",
-  "sha256": "d34aa3c3ff4a40d8dfe410e1c6fc43511642cda08e9722f8043e2528083baebb",
-  "nota": "Catalogos: restaurar web/cerebro.html ORIGINAL (282154 b, sha 52e7a37c, del respaldo de p-261029-1910-e08c) + vaciar jobs bbcbk; sin reinicio",
-  "fecha": "2026-10-30T01:23:08.943Z",
+  "paquete": "p-261029-1927-3aa7",
+  "sha256": "b73cf4a00f8e1affad164a44e13ace336f689551c961bde37d5bf9e79d01450c",
+  "nota": "Catalogos: jobs SOLO LECTURA (index.js + hashes) para desplegar provalm (sin reinicio)",
+  "fecha": "2026-10-30T01:27:35.049Z",
   "autor": "alex",
-  "archivos": 16,
+  "archivos": 13,
   "reinicio": false,
   "pausado": false
 }
