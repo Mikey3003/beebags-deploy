@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261030-1321-1609",
-  "sha256": "e465ca79b5b46aa7582fe20dd22789875e349c9a397e01eeb341714a7dff4285",
-  "nota": "catalogos-ui 30oct-e: pedidos clicables + detalle (/api/pedidos2d/detalle) + Editar modelo por /catalogos/tela|bolsa/editar (409 confirmarSku) + aviso no-rollo + kg entregados",
-  "fecha": "2026-10-30T19:21:48.443Z",
+  "paquete": "p-261030-1330-21ad",
+  "sha256": "b68e3977b30bcd8e52631df548c22f536079d9d869a756a6e6e24b79760b1a4b",
+  "nota": "almacen2d+pedidos2d: catalogos-ui.js?v=20261030e; CE_MODELOS_CON_SK=false (Bolsas y Tela con componente SERIOS 30oct-e). Solo web, sin reinicio.",
+  "fecha": "2026-10-30T19:30:23.644Z",
   "autor": "alex",
   "archivos": 2,
   "reinicio": false,
