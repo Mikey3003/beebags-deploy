@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1905-c1de",
-  "sha256": "1976603dc26d6bc4779149271e0af15e54f0b0b63937e08b50fa8967cd9c41a7",
-  "nota": "Catalogos API (compra + proveedores) + proveedores inactivos fuera del selector de Compras + Airtable gana sobre SAE, 30 oct (SIN reinicio: inteligencia/ entra en el proximo reinicio)",
-  "fecha": "2026-10-30T01:05:47.914Z",
+  "paquete": "p-261029-1910-e08c",
+  "sha256": "adbfb492ec7513cfd09459c0215051bce329cd606b9a47c2ff765ec11d98d317",
+  "nota": "Catalogos BeeBags: vende+clientes + catalogos.html + menu cerebro (con reinicio; carga tambien catalogos.js de SERIOS)",
+  "fecha": "2026-10-30T01:10:29.563Z",
   "autor": "alex",
-  "archivos": 14,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
