@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1315-26ea",
-  "sha256": "43e50dfe90c5a51f39c8b6d77ed3036c72387a96284350c7c95a9d8a49b1b1eb",
-  "nota": "catalogos tela/bolsa: posibleNoRollo + pedidos en leer + editar con lista blanca y auditoria (Direccion)",
-  "fecha": "2026-10-30T19:15:56.892Z",
+  "paquete": "p-261030-1321-1609",
+  "sha256": "e465ca79b5b46aa7582fe20dd22789875e349c9a397e01eeb341714a7dff4285",
+  "nota": "catalogos-ui 30oct-e: pedidos clicables + detalle (/api/pedidos2d/detalle) + Editar modelo por /catalogos/tela|bolsa/editar (409 confirmarSku) + aviso no-rollo + kg entregados",
+  "fecha": "2026-10-30T19:21:48.443Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 2,
+  "reinicio": false,
   "pausado": false
 }
