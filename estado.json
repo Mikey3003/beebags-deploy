@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1152-a7fc",
-  "sha256": "f7d2bb3d07870729e98e25b2abfcadf4b3b21265d76da17f9bfe34d580cbba0c",
-  "nota": "almacen2d: iconos #skProdSeg = set t* de catalogos-ui.js 30oct-d (bolsa, tela, proveedores; solo web)",
-  "fecha": "2026-10-30T17:52:54.520Z",
+  "paquete": "p-261030-1315-26ea",
+  "sha256": "43e50dfe90c5a51f39c8b6d77ed3036c72387a96284350c7c95a9d8a49b1b1eb",
+  "nota": "catalogos tela/bolsa: posibleNoRollo + pedidos en leer + editar con lista blanca y auditoria (Direccion)",
+  "fecha": "2026-10-30T19:15:56.892Z",
   "autor": "alex",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
