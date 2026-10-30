@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1929-1ac3",
-  "sha256": "ae1b41936f6f3c98d52897f91a308470c4487caaa9ae1d9dbef7cb5db52b768f",
-  "nota": "Almacen2D: proveedores desde catalogo de Compras + ruta /api/almacen2d/proveedor-de-compras (+vaciar jobs bbpa)",
-  "fecha": "2026-10-30T01:29:57.747Z",
+  "paquete": "p-261029-2218-7221",
+  "sha256": "8c9c03f52dd3f4a2560143d02f14e5e9f0a92eb5aebe93b325453b19e90cb0c4",
+  "nota": "Catálogos v2: todo (activos+inactivos, sin tope) + productos de Almacén integrados, diseño Almacén 2D",
+  "fecha": "2026-10-30T04:18:55.974Z",
   "autor": "alex",
-  "archivos": 16,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
