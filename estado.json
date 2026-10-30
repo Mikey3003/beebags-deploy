@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1034-e2ba",
-  "sha256": "031ddc84f338b625da141a31243bd6d15038e70c953c038bc3aa8c887281bd6f",
-  "nota": "catalogos-ui 30oct-b: 403/404 de lectura = 'disponible tras el reinicio' (servidor viejo)",
-  "fecha": "2026-10-30T16:34:41.089Z",
+  "paquete": "p-261030-1042-5041",
+  "sha256": "6b1f1463b6887ffdfdf97dffb95a76833b7c050717995173a865e7d6e39a6823",
+  "nota": "catalogo general: rutas bolsa y tela + almacen2d monta catalogos-ui (5 pestanas)",
+  "fecha": "2026-10-30T16:42:15.621Z",
   "autor": "alex",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
