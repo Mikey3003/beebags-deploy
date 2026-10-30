@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1912-8230",
-  "sha256": "656b27337b112f03e00ffc79f6d4a7cdd8e0dd175037f447336340a4e19daf75",
-  "nota": "Catalogos: enlaces del menu en web/cerebro2.html (el que sirve /cerebro.html), sin reinicio",
-  "fecha": "2026-10-30T01:12:11.655Z",
+  "paquete": "p-261029-1919-da35",
+  "sha256": "de17aeff8a949858eecc2e3c1be400726b2ca193f3f5814d6916ff8de5e09c05",
+  "nota": "Catalogos: jobs SOLO LECTURA para ubicar respaldo de web/cerebro.html (sin reinicio)",
+  "fecha": "2026-10-30T01:19:24.598Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 15,
   "reinicio": false,
   "pausado": false
 }
