@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1109-a6ab",
-  "sha256": "d8c4394108e619cc9bdadf9d37607d261de2c22655fa1854a2e78be4c64cf837",
-  "nota": "catalogos-ui 30oct-c: paridad Bolsas/Tela con Catálogo de SKUs (destacados, filtros, orden Más pedidos, color en foto, total real) + compra-almacen en Origen (Posible pareja, 404 silencioso, sin pestaña)",
-  "fecha": "2026-10-30T17:09:37.524Z",
+  "paquete": "p-261030-1120-1298",
+  "sha256": "d90989e31f712a029fbca0ee2876af6c0c649e164068a8bb28357ceef492e769",
+  "nota": "almacen2d: catalogos-ui v=20261030c + fuenteAlmacen compra-almacen (404 silencioso hasta reinicio); Bolsas/Tela siguen con SK (solo web)",
+  "fecha": "2026-10-30T17:20:53.814Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
