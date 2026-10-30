@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1846-d865",
-  "sha256": "78e20097e5a368c2edfb3fcdb324766ecde1d79c4e1b1a499c3b23bfe2358ee0",
-  "nota": "Catalogos: vaciar jobs bbcat parte 1 (sin reinicio)",
-  "fecha": "2026-10-30T00:46:46.595Z",
+  "paquete": "p-261029-1847-762d",
+  "sha256": "96ac31b29aae44d8008b0a21c575d427e9325eb6347dfb9b46ceeff0e85bc28b",
+  "nota": "Catalogos: vaciar jobs bbcat parte 2 (sin reinicio)",
+  "fecha": "2026-10-30T00:47:11.574Z",
   "autor": "alex",
-  "archivos": 45,
+  "archivos": 7,
   "reinicio": false,
   "pausado": false
 }
