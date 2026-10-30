@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1833-67b9",
-  "sha256": "57b9afce9b36d97350a9346a0602aa1ff4485ff0b40304a9c681b87fed45f18f",
-  "nota": "WA-ME: vaciar jobs de lectura wm29-l3 parte 3 (sin reinicio)",
-  "fecha": "2026-10-30T00:33:13.326Z",
+  "paquete": "p-261029-1840-bdc5",
+  "sha256": "5e95aee12afe1c3edcd6133163e0c076853479369aee6c80dc5c833fe1a74b0f",
+  "nota": "Catalogos: jobs de lectura bbcat parte 1 (solo lectura, sin reinicio)",
+  "fecha": "2026-10-30T00:40:54.794Z",
   "autor": "alex",
-  "archivos": 23,
+  "archivos": 45,
   "reinicio": false,
   "pausado": false
 }
