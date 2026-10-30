@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-2218-7221",
-  "sha256": "8c9c03f52dd3f4a2560143d02f14e5e9f0a92eb5aebe93b325453b19e90cb0c4",
-  "nota": "Catálogos v2: todo (activos+inactivos, sin tope) + productos de Almacén integrados, diseño Almacén 2D",
-  "fecha": "2026-10-30T04:18:55.974Z",
+  "paquete": "p-261029-2224-5a4c",
+  "sha256": "b6942e1332ba5f80bd95d1b068de8a903ab840c4a4eda9c19696f58fc328d2ba",
+  "nota": "Catalogos v2: todo (activos+inactivos, sin tope) + productos de Almacen integrados, diseno Almacen 2D",
+  "fecha": "2026-10-30T04:24:44.786Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
