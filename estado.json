@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1910-e08c",
-  "sha256": "adbfb492ec7513cfd09459c0215051bce329cd606b9a47c2ff765ec11d98d317",
-  "nota": "Catalogos BeeBags: vende+clientes + catalogos.html + menu cerebro (con reinicio; carga tambien catalogos.js de SERIOS)",
-  "fecha": "2026-10-30T01:10:29.563Z",
+  "paquete": "p-261029-1912-8230",
+  "sha256": "656b27337b112f03e00ffc79f6d4a7cdd8e0dd175037f447336340a4e19daf75",
+  "nota": "Catalogos: enlaces del menu en web/cerebro2.html (el que sirve /cerebro.html), sin reinicio",
+  "fecha": "2026-10-30T01:12:11.655Z",
   "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
