@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1146-a89f",
-  "sha256": "79b2c6052c4952ab2fbe2db20a9f3b9c157032b3deed56fdbcc3f3eff50253b9",
-  "nota": "almacen2d y pedidos2d: catalogos-ui.js de SERIOS v=20261030d (solo web)",
-  "fecha": "2026-10-30T17:46:27.636Z",
+  "paquete": "p-261030-1147-aa51",
+  "sha256": "d18add022dca6a6600771bd019e981385d656096033f8fc6b31f022f00acc1e5",
+  "nota": "almacen2d: Productos/Servicios en #skProdSeg = carrito (igual a catalogos-ui.js de SERIOS, solo web)",
+  "fecha": "2026-10-30T17:47:33.458Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
