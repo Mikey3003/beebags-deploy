@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261030-1142-4cce",
-  "sha256": "94c6501163949641b26176da5f770b76353d38aea6e41425a60255c4fcc5a144",
-  "nota": "catalogos.js lectura por área: compra-almacen solo Almacén+Dirección; def.areasLeer/LEER mandan (sin reinicio; BeeBags reinicia)",
-  "fecha": "2026-10-30T17:42:18.902Z",
+  "paquete": "p-261030-1143-8750",
+  "sha256": "188af60d88e0aedc86bb00ddc1cfec6b38bbb527e8629f710c1e775231e641f3",
+  "nota": "almacen2d: iconos de la fila de catalogos (#skProdSeg) = set I.* del Almacen (solo web)",
+  "fecha": "2026-10-30T17:43:38.086Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
