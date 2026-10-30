@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261030-1120-1298",
-  "sha256": "d90989e31f712a029fbca0ee2876af6c0c649e164068a8bb28357ceef492e769",
-  "nota": "almacen2d: catalogos-ui v=20261030c + fuenteAlmacen compra-almacen (404 silencioso hasta reinicio); Bolsas/Tela siguen con SK (solo web)",
-  "fecha": "2026-10-30T17:20:53.814Z",
+  "paquete": "p-261030-1133-793c",
+  "sha256": "b03082c174fe50f358a379744679e2b50bac6597a0cada2e5d57ef31ae65b8f0",
+  "nota": "pedidos2d: acceso Catalogo (componente catalogos-ui 30oct-c, solo Bolsas/Tela/Clientes, area ventas) en Ir a; vista vCatalogo aparte (solo web)",
+  "fecha": "2026-10-30T17:33:44.502Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
