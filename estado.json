@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1919-da35",
-  "sha256": "de17aeff8a949858eecc2e3c1be400726b2ca193f3f5814d6916ff8de5e09c05",
-  "nota": "Catalogos: jobs SOLO LECTURA para ubicar respaldo de web/cerebro.html (sin reinicio)",
-  "fecha": "2026-10-30T01:19:24.598Z",
+  "paquete": "p-261029-1923-ac33",
+  "sha256": "d34aa3c3ff4a40d8dfe410e1c6fc43511642cda08e9722f8043e2528083baebb",
+  "nota": "Catalogos: restaurar web/cerebro.html ORIGINAL (282154 b, sha 52e7a37c, del respaldo de p-261029-1910-e08c) + vaciar jobs bbcbk; sin reinicio",
+  "fecha": "2026-10-30T01:23:08.943Z",
   "autor": "alex",
-  "archivos": 15,
+  "archivos": 16,
   "reinicio": false,
   "pausado": false
 }
