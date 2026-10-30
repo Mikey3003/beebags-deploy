@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1858-7112",
-  "sha256": "483a34d78dee19bea656f1079fa15187cc0b98e83f7e139a0b6a2426ff666945",
-  "nota": "WA-ME: vaciar job sha wm29-sha v2 (sin reinicio)",
-  "fecha": "2026-10-30T00:58:07.026Z",
+  "paquete": "p-261029-1859-6027",
+  "sha256": "fc789899ca620891723b1dc5a6e54ad512c14210597da4dbcdef2984916cc141",
+  "nota": "Catalogos: job de verificacion solo lectura bbcat-verif (sin reinicio)",
+  "fecha": "2026-10-30T00:59:16.240Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
