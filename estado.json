@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1848-7a1a",
-  "sha256": "529e56d70df55889763691561523ef3943c143fb521096cc225ab616bd046648",
-  "nota": "WA-ME: job sha wm29-sha (solo lectura, sin reinicio)",
-  "fecha": "2026-10-30T00:48:48.680Z",
+  "paquete": "p-261029-1850-532e",
+  "sha256": "5d845110a56770511ad5290f5b5a387e09b606e86438503b0eeb05c18aca85ac",
+  "nota": "WA-ME: vaciar job sha wm29-sha (sin reinicio)",
+  "fecha": "2026-10-30T00:50:11.869Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
