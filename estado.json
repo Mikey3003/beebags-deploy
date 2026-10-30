@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1133-793c",
-  "sha256": "b03082c174fe50f358a379744679e2b50bac6597a0cada2e5d57ef31ae65b8f0",
-  "nota": "pedidos2d: acceso Catalogo (componente catalogos-ui 30oct-c, solo Bolsas/Tela/Clientes, area ventas) en Ir a; vista vCatalogo aparte (solo web)",
-  "fecha": "2026-10-30T17:33:44.502Z",
+  "paquete": "p-261030-1139-fc50",
+  "sha256": "c91980b09c48811e0072cd80c9a099606390112b1984c87342c4040e88927e13",
+  "nota": "catalogos-ui 30oct-d: ficha Bolsa/Tela = ficha SKU de almacen2d, pestañas por área, íconos de almacen2d, catalogos.js lectura por área (sin reinicio; BeeBags lo incluye en su próximo reinicio)",
+  "fecha": "2026-10-30T17:39:06.926Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
