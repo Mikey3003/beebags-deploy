@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1855-9d9e",
-  "sha256": "bd0f1f41300551d832aacd13111c42bc5a5cdd6be519550509c25e1bb7afbf5f",
-  "nota": "ME: Registrar pedido manual (tela/bolsa)",
-  "fecha": "2026-10-30T00:55:27.806Z",
+  "paquete": "p-261029-1858-7112",
+  "sha256": "483a34d78dee19bea656f1079fa15187cc0b98e83f7e139a0b6a2426ff666945",
+  "nota": "WA-ME: vaciar job sha wm29-sha v2 (sin reinicio)",
+  "fecha": "2026-10-30T00:58:07.026Z",
   "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
