@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261029-1927-3aa7",
-  "sha256": "b73cf4a00f8e1affad164a44e13ace336f689551c961bde37d5bf9e79d01450c",
-  "nota": "Catalogos: jobs SOLO LECTURA (index.js + hashes) para desplegar provalm (sin reinicio)",
-  "fecha": "2026-10-30T01:27:35.049Z",
+  "paquete": "p-261029-1929-1ac3",
+  "sha256": "ae1b41936f6f3c98d52897f91a308470c4487caaa9ae1d9dbef7cb5db52b768f",
+  "nota": "Almacen2D: proveedores desde catalogo de Compras + ruta /api/almacen2d/proveedor-de-compras (+vaciar jobs bbpa)",
+  "fecha": "2026-10-30T01:29:57.747Z",
   "autor": "alex",
-  "archivos": 13,
-  "reinicio": false,
+  "archivos": 16,
+  "reinicio": true,
   "pausado": false
 }
