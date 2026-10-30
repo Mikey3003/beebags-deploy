@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261029-1822-55d9",
-  "sha256": "ee9dda3e055ba5758f022ef868e04d95e5dcb0a998cf5057e8414481c8bf8ba7",
-  "nota": "WA-ME: jobs de lectura wm29-l3 parte 1 (solo lectura, sin reinicio)",
-  "fecha": "2026-10-30T00:22:26.621Z",
+  "paquete": "p-261029-1823-1b36",
+  "sha256": "8379d1143505ff2863f011a8e0e058f92866da0d05c562c2469409a385301d4c",
+  "nota": "WA-ME: jobs de lectura wm29-l3 parte 2 (solo lectura, sin reinicio)",
+  "fecha": "2026-10-30T00:23:12.199Z",
   "autor": "alex",
   "archivos": 45,
   "reinicio": false,
