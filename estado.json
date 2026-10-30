@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261030-1149-2b03",
-  "sha256": "0f3aa4286b1b6afaa19b4c12a52a39170a8f225ff0e29dd6ef6938449d41f6c4",
-  "nota": "catalogo compra-almacen (insumos del Almacen sin liga a Artemia, solo lectura) + reinicio para catalogos.js de SERIOS (4cce)",
-  "fecha": "2026-10-30T17:49:19.724Z",
+  "paquete": "p-261030-1152-a7fc",
+  "sha256": "f7d2bb3d07870729e98e25b2abfcadf4b3b21265d76da17f9bfe34d580cbba0c",
+  "nota": "almacen2d: iconos #skProdSeg = set t* de catalogos-ui.js 30oct-d (bolsa, tela, proveedores; solo web)",
+  "fecha": "2026-10-30T17:52:54.520Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
