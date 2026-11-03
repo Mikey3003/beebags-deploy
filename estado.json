@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1556-9ca0",
-  "sha256": "65b0dd15ce615403474c31977992b80dbcf308e7e2340784e862fe79e7af4507",
-  "nota": "Cotizaciones web: nuevas primero, buscador y filtros, productos reales (de las notas), aviso carrito distinto, caja de correo; tarjeta del cerebro remodelada",
-  "fecha": "2026-11-03T21:56:56.569Z",
+  "paquete": "p-261103-1602-a396",
+  "sha256": "71acb6c4757b3c9b12a80b1851ea87b3a8065e0a7f13110d14a90cfd51f2fb3c",
+  "nota": "seguridad: lectura bbseg-dcotsjs0,bbseg-dcotsjs1,bbseg-dcotsjs2...",
+  "fecha": "2026-11-03T22:02:43.646Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 39,
   "reinicio": false,
   "pausado": false
 }
