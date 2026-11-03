@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261103-1533-239d",
-  "sha256": "abe34d5c00bc441c29cc3ad1a9bc40e7375903ad7d854c848242ad71da7bc918",
-  "nota": "Armado: boton Cierre de turno en la cabina y pestana Produccion (tablero, Excel, rehabilitadas)",
-  "fecha": "2026-11-03T21:33:33.981Z",
+  "paquete": "p-261103-1535-209a",
+  "sha256": "d6cb6c37c9a7ea9c988267a5249709f07b6bdeba8a99d33e16da480946aa1c25",
+  "nota": "seguridad: lectura bbseg-f2grep",
+  "fecha": "2026-11-03T21:35:23.541Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
