@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1539-bf02",
-  "sha256": "559beb8f77b942455d21f5af70c532636e21139b2c003205e7f0a16e14fbb21f",
-  "nota": "seguridad: lectura bbseg-resendchk",
-  "fecha": "2026-11-03T21:39:37.250Z",
+  "paquete": "p-261103-1541-b4a7",
+  "sha256": "c6c5f0075c5aade9874f68f6ca2be592ef960c623bf8a2962a27df96be2250e8",
+  "nota": "Artemia F2: codigos de producto, ubicaciones AL01R01E1, envase en Registrar, costos iniciales, tabs en Compras",
+  "fecha": "2026-11-03T21:41:52.080Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 9,
+  "reinicio": true,
   "pausado": false
 }
