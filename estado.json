@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1636-0417",
-  "sha256": "128c7fc68b74310a205240a7feaf6b780d56459854c5b63fd18356fd388978a6",
-  "nota": "Cotizaciones web f2: columna Aprobadas, vistas tabla/calendario/lista + Excel, aprobar/rechazar con efecto visible y boton Cotizar y mandar, confirmacion al cliente en el detalle; cerebro: recuadro siempre visible y rapido",
-  "fecha": "2026-11-03T22:36:58.346Z",
+  "paquete": "p-261103-1639-061b",
+  "sha256": "04b0bf96d7a1942f527f5945650a90882593b11a899e5f082c944c778c308b24",
+  "nota": "seguridad: lectura bbseg-dcotweb0,bbseg-dcotweb1,bbseg-dcotweb2...",
+  "fecha": "2026-11-03T22:39:23.971Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 34,
   "reinicio": false,
   "pausado": false
 }
