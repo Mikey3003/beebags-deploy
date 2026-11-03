@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1443-dc3b",
-  "sha256": "d57cae0bfee6b728bc032612b86525af0863e63e4652b27a6fe48ed764e63e00",
-  "nota": "seguridad: lectura bbseg-da-compras0,bbseg-da-compras1,bbseg-da-compras2...",
-  "fecha": "2026-11-03T20:43:16.882Z",
+  "paquete": "p-261103-1446-c4a0",
+  "sha256": "6387c46e8ea7b1b4d03c8b91ad16d9e5e96fadb9e38f041ac898db624c91862a",
+  "nota": "Artemia F1: pestana Reportes en Compras + acceso Reportes con costo desde Almacen (Por producto)",
+  "fecha": "2026-11-03T20:46:08.787Z",
   "autor": "alex_",
-  "archivos": 18,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
