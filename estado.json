@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1613-5a47",
-  "sha256": "eb979b18735762ab6263bea6f4de52a1ff5fc4b2e2ff7cee854f0b81fb80bce8",
-  "nota": "Cotizaciones web f2: correo de confirmacion al cliente (gracias, 72 h) + aviso por correo a Mikey, una sola vez; ruta confirmar y GET resumen",
-  "fecha": "2026-11-03T22:13:21.645Z",
+  "paquete": "p-261103-1615-1559",
+  "sha256": "82a3f7f398b3823e07d610115812f5435afb3d12031c171bbde97ea00d09f438",
+  "nota": "seguridad: lectura bbseg-dcotsjs0,bbseg-dcotsjs1,bbseg-dcotsjs2...",
+  "fecha": "2026-11-03T22:15:13.508Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 4,
+  "reinicio": false,
   "pausado": false
 }
