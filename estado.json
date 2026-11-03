@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1436-7e25",
-  "sha256": "2b8481b8ad73e4dcefa6480502d03e9a322bf039e0dcc7e1b0aba09acb5d42d1",
-  "nota": "seguridad: lectura bbseg-da-mpsrv0,bbseg-da-mpsrv1,bbseg-da-mpsrv2...",
-  "fecha": "2026-11-03T20:36:48.184Z",
+  "paquete": "p-261103-1439-4eb6",
+  "sha256": "feb36dba34aa7be4ce72dcbc801aad2d0f3f64d93ea2c3421bd009f96118e424",
+  "nota": "Artemia F1: fecha atrasada en Registrar (¿Pasó otro día?: max 31 dias, motivo obligatorio, queda quien capturo) + ajustes de reportes",
+  "fecha": "2026-11-03T20:39:38.071Z",
   "autor": "alex_",
-  "archivos": 8,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
