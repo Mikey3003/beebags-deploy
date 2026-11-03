@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1430-66f5",
-  "sha256": "841aaf78d7a75db39284e3eecc4537a3c40eaa12a27e97ee003d245c965e5148",
-  "nota": "seguridad: lectura bbseg-da-alprov0,bbseg-da-alprov1",
-  "fecha": "2026-11-03T20:30:37.761Z",
+  "paquete": "p-261103-1433-02c4",
+  "sha256": "014c747cf0df20c0fee8cb928c80a1e6f3fc5860105a3cee1b606af2b785ede8",
+  "nota": "Artemia F1: reportes Excel (existencias y entradas/salidas con costo) + tipo de cambio del dia (modulo nuevo, pagina nueva)",
+  "fecha": "2026-11-03T20:33:12.898Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": false,
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
