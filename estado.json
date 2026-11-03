@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261103-1524-b35d",
-  "sha256": "23f108d48359f70155ca2b9296ca5c249c4a3859d370ea476d4c831d7728266b",
-  "nota": "seguridad: lectura bbseg-dcore0,bbseg-dcore1,bbseg-dcore2...",
-  "fecha": "2026-11-03T21:24:55.161Z",
+  "paquete": "p-261103-1527-f438",
+  "sha256": "6e5d1048e38d1ce3ac6eca32e7f7f69ba100a03063bfc8e841332f3a9ba60482",
+  "nota": "Armado: cierre de turno por maquina (backend, catalogo de pesos, 881 registros del Excel)",
+  "fecha": "2026-11-03T21:27:19.575Z",
   "autor": "alex_",
   "archivos": 4,
   "reinicio": false,
