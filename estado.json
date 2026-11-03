@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1747-d905",
-  "sha256": "47d27b5f58d452b00176a749e21c92f36b1a0f1098fe6bb84cd46ce12eede285",
-  "nota": "Campana: tienda.js guarda origen+campana (items vacio ok), cotizacion-auto salta campana, correo de gracias y aviso a Mikey con campana",
-  "fecha": "2026-11-03T23:47:46.965Z",
+  "paquete": "p-261103-1749-c744",
+  "sha256": "d63f34f61623ceab985904948264aff3b29c4470b1c3a6857a86a28fad4e0bed",
+  "nota": "seguridad: lectura bbseg-dcotweb0,bbseg-dcotweb1,bbseg-dcotweb2...",
+  "fecha": "2026-11-03T23:49:11.657Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": true,
+  "archivos": 34,
+  "reinicio": false,
   "pausado": false
 }
