@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1752-e553",
-  "sha256": "b46d774da232b8768b5d74e009c5f65f662cfc4968f189ed0c1226f8625aa57f",
-  "nota": "Campana: bandeja y cerebro muestran CAMPANA (chip, filtro, detalle con partido y precio)",
-  "fecha": "2026-11-03T23:52:55.326Z",
+  "paquete": "p-261103-1753-f0a9",
+  "sha256": "0c10c0fed6e828f064c2c1e529730e6089f6f5268e8376eb36581038099d6842",
+  "nota": "seguridad: lectura bbseg-nombre",
+  "fecha": "2026-11-03T23:53:27.081Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
