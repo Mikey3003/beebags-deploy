@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-1551-61cd",
-  "sha256": "944edfca8715b7f93fe01bef6cc684d97c593b6662254d048c130bd082907662",
-  "nota": "Cotizaciones web: correo HTML con PDF, 2 intentos, aviso claro (sin_llave / dominio / sin correo), ruta enviarcorreo (reintento)",
-  "fecha": "2026-11-03T21:51:20.539Z",
+  "paquete": "p-261103-1553-2d69",
+  "sha256": "f43abcc47060d2a8f90002c54a24299db3edce199a8ab08e0939e1c27bbf4be3",
+  "nota": "seguridad: lectura bbseg-dcotweb0,bbseg-dcotweb1,bbseg-dcotweb2...",
+  "fecha": "2026-11-03T21:53:37.319Z",
   "autor": "alex_",
-  "archivos": 1,
-  "reinicio": true,
+  "archivos": 32,
+  "reinicio": false,
   "pausado": false
 }
