@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1537-24e2",
-  "sha256": "2929993d760f7bda46f9a65a91b74818b7d26bb2220d5a8b01df21da11c3dce8",
-  "nota": "Produccion de bolsas: tablero ampliado (mes, cliente x semana, turno, eficiencia), captura del dia y cruce con entradas del almacen (solo lectura)",
-  "fecha": "2026-11-04T21:37:22.864Z",
+  "paquete": "p-261104-1539-4c0f",
+  "sha256": "d79c8589b0acce45315442229ed08f05a07ae62eb6f36714f819436898ca6651",
+  "nota": "seguridad: lectura bbseg-dpanelhtml0,bbseg-dpanelhtml1,bbseg-dpanelhtml2...",
+  "fecha": "2026-11-04T21:39:19.645Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
