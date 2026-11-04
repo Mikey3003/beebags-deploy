@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1405-3277",
-  "sha256": "f9284c2f90b6826db6566b2c429476dd6e76e223aca654c81ae81a36aae7ceed",
-  "nota": "seguridad: lectura bbseg-pm",
-  "fecha": "2026-11-04T20:05:54.210Z",
+  "paquete": "p-261104-1439-01b7",
+  "sha256": "3867f40f1ac0c17f075e55aabe44ba99bb484cb2b33ae603e8913fec69824d7e",
+  "nota": "Historico del almacen: Spunbond con su historico completo, KPIs y linea del tiempo nuevos",
+  "fecha": "2026-11-04T20:39:23.179Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 3,
   "reinicio": false,
   "pausado": false
 }
