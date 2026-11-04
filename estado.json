@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1354-df2a",
-  "sha256": "f48054c013f77141632594021f11462e2b705665099b81ac6f611d47548a9fad",
-  "nota": "seguridad: lectura bbseg-dfa0,bbseg-dfa1",
-  "fecha": "2026-11-04T19:54:19.482Z",
-  "autor": "alex_",
+  "paquete": "p-261104-1355-cccd",
+  "sha256": "981b538893c3dbd40169e5b7e5325ddf217911559851cf045aa8021ba36f9278",
+  "nota": "Reportes / Produccion de bolsas: tabla Por medida y mes (filas = medida del modelo, columnas = meses, Total y %, totales por mes), KPI medidas distintas, columna Medida en CSV; PDF compacto para 12 meses. Pedido de Mikey 2026-11-04 13:48, issue #5",
+  "fecha": "2026-11-04T19:55:00.723Z",
+  "autor": "alex",
   "archivos": 2,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
