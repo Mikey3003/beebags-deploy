@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1243-c1ea",
-  "sha256": "154e8275f2fa36874753d19f7c756ee0b544dc4ac54bab402c352722b0e76066",
-  "nota": "almacen-nav: selector de almacen general/Spunbond arriba de las pestañas + pestaña Compras dentro del almacen (ticket 78)",
-  "fecha": "2026-11-04T18:43:38.145Z",
+  "paquete": "p-261104-1245-aab6",
+  "sha256": "7b1c9ad3ae840f4dfaa18ea5023aba7284374892d9fc219183cb0a2d45817238",
+  "nota": "seguridad: lectura bbseg-nombre",
+  "fecha": "2026-11-04T18:45:48.951Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
