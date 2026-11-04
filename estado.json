@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261103-2322-3a76",
-  "sha256": "1656cbbd8a0ca519be252d24a6479563e7f92e0d7ad9bcfe9637d91b8ec62367",
+  "paquete": "p-261103-2323-6f90",
+  "sha256": "b496a017bfdac71769f77948e2d9c3feacf4669a807ac3cee0a79720c9404c71",
   "nota": "cotweb-privado: apaga pruebas (simulacion de cuenta) en data/cotweb-permitidos.json",
-  "fecha": "2026-11-04T05:22:47.501Z",
+  "fecha": "2026-11-04T05:23:59.927Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
