@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261103-2255-1b92",
-  "sha256": "0135f4b5102169e10f83eaffda24c00bfa96d6fdbc5841b35ebec584b3c744ee",
-  "nota": "seguridad: lectura bbseg-dcpcweb0,bbseg-dcpcweb1,bbseg-dcpcweb2...",
-  "fecha": "2026-11-04T04:55:19.355Z",
+  "paquete": "p-261103-2257-24db",
+  "sha256": "ad1625c0573d8a9bbd31f37507033f057dbdabb6ca10c7e5d098bae236663a00",
+  "nota": "cotweb-privado: Cotizaciones web solo para Mikey y Alex (candado en servidor, lista en data/cotweb-permitidos.json)",
+  "fecha": "2026-11-04T04:57:36.042Z",
   "autor": "alex",
-  "archivos": 6,
-  "reinicio": false,
+  "archivos": 8,
+  "reinicio": true,
   "pausado": false
 }
