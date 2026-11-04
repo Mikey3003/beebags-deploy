@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1701-b94e",
-  "sha256": "c36b8b80e6761987384ac122db59b6b70a35f12711f62c700346641f898901b2",
-  "nota": "seguridad: lectura bbseg-dpanel20,bbseg-dpanel21,bbseg-dpanel22...",
-  "fecha": "2026-11-04T23:01:15.126Z",
+  "paquete": "p-261104-1704-c7f1",
+  "sha256": "40fcf2da7276092105ea7964baa663853c5b9f77d83e943887a17018c4482a5d",
+  "nota": "ERP a todo el ancho + linea del tiempo desglosada (categoria/unidad/quien/material)",
+  "fecha": "2026-11-04T23:04:29.165Z",
   "autor": "alex_",
-  "archivos": 20,
+  "archivos": 9,
   "reinicio": false,
   "pausado": false
 }
