@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1708-666f",
-  "sha256": "79a3b7baf5641dc1ddab4c1fa3745e158b721190c5892c538cacb5821db3ba08",
-  "nota": "cerebro a todo el ancho (web/cerebro2.html)",
-  "fecha": "2026-11-04T23:08:20.850Z",
+  "paquete": "p-261104-1709-af18",
+  "sha256": "736e8f95bf2b6397b3fe49e303227fc45e1e2c2142cf91d1d711ea351d482934",
+  "nota": "seguridad: lectura bbseg-dpanelhtml0,bbseg-dpanelhtml1,bbseg-dpanelhtml2...",
+  "fecha": "2026-11-04T23:09:14.108Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 17,
   "reinicio": false,
   "pausado": false
 }
