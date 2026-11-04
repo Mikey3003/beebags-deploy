@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1117-4a05",
-  "sha256": "52c958a9b818af6e51640a94b9d1f49f5117283f5f95cd0caff11c69c0ba035e",
-  "nota": "Cotizador: catalogo de insumos como el Excel (compra / rendimiento = precio de uso, empaque y mano de obra ligados a sus parametros, vista ejecutiva Catalogo completo con buscador). Propuesta de Mikey 2026-11-04; revertir si no gusta",
-  "fecha": "2026-11-04T17:17:40.410Z",
-  "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "paquete": "p-261104-1129-003c",
+  "sha256": "f7a312320e9860f00af7cdbc6740f44adec6ecc7bc4ebbda2564f03af5d1a03c",
+  "nota": "seguridad: lectura bbseg-nombre",
+  "fecha": "2026-11-04T17:29:33.528Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
