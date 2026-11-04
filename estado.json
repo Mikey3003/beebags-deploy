@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261104-1056-4141",
-  "sha256": "c1a8fefdd74c3286c5113c429ffa8a5efcf55b890d236c499e04771e00b12654",
+  "paquete": "p-261104-1059-5b1b",
+  "sha256": "59e273e5aa076933c6e56921db97a5118407cce0ed886e2540bf2b0ca5eb4c0c",
   "nota": "Cotizaciones web: la bandeja pinta primero con el resumen rapido (0.3 s) y completa existencias del almacen despues; usa todo el ancho de la pantalla",
-  "fecha": "2026-11-04T16:56:59.250Z",
+  "fecha": "2026-11-04T16:59:21.609Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
