@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1641-5889",
-  "sha256": "188667f782e21277d17c2e66d06b543f17bb703bd07a9ac3ce5a90d0143a56e8",
-  "nota": "seguridad: lectura bbseg-dprodmod0,bbseg-dprodmod1,bbseg-dprodmod2",
-  "fecha": "2026-11-04T22:41:30.922Z",
+  "paquete": "p-261104-1643-081f",
+  "sha256": "4892aa643d999ab7c321e938597c38fb7d13a1f095d58f0e454ea1cfd7c78a1f",
+  "nota": "Produccion: formulario Registrar (datos jalados: pedidos, maquinas, operadores) y explicacion de la diferencia con el almacen (solo lectura)",
+  "fecha": "2026-11-04T22:43:15.338Z",
   "autor": "alex_",
-  "archivos": 3,
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
