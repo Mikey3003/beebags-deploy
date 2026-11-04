@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1319-0eee",
-  "sha256": "55bfb0d3381e6c086b6bf29f2c75055a8265b59fde643c195bd352eadbd8ce94",
-  "nota": "seguridad: lectura bbseg-dfmesa20,bbseg-dfmesa21,bbseg-dfmesa22...",
-  "fecha": "2026-11-04T19:19:18.901Z",
+  "paquete": "p-261104-1321-9b06",
+  "sha256": "66b5bf1504c9369362a95c20863de1e2f1f05dc8ef25897274a66c78eb83c1d2",
+  "nota": "facturas: varias facturas por salida (servidor: cupo propio, folios, /ligar suma)",
+  "fecha": "2026-11-04T19:21:40.191Z",
   "autor": "alex_",
-  "archivos": 5,
-  "reinicio": false,
+  "archivos": 1,
+  "reinicio": true,
   "pausado": false
 }
