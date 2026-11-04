@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1657-fcfa",
-  "sha256": "d02e025bcc1af67f1f23f7c1dd78b84ff9d9b52e88fa5bb058381bc8c848861f",
-  "nota": "seguridad: lectura bbseg-dpanelhtml0,bbseg-dpanelhtml1,bbseg-dpanelhtml2...",
-  "fecha": "2026-11-04T22:57:40.231Z",
+  "paquete": "p-261104-1700-7df0",
+  "sha256": "2260fa20287191fdc0fe4cc4d6a027131c42f38200df766dd42b5dccb66b3d31",
+  "nota": "Produccion remodelada: formulario Registrar como el del almacen, Hoy, Tablero, Producido vs almacen con explicacion de la diferencia, Maquinas sin Jalar rollo",
+  "fecha": "2026-11-04T23:00:10.840Z",
   "autor": "alex_",
-  "archivos": 20,
+  "archivos": 2,
   "reinicio": false,
   "pausado": false
 }
