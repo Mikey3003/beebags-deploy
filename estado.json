@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1541-13dd",
-  "sha256": "681ac0c65c6088662a260b15ccb54a22182ac67640b9334e6103b413411d2152",
-  "nota": "Produccion de bolsas: dashboard con las graficas del Excel, Captura del dia tipo hoja, Producido vs almacen; pestanas nuevas en el workspace; Jalar rollo opcional",
-  "fecha": "2026-11-04T21:41:44.167Z",
+  "paquete": "p-261104-1611-bbab",
+  "sha256": "e0ee251df9e3bcc0fe6edda391226c055163369aa0d7ec52b9347ef776027799",
+  "nota": "seguridad: lectura bbseg-dcore0,bbseg-dcore1,bbseg-dcore2...",
+  "fecha": "2026-11-04T22:11:22.931Z",
   "autor": "alex_",
-  "archivos": 2,
+  "archivos": 4,
   "reinicio": false,
   "pausado": false
 }
