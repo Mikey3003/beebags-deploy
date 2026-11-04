@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1059-5b1b",
-  "sha256": "59e273e5aa076933c6e56921db97a5118407cce0ed886e2540bf2b0ca5eb4c0c",
-  "nota": "Cotizaciones web: la bandeja pinta primero con el resumen rapido (0.3 s) y completa existencias del almacen despues; usa todo el ancho de la pantalla",
-  "fecha": "2026-11-04T16:59:21.609Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261104-1117-4a05",
+  "sha256": "52c958a9b818af6e51640a94b9d1f49f5117283f5f95cd0caff11c69c0ba035e",
+  "nota": "Cotizador: catalogo de insumos como el Excel (compra / rendimiento = precio de uso, empaque y mano de obra ligados a sus parametros, vista ejecutiva Catalogo completo con buscador). Propuesta de Mikey 2026-11-04; revertir si no gusta",
+  "fecha": "2026-11-04T17:17:40.410Z",
+  "autor": "alex",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
