@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1353-93bc",
-  "sha256": "86797352ff08a64f9045da8afb97653dfe90f617401fbaa2de8f015fe99c040e",
-  "nota": "RH permisos: hoja por encima de los botones flotantes, riesgo de trabajo siempre en rojo",
-  "fecha": "2026-11-05T19:53:17.635Z",
+  "paquete": "p-261105-1401-cd39",
+  "sha256": "5dffad57ac02359334d4a78447b370ab08d7e36b0a2c7937d552b8fca6daddbf",
+  "nota": "seguridad: lectura bbseg-bp",
+  "fecha": "2026-11-05T20:01:52.039Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
