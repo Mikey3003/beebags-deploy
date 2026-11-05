@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1203-85f9",
-  "sha256": "7acf86a8552c7bf8a1038ce024bce39dbf069e15db97d1b909aac6ac204c42ce",
-  "nota": "Reportes: el reporte de rollos vuelve a pedir marzo-julio 2026 (llave de cache nueva) para que entren los historicos por turno; sigue al paquete anterior · issue #7",
-  "fecha": "2026-11-05T18:03:30.840Z",
+  "paquete": "p-261105-1209-50a5",
+  "sha256": "ab30daee09553bdc4ca38a07bbd83d592114307c578ae52f8c5b6c459dc108eb",
+  "nota": "Reportes/Spunbond: un mes cerrado que llega vacio por error pasajero ya no se guarda 7 dias (llave rollos-v3); el historico por turno avisa si Airtable falla en vez de servir incompleto · issue #7",
+  "fecha": "2026-11-05T18:09:20.831Z",
   "autor": "alex",
-  "archivos": 1,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
