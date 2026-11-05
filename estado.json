@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1534-07b2",
-  "sha256": "f2445c4062f0ee29bb9d866d4d15618e085557db2fd1d230c8d0ef3ab30dfee0",
+  "paquete": "p-261105-1535-ddbe",
+  "sha256": "8acb1523123b440906ef6ad80596760068575997c6a46cb3632fb8c1df24d250",
   "nota": "Cotizador > Costeo tela > Historia de precios BYVA: columnas MO real, Gastos reales y Costo con reales (del reporte de costeo, se cargan solas). Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T21:34:36.912Z",
+  "fecha": "2026-11-05T21:35:44.662Z",
   "autor": "alex",
   "archivos": 1,
   "reinicio": false,
