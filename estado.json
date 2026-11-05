@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1153-ef26",
-  "sha256": "8add3f0a8a166278bd3b523ba5cac82b691d439a11a50f89b2d9df9c8b5997ef",
-  "nota": "cerrar-entregados v2: la tarjeta cerrada se quita al instante",
-  "fecha": "2026-11-05T17:53:11.273Z",
+  "paquete": "p-261105-1155-1e61",
+  "sha256": "ceb2b9d9f43f4d3aa4fc038574374a4894e882c4984f8a9c2e22c6a92ab60b90",
+  "nota": "seguridad: lectura bbseg-buscme",
+  "fecha": "2026-11-05T17:55:27.899Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
