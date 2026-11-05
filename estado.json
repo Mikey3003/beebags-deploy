@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1108-d133",
-  "sha256": "2b864dfe8276d76324385467fd61e8c3293cd518fa07e09631602b850393488a",
+  "paquete": "p-261105-1110-26df",
+  "sha256": "b0f11d4742e48b435ee06b738d87c14487ba1238741d85a0f67f2be49d93fb2b",
   "nota": "Almacen / Historico: boton Anular entrada (solo Direccion) y POST /api/almacen/historico/anular: no borra, palomea Anulado y guarda el motivo en Observaciones. Pedido de Mikey 2026-11-05 · issue #6",
-  "fecha": "2026-11-05T17:08:47.614Z",
+  "fecha": "2026-11-05T17:10:54.034Z",
   "autor": "alex",
   "archivos": 2,
   "reinicio": true,
