@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1323-8f76",
-  "sha256": "230ce4e8cda10a643b23d5983d478a4d494d49e02e777482d303f992b9198024",
-  "nota": "seguridad: lectura bbseg-st",
-  "fecha": "2026-11-05T19:23:39.098Z",
+  "paquete": "p-261105-1327-bf6d",
+  "sha256": "8172afcf0d20decbf15515c76a21867e9d051de653c1c63f906b1c6c3d82fd0f",
+  "nota": "RH permisos: arregla acentos del servidor (codificacion)",
+  "fecha": "2026-11-05T19:27:56.252Z",
   "autor": "alex_",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
