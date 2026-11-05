@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261104-1825-8c49",
-  "sha256": "dd6036b36f6379d35d7e16e416c7eddd4a0b38d0b7bd273d2046a51555c531e2",
-  "nota": "Historico: linea del tiempo v2 (lista por dia, filtros con chips, resumen, alertas, saldo, Excel)",
-  "fecha": "2026-11-05T00:25:23.595Z",
+  "paquete": "p-261104-1829-5bc4",
+  "sha256": "490cbb9eb757155eb4b1e0a6bf2812d850d1390ce8503dd8e4b84caedc53f1ff",
+  "nota": "seguridad: lectura bbseg-dc-us0,bbseg-dc-us1,bbseg-dc-pa0...",
+  "fecha": "2026-11-05T00:29:14.908Z",
   "autor": "alex_",
-  "archivos": 1,
+  "archivos": 15,
   "reinicio": false,
   "pausado": false
 }
