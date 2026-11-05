@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261104-1848-5740",
-  "sha256": "a60a8faf864d32d6c4c6278a7b4d4e517c6eb1fea9c225308dc31bdd177c50d6",
-  "nota": "seguridad: lectura bbseg-ulimp",
-  "fecha": "2026-11-05T00:48:41.849Z",
-  "autor": "alex",
+  "paquete": "p-261105-1028-23e3",
+  "sha256": "e5e0165751a6ba2f69705577570089d2569b73debd11990ac981056809db2464",
+  "nota": "Seguridad de acceso: la pestana Restablecer ahora es Usuarios y contrasenas y abre el panel nuevo /admin.html",
+  "fecha": "2026-11-05T16:28:09.649Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
