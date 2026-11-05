@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1603-b144",
-  "sha256": "402f150a1aaa3aabd4a122a24a11776f22aed570af03a11c7f71c7883c661d7a",
-  "nota": "Costeo tela: la tela con UV es receta aparte (color 4 = PP + pigmento B/N + aditivo UV) en el motor; colores 1-3 sin UV salvo p_uv_on; 4 recetas desglosadas en 1.2 y 4 columnas en 3.1; parametros p_util_uv y p_mkt_uv. Cotizar bolsa/tela siguen con 1-3. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T22:03:00.916Z",
-  "autor": "alex",
-  "archivos": 3,
-  "reinicio": true,
+  "paquete": "p-261105-1607-cc2a",
+  "sha256": "a646434353343456aeac1964124bb0e14a4b297b1f94af31af6168f48ba3d486",
+  "nota": "seguridad: lectura bbseg-revshare",
+  "fecha": "2026-11-05T22:07:24.878Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
