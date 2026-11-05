@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1336-20d8",
-  "sha256": "3c07870493e5f22f0b6b7e3551a6fb238289baac9faeef0790ab569feda87bdf",
-  "nota": "Reportes: nuevo reporte Nomina por departamento (semanal por depto + maquilas, sindicato, prima vacacional) cargado desde la hoja 3.-Nominas del libro del cotizador; POST /api/reportes/nomina/importar (Direccion). Sin Siglo XXI. Pedido de Mikey 2026-11-05 · issue #9",
-  "fecha": "2026-11-05T19:36:42.186Z",
+  "paquete": "p-261105-1353-78fe",
+  "sha256": "73940be38a9fb304c0b0d0b5552e979b4c8eddd89dbff56b6c97ae20001ba780",
+  "nota": "Reportes: nuevo reporte Costo por kilo de tela y por bolsa (nomina + gastos + energia entre kg de rollos y bolsas del almacen, regla de la hoja 6/4), POST /api/reportes/gastos/importar y GET /api/reportes/costeo/valores. Pedido de Mikey 2026-11-05 · issue #10",
+  "fecha": "2026-11-05T19:53:12.627Z",
   "autor": "alex",
   "archivos": 2,
   "reinicio": true,
