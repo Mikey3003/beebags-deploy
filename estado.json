@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1518-d061",
-  "sha256": "8e51784f1ff9964cfbeaee45e7edbe4c07a1fa63ab9a15fd03606f19f53806b0",
-  "nota": "Reportes: si el servidor se reinicia o el tunel corta (50x), la pantalla espera y reintenta en vez de mostrar error; si llega sin reporte, mensaje claro",
-  "fecha": "2026-11-05T21:18:59.785Z",
+  "paquete": "p-261105-1519-97e7",
+  "sha256": "165d2e12e99c1ee1c4b4b28f7ea0411dc1f382dbfc7bf060c2ba5a31a9b63006",
+  "nota": "Reportes: reintenta si el servidor se reinicia (50x)",
+  "fecha": "2026-11-05T21:19:53.491Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
