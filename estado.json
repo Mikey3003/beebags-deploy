@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1651-a99e",
-  "sha256": "d56f14b3ca3b53120acf8ce3f273a45e97f50118d49b1bd3e2dd29f27538d6ed",
-  "nota": "Reportes: indicadores con color de grupo (total fuerte + partes que lo suman claras; tela naranja, bolsas verde azulado); contrato kpi.suma generico en reportes.html, lo trae el costeo. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T22:51:31.876Z",
+  "paquete": "p-261105-1654-fcdb",
+  "sha256": "43f07a58e7978e035c2875e92eb0a129b915f8133f2409b056d84aad82637f75",
+  "nota": "Reportes: fichas de mes (enero a diciembre) con icono en la barra de periodo para picar el mes directo. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T22:54:56.725Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
