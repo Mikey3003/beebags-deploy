@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1512-ac4b",
-  "sha256": "afe678149946e7677fbe16c9c29fc657329770d2e6c7e70adde6a39559acce62",
-  "nota": "Reporte salidas: encabezado PDF corto y celdas vacias sin 'Sin dato'",
-  "fecha": "2026-11-05T21:12:00.130Z",
+  "paquete": "p-261105-1518-d061",
+  "sha256": "8e51784f1ff9964cfbeaee45e7edbe4c07a1fa63ab9a15fd03606f19f53806b0",
+  "nota": "Reportes: si el servidor se reinicia o el tunel corta (50x), la pantalla espera y reintenta en vez de mostrar error; si llega sin reporte, mensaje claro",
+  "fecha": "2026-11-05T21:18:59.785Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
