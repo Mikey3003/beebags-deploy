@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1545-c1ac",
-  "sha256": "a277b610d77d8513098e9ac9c876462a378ba6b6945ca94e4e3daa06f28eb240",
-  "nota": "Cotizador > Costeo tela > Historia de precios BYVA v3: pigmento por color (B/N, medios, intensos) + tela con UV, bloque PP contra pigmento, boton imprimir cotizacion de tela por mes, modo fijo (Excel) o por pigmento. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T21:45:11.414Z",
+  "paquete": "p-261105-1549-56fd",
+  "sha256": "1bd725237560a9939f028f67380a2d5a142419deb396a4f436111f2515817166",
+  "nota": "Cotizador > Costeo tela: formato de pesos y numeros (separador de miles es-MX) en todas las casillas, editables y automaticas. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T21:49:41.098Z",
   "autor": "alex",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
