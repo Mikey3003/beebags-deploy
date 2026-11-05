@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1209-50a5",
-  "sha256": "ab30daee09553bdc4ca38a07bbd83d592114307c578ae52f8c5b6c459dc108eb",
-  "nota": "Reportes/Spunbond: un mes cerrado que llega vacio por error pasajero ya no se guarda 7 dias (llave rollos-v3); el historico por turno avisa si Airtable falla en vez de servir incompleto · issue #7",
-  "fecha": "2026-11-05T18:09:20.831Z",
-  "autor": "alex",
-  "archivos": 4,
-  "reinicio": true,
+  "paquete": "p-261105-1209-d7c0",
+  "sha256": "11b6b15da52776c472fa15922f757b4bbe5d18785cca233ec3f41e7d4628ea9f",
+  "nota": "seguridad: lectura bbseg-buscme2",
+  "fecha": "2026-11-05T18:09:35.171Z",
+  "autor": "alex_",
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
