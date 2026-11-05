@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1654-fcdb",
-  "sha256": "43f07a58e7978e035c2875e92eb0a129b915f8133f2409b056d84aad82637f75",
-  "nota": "Reportes: fichas de mes (enero a diciembre) con icono en la barra de periodo para picar el mes directo. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T22:54:56.725Z",
+  "paquete": "p-261105-1717-38cc",
+  "sha256": "831a54146174b5ef79a0aa6e8cb0dc5fe43d553a605b16e060d6fe91db36aebc",
+  "nota": "Reportes costeo: cada tarjeta enseña la cuenta (pesos del periodo ÷ kilos o bolsas del periodo); contrato kpi.calc generico en reportes.html. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T23:17:18.001Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
