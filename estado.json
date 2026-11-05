@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1228-c201",
-  "sha256": "2b0a106d8d7be42a30f17291aabb929732f6242661b50a4a88c9f13ff92b00de",
-  "nota": "seguridad: lectura bbseg-dwa30,bbseg-dwa31,bbseg-dwa32...",
-  "fecha": "2026-11-05T18:28:17.386Z",
-  "autor": "alex_",
-  "archivos": 25,
+  "paquete": "p-261105-1229-3340",
+  "sha256": "dd42a572204b2b8d2d39a8016b6d1a15affc8bf9efadc0d52a18cb1aeec1bacd",
+  "nota": "Reportes web: pantalla completa, estilo del almacen (Ubuntu, tarjetas), atajos de periodo, indicadores derivados, rejilla con donas, graficas mas altas con Apilado/Lineas, tablas ordenables y con filtro; aplica a todos los reportes. Pedido de Mikey 2026-11-05 · issue #8",
+  "fecha": "2026-11-05T18:29:03.191Z",
+  "autor": "alex",
+  "archivos": 1,
   "reinicio": false,
   "pausado": false
 }
