@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1141-a836",
-  "sha256": "a35fe9838a1570190f2f6ca6454afe405059fd961c7f5d1e83b6ef56e651a915",
-  "nota": "cerrar-entregados: pedidos vencidos sin salida -> Ya se entrego / Sigue pendiente / Cancelar (solo Direccion)",
-  "fecha": "2026-11-05T17:41:08.826Z",
+  "paquete": "p-261105-1143-cfcf",
+  "sha256": "192cb837ec508dbf1333f8b23eb8049eefce8daa73df9a86275e768f13c4915b",
+  "nota": "seguridad: lectura bbseg-cesha",
+  "fecha": "2026-11-05T17:43:19.774Z",
   "autor": "alex_",
-  "archivos": 2,
-  "reinicio": true,
+  "archivos": 1,
+  "reinicio": false,
   "pausado": false
 }
