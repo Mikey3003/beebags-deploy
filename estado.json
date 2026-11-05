@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1535-ddbe",
-  "sha256": "8acb1523123b440906ef6ad80596760068575997c6a46cb3632fb8c1df24d250",
-  "nota": "Cotizador > Costeo tela > Historia de precios BYVA: columnas MO real, Gastos reales y Costo con reales (del reporte de costeo, se cargan solas). Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T21:35:44.662Z",
+  "paquete": "p-261105-1545-c1ac",
+  "sha256": "a277b610d77d8513098e9ac9c876462a378ba6b6945ca94e4e3daa06f28eb240",
+  "nota": "Cotizador > Costeo tela > Historia de precios BYVA v3: pigmento por color (B/N, medios, intensos) + tela con UV, bloque PP contra pigmento, boton imprimir cotizacion de tela por mes, modo fijo (Excel) o por pigmento. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T21:45:11.414Z",
   "autor": "alex",
-  "archivos": 1,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
