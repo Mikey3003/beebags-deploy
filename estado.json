@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1247-f06f",
-  "sha256": "e184f4970e25510d108711aa681cff060a274865d24b0f952bd9aebcc8378789",
-  "nota": "Usuarios: panel con el diseno del almacen, sin emojis, sin marcos anidados (cerebro abre /admin.html directo)",
-  "fecha": "2026-11-05T18:47:35.603Z",
+  "paquete": "p-261105-1249-51bb",
+  "sha256": "3784be68b767ee127c98a63812b49c0c6c9660fb69b3b3e180c9de30901491b2",
+  "nota": "seguridad: lectura bbseg-dwa50,bbseg-dwa51,bbseg-dwa52...",
+  "fecha": "2026-11-05T18:49:21.924Z",
   "autor": "alex_",
-  "archivos": 4,
+  "archivos": 26,
   "reinicio": false,
   "pausado": false
 }
