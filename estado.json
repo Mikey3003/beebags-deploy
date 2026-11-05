@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1613-3cc8",
-  "sha256": "e307f06c48d3a061136723c61b1a72880f614e7c5080f1b2659d893c7f691203",
-  "nota": "seguridad: lectura bbseg-revpcs",
-  "fecha": "2026-11-05T22:13:22.337Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261105-1614-dcde",
+  "sha256": "3c72b367e0c56a2f48f13afa52ebb6c9e05b880aeccc2fac3ad663eb5e2e7da6",
+  "nota": "Costeo tela toma produccion, nomina y gastos del SISTEMA (reporte Costo por kilo de tela) en vez de Datos del ejercicio; el reporte deja data/cotizador/costeo-sistema.json y el Cotizador saca de ahi las referencias de MO/gastos por kilo y por bolsa; Datos del ejercicio sin tablas de produccion/nomina/gastos; BYVA mas angosto. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T22:14:52.729Z",
+  "autor": "alex",
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
