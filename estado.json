@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1614-dcde",
-  "sha256": "3c72b367e0c56a2f48f13afa52ebb6c9e05b880aeccc2fac3ad663eb5e2e7da6",
-  "nota": "Costeo tela toma produccion, nomina y gastos del SISTEMA (reporte Costo por kilo de tela) en vez de Datos del ejercicio; el reporte deja data/cotizador/costeo-sistema.json y el Cotizador saca de ahi las referencias de MO/gastos por kilo y por bolsa; Datos del ejercicio sin tablas de produccion/nomina/gastos; BYVA mas angosto. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T22:14:52.729Z",
+  "paquete": "p-261105-1651-a99e",
+  "sha256": "d56f14b3ca3b53120acf8ce3f273a45e97f50118d49b1bd3e2dd29f27538d6ed",
+  "nota": "Reportes: indicadores con color de grupo (total fuerte + partes que lo suman claras; tela naranja, bolsas verde azulado); contrato kpi.suma generico en reportes.html, lo trae el costeo. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T22:51:31.876Z",
   "autor": "alex",
-  "archivos": 3,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
