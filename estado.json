@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1056-121c",
-  "sha256": "d5a7933a74649822c890af4c6935e9d880e3d596b1fe949b980a549f0c3fd8e0",
-  "nota": "Seguridad de acceso: la pestana Usuarios y contrasenas muestra DENTRO el panel nuevo (/admin.html) a todo lo ancho; la lista vieja queda plegada",
-  "fecha": "2026-11-05T16:56:45.751Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261105-1108-d133",
+  "sha256": "2b864dfe8276d76324385467fd61e8c3293cd518fa07e09631602b850393488a",
+  "nota": "Almacen / Historico: boton Anular entrada (solo Direccion) y POST /api/almacen/historico/anular: no borra, palomea Anulado y guarda el motivo en Observaciones. Pedido de Mikey 2026-11-05 · issue #6",
+  "fecha": "2026-11-05T17:08:47.614Z",
+  "autor": "alex",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
