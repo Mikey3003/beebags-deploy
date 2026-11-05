@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1157-ec7b",
-  "sha256": "ae4d370c59d4da979bbd4f87a5e60e136f29111fcb39dddd8bdf85fb9ead659a",
-  "nota": "seguridad: lectura bbseg-cesha",
-  "fecha": "2026-11-05T17:57:29.514Z",
+  "paquete": "p-261105-1159-fb9e",
+  "sha256": "24f151f7d7755714c824c8cf668f77ace6c97c4e91df8d4ec78d89b506806942",
+  "nota": "cerrar-entregados v3: texto del boton",
+  "fecha": "2026-11-05T17:59:08.830Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
