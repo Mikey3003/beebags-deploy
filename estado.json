@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1502-ded2",
-  "sha256": "996c851c8baf839a588c3491660d36a7e1fd7b5bdfe162a911a1f1ed002f08a7",
-  "nota": "seguridad: lectura bbseg-drepjs0,bbseg-drepjs1,bbseg-drepdef0...",
-  "fecha": "2026-11-05T21:02:57.087Z",
+  "paquete": "p-261105-1506-a4cb",
+  "sha256": "c671a652e4f5fa70fd32aab359a126ae3bd769efddf85087565db7a3cd64ad8d",
+  "nota": "Reporte salidas y camiones: filtro por camioneta, lista de salidas, nunca 502 (202 pendiente + precalentado)",
+  "fecha": "2026-11-05T21:06:03.549Z",
   "autor": "alex_",
-  "archivos": 10,
-  "reinicio": false,
+  "archivos": 4,
+  "reinicio": true,
   "pausado": false
 }
