@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1335-d25f",
-  "sha256": "3a727677ecd64e5a82c5cf91eff1ebe243dc22939742d3fc275df7da83e5cae2",
-  "nota": "seguridad: lectura bbseg-dvpp0,bbseg-dvpp1,bbseg-dvpp2",
-  "fecha": "2026-11-05T19:35:22.521Z",
-  "autor": "alex_",
-  "archivos": 3,
-  "reinicio": false,
+  "paquete": "p-261105-1336-20d8",
+  "sha256": "3c07870493e5f22f0b6b7e3551a6fb238289baac9faeef0790ab569feda87bdf",
+  "nota": "Reportes: nuevo reporte Nomina por departamento (semanal por depto + maquilas, sindicato, prima vacacional) cargado desde la hoja 3.-Nominas del libro del cotizador; POST /api/reportes/nomina/importar (Direccion). Sin Siglo XXI. Pedido de Mikey 2026-11-05 · issue #9",
+  "fecha": "2026-11-05T19:36:42.186Z",
+  "autor": "alex",
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
