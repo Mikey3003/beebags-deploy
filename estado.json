@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1509-5973",
-  "sha256": "6683716f474411aca274b992291871a6d1116988c6c7fc17858de6bd165bfc21",
-  "nota": "seguridad: lectura bbseg-drepjs20,bbseg-drepjs21,bbseg-drepdef20...",
-  "fecha": "2026-11-05T21:09:48.869Z",
+  "paquete": "p-261105-1512-ac4b",
+  "sha256": "afe678149946e7677fbe16c9c29fc657329770d2e6c7e70adde6a39559acce62",
+  "nota": "Reporte salidas: encabezado PDF corto y celdas vacias sin 'Sin dato'",
+  "fecha": "2026-11-05T21:12:00.130Z",
   "autor": "alex_",
-  "archivos": 10,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
