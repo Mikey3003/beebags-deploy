@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1717-38cc",
-  "sha256": "831a54146174b5ef79a0aa6e8cb0dc5fe43d553a605b16e060d6fe91db36aebc",
-  "nota": "Reportes costeo: cada tarjeta enseña la cuenta (pesos del periodo ÷ kilos o bolsas del periodo); contrato kpi.calc generico en reportes.html. Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T23:17:18.001Z",
+  "paquete": "p-261105-1724-5346",
+  "sha256": "c0d85cf6dbc7e8e819059622465c8558e2930391f6fb63704df3d65858328a94",
+  "nota": "Reportes costeo: cada tarjeta ensena la cadena completa: total de la planta (luz CFE, gastos, administrativos) -> % que se carga a la linea -> entre kilos o bolsas -> resultado; kpi.calc.cadena en reportes.html. Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T23:24:29.853Z",
   "autor": "alex",
   "archivos": 2,
   "reinicio": true,
