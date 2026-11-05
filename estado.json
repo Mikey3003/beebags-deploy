@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261105-1519-97e7",
-  "sha256": "165d2e12e99c1ee1c4b4b28f7ea0411dc1f382dbfc7bf060c2ba5a31a9b63006",
-  "nota": "Reportes: reintenta si el servidor se reinicia (50x)",
-  "fecha": "2026-11-05T21:19:53.491Z",
-  "autor": "alex_",
+  "paquete": "p-261105-1534-07b2",
+  "sha256": "f2445c4062f0ee29bb9d866d4d15618e085557db2fd1d230c8d0ef3ab30dfee0",
+  "nota": "Cotizador > Costeo tela > Historia de precios BYVA: columnas MO real, Gastos reales y Costo con reales (del reporte de costeo, se cargan solas). Pedido de Mikey 2026-11-05 · issue #11",
+  "fecha": "2026-11-05T21:34:36.912Z",
+  "autor": "alex",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
