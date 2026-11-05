@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1209-d7c0",
-  "sha256": "11b6b15da52776c472fa15922f757b4bbe5d18785cca233ec3f41e7d4628ea9f",
-  "nota": "seguridad: lectura bbseg-buscme2",
-  "fecha": "2026-11-05T18:09:35.171Z",
-  "autor": "alex_",
+  "paquete": "p-261105-1212-b984",
+  "sha256": "0a989259599aa6af0c84fbc75e777e2ed3c9ade97f25394bf2ad96167dc27be4",
+  "nota": "Spunbond: reintento con espera ante 429/5xx de Airtable y 502 cuando una consulta no viene completa (antes un 429 dejaba el mes vacio y Reportes lo tomaba por bueno) · issue #7",
+  "fecha": "2026-11-05T18:12:53.873Z",
+  "autor": "alex",
   "archivos": 1,
-  "reinicio": false,
+  "reinicio": true,
   "pausado": false
 }
