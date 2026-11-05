@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1329-8949",
-  "sha256": "72284bfee16a2889971adc933ef0335596c9aacb7830c0253b2f52cb71936ff7",
-  "nota": "seguridad: lectura bbseg-dvpp0,bbseg-dvpp1,bbseg-dvpp2",
-  "fecha": "2026-11-05T19:29:11.206Z",
+  "paquete": "p-261105-1333-166e",
+  "sha256": "a9a6b6df2904b0077fd5fbc3be8700c2272226cfa5acc6a978cd40501b5d99a2",
+  "nota": "RH permisos: formato NSS y arregla error al cerrar el formulario",
+  "fecha": "2026-11-05T19:33:45.943Z",
   "autor": "alex_",
-  "archivos": 3,
-  "reinicio": false,
+  "archivos": 2,
+  "reinicio": true,
   "pausado": false
 }
