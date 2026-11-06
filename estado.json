@@ -1,9 +1,9 @@
 {
-  "paquete": "p-261105-1730-b383",
-  "sha256": "264ed119287f1de8e8833ff5a6cb3503c2dbfa7a1ae2d551a6ba02e199fc992c",
-  "nota": "Reportes: comparativo de meses: picar 2 a 12 fichas de mes abre el mismo reporte lado a lado (indicadores por mes con color de grupo, variacion ultimo vs primero, cadena al picar una cifra, hallazgos por mes). Pedido de Mikey 2026-11-05 · issue #11",
-  "fecha": "2026-11-05T23:30:29.315Z",
-  "autor": "alex",
+  "paquete": "p-261105-1944-acc1",
+  "sha256": "ab85869aec309ac28b5e68fc167fb26160c50b353cdf499fcae231f8c455fd3e",
+  "nota": "seguridad: lectura bbseg-bent",
+  "fecha": "2026-11-06T01:44:00.071Z",
+  "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
   "pausado": false
