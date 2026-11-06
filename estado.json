@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261106-1242-495c",
-  "sha256": "e8955593464e447b0ec9fd3517b6a5019d3f8b39cedc04520160a066b0f3da12",
-  "nota": "RH: datos de pago por colaborador (sueldo real, IMSS, turno, area, cheque, NOI, cuenta) + deducciones base del NOI editables + importador del libro Nomina NN-26.xlsb con vista previa; pantalla /rh-nomina-datos.html. Solo agrega (nomina-datos.js + 1 linea en api.js). Pedido de Mikey 2026-11-06 · issue #12",
-  "fecha": "2026-11-06T18:42:54.718Z",
+  "paquete": "p-261106-1303-af96",
+  "sha256": "dcb7e203dc5199218f0fa71cc70bd19ee8838ede4dc3869df165a16181804a8a",
+  "nota": "RH: historico de nominas YA PAGADAS tal cual el libro Nomina NN-26 (rh.nomina_pagada, bloqueado, no recalcula) + panel RH muestra TODAS las semanas (reloj aparte del estado de pago: pagada/cerrada/sin nomina) + seccion Nominas pagadas en /rh-nomina-datos.html. Solo agrega (nomina-pagada.js + 1 linea en api.js). Pedido de Mikey 2026-11-06 12:45 · issue #12",
+  "fecha": "2026-11-06T19:03:29.494Z",
   "autor": "alex",
-  "archivos": 3,
+  "archivos": 4,
   "reinicio": true,
   "pausado": false
 }
