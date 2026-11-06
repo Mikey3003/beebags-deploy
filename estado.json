@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261106-1350-263b",
-  "sha256": "dbdf4eeafdbff01b77b357babcb275393e3f66af610f360a04aa783c38f397c6",
-  "nota": "RH fase 2: calculo semanal con las reglas del libro Nomina NN-26 (nomina-motor.js cotejado contra libros 16/22/30/40/44) + nomina-calculo.js (semana, dia, ajustes, cerrar a rh.nomina_pagada estado cerrada, marcar pagada, layouts Banregio/BBVA/efectivo/cheque, config sindicato) + panel RH pestana Nomina usa este calculo (Dias/Ajustes/Cerrar) + nomina-pagada estado + nomina-datos cheque en blanco=0. issue #12",
-  "fecha": "2026-11-06T19:50:02.478Z",
+  "paquete": "p-261106-1624-f894",
+  "sha256": "1f658dde337b10b0e816fae4fdd9d9ae0f2d9f5978cd54e39d64d7563e46367d",
+  "nota": "Cotizador › Costeo tela: bloque 5 Lista de precios de tela (inteligencia/cotizador-lista-tela.js nuevo, rutas /api/cotizador/lista-tela*, montado desde cotizador.js envuelto en try; web/cotizador.html bloque 5 con imagen de la lista, parametros, rollo por metro e historial mensual). No toca costeo ni Cotizar tela. Pedido de Alex 2026-11-06 · issue #13",
+  "fecha": "2026-11-06T22:24:08.302Z",
   "autor": "alex",
-  "archivos": 6,
+  "archivos": 3,
   "reinicio": true,
   "pausado": false
 }
