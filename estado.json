@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261105-1944-acc1",
-  "sha256": "ab85869aec309ac28b5e68fc167fb26160c50b353cdf499fcae231f8c455fd3e",
-  "nota": "seguridad: lectura bbseg-bent",
-  "fecha": "2026-11-06T01:44:00.071Z",
+  "paquete": "p-261105-1946-a27f",
+  "sha256": "d7b94958b1bbfd1f125bdc5197b5028669083cad4ef19919484afdd08dd036bc",
+  "nota": "Aprobaciones: el campo de PRECIO (decimal) ya no se valida como bolsas enteras (NaN a NaN); acepta decimales",
+  "fecha": "2026-11-06T01:46:58.433Z",
   "autor": "alex_",
   "archivos": 1,
   "reinicio": false,
