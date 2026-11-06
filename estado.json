@@ -1,8 +1,8 @@
 {
-  "paquete": "p-261106-1013-2d4d",
-  "sha256": "8892ec4d93a5251683766ab9a611888370de1e30800c087f5340e43f9a3d3c80",
-  "nota": "Reportes: periodo Semana (p=AAAA-Wnn, numero de semana como la hoja de nominas) en reportes-lib + selector en reportes.html; reporte Nomina con tabla Departamento x Semana (1 a 16 semanas). Semana 44 ya cargada. Pedido de Mikey 2026-11-06 · issue #11",
-  "fecha": "2026-11-06T16:13:22.183Z",
+  "paquete": "p-261106-1242-495c",
+  "sha256": "e8955593464e447b0ec9fd3517b6a5019d3f8b39cedc04520160a066b0f3da12",
+  "nota": "RH: datos de pago por colaborador (sueldo real, IMSS, turno, area, cheque, NOI, cuenta) + deducciones base del NOI editables + importador del libro Nomina NN-26.xlsb con vista previa; pantalla /rh-nomina-datos.html. Solo agrega (nomina-datos.js + 1 linea en api.js). Pedido de Mikey 2026-11-06 · issue #12",
+  "fecha": "2026-11-06T18:42:54.718Z",
   "autor": "alex",
   "archivos": 3,
   "reinicio": true,
