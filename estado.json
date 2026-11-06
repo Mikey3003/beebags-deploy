@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261106-1313-611b",
-  "sha256": "7faceabd850fb06cbce8dbd80b16898801b8ed2335964c9d0cf7ca45a00d5c59",
-  "nota": "RH nomina-pagada v2 (revision Codex): candado por semana + existencia/permisos dentro de la transaccion, diferencias por persona y concepto (no solo totales), version anterior conservada en rh.nomina_pagada_version; panel: si falla el historico se bloquea el calculo (no cae al motor). issue #12",
-  "fecha": "2026-11-06T19:13:14.593Z",
+  "paquete": "p-261106-1350-263b",
+  "sha256": "dbdf4eeafdbff01b77b357babcb275393e3f66af610f360a04aa783c38f397c6",
+  "nota": "RH fase 2: calculo semanal con las reglas del libro Nomina NN-26 (nomina-motor.js cotejado contra libros 16/22/30/40/44) + nomina-calculo.js (semana, dia, ajustes, cerrar a rh.nomina_pagada estado cerrada, marcar pagada, layouts Banregio/BBVA/efectivo/cheque, config sindicato) + panel RH pestana Nomina usa este calculo (Dias/Ajustes/Cerrar) + nomina-pagada estado + nomina-datos cheque en blanco=0. issue #12",
+  "fecha": "2026-11-06T19:50:02.478Z",
   "autor": "alex",
-  "archivos": 2,
+  "archivos": 6,
   "reinicio": true,
   "pausado": false
 }
