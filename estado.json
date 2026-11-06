@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261106-1303-af96",
-  "sha256": "dcb7e203dc5199218f0fa71cc70bd19ee8838ede4dc3869df165a16181804a8a",
-  "nota": "RH: historico de nominas YA PAGADAS tal cual el libro Nomina NN-26 (rh.nomina_pagada, bloqueado, no recalcula) + panel RH muestra TODAS las semanas (reloj aparte del estado de pago: pagada/cerrada/sin nomina) + seccion Nominas pagadas en /rh-nomina-datos.html. Solo agrega (nomina-pagada.js + 1 linea en api.js). Pedido de Mikey 2026-11-06 12:45 · issue #12",
-  "fecha": "2026-11-06T19:03:29.494Z",
+  "paquete": "p-261106-1313-611b",
+  "sha256": "7faceabd850fb06cbce8dbd80b16898801b8ed2335964c9d0cf7ca45a00d5c59",
+  "nota": "RH nomina-pagada v2 (revision Codex): candado por semana + existencia/permisos dentro de la transaccion, diferencias por persona y concepto (no solo totales), version anterior conservada en rh.nomina_pagada_version; panel: si falla el historico se bloquea el calculo (no cae al motor). issue #12",
+  "fecha": "2026-11-06T19:13:14.593Z",
   "autor": "alex",
-  "archivos": 4,
+  "archivos": 2,
   "reinicio": true,
   "pausado": false
 }
