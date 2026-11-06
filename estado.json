@@ -1,10 +1,10 @@
 {
-  "paquete": "p-261105-1946-a27f",
-  "sha256": "d7b94958b1bbfd1f125bdc5197b5028669083cad4ef19919484afdd08dd036bc",
-  "nota": "Aprobaciones: el campo de PRECIO (decimal) ya no se valida como bolsas enteras (NaN a NaN); acepta decimales",
-  "fecha": "2026-11-06T01:46:58.433Z",
-  "autor": "alex_",
-  "archivos": 1,
-  "reinicio": false,
+  "paquete": "p-261106-1013-2d4d",
+  "sha256": "8892ec4d93a5251683766ab9a611888370de1e30800c087f5340e43f9a3d3c80",
+  "nota": "Reportes: periodo Semana (p=AAAA-Wnn, numero de semana como la hoja de nominas) en reportes-lib + selector en reportes.html; reporte Nomina con tabla Departamento x Semana (1 a 16 semanas). Semana 44 ya cargada. Pedido de Mikey 2026-11-06 · issue #11",
+  "fecha": "2026-11-06T16:13:22.183Z",
+  "autor": "alex",
+  "archivos": 3,
+  "reinicio": true,
   "pausado": false
 }
